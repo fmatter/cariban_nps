@@ -2,27 +2,6 @@
 
 # Positives
 
-## Hixkaryána
-
--   *nuxe* is separated from *mokro* by the phrasal clitic *rma*:
-
-> (derbyshire-1965-p-023-the-origin-of-the-moon-024) Hixkaryána
-> <pre>
-> <i>Nuxe=rma mokro raheno=ha, kekonï=hatï, wosï.</i>  
-> nuxe          rma   mokro  r-ahe-no        ha      0-ke-konï      hatï  wosï  
-> 1:yngr.sblng  Same  3AnMd  1O-seduce-IPst  Intens  3Sa-say-DPst2  Hrsy  woman  
-> ‘"My younger brother (is) the one (who) seduced me," said the woman.’</pre>
-
--   N Ptc N Ptc:
-
-> (derbyshire-1965-p-030-the-origins-of-the-buzzard-the-sloth-and-the-land-turtle-067)
-> Hixkaryána
-> <pre>
-> <i>A..., onokna=rma kana=heno yehtoko=hatï.</i>  
-> a    onokn     rma   kana  heno   y-eh-0-toko         hatï  
-> ah!  creature  Same  fish  Quant  Rel-Cop-Nzr-Simult  Hrsy  
-> ‘Sound expressing, surprise, (at the) creatures, when their being so many fish.’</pre>
-
 ## Tiriyó
 
 -   DEM V S:
@@ -43,15 +22,6 @@
 > 3InAna-Pst  from  tree  T-hole-Having-Ent  from  Pst-Sa-Detr-take.out-Pst  owl.sp  
 > ‘Then from the tree with a whole came, an owl,  ’</pre>
 
--   *irë hkasaan kurano*:
-
-> (dados-09-kereramake-p-041-269) Tiriyó
-> <pre>
-> <i>(Ape) Neejan mono kanawa tïïkae, irë=hkaasan kurano,</i>  
-> Ape  n-ee-ja-n          mono  kanawa  tï-V:-ka-e      irë     hkaasan  kura-no  
-> Ape  3Sa-come-Pres-Dbt  big   canoe   Pst-Sa-say-Pst  3InAna  instead  good-Ent  
-> ‘(Ape) 'A big canoe is coming', (she) said, 'that is good (= i.e. not the one you have),'’</pre>
-
 -   DEM V S:
 
 > (dados-09-kereramake-p-043-278) Tiriyó
@@ -69,6 +39,15 @@
 > Ape  ëwë    0-aamuurë-too  me   mëërë  ja   kaikë  ja  
 > Ape  later  3-harass-Circ  Ess  3AnMd  Agt  fox    Agt  
 > ‘(Ape) (They were) later to be harassed by the fox.’</pre>
+
+-   \[*mëesamo inëërë*\] \[*përëru ton*\]:
+
+> (dados-07-frog-story-marciano-p-093-096) Tiriyó
+> <pre>
+> <i>Mëesamo=inëërë përëru=ton tïwëtakaase=ken,</i>  
+> mëesamo  inëërë  përëru   ton  tï-w-ët-akaa-se               ken  
+> 3AnPxCl  really  toad.sp  Col  Pst-Sa-Detr-put.in.order-Pst  Cont  
+> ‘It's them, the frogs, they're forming a line,  ’</pre>
 
 -   *nërë rë tamutupë*:
 
@@ -151,28 +130,28 @@
 > 3-wife  Pst-eat.meat-Caus-Pst  fox    Agt  3-bathe  Pst-eat.meat-Pst  3AnAna-Pst  
 > ‘Përëpërëwa's mother had his (= Përëpërëwa's) wife be eaten by the fox, the fox ate his (= Përëpërëwa's) going.’</pre>
 
-# Unclear
-
 ## Hixkaryána
 
--   not clear what *mokï* is doing:
+-   *nuxe* is separated from *mokro* by the phrasal clitic *rma*:
 
-> (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
+> (derbyshire-1965-p-023-the-origin-of-the-moon-024) Hixkaryána
 > <pre>
-> <i>Oske kanye mokï nexeye ahakheno.</i>  
-> oske  ka-nye  mokï   n-exe-ye       ahakheno  
-> thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
-> ‘My late father was the one, the one who said it thus.’</pre>
+> <i>Nuxe=rma mokro raheno=ha, kekonï=hatï, wosï.</i>  
+> nuxe          rma   mokro  r-ahe-no        ha      0-ke-konï      hatï  wosï  
+> 1:yngr.sblng  Same  3AnMd  1O-seduce-IPst  Intens  3Sa-say-DPst2  Hrsy  woman  
+> ‘"My younger brother (is) the one (who) seduced me," said the woman.’</pre>
 
--   A + LK-N?:
+-   N Ptc N Ptc:
 
-> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-006)
+> (derbyshire-1965-p-030-the-origins-of-the-buzzard-the-sloth-and-the-land-turtle-067)
 > Hixkaryána
 > <pre>
-> <i>Kamïmï thatawo, ïto yohï nehxakonï.</i>  
-> kamïmï  thatawo  ïto    y-ohï      n-eh-xakonï  
-> sun     upright  there  Rel-chief  3Sa-Cop-DPst2  
-> ‘The sun was standing, the ruler there (i.e. the sun remained high in the sky, as at mid-day).’</pre>
+> <i>A..., onokna=rma kana=heno yehtoko=hatï.</i>  
+> a    onokn     rma   kana  heno   y-eh-0-toko         hatï  
+> ah!  creature  Same  fish  Quant  Rel-Cop-Nzr-Simult  Hrsy  
+> ‘Sound expressing, surprise, (at the) creatures, when their being so many fish.’</pre>
+
+# Unclear
 
 ## Tiriyó
 
@@ -193,16 +172,6 @@
 > Ape  nërë    ma    menjatoro     serë   rë    wei  
 > Ape  3AnAna  Attn  one.from.now  3InPx  Idtf  day  
 > ‘(Ape) He, well, today's people, this day...’</pre>
-
--   Adjacent coreferential NPs \[*mëesamo inëërë*\] and \[*përëru
-    ton*\]?:
-
-> (dados-07-frog-story-marciano-p-093-096) Tiriyó
-> <pre>
-> <i>Mëesamo=inëërë përëru=ton tïwëtakaase=ken,</i>  
-> mëesamo  inëërë  përëru   ton  tï-w-ët-akaa-se               ken  
-> 3AnPxCl  really  toad.sp  Col  Pst-Sa-Detr-put.in.order-Pst  Cont  
-> ‘It's them, the frogs, they're forming a line,  ’</pre>
 
 -   Maybe disfluent?:
 
@@ -231,7 +200,139 @@
 > Nasau  1A-trade-I.Pst  3InAna  foreigner   Col  3-meat.food  but      1+2-meat.food  P.col  Desid  only    Frus  1Sa-Cop-I.Pst  3InAna  Desid  1Sa-Cop-I.Pst  
 > ‘(Nasau) I've already sold/given it as meat for the foreigners, but I want (another cow) for our food, that's what I want.’</pre>
 
+## Hixkaryána
+
+-   not clear what *mokï* is doing:
+
+> (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
+> <pre>
+> <i>Oske kanye mokï nexeye ahakheno.</i>  
+> oske  ka-nye  mokï   n-exe-ye       ahakheno  
+> thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
+> ‘My late father was the one, the one who said it thus.’</pre>
+
+-   A + LK-N?:
+
+> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-006)
+> Hixkaryána
+> <pre>
+> <i>Kamïmï thatawo, ïto yohï nehxakonï.</i>  
+> kamïmï  thatawo  ïto    y-ohï      n-eh-xakonï  
+> sun     upright  there  Rel-chief  3Sa-Cop-DPst2  
+> ‘The sun was standing, the ruler there (i.e. the sun remained high in the sky, as at mid-day).’</pre>
+
 # Others
+
+## Tiriyó
+
+-   Actually two clauses.:
+
+> (dados-07-frog-story-marciano-p-093-094) Tiriyó
+> <pre>
+> <i>Mëe=ja tïtomekae entupisi=ja përëru tïtomekae</i>  
+> mëe    ja   tï-tomeka-e   0-entu-pisi  ja   përëru   tï-tomeka-e  
+> 3AnPx  Agt  Pst-get?-Pst  3-owner-Dim  Agt  toad.sp  Pst-get?-Pst  
+> ‘He took it, his little owner took the frog’</pre>
+
+-   Rare “NP” (with personal name):
+
+> (dados-09-kereramake-p-033-075) Tiriyó
+> <pre>
+> <i>(Ape) Ma, kiiponoojati Përëpërëwa kïtamuu=kon,</i>  
+> Ape  ma    kii-ponoo-ja-ti     Përëpërëwa  kï-tamu-V:        kon  
+> Ape  Attn  1+2A-tell-Pres-Col  Përëpërëwa  1+2-grandpa-Psfx  P.col  
+> ‘(Ape) Well, we are telling (the story of) Përëpërëwa our ancestor,  ’</pre>
+
+-   Rare “NP” (with personal name):
+
+> (dados-09-kereramake-p-033-077) Tiriyó
+> <pre>
+> <i>(Ape) iwëtïrïhpë nërë kïtamuu=kon, Përëpërëwa.</i>  
+> Ape  i-w-ëtï-rï-0-hpë        nërë    kï-tamu-V:        kon    Përëpërëwa  
+> Ape  3-Sa-Detr-make-G-P.pst  3AnAna  1+2-grandpa-Psfx  P.col  Përëpërëwa  
+> ‘(Ape) he is the one who made himself, our ancestor, Përëpërëwa.  ’</pre>
+
+-   Is the second clause NVP?:
+
+> (dados-09-kereramake-p-041-269) Tiriyó
+> <pre>
+> <i>(Ape) Neejan mono kanawa tïïkae, irë=hkaasan kurano,</i>  
+> Ape  n-ee-ja-n          mono  kanawa  tï-V:-ka-e      irë     hkaasan  kura-no  
+> Ape  3Sa-come-Pres-Dbt  big   canoe   Pst-Sa-say-Pst  3InAna  instead  good-Ent  
+> ‘(Ape) 'A big canoe is coming', (she) said, 'that is good (= i.e. not the one you have),'’</pre>
+
+-   *tuna mono juuwë*, N N POSTP!:
+
+> (dados-09-kereramake-p-041-270) Tiriyó
+> <pre>
+> <i>(Ape) sen=nai... tuna mono juuwë iitën=mahtao, nemanakan tïïkae.</i>  
+> Ape  sen    n-ai     tuna   mono  juuwë  i-V:-të-0-n  mahtao  n-e-manaka-0-n          tï-V:-ka-e  
+> Ape  3InPx  3Sa-Cop  water  big   on     3-Sa-go-G-?  when    3Sa-Detr-roll-Pres-Dbt  Pst-Sa-say-Pst  
+> ‘(Ape) 'This one is... when it's on a big river, it turns,' (she) said.’</pre>
+
+-   Good illustration of the importance of commas.:
+
+> (dados-09-kereramake-p-047-374) Tiriyó
+> <pre>
+> <i>(Ape) Irë=mao tënepiitae, mëërë=ja turëe, werekeru=ja.</i>  
+> Ape  irë     mao      t-ënepiita-e      mëërë  ja   t-urë-e          werekeru     ja  
+> Ape  3InAna  at.time  Pst-be.bored-Pst  3AnMd  Agt  Pst-talk.to-Pst  parakeet.sp  Agt  
+> ‘(Ape) Then he became tired of it, and that one talked to him, werekeru.’</pre>
+
+-   Another good illustration of the importance of commas – the two
+    distinct clauses have none in between.:
+
+> (dados-09-kereramake-p-049-387) Tiriyó
+> <pre>
+> <i>(Ape) Mëe inë ënmuku ëenuumane=npa tïïkae, mërë innapï apëhkë irëme, tïrëe iija, toron.</i>  
+> Ape  mëe    0-inë-0          ë-nmuku-0   ë-enuuma-ne  npa  tï-V:-ka-e      mërë   i-nnapï       0-apëh-kë    irëme  tï-rë-e       i-:ja  toron  
+> Ape  3AnPx  3-abandon-Imper  2-son-Psfx  2-disturb-A  ?    Pst-Sa-say-Pst  3InMd  3-fruit.food  3-get-Imper  so     Pst-make-Pst  3-Agt  put  
+> ‘(Ape) 'Leave this one here, your son, he would disturb you,' he said, 'get that, his food', then, he put it (down), /toron/.’</pre>
+
+-   DEM NP *se*!:
+
+> (data-01-yakari-01-p-127-025) Tiriyó
+> <pre>
+> <i>ma, mëe wëri=se=wae, wïkane,</i>  
+> ma    mëe    wëri   se     w-a-e        wï-ka-ne  
+> Attn  3AnPx  woman  Desid  1Sa-Cop-Cty  1Sa-say-DPst  
+> ‘'well, I want this woman,' I said,  ’</pre>
+
+-   *mërë po* ‘here’?:
+
+> (minidisc-xxx-mukusa-nasau-sep-2000-061) Tiriyó
+> <pre>
+> <i>(Nasau) Mërë=po ipataa=pona=rë.</i>  
+> …  mërë   po   i-pata-V:     pona  rë  
+> …  3InMd  Loc  3-place-Psfx  Dir   Idtf  
+> ‘(Nasau) There, (bring it) to its place (= to the butcher's).’</pre>
+
+-   DEM NP POSTP!:
+
+> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-020) Tiriyó
+> <pre>
+> <i>Ëwë serë akoron=tao, mono=me nëturutan tarëno.</i>  
+> ëwë    serë   0-akoron  tao  mono  me   n-ëturu-ta-n      tarëno  
+> later  3InPx  3-other   Loc  big   Ess  3Sa-talk-Fut-Dbt  Tiriyó  
+> ‘'Later the other one like this (= meeting), the Tiriyó/Indians will talk a lot.'’</pre>
+
+-   pssr pssm part:
+
+> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-039) Tiriyó
+> <pre>
+> <i>(Nasau) Mararija epi=ton=pë, tïwërëno=ro kïnëturu, tïpataa=pë,</i>  
+> …  mararija  0-epi       ton  pë     tïwërë-no  ro    kïn-ëturu   tï-pata-V:       pë  
+> …  malaria   3-medicine  Col  about  other-Ent  Idtf  3Dpst-talk  3r-village-Psfx  about  
+> ‘About malaria medicine(s), another (person) talked, about his/her own village,  ’</pre>
+
+-   Interesting example of optional *ja*?:
+
+> (rautschert-bd-3352-1964-erzahlungen-02-story-of-soni-001) Tiriyó
+> <pre>
+> <i>Soni, Soni ipo tïjahkae, injo ja.</i>  
+> soni        soni        i-po       tï-jah-ka-e        i-njo      ja  
+> vulture.sp  vulture.sp  3-clothes  Pst-burn-Trzr-Pst  3-husband  Agt  
+> ‘Soni, her husband burned her clothes.’</pre>
 
 ## Hixkaryána
 
@@ -282,132 +383,6 @@
 > field   1+2A-burn-Tvzr-Hort  3Sa-say-DPst2:Col  Hrsy  3-Dat  3AnAna  Dead  Dat  sloth.sp  Dead  Dat  Intens  
 > ‘"Let us burn it, the field," they said to him, to that one, to the sloth.’</pre>
 
-## Tiriyó
-
--   Actually two clauses.:
-
-> (dados-07-frog-story-marciano-p-093-094) Tiriyó
-> <pre>
-> <i>Mëe=ja tïtomekae entupisi=ja përëru tïtomekae</i>  
-> mëe    ja   tï-tomeka-e   0-entu-pisi  ja   përëru   tï-tomeka-e  
-> 3AnPx  Agt  Pst-get?-Pst  3-owner-Dim  Agt  toad.sp  Pst-get?-Pst  
-> ‘He took it, his little owner took the frog’</pre>
-
--   Rare “NP” (with personal name):
-
-> (dados-09-kereramake-p-033-075) Tiriyó
-> <pre>
-> <i>(Ape) Ma, kiiponoojati Përëpërëwa kïtamuu=kon,</i>  
-> Ape  ma    kii-ponoo-ja-ti     Përëpërëwa  kï-tamu-V:        kon  
-> Ape  Attn  1+2A-tell-Pres-Col  Përëpërëwa  1+2-grandpa-Psfx  P.col  
-> ‘(Ape) Well, we are telling (the story of) Përëpërëwa our ancestor,  ’</pre>
-
--   Rare “NP” (with personal name):
-
-> (dados-09-kereramake-p-033-077) Tiriyó
-> <pre>
-> <i>(Ape) iwëtïrïhpë nërë kïtamuu=kon, Përëpërëwa.</i>  
-> Ape  i-w-ëtï-rï-0-hpë        nërë    kï-tamu-V:        kon    Përëpërëwa  
-> Ape  3-Sa-Detr-make-G-P.pst  3AnAna  1+2-grandpa-Psfx  P.col  Përëpërëwa  
-> ‘(Ape) he is the one who made himself, our ancestor, Përëpërëwa.  ’</pre>
-
--   *tuna mono juuwë*, N N POSTP!:
-
-> (dados-09-kereramake-p-041-270) Tiriyó
-> <pre>
-> <i>(Ape) sen=nai... tuna mono juuwë iitën=mahtao, nemanakan tïïkae.</i>  
-> Ape  sen    n-ai     tuna   mono  juuwë  i-V:-të-0-n  mahtao  n-e-manaka-0-n          tï-V:-ka-e  
-> Ape  3InPx  3Sa-Cop  water  big   on     3-Sa-go-G-?  when    3Sa-Detr-roll-Pres-Dbt  Pst-Sa-say-Pst  
-> ‘(Ape) 'This one is... when it's on a big river, it turns,' (she) said.’</pre>
-
--   Good illustration of the importance of commas.:
-
-> (dados-09-kereramake-p-047-374) Tiriyó
-> <pre>
-> <i>(Ape) Irë=mao tënepiitae, mëërë=ja turëe, werekeru=ja.</i>  
-> Ape  irë     mao      t-ënepiita-e      mëërë  ja   t-urë-e          werekeru     ja  
-> Ape  3InAna  at.time  Pst-be.bored-Pst  3AnMd  Agt  Pst-talk.to-Pst  parakeet.sp  Agt  
-> ‘(Ape) Then he became tired of it, and that one talked to him, werekeru.’</pre>
-
--   Another good illustration of the importance of commas – the two
-    distinct clauses have none in between.:
-
-> (dados-09-kereramake-p-049-387) Tiriyó
-> <pre>
-> <i>(Ape) Mëe inë ënmuku ëenuumane=npa tïïkae, mërë innapï apëhkë irëme, tïrëe iija, toron.</i>  
-> Ape  mëe    0-inë-0          ë-nmuku-0   ë-enuuma-ne  npa  tï-V:-ka-e      mërë   i-nnapï       0-apëh-kë    irëme  tï-rë-e       i-:ja  toron  
-> Ape  3AnPx  3-abandon-Imper  2-son-Psfx  2-disturb-A  ?    Pst-Sa-say-Pst  3InMd  3-fruit.food  3-get-Imper  so     Pst-make-Pst  3-Agt  put  
-> ‘(Ape) 'Leave this one here, your son, he would disturb you,' he said, 'get that, his food', then, he put it (down), /toron/.’</pre>
-
--   *mërë po* ‘here’?:
-
-> (minidisc-xxx-mukusa-nasau-sep-2000-061) Tiriyó
-> <pre>
-> <i>(Nasau) Mërë=po ipataa=pona=rë.</i>  
-> …  mërë   po   i-pata-V:     pona  rë  
-> …  3InMd  Loc  3-place-Psfx  Dir   Idtf  
-> ‘(Nasau) There, (bring it) to its place (= to the butcher's).’</pre>
-
--   Interesting example of optional *ja*?:
-
-> (rautschert-bd-3352-1964-erzahlungen-02-story-of-soni-001) Tiriyó
-> <pre>
-> <i>Soni, Soni ipo tïjahkae, injo ja.</i>  
-> soni        soni        i-po       tï-jah-ka-e        i-njo      ja  
-> vulture.sp  vulture.sp  3-clothes  Pst-burn-Trzr-Pst  3-husband  Agt  
-> ‘Soni, her husband burned her clothes.’</pre>
-
 # NPs
-
-## Tiriyó
-
-> (dados-09-kereramake-p-043-304) Tiriyó
-> <pre>
-> <i>(Ape) Ohkë tïïkae ohkë nari=ke=ta ehkë ëtamïïsewa serë wëitapi tïïkae.</i>  
-> Ape  oh-kë       tï-V:-ka-e      oh-kë       nari  ke    ta   eh-kë      ët-amïï-sewa    serë   wëitapi  tï-V:-ka-e  
-> Ape  come-Imper  Pst-Sa-say-Pst  come-Imper  fear  Inst  Neg  Cop-Imper  Detr-break-Neg  3InPx  hammock  Pst-Sa-say-Pst  
-> ‘(Ape) 'Come,' (she) said, 'come, don't be afraid, this won't break/snap, the hammock,' (she) said.  ’</pre>
-
-> (dados-09-kereramake-p-047-354) Tiriyó
-> <pre>
-> <i>(Ape) Eeke=nai mëe jipïtï? tïïkae sera, atïtoome=nai mïra ijomirï? tïïkae.</i>  
-> Ape  eeke  n-ai     mëe    ji-pïtï  tï-V:-ka-e      sera       atïtoome  n-ai     mïra       i-jomi-rï    tï-V:-ka-e  
-> Ape  how   3Sa-Cop  3AnPx  1-wife   Pst-Sa-say-Pst  like.this  why       3Sa-Cop  like.that  3-talk-Psfx  Pst-Sa-say-Pst  
-> ‘(Ape) 'How is my wife?' (= 'What's with her?') he said, like this, 'why is her talk like that?' (= 'why is she talking funny?'), he said.  ’</pre>
-
-> (dados-09-kereramake-p-051-442) Tiriyó
-> <pre>
-> <i>(Ape) Irëme aerën=me tïïtëe, mono tuna, teese, nkan=to, tïponopï, </i>  
-> Ape  irëme  aerë-n    me   tï-V:-të-e     mono  tuna   t-0-ee-se       n-ka-0-n          to   tï-ponopï-0  
-> Ape  so     true-Ent  Ess  Pst-Sa-go-Pst  big   water  Pst-Sa-Cop-Pst  3Sa-say-Pres-Dbt  3pl  Nzr-tell-G  
-> ‘(Ape) Then he really went, the river was high, they say.’</pre>
-
-> (dados-09-kereramake-p-051-443) Tiriyó
-> <pre>
-> <i>(Ape) teese tuna mono teese irë=mao=rë, waraku eeku mono, mono tuna teese kato tïponopï serë,</i>  
-> Ape  t-0-ee-se       tuna   mono  t-0-ee-se       irë     mao      rë    waraku   0-eeku    mono  mono  tuna   t-0-ee-se       ka-to     tï-ponopï-0  serë  
-> Ape  Pst-Sa-Cop-Pst  water  big   Pst-Sa-Cop-Pst  3InAna  at.time  Idtf  fish.sp  3-stream  big   big   water  Pst-Sa-Cop-Pst  say-Circ  Nzr-tell-G   3InPx  
-> ‘(Ape) the river had become big, at that time, Waraku's river was big, the river had risen, this is the telling,’</pre>
-
-> (data-01-yakari-01-p-127-025) Tiriyó
-> <pre>
-> <i>ma, mëe wëri=se=wae, wïkane,</i>  
-> ma    mëe    wëri   se     w-a-e        wï-ka-ne  
-> Attn  3AnPx  woman  Desid  1Sa-Cop-Cty  1Sa-say-DPst  
-> ‘'well, I want this woman,' I said,  ’</pre>
-
-> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-020) Tiriyó
-> <pre>
-> <i>Ëwë serë akoron=tao, mono=me nëturutan tarëno.</i>  
-> ëwë    serë   0-akoron  tao  mono  me   n-ëturu-ta-n      tarëno  
-> later  3InPx  3-other   Loc  big   Ess  3Sa-talk-Fut-Dbt  Tiriyó  
-> ‘'Later the other one like this (= meeting), the Tiriyó/Indians will talk a lot.'’</pre>
-
-> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-039) Tiriyó
-> <pre>
-> <i>(Nasau) Mararija epi=ton=pë, tïwërëno=ro kïnëturu, tïpataa=pë,</i>  
-> …  mararija  0-epi       ton  pë     tïwërë-no  ro    kïn-ëturu   tï-pata-V:       pë  
-> …  malaria   3-medicine  Col  about  other-Ent  Idtf  3Dpst-talk  3r-village-Psfx  about  
-> ‘About malaria medicine(s), another (person) talked, about his/her own village,  ’</pre>
 
 # References
