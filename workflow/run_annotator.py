@@ -59,11 +59,13 @@ print(
 
 new_info = []
 for i, rec in unannotated.iterrows():
+    if rec.name > 999:
+        continue
+    print_record(rec)
     if not rec["Candidate"]:
         new_info.append({"ID": rec["ID"], "Value": "n", "Pre_Screened": "y"})
     else:
-        print_record(rec)
-        choices = ["No", "Yes!", "Particle", "Postposition", "A nice NP", "It's complicated", "I want out"]
+        choices = ["No", "Yes!", "Particle", "Postposition", "A nice 'NP'", "It's complicated", "I want out"]
         answer = questionary.rawselect("Any discontinuous NP?", choices=choices).ask()
         if answer == choices[0]:
             new_info.append({"ID": rec["ID"], "Value": "n"})
@@ -74,10 +76,14 @@ for i, rec in unannotated.iterrows():
         elif answer == choices[3]:
             new_info.append({"ID": rec["ID"], "Value": "posp"})
         elif answer == choices[4]:
-            new_info.append({"ID": rec["ID"], "Value": "n", "Comment": "NP"})
+            new_info.append({"ID": rec["ID"], "Value": "np"})
         elif answer == choices[5]:
             comment = questionary.text("What's the problem?").ask()
-            new_info.append({"ID": rec["ID"], "Value": "?", "Comment": comment})
+            if " / " in comment:
+                comment, value = comment.split(" / ")
+            else:
+                value = "?"
+            new_info.append({"ID": rec["ID"], "Value": value, "Comment": comment})
         elif answer == choices[6]:
             break
         print(
