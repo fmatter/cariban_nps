@@ -33,8 +33,11 @@ for lg in set(all_recs["Language_ID"]):
         )
     ]
     assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
-    print(positives)
-
+    print(lg)
+    print(f"{len(positives)}/{stats[lg]} records with positive tokens:")
+    print(positives["Syntactic_Role"].value_counts())
+    print("")
+    
     for o, t in [
         (positives, pos_overview),
         (questions, q_overview),

@@ -31,6 +31,7 @@ Name/Property | Datatype | Description
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 `Part_Of_Speech` | list of `string` (separated by `	`) | Parts of speech, aligned with Analyzed_Word
 `Discont_NP` | `string` | Are there non-adjacent, co-referential noun phrases?
+`Syntactic_Role` | `string` | Syntactic role of the 'NP'
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 

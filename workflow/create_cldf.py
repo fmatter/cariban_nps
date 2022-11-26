@@ -42,6 +42,12 @@ with CLDFWriter(
             "dc:description": "Are there non-adjacent, co-referential noun phrases?",
             "datatype": "string",
         },
+        {
+            "name": "Syntactic_Role",
+            "required": False,
+            "dc:description": "Syntactic role of the 'NP'",
+            "datatype": "string",
+        },
     )
     writer.cldf.add_component("LanguageTable")
     for lg, df in lg_records.items():
