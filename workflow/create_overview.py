@@ -18,7 +18,7 @@ res_overview = {}
 q_overview = {}
 
 
-for lg in set(all_recs["Language_ID"]):
+for lg, total in stats.items():
     for d in [pos_overview, np_overview, res_overview, q_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
@@ -35,7 +35,7 @@ for lg in set(all_recs["Language_ID"]):
     assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
 
     print(lg)
-    print(f"{len(positives)}/{stats[lg]} records with positive tokens:")
+    print(f"{len(positives)}/{total} records with positive tokens:")
     print(pd.crosstab(positives["Discont_NP"], positives["Syntactic_Role"]))
     print(positives["Syntactic_Role"].value_counts())
     print("")
@@ -75,4 +75,4 @@ try:
 except KeyError as e:
     print(f"Key not found: {e.args[0]}")
 preprocessed = postprocess(preprocessed, builder)
-builder.write_folder(output_dir=".", content=preprocessed, metadata={})
+builder.write_folder(output_dir=".", content=preprocessed, metadata={"title": "Overview of results", "version": "0.0.1", "author": "Florian Matter"})
