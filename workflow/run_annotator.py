@@ -39,7 +39,6 @@ else:
 
 df = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
 
-
 def screen_rec(rec):
     if rec["Part_Of_Speech"].count("N") > 1:
         return True

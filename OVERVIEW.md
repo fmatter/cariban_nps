@@ -2,6 +2,27 @@
 
 # Positives
 
+## Hixkaryána
+
+-   \[*nuxe rma*\] \[*mokro*\]:
+
+> (derbyshire-1965-p-023-the-origin-of-the-moon-024) Hixkaryána
+> <pre>
+> <i>Nuxe=rma mokro raheno=ha, kekonï=hatï, wosï.</i>  
+> nuxe          rma   mokro  r-ahe-no        ha      0-ke-konï      hatï  wosï  
+> 1:yngr.sblng  Same  3AnMd  1O-seduce-IPst  Intens  3Sa-say-DPst2  Hrsy  woman  
+> ‘"My younger brother (is) the one (who) seduced me," said the woman.’</pre>
+
+-   \[*onokna rma*\] \[*kana heno*\]:
+
+> (derbyshire-1965-p-030-the-origins-of-the-buzzard-the-sloth-and-the-land-turtle-067)
+> Hixkaryána
+> <pre>
+> <i>A..., onokna=rma kana=heno yehtoko=hatï.</i>  
+> a    onokn     rma   kana  heno   y-eh-0-toko         hatï  
+> ah!  creature  Same  fish  Quant  Rel-Cop-Nzr-Simult  Hrsy  
+> ‘Sound expressing, surprise, (at the) creatures, when their being so many fish.’</pre>
+
 ## Tiriyó
 
 -   \[*mëe*\] V \[okomo awekïï=ton\]:
@@ -123,55 +144,28 @@
 > Attn  so     1Sa-come-DPst  creek   along  1+3   3-stream-P.pst  ***  wh.In  3InAna  Kuruni  
 > ‘Well, then I came, along the creeks/tribuaries, our old river... what-do-you-call-it, the Kuruni (Coeroeni).  ’</pre>
 
--   \[*ipï*\] V \[*nërënpë*\] – *ipï* is ‘wife’:
-
-> (rautschert-bd-3352-1964-erzahlungen-03-story-of-kujuri-008) Tiriyó
-> <pre>
-> <i>Ipï tënëpoe, kaikë=ja ipï tënëe nërënpë.</i>  
-> i-pï    t-ënë-po-e             kaikë  ja   i-pï     t-ënë-e           nërë-npë  
-> 3-wife  Pst-eat.meat-Caus-Pst  fox    Agt  3-bathe  Pst-eat.meat-Pst  3AnAna-Pst  
-> ‘Përëpërëwa's mother had his (= Përëpërëwa's) wife be eaten by the fox, the fox ate his (= Përëpërëwa's) going.’</pre>
-
--   \[*serë*\] V \[*kïkeweju kon*\]:
-
-> (rautschert-bd-3352-1964-erzahlungen-09-clothes-long-ago-cont-004)
-> Tiriyó
-> <pre>
-> <i>Mërë tïkapïhpë iirïpï=me, tïkapïhpë rëken iirïpï=me kïkeweju=kon.</i>  
-> mërë   tï-kapï-0-hpë      i-:rïpï-0       me   tï-kapï-0-hpë      rëkene  i-:rïpï-0       me   kï-keweju          kon  
-> 3InMd  Gen-weave-G-P.pst  3-bad.one-Psfx  Ess  Gen-weave-G-P.pst  only    3-bad.one-Psfx  Ess  1+2-fem.loincloth  P.col  
-> ‘Those woven things (were) bad, only woven things, bad one(s), (were) our loincloths.’</pre>
-
-> (rautschert-bd-3352-1964-erzahlungen-09-clothes-long-ago-cont-005)
-> Tiriyó
-> <pre>
-> <i>Wa wïrïpë=me irë nna apon serë=mao=rëken serë tïwëese kïkeweju=kon.</i>  
-> waa  wïrïpë   me   irë     nna   apo-n     serë   mao      rëken  serë   tï-w-ëe-se       kï-keweju          kon  
-> not  bad.one  Ess  3InAna  thus  like-Ent  3InPx  at.time  only   3InPx  Pst-Sa-come-Pst  1+2-fem.loincloth  P.col  
-> ‘There wasn't, only bad (ones), llike that, only nowadays this (= loincloth made of cloth) came, our loincloths  ’</pre>
+# Unclear
 
 ## Hixkaryána
 
--   \[*nuxe rma*\] \[*mokro*\]:
+-   not clear what *mokï* is doing:
 
-> (derbyshire-1965-p-023-the-origin-of-the-moon-024) Hixkaryána
+> (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
 > <pre>
-> <i>Nuxe=rma mokro raheno=ha, kekonï=hatï, wosï.</i>  
-> nuxe          rma   mokro  r-ahe-no        ha      0-ke-konï      hatï  wosï  
-> 1:yngr.sblng  Same  3AnMd  1O-seduce-IPst  Intens  3Sa-say-DPst2  Hrsy  woman  
-> ‘"My younger brother (is) the one (who) seduced me," said the woman.’</pre>
+> <i>Oske kanye mokï nexeye ahakheno.</i>  
+> oske  ka-nye  mokï   n-exe-ye       ahakheno  
+> thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
+> ‘My late father was the one, the one who said it thus.’</pre>
 
--   \[*onokna rma*\] \[*kana heno*\]:
+-   A + LK-N?:
 
-> (derbyshire-1965-p-030-the-origins-of-the-buzzard-the-sloth-and-the-land-turtle-067)
+> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-006)
 > Hixkaryána
 > <pre>
-> <i>A..., onokna=rma kana=heno yehtoko=hatï.</i>  
-> a    onokn     rma   kana  heno   y-eh-0-toko         hatï  
-> ah!  creature  Same  fish  Quant  Rel-Cop-Nzr-Simult  Hrsy  
-> ‘Sound expressing, surprise, (at the) creatures, when their being so many fish.’</pre>
-
-# Unclear
+> <i>Kamïmï thatawo, ïto yohï nehxakonï.</i>  
+> kamïmï  thatawo  ïto    y-ohï      n-eh-xakonï  
+> sun     upright  there  Rel-chief  3Sa-Cop-DPst2  
+> ‘The sun was standing, the ruler there (i.e. the sun remained high in the sky, as at mid-day).’</pre>
 
 ## Tiriyó
 
@@ -220,28 +214,56 @@
 > Nasau  1A-trade-I.Pst  3InAna  foreigner   Col  3-meat.food  but      1+2-meat.food  P.col  Desid  only    Frus  1Sa-Cop-I.Pst  3InAna  Desid  1Sa-Cop-I.Pst  
 > ‘(Nasau) I've already sold/given it as meat for the foreigners, but I want (another cow) for our food, that's what I want.’</pre>
 
+# Others
+
 ## Hixkaryána
 
--   not clear what *mokï* is doing:
+-   formulaic:
 
-> (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
+> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-002)
+> Hixkaryána
+> <pre>
+> <i>Oske kanye mokï nexeye ahakheno.</i>  
+> oske  ka-nye  mokï   n-exe-ye       ahakheno  
+> thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
+> ‘My late father was the one, the one who told it thus.’</pre>
+
+-   nvp w/o copula:
+
+> (derbyshire-1965-p-024-the-origin-of-the-moon-029) Hixkaryána
+> <pre>
+> <i>Thenyenohnï=mak=hatï waywï.</i>  
+> thenyenohnï  mak     hatï  waywï  
+> many         Advers  Hrsy  arrow  
+> ‘The arrows (were) ones that were very many.’</pre>
+
+-   formulaic:
+
+> (derbyshire-1965-p-025-the-origin-of-the-moon-060) Hixkaryána
 > <pre>
 > <i>Oske kanye mokï nexeye ahakheno.</i>  
 > oske  ka-nye  mokï   n-exe-ye       ahakheno  
 > thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
 > ‘My late father was the one, the one who said it thus.’</pre>
 
--   A + LK-N?:
+-   nvp w/o copula:
 
-> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-006)
+> (derbyshire-1965-p-025-the-origin-of-the-moon-070) Hixkaryána
+> <pre>
+> <i>Oske ïtosaho=tï mokro.</i>  
+> oske  ï-to-saho       tï    mokro  
+> thus  Gen-go-Gen.O/S  Hrsy  3AnMd  
+> ‘He (is) the one who went like that.’</pre>
+
+-   Interesting increasing elaboration:
+
+> (derbyshire-1965-p-037-the-buzzard-people-and-their-servant-the-sloth-004)
 > Hixkaryána
 > <pre>
-> <i>Kamïmï thatawo, ïto yohï nehxakonï.</i>  
-> kamïmï  thatawo  ïto    y-ohï      n-eh-xakonï  
-> sun     upright  there  Rel-chief  3Sa-Cop-DPst2  
-> ‘The sun was standing, the ruler there (i.e. the sun remained high in the sky, as at mid-day).’</pre>
-
-# Others
+> <i>Mararï, taknyohnye, ketxkonï=hatï, ïwya, noro=heno=wya, xofrye=heno=wya=ha.</i>  
+> mararï  t-ak-nyoh-nye        0-ke-txkonï        hatï  ï-wya  noro    heno  wya  xofrye    heno  wya  ha  
+> field   1+2A-burn-Tvzr-Hort  3Sa-say-DPst2:Col  Hrsy  3-Dat  3AnAna  Dead  Dat  sloth.sp  Dead  Dat  Intens  
+> ‘"Let us burn it, the field," they said to him, to that one, to the sloth.’</pre>
 
 ## Tiriyó
 
@@ -344,64 +366,6 @@
 > …  mararija  0-epi       ton  pë     tïwërë-no  ro    kïn-ëturu   tï-pata-V:       pë  
 > …  malaria   3-medicine  Col  about  other-Ent  Idtf  3Dpst-talk  3r-village-Psfx  about  
 > ‘About malaria medicine(s), another (person) talked, about his/her own village,  ’</pre>
-
--   Interesting example of optional *ja*?:
-
-> (rautschert-bd-3352-1964-erzahlungen-02-story-of-soni-001) Tiriyó
-> <pre>
-> <i>Soni, Soni ipo tïjahkae, injo ja.</i>  
-> soni        soni        i-po       tï-jah-ka-e        i-njo      ja  
-> vulture.sp  vulture.sp  3-clothes  Pst-burn-Trzr-Pst  3-husband  Agt  
-> ‘Soni, her husband burned her clothes.’</pre>
-
-## Hixkaryána
-
--   formulaic:
-
-> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-002)
-> Hixkaryána
-> <pre>
-> <i>Oske kanye mokï nexeye ahakheno.</i>  
-> oske  ka-nye  mokï   n-exe-ye       ahakheno  
-> thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
-> ‘My late father was the one, the one who told it thus.’</pre>
-
--   nvp w/o copula:
-
-> (derbyshire-1965-p-024-the-origin-of-the-moon-029) Hixkaryána
-> <pre>
-> <i>Thenyenohnï=mak=hatï waywï.</i>  
-> thenyenohnï  mak     hatï  waywï  
-> many         Advers  Hrsy  arrow  
-> ‘The arrows (were) ones that were very many.’</pre>
-
--   formulaic:
-
-> (derbyshire-1965-p-025-the-origin-of-the-moon-060) Hixkaryána
-> <pre>
-> <i>Oske kanye mokï nexeye ahakheno.</i>  
-> oske  ka-nye  mokï   n-exe-ye       ahakheno  
-> thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
-> ‘My late father was the one, the one who said it thus.’</pre>
-
--   nvp w/o copula:
-
-> (derbyshire-1965-p-025-the-origin-of-the-moon-070) Hixkaryána
-> <pre>
-> <i>Oske ïtosaho=tï mokro.</i>  
-> oske  ï-to-saho       tï    mokro  
-> thus  Gen-go-Gen.O/S  Hrsy  3AnMd  
-> ‘He (is) the one who went like that.’</pre>
-
--   Interesting increasing elaboration:
-
-> (derbyshire-1965-p-037-the-buzzard-people-and-their-servant-the-sloth-004)
-> Hixkaryána
-> <pre>
-> <i>Mararï, taknyohnye, ketxkonï=hatï, ïwya, noro=heno=wya, xofrye=heno=wya=ha.</i>  
-> mararï  t-ak-nyoh-nye        0-ke-txkonï        hatï  ï-wya  noro    heno  wya  xofrye    heno  wya  ha  
-> field   1+2A-burn-Tvzr-Hort  3Sa-say-DPst2:Col  Hrsy  3-Dat  3AnAna  Dead  Dat  sloth.sp  Dead  Dat  Intens  
-> ‘"Let us burn it, the field," they said to him, to that one, to the sloth.’</pre>
 
 # NPs
 
