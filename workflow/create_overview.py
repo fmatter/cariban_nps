@@ -23,7 +23,7 @@ for lg in set(all_recs["Language_ID"]):
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
     positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
-    nps = recs[(recs["Discont_NP"] == "n") & (recs["Comment"] == "NP")]
+    nps = recs[(recs["Discont_NP"] == "np")]
     questions = recs[recs["Discont_NP"] == "?"]
     residue = recs[
         ~(
@@ -33,6 +33,7 @@ for lg in set(all_recs["Language_ID"]):
         )
     ]
     assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
+
     print(lg)
     print(f"{len(positives)}/{stats[lg]} records with positive tokens:")
     print(pd.crosstab(positives["Discont_NP"], positives["Syntactic_Role"]))
