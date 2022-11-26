@@ -1,0 +1,28 @@
+{
+    "Example": [
+        {
+            "id": "dados-07-frog-story-marciano-p-093-094",
+            "content": [
+                "ex:dados-07-frog-story-marciano-p-093-094 m\u00ebe ja t\u00ef-tomeka-e 0-entu-pisi ja p\u00ebr\u00ebru t\u00ef-tomeka-e\n\u2018He took it, his little owner took the frog\u2019",
+                "[ex](dados-07-frog-story-marciano-p-093-094)"
+            ]
+        },
+        {
+            "id": "dados-09-kereramake-p-043-278",
+            "content": [
+                "ex:dados-09-kereramake-p-043-278 Ape w\u00eb\u00ebn m\u00eb\u00ebr\u00eb t-V:-etainka-e tamutup\u00eb\n\u2018(Ape) /w\u00eb\u00ebn/... that one ran, the old man (= i.e. P\u00ebr\u00ebp\u00ebr\u00ebwa).  \u2019",
+                "[ex](dados-09-kereramake-p-043-278)"
+            ]
+        }
+    ],
+    "Language": [
+        {
+            "id": "tri",
+            "content": [
+                "lg:Tiriy\u00f3",
+                "[lg](tri)"
+            ]
+        }
+    ],
+    "Source": []
+}
