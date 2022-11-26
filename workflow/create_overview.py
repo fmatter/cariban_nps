@@ -48,7 +48,7 @@ for lg in set(all_recs["Language_ID"]):
             comm_str = ""
             if rec["Comment"] != "" and t is not np_overview:
                 comm_str = f"""* {rec["Comment"]}:\n"""
-            t[lg].append(f"""{comm_str}[ex]({rec["ID"]})""")
+            t[lg].append(f"""{comm_str}[ex]({rec["ID"]}?with_primaryText)""")
 
 overview = []
 for title, dic in {
