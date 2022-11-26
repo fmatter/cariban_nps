@@ -63,18 +63,22 @@ for i, rec in unannotated.iterrows():
         new_info.append({"ID": rec["ID"], "Value": "n", "Pre_Screened": "y"})
     else:
         print_record(rec)
-        choices = ["No", "Yes!", "A nice NP", "It's complicated", "I want out"]
+        choices = ["No", "Yes!", "Particle", "Postposition", "A nice NP", "It's complicated", "I want out"]
         answer = questionary.rawselect("Any discontinuous NP?", choices=choices).ask()
         if answer == choices[0]:
             new_info.append({"ID": rec["ID"], "Value": "n"})
         elif answer == choices[1]:
             new_info.append({"ID": rec["ID"], "Value": "y"})
         elif answer == choices[2]:
-            new_info.append({"ID": rec["ID"], "Value": "n", "Comment": "NP"})
+            new_info.append({"ID": rec["ID"], "Value": "part"})
         elif answer == choices[3]:
+            new_info.append({"ID": rec["ID"], "Value": "posp"})
+        elif answer == choices[4]:
+            new_info.append({"ID": rec["ID"], "Value": "n", "Comment": "NP"})
+        elif answer == choices[5]:
             comment = questionary.text("What's the problem?").ask()
             new_info.append({"ID": rec["ID"], "Value": "?", "Comment": comment})
-        elif answer == choices[4]:
+        elif answer == choices[6]:
             break
         print(
             "----------------------------------------------------------------------------"

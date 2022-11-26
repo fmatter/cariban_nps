@@ -2,7 +2,7 @@ import pandas as pd
 from pylingdocs.preprocessing import postprocess
 from pylingdocs.preprocessing import preprocess
 from pylingdocs.preprocessing import render_markdown
-from pylingdocs.output import HTML
+from pylingdocs.output import HTML, GitHub
 from pycldf import Dataset
 import json
 
@@ -22,7 +22,7 @@ for lg in set(all_recs["Language_ID"]):
     for d in [pos_overview, np_overview, res_overview, q_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
-    positives = recs[recs["Discont_NP"] == "y"]
+    positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
     nps = recs[(recs["Discont_NP"] == "n") & (recs["Comment"] == "NP")]
     questions = recs[recs["Discont_NP"] == "?"]
     residue = recs[
@@ -35,9 +35,9 @@ for lg in set(all_recs["Language_ID"]):
     assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
     print(lg)
     print(f"{len(positives)}/{stats[lg]} records with positive tokens:")
+    print(pd.crosstab(positives["Discont_NP"], positives["Syntactic_Role"]))
     print(positives["Syntactic_Role"].value_counts())
     print("")
-    
     for o, t in [
         (positives, pos_overview),
         (questions, q_overview),
@@ -64,13 +64,14 @@ for title, dic in {
         overview.append(f"## [lg]({lg})")
         overview.extend(data)
 
+builder = GitHub
 content = "\n".join(overview)
 preprocessed = preprocess(content)
-preprocessed = HTML.preprocess_commands(preprocessed)
-preprocessed += "\n\n" + HTML.reference_list()
+preprocessed = builder.preprocess_commands(preprocessed)
+preprocessed += "\n\n" + builder.reference_list()
 try:
-    preprocessed = render_markdown(preprocessed, ds, output_format=HTML.name)
+    preprocessed = render_markdown(preprocessed, ds, output_format=builder.name)
 except KeyError as e:
     print(f"Key not found: {e.args[0]}")
-preprocessed = postprocess(preprocessed, HTML)
-HTML.write_folder(output_dir=".", content=preprocessed, metadata={})
+preprocessed = postprocess(preprocessed, builder)
+builder.write_folder(output_dir=".", content=preprocessed, metadata={})

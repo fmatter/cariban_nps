@@ -58,6 +58,7 @@ with CLDFWriter(
             "Part_Of_Speech",
         ]:
             df[col] = df[col].apply(lambda x: x.split("\t"))
+            df[col] = df[col].apply(lambda x: [y if y else "…" for y  in x])
         for rec in df.to_dict("records"):
             writer.objects["ExampleTable"].append(rec)
         writer.objects["LanguageTable"].append(meta.get_lg(lg))
