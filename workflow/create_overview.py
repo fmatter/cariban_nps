@@ -75,4 +75,12 @@ try:
 except KeyError as e:
     print(f"Key not found: {e.args[0]}")
 preprocessed = postprocess(preprocessed, builder)
-builder.write_folder(output_dir=".", content=preprocessed, metadata={"title": "Overview of results", "version": "0.0.1", "author": "Florian Matter"})
+builder.write_folder(
+    output_dir=".",
+    content=preprocessed,
+    metadata={
+        "title": "Overview of results",
+        "version": "0.0.1",
+        "author": "Florian Matter",
+    },
+)
