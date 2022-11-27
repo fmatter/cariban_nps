@@ -39,6 +39,7 @@ else:
 
 df = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
 
+
 def screen_rec(rec):
     if rec["Part_Of_Speech"].count("N") > 1:
         return True
@@ -46,10 +47,13 @@ def screen_rec(rec):
         return True
     return False
 
+
 unannotated = df[~(df["ID"].isin(info["ID"]))]
 unannotated["Candidate"] = unannotated.apply(lambda x: screen_rec(x), axis=1)
 
-w_c = sum(df[(df["ID"].isin(info["ID"]))]["Analyzed_Word"].apply(lambda x: x.count("\t") + 1))
+w_c = sum(
+    df[(df["ID"].isin(info["ID"]))]["Analyzed_Word"].apply(lambda x: x.count("\t") + 1)
+)
 pre_elim = len(info[info["Pre_Screened"] == "y"])
 total_disc_count = info["Value"].value_counts().get("y", 0)
 print(
@@ -64,7 +68,15 @@ for i, rec in unannotated.iterrows():
     if not rec["Candidate"]:
         new_info.append({"ID": rec["ID"], "Value": "n", "Pre_Screened": "y"})
     else:
-        choices = ["No", "Yes!", "Particle", "Postposition", "A nice 'NP'", "It's complicated", "I want out"]
+        choices = [
+            "No",
+            "Yes!",
+            "Particle",
+            "Postposition",
+            "A nice 'NP'",
+            "It's complicated",
+            "I want out",
+        ]
         answer = questionary.rawselect("Any discontinuous NP?", choices=choices).ask()
         if answer == choices[0]:
             new_info.append({"ID": rec["ID"], "Value": "n"})
