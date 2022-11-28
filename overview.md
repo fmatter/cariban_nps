@@ -2,16 +2,16 @@
 
 Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 
-|      |     | obl | obl? |   s | All |
-|:-----|----:|----:|-----:|----:|----:|
-| part |   2 |   0 |    2 |   0 |   4 |
-| posp |   2 |   3 |    0 |   0 |   5 |
-| y    |   0 |   1 |    0 |   3 |   4 |
-| All  |   4 |   4 |    2 |   3 |  13 |
+|      |   ? |   a | obl | obl? |   s | All |
+|:-----|----:|----:|----:|-----:|----:|----:|
+| part |   1 |   0 |   0 |    2 |   1 |   4 |
+| posp |   1 |   1 |   3 |    0 |   0 |   5 |
+| y    |   0 |   0 |   1 |    0 |   3 |   4 |
+| All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
 Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 
-|      |     | poss | All |
+|      |   a | poss | All |
 |:-----|----:|-----:|----:|
 | part |   1 |    1 |   2 |
 | All  |   1 |    1 |   2 |
@@ -223,36 +223,6 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
 > ‘My late father was the one, the one who said it thus.’</pre>
 
--   A + LK-N?:
-
-> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-006)
-> Hixkaryána (Derbyshire 1965: 16)
-> <pre>
-> <i>Kamïmï thatawo, ïto yohï nehxakonï.</i>  
-> kamïmï  thatawo  ïto    y-ohï      n-eh-xakonï  
-> sun     upright  there  Rel-chief  3Sa-Cop-DPst2  
-> ‘The sun was standing, the ruler there (i.e. the sun remained high in the sky, as at mid-day).’</pre>
-
--   Suspicious comma:
-
-> (derbyshire-1965-p-039-the-buzzard-people-and-their-servant-the-sloth-076)
-> Hixkaryána (Derbyshire 1965: 39)
-> <pre>
-> <i>Onï=tï enyhoryeko, pepe yahonï, kekonï=hatï ïhetxe.</i>  
-> onï    tï    0-enyhorye-ko  epepe         y-aho-nï       0-ke-konï      hatï  ï-he-txe  
-> 3InPx  Hrsy  3-make-Imper   1:oldr.brthr  Rel-stool-Pos  3Sa-say-DPst2  Hrsy  3-wife-Pos  
-> ‘"Make this, my older brother's seat," said his wife.’</pre>
-
--   Many commas:
-
-> (derbyshire-1965-p-040-the-buzzard-people-and-their-servant-the-sloth-109)
-> Hixkaryána (Derbyshire 1965: 40)
-> <pre>
-> <i>Onï=ha, tïmko=ha, oyeheka=wya=ha, kekonï=hatï.</i>  
-> onï    ha      t-ïm-ko         ha      oy-eheka   wya  ha      0-ke-konï      hatï  
-> 3InPx  Intens  Gen-give-Imper  Intens  2-brother  Dat  Intens  3Sa-say-DPst2  Hrsy  
-> ‘"Give this to your brother," he said.’</pre>
-
 # Others
 
 ## Tiriyó
@@ -306,6 +276,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
 > ‘My late father was the one, the one who told it thus.’</pre>
 
+-   A + LK-N?:
+
+> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-006)
+> Hixkaryána (Derbyshire 1965: 16)
+> <pre>
+> <i>Kamïmï thatawo, ïto yohï nehxakonï.</i>  
+> kamïmï  thatawo  ïto    y-ohï      n-eh-xakonï  
+> sun     upright  there  Rel-chief  3Sa-Cop-DPst2  
+> ‘The sun was standing, the ruler there (i.e. the sun remained high in the sky, as at mid-day).’</pre>
+
 -   nvp w/o copula:
 
 > (derbyshire-1965-p-024-the-origin-of-the-moon-029) Hixkaryána
@@ -345,6 +325,26 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > mararï  t-ak-nyoh-nye        0-ke-txkonï        hatï  ï-wya  noro    heno  wya  xofrye    heno  wya  ha  
 > field   1+2A-burn-Tvzr-Hort  3Sa-say-DPst2:Col  Hrsy  3-Dat  3AnAna  Dead  Dat  sloth.sp  Dead  Dat  Intens  
 > ‘"Let us burn it, the field," they said to him, to that one, to the sloth.’</pre>
+
+-   Suspicious comma:
+
+> (derbyshire-1965-p-039-the-buzzard-people-and-their-servant-the-sloth-076)
+> Hixkaryána (Derbyshire 1965: 39)
+> <pre>
+> <i>Onï=tï enyhoryeko, pepe yahonï, kekonï=hatï ïhetxe.</i>  
+> onï    tï    0-enyhorye-ko  epepe         y-aho-nï       0-ke-konï      hatï  ï-he-txe  
+> 3InPx  Hrsy  3-make-Imper   1:oldr.brthr  Rel-stool-Pos  3Sa-say-DPst2  Hrsy  3-wife-Pos  
+> ‘"Make this, my older brother's seat," said his wife.’</pre>
+
+-   Many commas:
+
+> (derbyshire-1965-p-040-the-buzzard-people-and-their-servant-the-sloth-109)
+> Hixkaryána (Derbyshire 1965: 40)
+> <pre>
+> <i>Onï=ha, tïmko=ha, oyeheka=wya=ha, kekonï=hatï.</i>  
+> onï    ha      t-ïm-ko         ha      oy-eheka   wya  ha      0-ke-konï      hatï  
+> 3InPx  Intens  Gen-give-Imper  Intens  2-brother  Dat  Intens  3Sa-say-DPst2  Hrsy  
+> ‘"Give this to your brother," he said.’</pre>
 
 # NPs
 
