@@ -3,7 +3,7 @@ Babel==2.11.0
 certifi==2022.9.24
 chardet==5.0.0
 cldfbench==1.13.0
--e git+ssh://git@github.com/fmatter/cariban_meta.git@485b36bc1761c927d8be3fa39311438942974853#egg=cldfbench_cariban_meta
+-e git+ssh://git@github.com/fmatter/cariban_meta.git@2d698a6c8e597f4c533dcd9f950ad1363e7ad771#egg=cldfbench_cariban_meta
 cldfcatalog==1.5.1
 clldutils==3.12.0
 colorama==0.4.6

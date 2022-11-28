@@ -6,14 +6,14 @@ import json
 import sys
 
 meta = Dataset()
-full = len(sys.argv) == 1
+full = len(sys.argv) > 1
 
 lg_records = {}
 total_ann = {}
-for lg in ["tri", "hix", "aka"]:
+for lg in ["tri", "hix"]:
     records = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
     records["Language_ID"] = lg
-    if full:
+    if not full:
         annotations = pd.read_csv(f"data/{lg}_ann.csv", keep_default_na=False)
         total_ann[lg] = len(annotations)
         annotations = annotations[
@@ -42,8 +42,9 @@ with CLDFWriter(
             "separator": "\t",
         },
     )
-    if full:
+    if not full:
         writer.cldf.add_columns(
+        "ExampleTable",
             {
                 "name": "Discont_NP",
                 "required": True,
