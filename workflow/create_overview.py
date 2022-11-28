@@ -17,7 +17,7 @@ np_overview = {}
 res_overview = {}
 q_overview = {}
 
-
+stat_overview = []
 for lg, total in stats.items():
     for d in [pos_overview, np_overview, res_overview, q_overview]:
         d[lg] = []
@@ -34,11 +34,9 @@ for lg, total in stats.items():
     ]
     assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
 
-    print(lg)
-    print(f"{len(positives)}/{total} records with positive tokens:")
-    print(pd.crosstab(positives["Discont_NP"], positives["Syntactic_Role"]))
-    print(positives["Syntactic_Role"].value_counts())
-    print("")
+    df = pd.crosstab(positives["Discont_NP"], positives["Syntactic_Role"], margins=True)
+    df.index.name = ""
+    stat_overview.append(f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with positive tokens:\n" + df.to_markdown())
     for o, t in [
         (positives, pos_overview),
         (questions, q_overview),
@@ -84,3 +82,6 @@ builder.write_folder(
         "author": "Florian Matter",
     },
 )
+
+with open("stats.md", "w") as f:
+    f.write("\n\n".join(stat_overview))
