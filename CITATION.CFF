@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: cariban-discont-nps
+type: dataset
+authors:
+  - given-names: Florian
+    family-names: Matter
+    email: fmatter@mailbox.org
+    affiliation: University of Oregon
+    orcid: 0000-0002-2545-5154
+preferred-citation:
+  type: unpublished
+  authors:
+  - given-names: Florian
+    family-names: Matter
+    email: fmatter@mailbox.org
+    affiliation: University of Oregon
+    orcid: 0000-0002-2545-5154
+  - given-names: Spike
+    family-names: Gildea
+    email: spike@uoregon.edu
+    affiliation: University of Oregon
+  title: "Apparent Discontinuous NPs in the Cariban family from the perspective of diachronic typology"
+  url: https://github.com/fmatter/cariban_nps
+  year: 2022
