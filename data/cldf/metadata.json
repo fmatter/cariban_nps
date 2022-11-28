@@ -6,6 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:source": "sources.bib",
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
@@ -94,6 +95,12 @@
                         "required": false,
                         "separator": "\t",
                         "name": "Part_Of_Speech"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "name": "Source"
                     },
                     {
                         "dc:description": "Are there non-adjacent, co-referential noun phrases?",

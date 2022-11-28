@@ -2,6 +2,8 @@
 
 **CLDF Metadata**: [metadata.json](./metadata.json)
 
+**Sources**: [sources.bib](./sources.bib)
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
@@ -30,6 +32,7 @@ Name/Property | Datatype | Description
 [Meta_Language_ID](http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference) | `string` | References the language of the translated text<br>References [languages.csv::ID](#table-languagescsv)
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 `Part_Of_Speech` | list of `string` (separated by `	`) | Parts of speech, aligned with Analyzed_Word
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | `string` | References [sources.bib::BibTeX-key](./sources.bib)
 `Discont_NP` | `string` | Are there non-adjacent, co-referential noun phrases?
 `Syntactic_Role` | `string` | Syntactic role of the 'NP'
 

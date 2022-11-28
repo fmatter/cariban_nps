@@ -4,6 +4,8 @@ import pandas as pd
 from cldfbench_cariban_meta import Dataset
 import json
 import sys
+from pycldf.sources import Source
+import pybtex
 
 meta = Dataset()
 full = len(sys.argv) > 1
@@ -19,13 +21,18 @@ for lg in ["tri", "hix"]:
         annotations = annotations[
             (annotations["Value"] == "y") | (annotations["Comment"] != "")
         ]
-        lg_records[lg] = pd.merge(records, annotations, how="right").fillna("")
+        lg_records[lg] = pd.merge(records, annotations, how="right", on="ID").fillna("")
         lg_records[lg]["Discont_NP"] = lg_records[lg]["Value"]
     else:
         lg_records[lg] = records.fillna("")
 
 with open("data/stats.json", "w") as f:
     json.dump(total_ann, f)
+
+found_refs = []
+def collect_refs(s):
+    if s != "":
+        found_refs.append(s.split("[")[0])
 
 with CLDFWriter(
     CLDFSpec(dir="data/cldf", module="Generic", metadata_fname="metadata.json")
@@ -41,10 +48,16 @@ with CLDFWriter(
             "datatype": "string",
             "separator": "\t",
         },
+        {
+            "name": "Source",
+            "required": False,
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            "datatype": "string",
+        },
     )
     if not full:
         writer.cldf.add_columns(
-        "ExampleTable",
+            "ExampleTable",
             {
                 "name": "Discont_NP",
                 "required": True,
@@ -75,7 +88,19 @@ with CLDFWriter(
             else x["Primary_Text"],
             axis=1,
         )
+        df["Source"].map(collect_refs)
         for rec in df.to_dict("records"):
             writer.objects["ExampleTable"].append(rec)
         writer.objects["LanguageTable"].append(meta.get_lg(lg))
+
+    bib = pybtex.database.parse_file("data/car.bib", bib_format="bibtex")
+    sources = [
+        Source.from_entry(k, e)
+        for k, e in bib.entries.items()
+        if k in found_refs
+    ]
+    print(sources)
+    writer.cldf.add_sources(*sources)
+
+
     writer.write()
