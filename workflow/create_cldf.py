@@ -21,6 +21,8 @@ for lg in ["tri", "hix"]:
         annotations = annotations[
             (annotations["Value"] == "y") | (annotations["Comment"] != "")
         ]
+        if "Comment" in records.columns:
+            records.drop(columns="Comment", inplace=True)
         lg_records[lg] = pd.merge(records, annotations, how="right", on="ID").fillna("")
         lg_records[lg]["Discont_NP"] = lg_records[lg]["Value"]
     else:
@@ -30,9 +32,12 @@ with open("data/stats.json", "w") as f:
     json.dump(total_ann, f)
 
 found_refs = []
+
+
 def collect_refs(s):
     if s != "":
         found_refs.append(s.split("[")[0])
+
 
 with CLDFWriter(
     CLDFSpec(dir="data/cldf", module="Generic", metadata_fname="metadata.json")
@@ -95,12 +100,8 @@ with CLDFWriter(
 
     bib = pybtex.database.parse_file("data/car.bib", bib_format="bibtex")
     sources = [
-        Source.from_entry(k, e)
-        for k, e in bib.entries.items()
-        if k in found_refs
+        Source.from_entry(k, e) for k, e in bib.entries.items() if k in found_refs
     ]
-    print(sources)
     writer.cldf.add_sources(*sources)
-
 
     writer.write()
