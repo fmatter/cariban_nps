@@ -9,7 +9,7 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Hixkaryána: 2/513 (0.39%) text records with positive tokens:
+Hixkaryána: 2/621 (0.32%) text records with positive tokens:
 
 |      |   a | poss | All |
 |:-----|----:|-----:|----:|
@@ -223,6 +223,26 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
 > ‘My late father was the one, the one who said it thus.’</pre>
 
+-   good example of possr ptc possm:
+
+> (derbyshire-1965-p-045-the-origin-of-mawarye-and-woxka-052) Hixkaryána
+> (Derbyshire 1965: 45)
+> <pre>
+> <i>Ïro=yarye toye=ha, kamarayana=komo yosamarï=yarye, sïh sïh sïh sïh sïh.</i>  
+> ïro     y-arye    0-to-ye       ha      kamara-yana    komo  y-osama-rï    y-arye    sïh   sïh   sïh   sïh   sïh  
+> 3InAna  Rel-Perl  3Sa-go-DPst1  Intens  jaguar-people  Col   Rel-path-Pos  Rel-Perl  walk  walk  walk  walk  walk  
+> ‘She went along it, along the trail of the jaguar people, action of walking.’</pre>
+
+-   elaboration:
+
+> (derbyshire-1965-p-045-the-origin-of-mawarye-and-woxka-053) Hixkaryána
+> (Derbyshire 1965: 45)
+> <pre>
+> <i>Ïhpo owto=hona, nyamoro=waka=hatï, kamarayana=komo=waka, ïhpo.</i>  
+> ïhpo      owto     hona  nyamoro    waka   hatï  kamara-yana    komo  waka   ïhpo  
+> come.out  village  Dir   3AnAnaCol  Illat  Hrsy  jaguar-people  Col   Illat  come.out  
+> ‘Action of coming out into the open, into the village, to them, to the jaguar people, action of coming out into the open.’</pre>
+
 # Others
 
 ## Tiriyó
@@ -345,6 +365,26 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > onï    ha      t-ïm-ko         ha      oy-eheka   wya  ha      0-ke-konï      hatï  
 > 3InPx  Intens  Gen-give-Imper  Intens  2-brother  Dat  Intens  3Sa-say-DPst2  Hrsy  
 > ‘"Give this to your brother," he said.’</pre>
+
+-   commas:
+
+> (derbyshire-1965-p-046-the-origin-of-mawarye-and-woxka-057) Hixkaryána
+> (Derbyshire 1965: 46)
+> <pre>
+> <i>Anhï=haxa moxamo nahtxoko, rohayamo, rohokyamo, kekonï=hatï.</i>  
+> anhï  haxa      moxamo    n-ah-txoko        ro-ha-yamo      ro-hok-yamo  0-ke-konï      hatï  
+> evil  Contrast  3AnPxCol  3Sa-Cop-IPst:Col  1-grandson-Col  1-child-Col  3Sa-say-DPst2  Hrsy  
+> ‘"They are very evil, these people, my grandchildren, my children," she said.’</pre>
+
+-   afterthough:
+
+> (derbyshire-1965-p-048-the-origin-of-mawarye-and-woxka-117) Hixkaryána
+> (Derbyshire 1965: 48)
+> <pre>
+> <i>Henta ïro=ha, uhputhuthuru, ketxkonï=hatï.</i>  
+> henta  ïro     ha      u-hputhu-thuru   0-ke-txkonï        hatï  
+> where  3InAna  Intens  3-shell-Pst:Pos  3Sa-say-DPst2:Col  Hrsy  
+> ‘"Where (is) it, its shell ?", they said.’</pre>
 
 # NPs
 
