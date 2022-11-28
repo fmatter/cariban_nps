@@ -64,7 +64,7 @@ for title, dic in {
         overview.extend(data)
 
 builder = GitHub
-content = "\n".join(overview)
+content = "\n\n".join(stat_overview) + "\n".join(overview)
 preprocessed = preprocess(content)
 preprocessed = builder.preprocess_commands(preprocessed)
 preprocessed += "\n\n" + builder.reference_list()
@@ -82,6 +82,3 @@ builder.write_folder(
         "author": "Florian Matter",
     },
 )
-
-with open("stats.md", "w") as f:
-    f.write("\n\n".join(stat_overview))
