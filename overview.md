@@ -18,12 +18,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 
 ## Tiriyó
 
+-   \[*mëe*\] V \[okomo awekïï=ton\]:
+
 > (dados-07-frog-story-marciano-p-089-032) Tiriyó (Meira 2022)
 > <pre>
 > <i>mëe nïtën okomo awekïï=ton, ir=apo.</i>  
 > mëe    n-të-ja-në       okomo  awekïï  tomo  irë     apo  
 > 3AnPx  3Sa-go-Pres-Dbt  wasp   bee.sp  Col   3InAna  like  
 > ‘they went, the bees, like that.’</pre>
+
+-   What is up with the order here?:
 
 > (dados-07-frog-story-marciano-p-091-047) Tiriyó (Meira 2022)
 > <pre>
@@ -32,12 +36,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > 3InAna-Pst  from  tree  T-hole-Having-Ent  from  Pst-Sa-Detr-take.out-Pst  owl.sp  
 > ‘Then from the tree with a whole came, an owl,  ’</pre>
 
+-   \[*mëërë*\] V \[tamutupë\]:
+
 > (dados-09-kereramake-p-043-278) Tiriyó (Meira 2022)
 > <pre>
 > <i>(Ape) Wëën... mëërë teetainkae tamutupë.</i>  
 > Ape  wëën  mëërë  t-w-etainka-se  tamutupë  
 > Ape  run   3AnMd  Pst-Sa-run-Pst  old.man  
 > ‘(Ape) /wëën/... that one ran, the old man (= i.e. Përëpërëwa).  ’</pre>
+
+-   \[mëërë *ja*\] \[kaike *ja*\]:
 
 > (dados-09-kereramake-p-045-323) Tiriyó (Meira 2022)
 > <pre>
@@ -46,12 +54,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > Ape  later  3-harass-Circ   Ess  3AnMd  Agt  fox    Agt  
 > ‘(Ape) (They were) later to be harassed by the fox.’</pre>
 
+-   \[*mëesamo inëërë*\] \[*përëru ton*\]:
+
 > (dados-07-frog-story-marciano-p-093-096) Tiriyó (Meira 2022)
 > <pre>
 > <i>Mëesamo=inëërë përëru=ton tïwëtakaase=ken,</i>  
 > mëesamo  inëërë  përëru   tomo  t-w-ët-akapï-se               kene  
 > 3AnPxCl  really  toad.sp  Col   Pst-Sa-Detr-put.in.order-Pst  Cont  
 > ‘It's them, the frogs, they're forming a line,  ’</pre>
+
+-   \[*nërë rë*\] \[*tamutupë*\]:
 
 > (dados-09-kereramake-p-037-179) Tiriyó (Meira 2022)
 > <pre>
@@ -60,12 +72,17 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > Ape  ?    where  3Sa-Cop  2-companion  Pst-Sa-say-Pst  3AnAna  Idtf  old.man   where  3Sa-Cop  2-companion  
 > ‘(Ape) 'So, where is your companion?' (he) said, he, the old man, 'where is your companion?'’</pre>
 
+-   \[*tarïpi*\] *se manan* \[*mëërë*\]; very likely not referring to
+    ‘he’.:
+
 > (dados-09-kereramake-p-049-392) Tiriyó (Meira 2022)
 > <pre>
 > <i>(Ape) mëërë=se=manan, tïïkae, tarïpi=se=manan mëërë tïïkae.</i>  
 > Ape  mëërë  se     man-a-në     t-w-ka-se       tarïpi  se     man-a-në     mëërë  t-w-ka-se  
 > Ape  3AnMd  Desid  2Sa-Cop-Dbt  Pst-Sa-say-Pst  prego   Desid  2Sa-Cop-Dbt  3AnMd  Pst-Sa-say-Pst  
 > ‘(Ape) 'Do you want that one?' he said, 'do you want some monkey, that one?' he said.  ’</pre>
+
+-   \[*mëe marë*\] \[*inmukuhpë*\] – part of speech?:
 
 > (dados-09-kereramake-p-049-415) Tiriyó (Meira 2022)
 > <pre>
@@ -74,12 +91,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > Ape  3AnPx  too   3-son-P.pst  3-like  Idtf  Rpt  Pst-Sa-say-Pst  
 > ‘(Ape) 'And this one also, my son, just like her (he was killed),' he said.  ’</pre>
 
+-   \[*mono*\] V \[*kïrïmuku*\]:
+
 > (data-01-yakari-01-p-127-022) Tiriyó (Meira 2022)
 > <pre>
 > <i>Ma... Mono weine kïrïmuku irënehka.</i>  
 > ma    mono  w-ei-ne       kïrïmuku   irënehka  
 > Attn  big   1Sa-Cop-DPst  young.man  finally  
 > ‘Well... I finally grew up, I became a young man.  ’</pre>
+
+-   \[*jijomii tae*\] … \[*tarëno tae*\]:
 
 > (mini-disc-lsmtam13set0001-marciano-little-introduction-003) Tiriyó
 > (Meira 2022)
@@ -89,6 +110,8 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > Attn  1-language-Psfx  by   Idtf  1-name-Psfx  Tiriyó  by   3Sa-Cop  Minausi  3InAna  like  2A-hear-I.Pst  
 > ‘Well, in my own language my name, in (the language of the) Tiriyó, it is, Minausi, like this. OK? (= Did you hear?).  ’</pre>
 
+-   \[*mëe marë*\] \[*Sesu marë*\] – part of speech?:
+
 > (mini-disc-lsmtam13set0001-marciano-little-introduction-004) Tiriyó
 > (Meira 2022)
 > <pre>
@@ -97,6 +120,8 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > so     1+3   work   Ess  3Sa-Cop  now       Recp-with  3AnPx  with  Sérgio  with  
 > ‘So we're now working together,’</pre>
 
+-   \[*serë pë*\] \[*panpira pë*\]:
+
 > (mini-disc-lsmtam13set0001-marciano-little-introduction-005) Tiriyó
 > (Meira 2022)
 > <pre>
@@ -104,6 +129,9 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > serë   pëkë   panpira  pëkë   anja  n-a      oroko  me   m-eta-0        irë     apo  
 > 3InPx  about  book     about  1+3   3Sa-Cop  work   Ess  2A-hear-I.Pst  3InAna  like  
 > ‘We're now working about this, about this book/paper (= i.e. we're writing something). Did you hear? That's it.  ’</pre>
+
+-   \[*ipërih tae*\] \[*anja eekuhpë*\] – interesting postpositional
+    behavior:
 
 > (minidisc-xxx-torohpe-iwehtoponpe-002) Tiriyó (Meira 2022)
 > <pre>
@@ -138,12 +166,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 
 ## Tiriyó
 
+-   pïtai ‘shoe’ twice:
+
 > (dados-07-frog-story-marciano-p-089-015) Tiriyó (Meira 2022)
 > <pre>
 > <i>Atï=hpe sen, tahken, pïtai tahken menen pïtai=rë, pïtai, boota sen.</i>  
 > atï    hpe    senï   tahkene  pïtai  tahkene  m-ene-ja-në      pïtai  rë    pïtai  boota  senï  
 > wh.In  Indef  3InPx  maybe    shoe   maybe    2A-see-Pres-Dbt  shoe   Idtf  shoe   boot   3InPx  
 > ‘What is that, maybe, a shoe maybe, do you see, it's really a shoe, a shoe, it's a boot.’</pre>
+
+-   What is *mërë na*?:
 
 > (dados-09-kereramake-p-029-012) Tiriyó (Meira 2022)
 > <pre>
@@ -152,6 +184,8 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > Ape  3AnAna  Attn  one.from.now  3InPx  Idtf  day  
 > ‘(Ape) He, well, today's people, this day...’</pre>
 
+-   Maybe disfluent?:
+
 > (dados-09-kereramake-p-047-363) Tiriyó (Meira 2022)
 > <pre>
 > <i>(Ape) sera=taa=san=nai jipïtï anpo=nai mëe inmukuru mëesan=nai ijapo=taike.</i>  
@@ -159,12 +193,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > Ape  like.this  Neg    ?    3Sa-Cop  1-wife  where  3Sa-Cop  3AnPx  3-son-Psfx  3AnPxCl  3Sa-Cop  3-like  Neg  
 > ‘(Ape) 'they are not like this, my wife, where is she, this one, her son, they aren't like this' ’</pre>
 
+-   Inflected postposition *i-juuwë* and *mërë*?:
+
 > (dados-09-kereramake-p-053-455) Tiriyó (Meira 2022)
 > <pre>
 > <i>(Ape) Tïwërëno=ro ijuuwë teese mërë toro,</i>  
 > Ape  tïwërë-no  rë    i-juuwë  t-w-ei-se       mërë   toron  
 > Ape  other-Ent  Idtf  3-on     Pst-Sa-Cop-Pst  3InMd  go.up  
 > ‘(Ape) Another one was on top of it, /toro/,’</pre>
+
+-   What is the argument structure here?:
 
 > (minidisc-xxx-mukusa-nasau-sep-2000-004) Tiriyó (Meira 2022)
 > <pre>
@@ -219,12 +257,16 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 
 ## Tiriyó
 
+-   Actually two clauses.:
+
 > (dados-07-frog-story-marciano-p-093-094) Tiriyó (Meira 2022)
 > <pre>
 > <i>Mëe=ja tïtomekae entupisi=ja përëru tïtomekae</i>  
 > mëe    ja   t-tomeka-se   0-entu-pisikë  ja   përëru   t-tomeka-se  
 > 3AnPx  Agt  Pst-get?-Pst  3-owner-Dim    Agt  toad.sp  Pst-get?-Pst  
 > ‘He took it, his little owner took the frog’</pre>
+
+-   Good illustration of the importance of commas.:
 
 > (dados-09-kereramake-p-047-374) Tiriyó (Meira 2022)
 > <pre>
@@ -233,12 +275,17 @@ Hixkaryána: 2/513 (0.39%) text records with positive tokens:
 > Ape  3InAna  at.time  Pst-be.bored-Pst  3AnMd  Agt  Pst-talk.to-Pst  parakeet.sp  Agt  
 > ‘(Ape) Then he became tired of it, and that one talked to him, werekeru.’</pre>
 
+-   Another good illustration of the importance of commas – the two
+    distinct clauses have none in between.:
+
 > (dados-09-kereramake-p-049-387) Tiriyó (Meira 2022)
 > <pre>
 > <i>(Ape) Mëe inë ënmuku ëenuumane=npa tïïkae, mërë innapï apëhkë irëme, tïrëe iija, toron.</i>  
 > Ape  mëe    0-inë-kë         ë-nmuku-rï  ë-enuuma-ne  npa  t-w-ka-se       mërë   i-nnapï       0-apëi-kë    irëme  t-rï-se       i-ja   toron  
 > Ape  3AnPx  3-abandon-Imper  2-son-Psfx  2-disturb-A  ?    Pst-Sa-say-Pst  3InMd  3-fruit.food  3-get-Imper  so     Pst-make-Pst  3-Agt  put  
 > ‘(Ape) 'Leave this one here, your son, he would disturb you,' he said, 'get that, his food', then, he put it (down), /toron/.’</pre>
+
+-   *mërë po* ‘here’?:
 
 > (minidisc-xxx-mukusa-nasau-sep-2000-061) Tiriyó (Meira 2022)
 > <pre>
