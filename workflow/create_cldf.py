@@ -68,7 +68,12 @@ with CLDFWriter(
             if col in df.columns:
                 df[col] = df[col].apply(lambda x: x.split("\t"))
                 df[col] = df[col].apply(lambda x: [y if y else "…" for y in x])
-        df["Primary_Text"] = df.apply(lambda x: " ".join(x["Analyzed_Word"]).replace("-", "") if x["Primary_Text"] == "" else x["Primary_Text"], axis=1)
+        df["Primary_Text"] = df.apply(
+            lambda x: " ".join(x["Analyzed_Word"]).replace("-", "")
+            if x["Primary_Text"] == ""
+            else x["Primary_Text"],
+            axis=1,
+        )
         for rec in df.to_dict("records"):
             writer.objects["ExampleTable"].append(rec)
         writer.objects["LanguageTable"].append(meta.get_lg(lg))

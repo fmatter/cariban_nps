@@ -17,7 +17,7 @@ def pad_ex(*lines, sep=" "):
     return "\n".join(out.values())
 
 
-lg = "tri"
+lg = "hix"
 
 
 def print_record(rec):

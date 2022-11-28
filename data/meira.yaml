@@ -1,0 +1,12 @@
+record_marker: r
+mappings:
+  os: Original_Primary_Text
+  t: Primary_Text
+  s: Analyzed_Word
+  m: Analyzed_Word_Morphemes
+  g: Gloss
+  p: Part_Of_Speech
+  f: Translated_Text
+  o: Original_Translated_Text
+  c: Comments
+  i: Tags

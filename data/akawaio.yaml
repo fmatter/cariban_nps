@@ -1,0 +1,9 @@
+record_marker: r
+mappings:
+  os: Original_Primary_Text
+  a: Primary_Text
+  m: Analyzed_Word
+  g: Gloss
+  p: Part_Of_Speech
+  t: Translated_Text
+  c: Comment
