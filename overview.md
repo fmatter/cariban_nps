@@ -175,15 +175,6 @@ Hixkaryána: 2/856 (0.23%) text records with positive tokens:
 > wh.In  Indef  3InPx  maybe    shoe   maybe    2A-see-Pres-Dbt  shoe   Idtf  shoe   boot   3InPx  
 > ‘What is that, maybe, a shoe maybe, do you see, it's really a shoe, a shoe, it's a boot.’</pre>
 
--   What is *mërë na*?:
-
-> (dados-09-kereramake-p-029-012) Tiriyó (Meira 2022)
-> <pre>
-> <i>(Ape) Nërë, ma, menjatoro, serë=rë wei...</i>  
-> Ape  nërë    ma    menjatoro     serë   rë    wei  
-> Ape  3AnAna  Attn  one.from.now  3InPx  Idtf  day  
-> ‘(Ape) He, well, today's people, this day...’</pre>
-
 -   Maybe disfluent?:
 
 > (dados-09-kereramake-p-047-363) Tiriyó (Meira 2022)
