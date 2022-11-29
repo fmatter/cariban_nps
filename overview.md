@@ -9,7 +9,7 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Hixkaryána: 2/621 (0.32%) text records with positive tokens:
+Hixkaryána: 2/706 (0.28%) text records with positive tokens:
 
 |      |   a | poss | All |
 |:-----|----:|-----:|----:|
@@ -385,6 +385,26 @@ Hixkaryána: 2/621 (0.32%) text records with positive tokens:
 > henta  ïro     ha      u-hputhu-thuru   0-ke-txkonï        hatï  
 > where  3InAna  Intens  3-shell-Pst:Pos  3Sa-say-DPst2:Col  Hrsy  
 > ‘"Where (is) it, its shell ?", they said.’</pre>
+
+-   elaboration:
+
+> (derbyshire-1965-p-049-the-origin-of-mawarye-and-woxka-153) Hixkaryána
+> (Derbyshire 1965: 49)
+> <pre>
+> <i>Onï=ha otxetho, ketxkonï=hatï, ïwya=ha, notxwakomo=wya=ha.</i>  
+> onï    ha      otxetho      0-ke-txkonï        hatï  ï-wya  ha      notxwakomo  wya  ha  
+> 3InPx  Intens  grandmother  3Sa-say-DPst2:Col  Hrsy  3-Dat  Intens  old.woman   Dat  Intens  
+> ‘This (is it), old woman," they said to her, to the grandmother.’</pre>
+
+-   afterthought:
+
+> (derbyshire-1965-p-050-the-origin-of-mawarye-and-woxka-160) Hixkaryána
+> (Derbyshire 1965: 50)
+> <pre>
+> <i>Yakeno moro=ha, ketxkonï=hatï, nyamoro.</i>  
+> yake-no   moro   ha      0-ke-txkonï        hatï  nyamoro  
+> many-Nzr  3InMd  Intens  3Sa-say-DPst2:Col  Hrsy  3AnAnaCol  
+> ‘"That (is) a lot," they say.’</pre>
 
 # NPs
 

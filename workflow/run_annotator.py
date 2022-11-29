@@ -27,7 +27,7 @@ def print_record(rec):
         rec["Part_Of_Speech"].split("\t"),
     )
     surf = re.sub(r"\s+", " ", rec["Primary_Text"])
-    print(f"""({rec.name}) {surf}\n{gloss_string}\n{rec['Translated_Text']}\n""")
+    print(f"""({rec.name}) {surf}\n{gloss_string}\n‘{rec['Translated_Text']}’\n""")
 
 
 ann_path = Path(f"data/{lg}_ann.csv")
