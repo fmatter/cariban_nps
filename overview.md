@@ -9,7 +9,7 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Hixkaryána: 2/706 (0.28%) text records with positive tokens:
+Hixkaryána: 2/856 (0.23%) text records with positive tokens:
 
 |      |   a | poss | All |
 |:-----|----:|-----:|----:|
@@ -243,6 +243,16 @@ Hixkaryána: 2/706 (0.28%) text records with positive tokens:
 > come.out  village  Dir   3AnAnaCol  Illat  Hrsy  jaguar-people  Col   Illat  come.out  
 > ‘Action of coming out into the open, into the village, to them, to the jaguar people, action of coming out into the open.’</pre>
 
+-   two afterthoughts:
+
+> (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-008) Hixkaryána
+> (Derbyshire 1965: 60)
+> <pre>
+> <i>Kana yowomtoho onï, kekonï=hatï, Mawarye, towtï=wya=ha.</i>  
+> kana  y-owom-toho     onï    0-ke-konï      hatï  mawarye  t-owtï         wya  ha  
+> fish  Rel-go.in-Circ  3InPx  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat  Intens  
+> ‘This (is) the thing into which go the fish," said Mawarye to his brother.’</pre>
+
 # Others
 
 ## Tiriyó
@@ -405,6 +415,116 @@ Hixkaryána: 2/706 (0.28%) text records with positive tokens:
 > yake-no   moro   ha      0-ke-txkonï        hatï  nyamoro  
 > many-Nzr  3InMd  Intens  3Sa-say-DPst2:Col  Hrsy  3AnAnaCol  
 > ‘"That (is) a lot," they say.’</pre>
+
+-   afterthought:
+
+> (derbyshire-1965-p-052-the-origin-of-mawarye-and-woxka-235) Hixkaryána
+> (Derbyshire 1965: 52)
+> <pre>
+> <i>Etenï oske nkeno, Woxka=y, kekonï=hatï, Mawarye, towtï=wya.</i>  
+> etenï  oske  n-ke-no           Woxka  y    0-ke-konï      hatï  mawarye  t-owtï         wya  
+> wh.In  thus  3Sa-say-Pres:Dbt  Woxka  Voc  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat  
+> ‘"What is (that) saying like that, Woxka," said Mawarye to his brother.’</pre>
+
+-   afterthought:
+
+> (derbyshire-1965-p-053-the-origin-of-mawarye-and-woxka-245) Hixkaryána
+> (Derbyshire 1965: 53)
+> <pre>
+> <i>Mawarye=y, kekonï=hatï, towtï=wya.</i>  
+> Mawarye  y    0-ke-konï      hatï  t-owtï         wya  
+> Mawarye  Voc  3Sa-say-DPst2  Hrsy  3R-sm.sx.sblg  Dat  
+> ‘"Mawarye," he said to his brother.’</pre>
+
+-   elaboration:
+
+> (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-022) Hixkaryána
+> (Derbyshire 1965: 60)
+> <pre>
+> <i>Xenytxa Woxka=y, kekonï=hatï, towtï=wya, Woxka=wya.</i>  
+> x-eny-txa           Woxka  y    0-ke-konï      hatï  t-owtï         wya  Woxka  wya  
+> Gen-see-Go.Imper:2  Woxka  Voc  3Sa-say-DPst2  Hrsy  3R-sm.sx.sblg  Dat  Woxka  Dat  
+> ‘"Go look at it, Woxka," he said to his brother, to Woxka.’</pre>
+
+-   2 afterthoughts:
+
+> (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-034) Hixkaryána
+> (Derbyshire 1965: 61)
+> <pre>
+> <i>Ehxera manaye, kekonï=hatï, Woxka, Mawarye=wya=ha.</i>  
+> eh-xera  ma-n-a-ye           0-ke-konï      hatï  Woxka  Mawarye  wya  ha  
+> Cop-Neg  NVis-3Sa-Cop-DPst1  3Sa-say-DPst2  Hrsy  Woxka  Mawarye  Dat  Intens  
+> ‘"(There) is nothing," said Woxka to Mawarye.’</pre>
+
+-   afterthought:
+
+> (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040) Hixkaryána
+> (Derbyshire 1965: 61)
+> <pre>
+> <i>Ahruthuru yahyekonï, xaryemna=ha.</i>  
+> 0-ahru-0-thuru       y-ahye-konï      xaryemna  ha  
+> 3-cover-Nzr-Pst:Pos  Rel-shake-DPst2  otter.sp  Intens  
+> ‘The otter was shaking the stuff covering it.’</pre>
+
+-   afterthoughts:
+
+> (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-045) Hixkaryána
+> (Derbyshire 1965: 61)
+> <pre>
+> <i>Manaye=ha, kekonï=hatï, Woxka, Mawarye=wya=ha.</i>  
+> man-a-ye          ha      0-ke-konï      hatï  Woxka  Mawarye  wya  ha  
+> 2Sa-Cop-Pres:Dbt  Intens  3Sa-say-DPst2  Hrsy  Woxka  Mawarye  Dat  Intens  
+> ‘"It is (there)," said Woxka to Mawarye.’</pre>
+
+-   afterthoughts:
+
+> (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-052) Hixkaryána
+> (Derbyshire 1965: 61)
+> <pre>
+> <i>Ïhoko=tï nehxatxkonï=ha, Mawarye=komo=ha, Woxka=komo.</i>  
+> ï-hoko   tï    n-eh-xatxkonï      ha      Mawarye  komo  ha      Woxka  komo  
+> 3-about  Hrsy  3Sa-Cop-DPst2:Col  Intens  Mawarye  Col   Intens  Woxka  Col  
+> ‘Both Mawarye and Woxka were occupied with her.’</pre>
+
+-   afterthoughts:
+
+> (derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-059) Hixkaryána
+> (Derbyshire 1965: 62)
+> <pre>
+> <i>Namotohkatxownï=hatï, Mawarye=komo, Woxka=komo.</i>  
+> n-amotoh-ka-txownï       hatï  Mawarye  komo  Woxka  komo  
+> 3AO-tire-Tvzr-DPst1:Col  Hrsy  Mawarye  Col   Woxka  Col  
+> ‘Mawarye and Woxka exhausted her.’</pre>
+
+-   N Dpro ha, N:
+
+> (derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071) Hixkaryána
+> (Derbyshire 1965: 62)
+> <pre>
+> <i>Moyorono mokyamo=ha, worïskomo=heno=ha, kekonï=hatï, xaryemna=ha.</i>  
+> moyoro-no            mokyamo   ha      worïskomo  heno   ha      0-ke-konï      hatï  xaryemna  ha  
+> different.place-Nzr  3AnRmCol  Intens  women      Quant  Intens  3Sa-say-DPst2  Hrsy  otter.sp  Intens  
+> ‘"They (are) ones far away, the women," said the otter.’</pre>
+
+-   Dpro ha, N:
+
+> (derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-074) Hixkaryána
+> (Derbyshire 1965: 62)
+> <pre>
+> <i>Moro=ha, kuthonï=ymo=kwawo, kekonï=hatï.</i>  
+> moro   ha      kuthonï  ymo   kwawo      0-ke-konï      hatï  
+> 3InMd  Intens  lake     Augm  Liq:Iness  3Sa-say-DPst2  Hrsy  
+> ‘"That one there, in the big lake," she said.’</pre>
+
+-   interesting position of heno:
+
+> (derbyshire-1965-p-064-the-wives-of-mawarye-and-woxka-119) Hixkaryána
+> (Derbyshire 1965: 64)
+> <pre>
+> <i>Wosï yanïmye, kanye mokï nexeye=heno.</i>  
+> wosï   y-anïm-ye       ka-nye  mokï   n-exe-ye       heno  
+> woman  Rel-lift-DPst1  say-A   3AnRm  3Sa-Cop-DPst1  Dead  
+> ‘He lifted the women, he, the deceased was the one, the one who said it.’</pre>
 
 # NPs
 
