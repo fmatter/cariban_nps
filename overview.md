@@ -9,7 +9,7 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Hixkaryána: 2/856 (0.23%) text records with positive tokens:
+Hixkaryána: 2/1000 (0.20%) text records with positive tokens:
 
 |      |   a | poss | All |
 |:-----|----:|-----:|----:|
@@ -243,6 +243,36 @@ Hixkaryána: 2/856 (0.23%) text records with positive tokens:
 > kana  y-owom-toho     onï    0-ke-konï      hatï  mawarye  t-owtï         wya  ha  
 > fish  Rel-go.in-Circ  3InPx  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat  Intens  
 > ‘This (is) the thing into which go the fish," said Mawarye to his brother.’</pre>
+
+-   / n:
+
+> (derbyshire-1965-p-064-the-wives-of-mawarye-and-woxka-121) Hixkaryána
+> (Derbyshire 1965: 64)
+> <pre>
+> <i>Mosonï=ha Woxka, khetxe.</i>  
+> mosonï  ha      Woxka  k-he-txe  
+> 3AnPx   Intens  Woxka  1+2-wife-Pos  
+> ‘'These, Woxka, (are) our wives.’</pre>
+
+-   what is happening with mosonï and omoro?:
+
+> (derbyshire-1965-p-064-the-wives-of-mawarye-and-woxka-122) Hixkaryána
+> (Derbyshire 1965: 64)
+> <pre>
+> <i>Mosonï=ha omoro, ohetxe=ha, kekonï=hatï, Mawarye, towtï=wya=ha.</i>  
+> mosonï  ha      omoro  o-he-txe    ha      0-ke-konï      hatï  mawarye  t-owtï         wya  ha  
+> 3AnPx   Intens  2      2-wife-Pos  Intens  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat  Intens  
+> ‘"This one (is) yours."’</pre>
+
+-   y-awo-nye?:
+
+> (derbyshire-1965-p-066-the-wives-of-mawarye-and-woxka-162) Hixkaryána
+> (Derbyshire 1965: 66)
+> <pre>
+> <i>Honyetko=tï nehxakonï=ha, yawonye, atxkenyhaha=xak=mak=hatï.</i>  
+> honyetko  tï    n-eh-xakonï    ha      y-awo-nye      atxkenyhaha  xak      mak     hatï  
+> fish.sp   Hrsy  3Sa-Cop-DPst2  Intens  Rel-Iness-Col  small.thing  Misfrtn  Advers  Hrsy  
+> ‘The "honyetko" was inside them, having become a very small thing.’</pre>
 
 # Others
 
@@ -517,6 +547,46 @@ Hixkaryána: 2/856 (0.23%) text records with positive tokens:
 > woman  Rel-lift-DPst1  say-A   3AnRm  3Sa-Cop-DPst1  Dead  
 > ‘He lifted the women, he, the deceased was the one, the one who said it.’</pre>
 
+-   elaboration:
+
+> (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-196) Hixkaryána
+> (Derbyshire 1965: 67)
+> <pre>
+> <i>Ta... Woxka=y, kekonï=hatï, ïwya=ha, towtï wya.</i>  
+> ta       Woxka  y    0-ke-konï      hatï  ï-wya  ha      t-owtï         wya  
+> Top.Chg  Woxka  Voc  3Sa-say-DPst2  Hrsy  3-Dat  Intens  3R-sm.sx.sblg  Dat  
+> ‘Marking change of subject, "Woxka," he said to him, to his brother.’</pre>
+
+-   good example of \[\[N Ptc\] Pp\]:
+
+> (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-201) Hixkaryána
+> (Derbyshire 1965: 67)
+> <pre>
+> <i>Ïto=tï nahxakonï=hatï, ehnï=yohoye, kuthonï=ymo=yohoye=hatï.</i>  
+> ïto    tï    n-ah-xakonï    hatï  ehnï   y-ohoye     kuthonï  ymo   y-ohoye     hatï  
+> there  Hrsy  3AO-sex-DPst2  Hrsy  river  Rel-beside  lake     Augm  Rel-beside  Hrsy  
+> ‘He was sexually intercoursing her there, beside the river, beside the big lake.’</pre>
+
+-   good example of \[\[N Ptc\] Vt\]:
+
+> (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-209) Hixkaryána
+> (Derbyshire 1965: 67)
+> <pre>
+> <i>Woxka=heno yarïye=ha, okoymo=ha.</i>  
+> Woxka  heno  y-arï-ye        ha      okoymo    ha  
+> Woxka  Dead  Rel-take-DPst1  Intens  anaconda  Intens  
+> ‘The anaconda took Woxka away.’</pre>
+
+-   afterthought:
+
+> (derbyshire-1965-p-069-the-wives-of-mawarye-and-woxka-253) Hixkaryána
+> (Derbyshire 1965: 69)
+> <pre>
+> <i>Atxke naha kekonï=hatï, Mawarye=wya, Woxka.</i>  
+> atxke  n-a-ha            0-ke-konï      hatï  mawarye  wya  Woxka  
+> bad    3Sa-Cop-Pres:Cty  3Sa-say-DPst2  Hrsy  Mawarye  Dat  Woxka  
+> ‘"She is no good," said Woxka to Mawarye.’</pre>
+
 # NPs
 
 ## Tiriyó
@@ -571,5 +641,15 @@ Hixkaryána: 2/856 (0.23%) text records with positive tokens:
 > …  mararija  0-epitï     tomo  pëkë   tïwërë-no  rë    kïn-ëturu   t-pata-rï        pëkë  
 > …  malaria   3-medicine  Col   about  other-Ent  Idtf  3Dpst-talk  3r-village-Psfx  about  
 > ‘About malaria medicine(s), another (person) talked, about his/her own village,  ’</pre>
+
+## Hixkaryána
+
+> (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-197) Hixkaryána
+> (Derbyshire 1965: 67)
+> <pre>
+> <i>Woxka=y, mosonï=ha, ohetxe, kekonï=hatï.</i>  
+> Woxka  y    mosonï  ha      o-he-txe    0-ke-konï      hatï  
+> Woxka  Voc  3AnPx   Intens  2-wife-Pos  3Sa-say-DPst2  Hrsy  
+> ‘"Woxka, this one (is) your wife," he said.’</pre>
 
 # References
