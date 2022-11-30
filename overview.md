@@ -16,6 +16,13 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
+Akawaio: 1/610 (0.16%) text records with positive tokens:
+
+|      |     | All |
+|:-----|----:|----:|
+| part |   1 |   1 |
+| All  |   1 |   1 |
+
 ## Hixkaryána
 
 -   \[*nuxe rma*\] \[*mokro*\]:
@@ -170,6 +177,15 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 > Attn  so     1Sa-come-DPst  creek   along  1+3   3-stream-P.pst  ***  wh.In  3InAna  Kuruni  
 > ‘Well, then I came, along the creeks/tribuaries, our old river... what-do-you-call-it, the Kuruni (Coeroeni).  ’</pre>
 
+## Akawaio
+
+> (ae-personal-narrative-064) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>nya ya rö se ji kashiri konega</i>  
+> nya  ya   rö    serö  ji    kajiri        konega  
+> 1+3  Erg  Emph  this  Emph  cassava.beer  make  
+> ‘We make this thing called kashiri’</pre>
+
 # Unclear
 
 ## Hixkaryána
@@ -284,15 +300,6 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 
 ## Akawaio
 
--   nvp?:
-
-> (ae-personal-narrative-013) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>kamoro eshi mörö urö kïibïnï es'pï mörö from veneswela winö ye'sak</i>  
-> kamoro     eji  mörö   urö  kïibïnï  eji-'pï  mörö   winö  yebï-zak  
-> 3.Pl.Anim  be   A.I.?  1Sg  father   be-Past  A.I.?  from  come-Perf  
-> ‘They are the ones, my father is one who is from Venezuela’</pre>
-
 -   a’ai pïze urö sang?:
 
 > (ae-personal-narrative-018) Akawaio (Caesar-Fox 2003)
@@ -310,6 +317,15 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 > tiginnö-barö-'ne  tok  aburö-u-ya    mörö  kaza  turonnö-be-'ne      turonnö-be-'ne      pïze       kanang  turonnö  kaza  mörö  kaza  tok  aburö-u-ya    mörö  
 > one-Compar-Indiv  3Pl  praise-1-Erg  that  like  another-Attr-Indiv  another-Attr-Indiv  this.Anim  again   another  like  that  like  3Pl  praise-1-Erg  Fut  
 > ‘one by one I praise them like that, everyone differently. This one again will be different like that, I would praise them’</pre>
+
+-   are serö and waramadang coreferential?:
+
+> (ae-personal-narrative-011) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö au eendu'pï waramadang bo</i>  
+> serö  yau  a-endu-'pï      waramadang  po  
+> this  Loc  2-be.born-Past  Waramadong  Loc  
+> ‘I was born here in Waramadang’</pre>
 
 # Others
 
@@ -644,6 +660,33 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 > patwa.fish  Dim     shoot-A.Nzr  say-1-Erg  
 > ‘the shhoter of cute little patwa fish, I say’</pre>
 
+-   possessive construction with *rö=ji*:
+
+> (claudine-bagot-personal-narrative-021) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö gaza bek, nai gaza önïk röji enau</i>  
+> mörö  gaza  bek  nai   gaza  önïk  rö-ji      enau  
+> that  like  QP   what  like  who   Emph-Emph  in.hand  
+> ‘Is this how it will be? How, in whose hands?’</pre>
+
+-   is this nvp?:
+
+> (claudine-bagot-personal-narrative-051) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>magoi rö na'kö kïrö</i>  
+> magoi  rö    na'kö  kïrö  
+> sin    Emph  maybe  3Sg.Anim  
+> ‘Maybe it is the sinful one’</pre>
+
+-   is *zerö* S.I. or \[\[*zerö ago’mando’*\] *pök*\]?:
+
+> (lester-eugene-personal-narrative-001) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>auzauro'to'pe eegampouya zerö ago'mando' pök rö, eeze' pök rö tamboro za'ne tamboro za'ne</i>  
+> a-saurogï-do'pe  a-egampo-u-ya  serö  a-ko'mamï-dok  pök    rö    a-ezek  pök    rö    tamboro  sa'ne  tamboro  sa'ne  
+> 2-talk-Purp      2-ask-1-Erg    S.I.  2-live-Nzr     about  Emph  2-name  about  Emph  all      Emph   all      Emph  
+> ‘I am asking you to talk about how you live, your name and everything’</pre>
+
 # NPs
 
 ## Hixkaryána
@@ -827,5 +870,33 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 > sama'nong  ta-u-ya    kanang  mörö  uri'chang  pök  
 > pretty     say-1-Erg  again   Fut   female     to  
 > ‘You are pretty, I would say again to the girl’</pre>
+
+> (ae-personal-narrative-033) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö nong bo</i>  
+> serö  nong   po  
+> this  earth  on  
+> ‘on this earth’</pre>
+
+> (claudine-bagot-personal-narrative-034) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörau ji mörö maing nö na'nek</i>  
+> mörau  ji    mörö  maing  nö    nai-nek  
+> there  Emph  that  word   Emph  3.be.Pres-Rel  
+> ‘There is always speech that is there’</pre>
+
+> (claudine-bagot-personal-narrative-052) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrörö kïrö magoi se gaza rö mo'kaning dawong</i>  
+> kïrö-rö        kïrö      magoi  zerö  kaza  rö    mo'ka-ning       ta-wong  
+> 3Sg.Anim-Cop?  3Sg.Anim  sin    this  like  Emph  take.away-A.Nzr  say-Nzr/Rel?  
+> ‘It is only the sinful one (evil/satan)who can take you away suddenly, they say’</pre>
+
+> (claudine-bagot-personal-narrative-087) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'nongga rï'kwörö mörö yeburudong ya rö yereudanïgï a'tai e'nongga tawong ning</i>  
+> e'nongga  rï'kwö-rö  mörö  y-eburu-dong  ya   rö    y-ereuda-nïgï  a'tai  e'nongga  ta-wong       ning  
+> leave     Dim-Emph   that  1-boss-Pl     Erg  Emph  1-sit-Caus     when   leave     say-Nzr/Rel?  Emph  
+> ‘She has said I will leave when my bosses stop me’</pre>
 
 # References
