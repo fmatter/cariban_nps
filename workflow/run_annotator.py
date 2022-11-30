@@ -2,6 +2,10 @@ import pandas as pd
 import questionary
 import re
 from pathlib import Path
+import json
+
+lg = "aka"
+TARGET = 1000
 
 
 def pad_ex(*lines, sep=" "):
@@ -15,9 +19,6 @@ def pad_ex(*lines, sep=" "):
     for k in out:
         out[k] = sep.join(out[k])
     return "\n".join(out.values())
-
-
-lg = "aka"
 
 
 def print_record(rec):
@@ -34,41 +35,44 @@ ann_path = Path(f"data/{lg}_ann.csv")
 if ann_path.is_file():
     info = pd.read_csv(ann_path)
 else:
-    info = pd.DataFrame(columns=["ID", "Value", "Comment"])
+    info = pd.DataFrame(columns=["ID", "Value", "Comment", "Syntactic_Role"])
 
 
-df = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
+df = pd.read_csv(f"data/{lg}_texts.csv")
 
+df = df.merge(info, on="ID", how="outer").fillna("")
+df = df.iloc[0:TARGET]
+df["Todo"] = df.apply(lambda x: (x["Pre_Screened"] != "y" and x["Value"] == ""), axis=1)
+eliminated = len(df[df["Pre_Screened"] == "y"])
+annotated = len(df[df["Value"] != ""])
+todo = len(df[df["Todo"]])
+assert eliminated + annotated + todo == TARGET
 
-def screen_rec(rec):
-    if rec["Part_Of_Speech"].count("N") > 1:
-        return True
-    if rec["Part_Of_Speech"].count("N") >= 1 and rec["Part_Of_Speech"].count("DPro") >= 1:
-        return True
-    return False
-
-
-unannotated = df[~(df["ID"].isin(info["ID"]))]
-unannotated["Candidate"] = unannotated.apply(lambda x: screen_rec(x), axis=1)
-
-print(len(unannotated[unannotated["Candidate"]]) / len(unannotated))
-w_c = sum(
-    df[(df["ID"].isin(info["ID"]))]["Analyzed_Word"].apply(lambda x: x.count("\t") + 1)
-)
-pre_elim = len(info[info["Pre_Screened"] == "y"])
-total_disc_count = info["Value"].value_counts().get("y", 0)
+# print(len(unannotated[unannotated["Candidate"]]) / len(unannotated))
+# w_c = sum(
+#     df[(df["ID"].isin(info["ID"]))]["Analyzed_Word"].apply(lambda x: x.count("\t") + 1)
+# )
+# total_disc_count = info["Value"].value_counts().get("y", 0)
 print(
-    f"{len(info)} records done ({len(info)/10:.1f}%, {pre_elim} pre-eliminated)\n{w_c} words; {total_disc_count} discontinuous noun phrases\n"
+    f"{annotated} records done, {eliminated} pre-eliminated\n{annotated/(annotated+todo):.2%}, {todo} to go!"
 )
+with open("data/stats.json", "r") as f:
+    stats = json.load(f)
+    stats[lg] = annotated + eliminated
+with open("data/stats.json", "w") as f:
+    json.dump(stats, f)
 
 new_info = []
-for i, rec in unannotated.iterrows():
-    if rec.name > 999:
+searching_first_todo = True
+for i, rec in df.iterrows():
+    if rec.name >= TARGET:
+        continue
+    if rec["Todo"]:
+        searching_first_todo = False
+    if searching_first_todo:
         continue
     print_record(rec)
-    if not rec["Candidate"]:
-        new_info.append({"ID": rec["ID"], "Value": "n", "Pre_Screened": "y"})
-    else:
+    if rec["Todo"]:
         choices = [
             "No",
             "Yes!",

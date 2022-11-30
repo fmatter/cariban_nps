@@ -11,25 +11,23 @@ meta = Dataset()
 full = len(sys.argv) > 1
 
 lg_records = {}
-total_ann = {}
 for lg in ["tri", "hix", "aka"]:
     records = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
     records["Language_ID"] = lg
+    if "Comment" in records.columns:
+        records.drop(columns="Comment", inplace=True)
     if not full:
         annotations = pd.read_csv(f"data/{lg}_ann.csv", keep_default_na=False)
-        total_ann[lg] = len(annotations)
-        annotations = annotations[
-            (annotations["Value"] == "y") | (annotations["Comment"] != "")
-        ]
-        if "Comment" in records.columns:
-            records.drop(columns="Comment", inplace=True)
-        lg_records[lg] = pd.merge(records, annotations, how="right", on="ID").fillna("")
-        lg_records[lg]["Discont_NP"] = lg_records[lg]["Value"]
+        custom_dict = {x: i for i, x in enumerate(list(records["ID"]))}
+        df = annotations.sort_values(by=["ID"], key=lambda x: x.map(custom_dict))
+
+        df = pd.merge(annotations, records, how="left", on="ID").fillna("")
+        df["Discont_NP"] = df["Value"]
+        df = df[(df["Discont_NP"] != "n") | (df["Comment"] != "")]
+        lg_records[lg] = df
     else:
         lg_records[lg] = records.fillna("")
 
-with open("data/stats.json", "w") as f:
-    json.dump(total_ann, f)
 
 found_refs = []
 

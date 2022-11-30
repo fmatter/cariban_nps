@@ -21,9 +21,7 @@ Prs-Vi-VDer,UNRESOLVED,1.0,y-ereuda-nïgï ‘1-sit-Caus’
 N-NDer,UNRESOLVED,1.0,gia'nö-bïng ‘tasty-Priv’
 Prs-P-Prtcl,UNRESOLVED,2.0,u-poi-rö ‘1-near-Emph’  /  i-wenai-rö ‘3-close.to-Emph’
 VImp,UNRESOLVED,3.0,masa ‘wait!’  /  masa ‘wait!’  /  masa ‘wait!’
-DPro-Prtcl,UNRESOLVED,3.0,mörö-rö ‘that-Emph’  /  mörö-rö ‘that-Emph’  /  mörö-rö ‘that-Emph’
 Vi-VDer-TAM-Prs-Agr,UNRESOLVED,1.0,pinimï-ba-'pï-i-ya ‘walk-Caus-Past-3-Erg’
-DPro.Pro,UNRESOLVED,5.0,se ‘this’  /  se ‘this’  /  se ‘this’  /  se ‘this’  /  se ‘this’
 Prs-V-Asp-TAM,UNRESOLVED,5.0,si-ene-bödï-dai ‘1A-see-Iter-Past’  /  n-eji-bödï-tai ‘3S-be-Iter-Med.Past’  /  n-eji-bödï-ang ‘3S-be-Hab-Pres’  /  n-eji-bödï-dai ‘3S-be-Hab-Past’  /  y-eji-bödï-'pï ‘3-be-Hab-Past’
 P?,UNRESOLVED,2.0,kenïk ‘Purp’  /  kenïk ‘Purp’
 Vi-?,UNRESOLVED,5.0,nai-k ‘3.be.Pres-Style’  /  engurumï-ng ‘wait-Style’  /  yebï-k ‘come-Style’  /  eji-i'ma ‘be-While’  /  eji-i'ma ‘be-While’
@@ -37,8 +35,7 @@ Vi-TAM-?,UNRESOLVED,2.0,eji-'pï-k ‘be-Past-Style’  /  baga-zak-ng ‘awaken
 Pos-?,UNRESOLVED,1.0,tïbo-k ‘after-Style’
 Num-Prtcl,UNRESOLVED,2.0,aza'rö-rö ‘two-Emph’  /  aza'rö-rö ‘two-Emph’
 Prs-P-?,UNRESOLVED,3.0,i-pögörö-k ‘3-after-Style’  /  i-pögörö-k ‘3-after-Style’  /  i-ya-ng ‘3-Erg-Style’
-DPro-?,UNRESOLVED,3.0,mörö-ng ‘that-Style’  /  mörö-ng ‘that-Style’  /  mörö-rö ‘that-Cop?’
-DPro-Nsfx,UNRESOLVED,5.0,mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’
+Dem-?,UNRESOLVED,3.0,mörö-ng ‘that-Style’  /  mörö-ng ‘that-Style’  /  mörö-rö ‘that-Cop?’
 Vt-Asp-Imp,UNRESOLVED,1.0,auro'ka-bödï-dök ‘tell-Iter-Pl.Imp’
 Vi-VDer,UNRESOLVED,1.0,pu'tögabï-nïgï ‘forget-Caus’
 Prs-Vi-Asp-TAM-Rel,UNRESOLVED,4.0,n-eji-bödï-aik-nek ‘3S-be-Hab-Pres-Rel’  /  n-eji-bödï-aik-nek ‘3S-be-Hab-Pres-Rel’  /  n-ka-bödï-aik-nek ‘3S-say-Hab-Pres-Rel’  /  n-ka-bödï-aik-nek ‘3S-say-Hab-Pres-Rel’
@@ -75,7 +72,6 @@ WH-??-Nsfx,UNRESOLVED,1.0,ö'rö-dok-gong ‘what-Purp-Pl.Abs’
 Imp-V-Imp,UNRESOLVED,1.0,kïz-eji-ning ‘Neg.Imp-be-Neg.Perm’
 Prs-Vi-Vdrv,UNRESOLVED,1.0,i-tö-bai ‘3-go-Desid’
 V-Asp-TAM-Prs-Agr,UNRESOLVED,1.0,ene-bödï-zak-u-ya ‘see-Iter-Perf-1-Erg’
-DPro-Pos,UNRESOLVED,1.0,mörö-dïbo ‘that-after’
 Aux,UNRESOLVED,2.0,ze ‘Fut’  /  ze ‘Fut’
 Pr,UNRESOLVED,1.0,tok ‘3Pl’
 Vi-Asp-?-?,UNRESOLVED,1.0,yebï-gabï-ng-ng ‘come-Cmpltv-Style-Style’
@@ -89,7 +85,6 @@ V-Asp,UNRESOLVED,1.0,eji-bödï ‘be-Hab’
 Vi-VDer-TAM,UNRESOLVED,1.0,pinimï-ba-bök ‘walk-Caus-Prog’
 Vt-Asp-TAM-Agr,UNRESOLVED,1.0,egama-bödï-'pï-ya ‘tell-Iter-Past-Erg’
 Prs-V-?,UNRESOLVED,1.0,y-eji-ng ‘3-be-Style’
-DPro-?-?,UNRESOLVED,2.0,mörö-ng-ng ‘that-Style-Style’  /  mörö-ng-ng ‘that-Style-Style’
 Hes,Prtcl,,
 WH,Pro,,
 P,P,,
@@ -98,7 +93,7 @@ N,N,,
 ?-Vt-Nzr,N,,
 Vi.Imp,Vi,,
 Prs-Vi-TAM,Vi,,
-DPro,DPro,,
+Dem,Dem,,
 Prs-Vi,Vi,,
 V,Vi,,
 Prs-N,N,,
@@ -165,7 +160,7 @@ V-TAM-Prs-Agr,Vt,,
 Neg-Prtcl,Prtcl,,
 Prs-Vt-Asp-TAM,Vt,,
 Prs-Vt-TAM-Nsfx,Vt,,
-Pro-?,DPro,,
+Pro-?,Dem,,
 P-Nzr,N,,
 Vt-TAM-Prs-Agr-Num,Vt,,
 N-?,N,,
@@ -184,6 +179,7 @@ Prs-Vi-Asp-TAM,Vi,,
 Vt-Asp-Prs-Agr,Vt,,
 Prs-Vi-Asp,Vi,,
 Prs-Vt-Asp-Prs-Agr,Vt,,
+Dem-Prtcl,Dem,,
 Vi-Vdrv,Adv,,
 Prs-Vi-TAM-Prtcl,Vi,,
 Adv-Prtcl,Adv,,
@@ -193,6 +189,7 @@ Prs-N-Prtcl,N,,
 Prs-V-Vinfl,Vi,,
 V-?,Vi,,
 Vt-Prtcl,Vt,,
+Dem.Pro,Dem,,
 Prs-Vi-Vinfl,Vi,,
 V-Prs-Agr,Vt,,
 Prs-N-Ninfl,N,,
@@ -232,6 +229,7 @@ Vi-Asp-Asp-TAM,Vi,,
 ?-N-Ninfl-Azr,A,,
 N-Vzr-TAM,V,,
 N-Num,N,,
+Dem-Nsfx,Dem,,
 V-VDer,Adv,,
 Prs-Vi-Imp,Vi,,
 Vi-Azr,A,,
@@ -251,7 +249,7 @@ Vt-Vinfl,Adv,,
 Prs-N-?,N,,
 Vt-Nzr-Num,N,,
 Pro-Nzr,N,,
-DPro-Azr,A,,
+Dem-Azr,A,,
 N-Ninfl-N,N,,
 Prs-Vi-TAM-Nsfx,Vi,,
 Vi-Prs-Agr,Vi,,
@@ -261,10 +259,11 @@ Prs-Vt-Asp-Imp,Vt,,
 Prs-Vi-Num,Vi,,
 N-Nsfx-Azr,A,,
 Nzr-Vt-Nsfx,N,,
+Dem-Pos,Dem,,
 Vt-Prs,Vt,,
 Prs-Vt-Vinfl,Vt,,
 Vt-Vinfl-Nzr,N,,
-?-Intr-DPro.Pro-Nzr,N,,
+?-Intr-Dem.Pro-Nzr,N,,
 N-???,N,,
 Nzr-Vt-Asp-Nzr-Nsfx,N,,
 Vt-Asp-Nzr-Num,N,,
@@ -272,4 +271,5 @@ Vt-Asp-Nzr-Num,N,,
 Vt-Asp-Nzr-NInfl,N,,
 Prs-V-Nzr,N,,
 Prs-Vt-Vinfl-Prs-Agr,Vt,,
+Dem-?-?,Dem,,
 Vt-Nzr-NInfl,N,,

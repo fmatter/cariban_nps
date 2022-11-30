@@ -34,12 +34,14 @@ for lg, total in stats.items():
     ]
     assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
     if len(positives) > 0:
-        df = pd.crosstab(positives["Discont_NP"], positives["Syntactic_Role"], margins=True)
+        df = pd.crosstab(
+            positives["Discont_NP"], positives["Syntactic_Role"], margins=True
+        )
         df.index.name = ""
         stat_overview.append(
-        f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with positive tokens:\n\n"
-        + df.to_markdown()
-    )
+            f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with positive tokens:\n\n"
+            + df.to_markdown()
+        )
     for o, t in [
         (positives, pos_overview),
         (questions, q_overview),
