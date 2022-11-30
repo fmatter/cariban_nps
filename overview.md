@@ -16,12 +16,13 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Akawaio: 3/674 (0.45%) text records with positive tokens:
+Akawaio: 12/715 (1.68%) text records with positive tokens:
 
 |      |     | All |
 |:-----|----:|----:|
-| part |   3 |   3 |
-| All  |   3 |   3 |
+| part |  11 |  11 |
+| y    |   1 |   1 |
+| All  |  12 |  12 |
 
 ## Hixkaryána
 
@@ -202,6 +203,73 @@ Akawaio: 3/674 (0.45%) text records with positive tokens:
 > 3Sg.Anim-Emph  Emph  1Sg  father   Emph  be-Past  A.I.?  Kuyuni  Kuyuni-tribe  3S-say-Hab-Past  3Pl  Emph  
 > ‘ He my father was from a tribe from Kayuni, so they always say’</pre>
 
+-   *tu’ke* looks like an adverb:
+
+> (pingkas-personal-narrative-064) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tu'ke rö tok maimu eji brazil bo kuru</i>  
+> tu'ke  rö    tok  maimu     eji  brazil  po   kuru  
+> many   Emph  3Pl  language  be   Brazil  Loc  Emph  
+> ‘There have several languages in Brazil in particular’</pre>
+
+-   1)  *serö … Gaiana*, 2) *mörö … maing*:
+
+> (pingkas-personal-narrative-066) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö ning shi Gaiyana bo rï'kwö ning ji mïgï mörö dö wagïbe kuning maing eji, mörö gaza</i>  
+> serö  ning  ji    Gaiyana  po   rï'kwö  ning  ji    mïgï  mörö  tö  wagï  pe    kuru  ning  maing  eji  mörö  kaza  
+> this  Emph  Emph  Guyana   Loc  Dim     Emph  Emph  Hes   that  go  good  like  Emph  Emph  word   be   that  like  
+> ‘Here in Guyana the language (Akawaio) goes well (meaning spoken well), like that’</pre>
+
+> (pingkas-personal-narrative-068-interviewer) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>pandong rö penarokrï'pï?</i>  
+> pandong  rö    penarok-rï'pï  
+> story    Emph  old-Past.Psn  
+> ‘Even one that use to be an old story’</pre>
+
+> (ps-duck-story-007) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>wagïdong rö airö stori amök bu'töga'nïgï tok a be mang</i>  
+> wagï-dong  rö    airö      stori  amök  pu'tögabï-nïgï  tok  ya   pe    mang  
+> good-Pl    Emph  sympathy  story  Pl    forget-Caus     3Pl  Erg  like  3.be.Pres  
+> ‘It seems that they will be forgetting good stories’</pre>
+
+> (ps-duck-story-032) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö ning mai'kwak eji mörö ösöbe shiyampiyan be ning shi shenubasak be yeshi</i>  
+> kïrö      ning  mai'kwak  eji  mörö   özö-be        shiyampiyan  pe    ning  y-eji  i-zenuba-zak  pe    y-eji  
+> 3Sg.Anim  Emph  duck      be   A.I.?  serious-Attr  champion     like  Emph  3-be   3-learn-Perf  like  3-be  
+> ‘But the duck is really a very serious one, he is a champion because he is one that is trained’</pre>
+
+> (ps-duck-story-047) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö ji togodogo pada go'manï'ning ingurungnöbök ning te'seng</i>  
+> kïrö      ji    togodogo  pada   ko'manïgï-ning  ingurumï-nöbök   ning  t-eji-zeng  
+> 3Sg.Anim  Emph  owl       place  keep-A.Nzr      stay.still-Prog  Emph  Adv-be-Abs.Nzr  
+> ‘Then that owl the one who spent his time resting’</pre>
+
+> (ps-duck-story-060) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ekepe rö a'naik e'kwa ning ti'tuik pra rö</i>  
+> ege-be    rö    a'naik  e'kwa  ning  t-i'tu-ik        bra  rö  
+> big-Attr  Emph  corn    field  Emph  Adv-know-Prtcpl  Neg  Emph  
+> ‘There were a huge amount of fields with corn and many other crops’</pre>
+
+> (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
+> aigo   rï'kwö  wijagong  mïre   rï'kwö  önïk  rönamo  uri'chang  mïre   rï'kwö  rö    namo  
+> small  Dim     other     child  Dim     who   uncrtn  female     child  Dim     Emph  Uncrtnty  
+> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
+
+> (ps-duck-story-084) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>haing! kïrö shi wishagong nöma mörö kasa nöma shi biögörö tiano'maka'pï röma rö</i>  
+> haing           kïrö      ji    ijagong  röma  mörö  kaza  röma  ji    i-pögörö  i-tano'ma-gabï-'pï      röma  rö  
+> sudden.absence  3Sg.Anim  Emph  partner  also  that  like  also  Emph  3-after   3-get.lost-Cmpltv-Past  also  Emph  
+> ‘haing!(expression describing sudden absence)then her partner in a similar manner went after her and also got lost’</pre>
+
 # Unclear
 
 ## Hixkaryána
@@ -360,6 +428,60 @@ Akawaio: 3/674 (0.45%) text records with positive tokens:
 > serö  ji    munggö    amök  ya   ji    urö  nïmï-bödï-'pï      ji  
 > this  Emph  children  Pl    Erg  Emph  1Sg  leave-Pl.Abs-Past  Emph  
 > ‘Now at this time, my children have now left me’</pre>
+
+-   what is *zerö pabai*?:
+
+> (pingkas-personal-narrative-001-interviewer) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ka'pong be aauro'kauya zerö pabai,</i>  
+> ka'pong  pe    a-auro'ka-u-ya  serö  pabai  
+> person   like  2-tell-1-Erg    this  father  
+> ‘I will talk to you in Akawaio father’</pre>
+
+-   what’s that little *mörö* doing there?:
+
+> (pingkas-personal-narrative-047) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïgï tok kïipïnïdong winnö mörö ji am..</i>  
+> mïgï  tok  kïibïnï-dong  winö  mörö  ji    am  
+> Hes   3Pl  father-Pl     from  that  Emph  um  
+> ‘From their father's side that’</pre>
+
+-   this translation puts *serö* and *maimu* together:
+
+> (pingkas-personal-narrative-057) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö rï'kwö rö maing sauro'nö na'nek eji wagïbe rö</i>  
+> serö  rï'kwö  rö    maing  saurogï-nnö  nai-nek        eji  wagï  pe    rö  
+> this  Dim     Emph  word   talk-1+2S    3.be.Pres-Rel  be   good  like  Emph  
+> ‘This language that we talk here is really good’</pre>
+
+-   is this one NP or two?:
+
+> (ps-duck-story-025) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö togodogo endai</i>  
+> kïrö      togodogo  endai  
+> 3Sg.Anim  owl       better  
+> ‘Better than the owl’</pre>
+
+-   nice example of possessive construction with intervening particle:
+
+> (ps-duck-story-055) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mai'kwak amök mainarï</i>  
+> mai'kwak  amök  maina-ri  
+> duck      Pl    farm-PS  
+> ‘The farm of the ducks’</pre>
+
+-   is *kirö* coreferential with *ijagong*?:
+
+> (ps-duck-story-087) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>a.. weruji be no'sanshi dö mörö, eruwö kïrö rï'kwö ne'pö'ai'nek pe wishagong</i>  
+> a   weruji  pe    no'sami'chi  tö  mörö   eruwö       kïrö      rï'kwö  n-eji-bödï-aik-nek  pe    ijagong  
+> ah  dove    like  old          go  A.I.?  small.dove  3Sg.Anim  Dim     3S-be-Hab-Pres-Rel  like  partner  
+> ‘The old woman turn into a dove and that is how she kept going and her partner went as an eruwö(smaller species of dove) bird’</pre>
 
 # Others
 
@@ -730,6 +852,24 @@ Akawaio: 3/674 (0.45%) text records with positive tokens:
 > that  after  1Sg  Emph  last.one  but     Emph  small-Attr  Dim     be-while  1Sg  father   Emph  die-Past   A.I.?  
 > ‘Then after that, I am the last one but while I was still small my father died’</pre>
 
+-   *serö* is ‘here’ and not referring to the language, right?:
+
+> (pingkas-personal-narrative-056) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö rï'kwö maing nï'kwö eji wagïbe</i>  
+> serö  rï'kwö  maing  rï'kwö  eji  wagï  pe  
+> this  Dim     word   Dim     be   good  like  
+> ‘Here the language is really a bit good’</pre>
+
+-   \[DEM PL N N\] ya?:
+
+> (ps-duck-story-064) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>anembai ta'pï shi pïze tok ewo'pï nosamishi ya mörö</i>  
+> an-ene-bai          ta-'pï    ji    pïze       tok  ewo'pï         no'sami'chi  ya   mörö  
+> 3O.Desid-see-Desid  say-Past  Emph  this.Anim  3Pl  mother.in.law  old          Erg  A.I.?  
+> ‘I want to see it said the old woman, the mother-in-law’</pre>
+
 # NPs
 
 ## Hixkaryána
@@ -962,5 +1102,118 @@ Akawaio: 3/674 (0.45%) text records with positive tokens:
 > uri'chang  amök  rögeng  sa'ne  ezugeng      warawok  amök  bra  rö  
 > female     Pl    only    Emph   of.one.kind  boy      Pl    Neg  Emph  
 > ‘These are really all girls without any boys’</pre>
+
+> (pingkas-personal-narrative-011) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>wayara yeng diezek ka'tau</i>  
+> wayara  eng   i-ezek  ka'tau  
+> macaw   cave  3-name  high  
+> ‘at a high place named Wayara yeng (Macaw's cave)’</pre>
+
+> (pingkas-personal-narrative-022) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö wenong urö dauwa ning ji</i>  
+> mörö  winö-ng   urö  ta-u-wa    ning  eji  
+> that  from-Nzr  1Sg  say-1-Erg  Emph  be  
+> ‘I am saying that I am from there’</pre>
+
+> (pingkas-personal-narrative-031) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörau sa'ji urö enshi mang ko, mö tong bo</i>  
+> mörau  sa'ji  urö  enji      mang       ko    mörö  tong  po  
+> there  Emph   1Sg  daughter  3.be.Pres  Emph  that  town  Loc  
+> ‘There is my daughter who is in town (meaning Georgetown)’</pre>
+
+> (pingkas-personal-narrative-037-pingkas-smith) Akawaio (Caesar-Fox
+> 2003)
+> <pre>
+> <i>mainarï rï'kwörö, mö mainarï möng wïk pïragong bo mainarï mang</i>  
+> maina-ri  rï'kwö-rö  mörö  maina-ri  mörö-ng     wïk       pïragong  po   maina-ri  mang  
+> farm-Psd  Dim-Emph   that  farm-Psd  that-Style  mountain  ankle     Loc  farm-Psd  3.be.Pres  
+> ‘I do have a fram, there is my farm, over there!!! My farm is at the foot of the mountain’</pre>
+
+> (ps-duck-story-012) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mai'kwak kïrö mai'kwak tuna gawong</i>  
+> mai'kwak  kïrö      mai'kwak  tuna   ka-wong  
+> duck      3Sg.Anim  duck      water  say-Nzr/Rel?  
+> ‘The duck, the one that is in the water’</pre>
+
+> (ps-duck-story-021) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö togodogo ya ji tïmainarï agïdï</i>  
+> kïrö      togodogo  ya   ji    t-maina-ri     agïdï  
+> 3Sg.Anim  owl       Erg  Emph  3.Rfl-farm-PS  d  
+> ‘The owl cut his farm’</pre>
+
+> (ps-duck-story-024) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ösöbe kïrö mai'kwak eshi ösöbe shiyampiyan be shi ösö be ji</i>  
+> özö-be        kïrö      mai'kwak  eji  özö-be        shiyampiyan  pe    y-eji  özö      pe    y-eji  
+> serious-Attr  3Sg.Anim  duck      be   serious-Attr  champion     like  3-be   serious  like  3-be  
+> ‘The duck was a very serious one, he was a serious champion’</pre>
+
+> (ps-duck-story-026) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>togodogo engurumïng... seau, tigingnö yöi ennogöiya</i>  
+> togodogo  engurumï-ng  serau  tiginnö  yöi   ennogï-i-ya  
+> owl       wait-Style   here   one      tree  send-3-Erg  
+> ‘The owl wold just sit here, then he cut down one tree’</pre>
+
+> (ps-duck-story-034) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>a.. a.. pïse tok ewo'pï nosamishi pada bong ning ji tok ewo'pï</i>  
+> a   a   pïze       tok  ewo'pï         nosami'chi  pada   po-ng    ning  ji    tok  ewo'pï  
+> ah  ah  this.Anim  3Pl  mother.in.law  old         place  Loc-Nzr  Emph  Emph  3Pl  mother.in.law  
+> ‘Then here is their mother-in-law an old woman who was at home, their mother-in-law’</pre>
+
+> (ps-duck-story-039) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai ji mai'kwak dundagabï kïrö togodogo rawörö</i>  
+> möra'tai      ji    mai'kwak  tunda-gabï     kïrö      togodogo  rawörö  
+> at.that.time  Emph  duck      travel-Cmpltv  3Sg.Anim  owl       before  
+> ‘Then the duck would journey back before the owl’</pre>
+
+> (ps-duck-story-043) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö no'sangshi ya</i>  
+> kïrö      no'sami'chi  ya  
+> 3Sg.Anim  old          Erg  
+> ‘By she the old woman’</pre>
+
+> (ps-duck-story-058) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'tane shi turonggong a, turonggong a shi mïgï mörö mai'kwak mainarï ene'pï</i>  
+> e'tane  ji    turonnö-gong  ya   turonnö-gong  ya   ji    mïgï  mörö  mai'kwak  maina-ri  ene-'pï  
+> so      Emph  another-Pl    Erg  another-Pl    Erg  Emph  Hes   that  duck      farm-PS   d  
+> ‘Then other people, the other people saw the duck's farm’</pre>
+
+> (ps-duck-story-061) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>a.. kïrö ning mïgï mörö mai'kwak manengbazai'ya mörö</i>  
+> a   kïrö      ning  mïgï  mörö  mai'kwak  manengba-zak-i-ya      mörö  
+> ah  3Sg.Anim  Emph  Hes   that  duck      make.angry-Perf-3-Erg  A.I.?  
+> ‘She had already made the duck angry’</pre>
+
+> (ps-duck-story-078) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai kïrö no'sanshi döga'pï shi maina ak</i>  
+> möra'tai      kïrö      no'sami'chi  tö-gabï-'pï     ji    maina  yak  
+> at.that.time  3Sg.Anim  old          go-Cmpltv-Past  Emph  farm   into  
+> ‘Then she the old woman went into the farm’</pre>
+
+> (ps-duck-story-082) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö no'sanshi esh'pï ingge chiya maina ya ji giororo'kasak</i>  
+> kïrö      no'sami'chi  eji-'pï  ingge      chiya     maina  ya   ji    i-kororo'ka-zak  
+> 3Sg.Anim  old          be-Past  long.time  far.away  farm   Erg  Emph  3-envelop-Perf  
+> ‘She the old woman spent a long time there, because the farm had enclosed her’</pre>
+
+> (ps-duck-story-086) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö mai'kwak sagorobasai'ya mörö, iwobiya'masai'ya ning mörö</i>  
+> kïrö      mai'kwak  sagoroba-zak-i-ya      mörö   i-wobiya'ma-zak-i-ya  ning  mörö  
+> 3Sg.Anim  duck      make.angry-Perf-3-Erg  A.I.?  3-curse-Perf-3-Erg    Emph  A.I.?  
+> ‘Now she had made the duck angry, so he had really cursed her with witchcraft’</pre>
 
 # References
