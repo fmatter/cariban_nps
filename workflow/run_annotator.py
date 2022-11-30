@@ -48,11 +48,6 @@ annotated = len(df[df["Value"] != ""])
 todo = len(df[df["Todo"]])
 assert eliminated + annotated + todo == TARGET
 
-# print(len(unannotated[unannotated["Candidate"]]) / len(unannotated))
-# w_c = sum(
-#     df[(df["ID"].isin(info["ID"]))]["Analyzed_Word"].apply(lambda x: x.count("\t") + 1)
-# )
-# total_disc_count = info["Value"].value_counts().get("y", 0)
 print(
     f"{annotated} records done, {eliminated} pre-eliminated\n{annotated/(annotated+todo):.2%}, {todo} to go!"
 )
