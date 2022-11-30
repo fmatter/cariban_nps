@@ -17,7 +17,7 @@ def pad_ex(*lines, sep=" "):
     return "\n".join(out.values())
 
 
-lg = "hix"
+lg = "aka"
 
 
 def print_record(rec):
@@ -43,7 +43,7 @@ df = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
 def screen_rec(rec):
     if rec["Part_Of_Speech"].count("N") > 1:
         return True
-    if rec["Part_Of_Speech"].count("N") >= 1 & rec["Part_Of_Speech"].count("DPro") >= 1:
+    if rec["Part_Of_Speech"].count("N") >= 1 and rec["Part_Of_Speech"].count("DPro") >= 1:
         return True
     return False
 
@@ -51,6 +51,7 @@ def screen_rec(rec):
 unannotated = df[~(df["ID"].isin(info["ID"]))]
 unannotated["Candidate"] = unannotated.apply(lambda x: screen_rec(x), axis=1)
 
+print(len(unannotated[unannotated["Candidate"]]) / len(unannotated))
 w_c = sum(
     df[(df["ID"].isin(info["ID"]))]["Analyzed_Word"].apply(lambda x: x.count("\t") + 1)
 )

@@ -1,5 +1,5 @@
 record_marker: r
-mappings:
+interlinear_mappings:
   os: Original_Primary_Text
   a: Primary_Text
   m: Analyzed_Word

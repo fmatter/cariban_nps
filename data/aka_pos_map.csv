@@ -1,154 +1,275 @@
-Orig,New
-Part,Part
-P,P
-Prtcl,Prtcl
-N,N
-?-Vt-Nzr,N
-Pers-Vi-T/A,Vi
-Pers-Vi,Vi
-V,V
-Pers-N,N
-Vt-Pers-Agr,Vt
-Vi-T/A2,Vi
-Pro,Pro
-Pers-Vi-T/A2,Vi
-Adv,Adv
-Vint-T/A2,Vi
-?-Vi-Nzr,N
-Vt,Vt
-1-P,P
-?-V-Nzr,N
-Adv-Nzr-Nsfx,N
-Vi,Vi
-Pro-Azr,A
-Vi-Nzr,N
-P-Num-Nzr,N
-Vt-Asp-T/A2,Vt
-N-Ninfl,N
-N-Ninfl-Nsfx,N
-V-T/A1,V
-Pers-N-Ninfl-Nsfx,N
-Vt-Nzr,N
-N-Azr,A
-Conj,Conj
-Pers-Nzr-Vt-T/A2,N
-Vt-Pers-Agr-Prtcl,Vt
-Vt-Nzr-Pers-Agr,N
-Pos-Ninfl,P
-Pers-Vi-Asp-Nzr,Vi
-P-Num,P
-Pers-Vi-T/A1,Vi
-Vt-T/A,Vt
-Pers-N-Azr,A
-Pers?-Vi-T/A2,Vi
-Pers-Vint-T/A2,Vi
-Adv-N-Ninfl-Azr,A
-N-Azr-Num,A
-Vt-Asp-Nzr,N
-Pro-Num,Pro
-Pers-Vi-T/A1-Rel-Num,Vi
-Vt-Pers-Agr-Num,Vt
-Pers-Vt-T/A2-Prtcl,Vt
-Vt-T/A2-Pers-Agr,Vt
-Vi-Asp-T/A1,Vi
-V-T/A,V
-N-NDer-Nzr,N
-Pers-Vt-Pers-Agr,Vt
-V-Imp,V
-Pers-Vt-T/A,Vt
-Pers-Vi-T/A1-Rel,Vi
-Vt-Asp,Vt
-Pers-Vi-T/A2?,Vi
-N-Prtcl,N
-V-Pers-Agr,V
-?-Vi-Asp-Nzr,N
-Pers-Vt-Asp-T/A,Vt
-Pers-Vt-T/A2-Nsfx,Vt
-Pers-Vt-T/A2,Vt
-Pro-?,Pro
-Vt-nzr,N
-P-Nzr,N
-Pers-Vint,Vi
-Vi-Asp-T/A2,Vi
-Pers-Vt-Asp,Vt
-?-Vint-Nzr,N
-Pro-Agr,Pro
-Nzr-Vt-Nzr,N
-Vt-Nzr-Prtcl,N
-Pers-Vi-VDer,Vi
-Vi-Asp,Vi
-Pers-Vt-Asp-T/A2,Vt
-Adv-Nzr,N
-Pers-Vi-Asp-T/A1,Vi
-V-Imper,V
-Vt-Asp-Pers-Agr,Vt
-Pers-Vi-Asp,Vi
-Pers-Vt-Asp-Pers-Agr,Vt
-Pers-Vi-T/A1-Prtcl,Vi
-Pers-Vt-Nzr,N
-Vi-VDer-T/A2-Pers-Agr,Vt
-Pers-Vt-T/A2-Pers-Agr,Vt
-Pers-N-Prtcl,N
-Pers-Vi-Vinfl,Vi
-Pers-V-Pers-Agr,V
-Pers-N-Ninfl,N
-Pers-Vi-Nzr,Vi
-Vi-Pers-Nzr,N
-Pers-Vi-Asp-T/A1-Prtcl,Vi
-Nzr-Vt-T/A2,N
-Vi-VDer-Nzr,N
-Pers-Vi-T/A2-NTns,Vi
-Vi-Vinfl-Nzr,N
-N-Ninfl-Ninfl,N
-V-Nzr,N
-N-Nzr,N
-N-VDer-Nzr,N
-P-Nzr-Nsfx,N
-Pers?-Vi-Nzr,N
-Pers-Vi-Asp-T/A2,Vi
-WH-Azr,A
-?-N-Azr,A
-?-N-Ninfl-Azr,A
-Vi-nzr,N
-Pers-Vi-Asp-T/A1-Rel,Vi
-Pers-Vi-Asp-?,Vi
-Pers-Intr-Vi-Asp-T/A2,Vi
-Pers-Vi-Imp,Vi
-Pers-V-Imper,V
-Vi-Azr,A
-Pers-Vt-Nzr-Nsfx,N
-?-Vi-Nzr-Nsfx,N
-Pers-Vi-Nsfx,Vi
-Pers-Vt-Asp-Nzr-Nsfx,N
-Pers-Vt-T/A2-Nsfx-Azr,Vt
-Pers-Vi-T/A2?-?,Vi
-N-NinflN,N
-Num-Nzr,N
-Pers-Vt-T/A2?-Pers-Agr,Vt
-Pers-Vi-VDer-Pers-Agr,Vi
-?-Vint-Asp-Nzr,N
-Pers-Vi-T/A2Prtcl,Vi
-Vt-Nzr-Num,N
-Pro-Nzr,N
-Adv-nzr-Nsfx,N
-Dem-Azr,A
-Vt-nzr-Num,N
-N-Ninfl-N,N
-Pers-Vi-T/A2-Nsfx,Vi
-Prs-Vi-T/A2,Vi
-Imp-V-Imp,V
-Pers-Vi-Vdrv,Vi
-Pers-Vint-Num,Vi
-N-Nsfx-Azr,A
-Nzr-Vt-Nsfx,N
-Vt-Vinfl-Nzr,N
-Pers-Vint-Asp-T/A1,Vi
-?-Intr-Dem.Pro-Nzr,N
-Vt-Asp-Nzr-Num,N
-Pers-Vi-T/A1-?,Vi
-?-V-Asp-Nzr,N
-Pers-Vi-Asp-T/A2-?,Vi
-Vt-Asp-Nzr-NTns,N
-Pers-V-Nzr,N
-Vi-VDer-T/A2,Vt
-Vt-Nzr-NTns,N
+Orig,New,Tokens,Examples
+?,UNRESOLVED,5.0,mörö ‘A.I.?’  /  mörö ‘A.I.?’  /  mörö ‘A.I.?’  /  mörö ‘A.I.?’  /  mörö ‘A.I.?’
+Prs-V-TAM,UNRESOLVED,5.0,n-eji-dai ‘3S-be-Past’  /  si-ene-dai ‘1A-see-Past’  /  si-ene-dai ‘1A-see-Past’  /  n-eji-tai ‘3S-be-Med.Past’  /  mï-ene-ang ‘2A-see-Pres’
+1-P,UNRESOLVED,0.0,
+Abdul,UNRESOLVED,2.0,abdool ‘Abdul’  /  Abdool ‘Abdul’
+Adv?-Prtcl,UNRESOLVED,5.0,rï'kwö-rö ‘Dim-Emph’  /  rï'kwö-rö ‘Dim-Emph’  /  rï'kwö-rö ‘Dim-Emph’  /  rï'kwö-rö ‘Dim-Emph’  /  rï'kwö-rö ‘Dim-Emph’
+Vt-?,UNRESOLVED,2.0,egama-k ‘tell-Style’  /  to'ka'nïbï-ng ‘understand-Style’
+Num-AInfl-Num,UNRESOLVED,1.0,tiginnö-barö-'ne ‘one-Compar-Indiv’
+Prs-Vi-TAM-Rel-Num,UNRESOLVED,1.0,n-zaurogï-i-nek-nang ‘3S-talk-RPst-Rel-Pl’
+?-Vi-Vder,UNRESOLVED,5.0,t-ka-ik ‘Adv-say-Prtcpl’  /  t-ka-ik ‘Adv-say-Prtcpl’  /  t-ka-ze ‘Adv-say’  /  t-ka-ik ‘Adv-say-Prtcpl’  /  t-e'-kiyari'tö-ik ‘Adv-Detr-feed-Prtcpl’
+?-Vt-Vder,UNRESOLVED,5.0,t-egama-ik ‘Adv-think-Prtcpl’  /  t-i'tu-ik ‘Adv-know-Prtcpl’  /  t-i'tu-ik ‘Adv-know-Prtcpl’  /  t-egama-ik ‘Adv-think-Prtcpl’  /  t-i'tu-ik ‘Adv-know-Prtcpl’
+Vi-Val,UNRESOLVED,1.0,pogoida-mbï ‘feel.sad-Caus’
+Vi-Rel,UNRESOLVED,5.0,nai-nek ‘3.be.Pres-Rel’  /  nai-nek ‘3.be.Pres-Rel’  /  nai-nek ‘3.be.Pres-Rel’  /  nai-nek ‘3.be.Pres-Rel’  /  nai-nek ‘3.be.Pres-Rel’
+V-Imp,UNRESOLVED,1.0,ene-dök ‘see-Pl.Imp’
+Prs-Vi-TAM-Rel,UNRESOLVED,5.0,u-ga-i-nek ‘1-say-RPst-Rel’  /  mï-ka-i-nek ‘2Sa-say-RPst-Rel’  /  n-ga-aik-nek ‘3S-say-Pres-Rel’  /  n-ga-i-nek ‘3S-say-RPst-Rel’  /  n-ga-i-nek ‘3S-say-RPst-Rel’
+Prs-Vt-Asp-TAM-Rel,UNRESOLVED,1.0,n-ezagï-bödï-i-nek ‘3A3O-name-Iter-RPst-Rel’
+Prs-Vt-TAM-Rel,UNRESOLVED,5.0,si-egama-aik-nek ‘1A-tell-Pres-Rel’  /  n-egama-i-nek ‘3A3O-tell-RPst-Rel’  /  n-egama-i-nek ‘3A3O-tell-RPst-Rel’  /  n-egama-i-nek ‘3A3O-tell-RPst-Rel’  /  n-egama-i-nek ‘3A3O-tell-RPst-Rel’
+Vcl-Vi,UNRESOLVED,2.0,w-ebori'ma ‘Sa-be.happy’  /  w-yebï ‘Sa-come’
+Pro-Agr,UNRESOLVED,1.0,tok-ya ‘3Pl-Erg’
+Prs-Vi-VDer,UNRESOLVED,1.0,y-ereuda-nïgï ‘1-sit-Caus’
+N-NDer,UNRESOLVED,1.0,gia'nö-bïng ‘tasty-Priv’
+Prs-P-Prtcl,UNRESOLVED,2.0,u-poi-rö ‘1-near-Emph’  /  i-wenai-rö ‘3-close.to-Emph’
+VImp,UNRESOLVED,3.0,masa ‘wait!’  /  masa ‘wait!’  /  masa ‘wait!’
+DPro-Prtcl,UNRESOLVED,3.0,mörö-rö ‘that-Emph’  /  mörö-rö ‘that-Emph’  /  mörö-rö ‘that-Emph’
+Vi-VDer-TAM-Prs-Agr,UNRESOLVED,1.0,pinimï-ba-'pï-i-ya ‘walk-Caus-Past-3-Erg’
+DPro.Pro,UNRESOLVED,5.0,se ‘this’  /  se ‘this’  /  se ‘this’  /  se ‘this’  /  se ‘this’
+Prs-V-Asp-TAM,UNRESOLVED,5.0,si-ene-bödï-dai ‘1A-see-Iter-Past’  /  n-eji-bödï-tai ‘3S-be-Iter-Med.Past’  /  n-eji-bödï-ang ‘3S-be-Hab-Pres’  /  n-eji-bödï-dai ‘3S-be-Hab-Past’  /  y-eji-bödï-'pï ‘3-be-Hab-Past’
+P?,UNRESOLVED,2.0,kenïk ‘Purp’  /  kenïk ‘Purp’
+Vi-?,UNRESOLVED,5.0,nai-k ‘3.be.Pres-Style’  /  engurumï-ng ‘wait-Style’  /  yebï-k ‘come-Style’  /  eji-i'ma ‘be-While’  /  eji-i'ma ‘be-While’
+WH-Prtcl,UNRESOLVED,1.0,ö'rö-rö ‘what-Emph’
+?-Vt-Vdrv,UNRESOLVED,1.0,an-i'tu-bai ‘Desid-know-Desid’
+Voc,UNRESOLVED,2.0,pabai ‘father’  /  ko'koi ‘grandma’
+Vi-VDer-Asp-TAM,UNRESOLVED,1.0,pinimï-ba-bödï-'pï ‘walk-Caus-Iter-Past’
+Vi-Asp-TAM-?,UNRESOLVED,3.0,ena-gabï-'pï-k ‘become-Cmpltv-Past-Style’  /  ko'mamï-bödï-'pï-k ‘live-Hab-Past-Style’  /  eji-bödï-'pï-k ‘be-Hab-Past-Style’
+?-Vi-Nzr-Azr,UNRESOLVED,1.0,t-e'-pömï-zeng-be ‘Adv-Detr-plant-Abs.Nzr-Attr’
+Vi-TAM-?,UNRESOLVED,2.0,eji-'pï-k ‘be-Past-Style’  /  baga-zak-ng ‘awaken-Perf-Style’
+Pos-?,UNRESOLVED,1.0,tïbo-k ‘after-Style’
+Num-Prtcl,UNRESOLVED,2.0,aza'rö-rö ‘two-Emph’  /  aza'rö-rö ‘two-Emph’
+Prs-P-?,UNRESOLVED,3.0,i-pögörö-k ‘3-after-Style’  /  i-pögörö-k ‘3-after-Style’  /  i-ya-ng ‘3-Erg-Style’
+DPro-?,UNRESOLVED,3.0,mörö-ng ‘that-Style’  /  mörö-ng ‘that-Style’  /  mörö-rö ‘that-Cop?’
+DPro-Nsfx,UNRESOLVED,5.0,mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’  /  mörö-dong ‘that-Pl’
+Vt-Asp-Imp,UNRESOLVED,1.0,auro'ka-bödï-dök ‘tell-Iter-Pl.Imp’
+Vi-VDer,UNRESOLVED,1.0,pu'tögabï-nïgï ‘forget-Caus’
+Prs-Vi-Asp-TAM-Rel,UNRESOLVED,4.0,n-eji-bödï-aik-nek ‘3S-be-Hab-Pres-Rel’  /  n-eji-bödï-aik-nek ‘3S-be-Hab-Pres-Rel’  /  n-ka-bödï-aik-nek ‘3S-say-Hab-Pres-Rel’  /  n-ka-bödï-aik-nek ‘3S-say-Hab-Pres-Rel’
+Prs-Vi-Asp-?,UNRESOLVED,1.0,y-enggurumï-bödï-ng ‘3-wait-Hab-Style’
+Adv?-?,UNRESOLVED,1.0,chiya-ng ‘far.away-Style’
+Prs-V-Imp,UNRESOLVED,1.0,mï-ene-ik ‘2A-see-Med.Imp’
+Vi-Vder-TAM-Prs-Agr,UNRESOLVED,1.0,go'mamï-ga-zak-i-ya ‘live-Caus-Perf-3-Erg’
+??-Vi-VDer,UNRESOLVED,1.0,a-gwaramï-ze'na ‘A-cry-Purp’
+Prs-Vt-Asp-Vdrv,UNRESOLVED,1.0,an-aburö-bödï-bai ‘3O.Desid-praise-Iter-Desid’
+Prs-Vt-Asp-TAM-Prs-Agr,UNRESOLVED,1.0,i-gubï-bödï-'pï-u-wa ‘3-do-Hab-Past-1-Erg’
+Vi-VDer-Num,UNRESOLVED,1.0,binimï-ba-'nogong ‘walk-Caus-Pl’
+V-Asp-Prs-Agr,UNRESOLVED,3.0,ene-bödï-u-ya ‘see-Hab-1-Erg’  /  ene-bödï-u-wa ‘see-Hab-1-Erg’  /  ene-bödï-i-ya ‘see-Hab-3-Erg’
+Prs-Vcl-Vi-Nsfx,UNRESOLVED,1.0,a-w-eji-gong ‘2-Sa-be-Pl.Abs’
+Vt-Asp-Asp-Prs-Agr,UNRESOLVED,1.0,i'tu-bödï-bödï-u-ya ‘know-Hab-Iter-1-Erg’
+Prs-Vi-TAM-?,UNRESOLVED,4.0,i-tö-dane-ng ‘3-go-while-Style’  /  y-e'kwörödï-dane-ng ‘3-cross-while-Style’  /  u-ga-i-k ‘1-say-RPst-Style’  /  u-ka-i-k ‘1-say-RPst-Style’
+?-?,UNRESOLVED,4.0,mörö-ng ‘A.I.?-Style’  /  mörö-ng ‘A.I.?-Style’  /  ïng-ng ‘mmm-Style’  /  mörö-k ‘A.I.?-Style’
+Vt-TAM-Prs-Agr-?,UNRESOLVED,3.0,arangga-zak-i-ya-k ‘unfold-Perf-3-Erg-Style’  /  ta-dane-i-ya-k ‘say-while-3-Erg-Style’  /  a'koga-dane-i-ya-k ‘open-while-3-Erg-Style’
+PP,UNRESOLVED,1.0,tuna'po ‘on.river.edge’
+Hes-?,UNRESOLVED,1.0,ïm-ng ‘um-Style’
+Intr-Prs-N-Nsfx,UNRESOLVED,1.0,d-i-egare-dong ‘Detr-3-story-Pl’
+Vi-Rel-?,UNRESOLVED,1.0,nai-nek-ng ‘3.be.Pres-Rel-Style’
+V-Asp-?,UNRESOLVED,1.0,ene-bödï-ng ‘see-Hab-Style’
+Compar,UNRESOLVED,2.0,barö ‘more’  /  parö ‘more’
+V-Asp-Prs-Agr-?,UNRESOLVED,1.0,ene-bödï-i-ya-ng ‘see-Hab-3-Erg-Style’
+Vi-Rel-Num,UNRESOLVED,1.0,nai-nek-nang ‘3.be.Pres-Rel-Pl’
+Prs-Vi-VDer-Prs-Agr,UNRESOLVED,1.0,i-ma'ta-nïgï-u-ya ‘3-die-Caus-1-Erg’
+P-?,UNRESOLVED,2.0,ji'kö-k ‘from-Style’  /  awörö-k ‘around-Style’
+Vi-Vder,UNRESOLVED,2.0,yebï-ze ‘come-Prtcpl’  /  yebï-ze ‘come-Prtcpl’
+Pro-Prtcl-Prtcl,UNRESOLVED,1.0,kïrö-rö-rö ‘3Sg.Anim-Emph-Emph’
+Prs-V-Prs-Agr,UNRESOLVED,1.0,y-ene-i-ya ‘1-see-3-Erg’
+Vt-TAM-?,UNRESOLVED,2.0,ta-zak-ng ‘say-Perf-Style’  /  eno'ma-'pï-k ‘throw-Past-Style’
+WH-??-Nsfx,UNRESOLVED,1.0,ö'rö-dok-gong ‘what-Purp-Pl.Abs’
+?-V-Vder,UNRESOLVED,1.0,t-ene-ze ‘Adv-see-Prtcpl’
+Imp-V-Imp,UNRESOLVED,1.0,kïz-eji-ning ‘Neg.Imp-be-Neg.Perm’
+Prs-Vi-Vdrv,UNRESOLVED,1.0,i-tö-bai ‘3-go-Desid’
+V-Asp-TAM-Prs-Agr,UNRESOLVED,1.0,ene-bödï-zak-u-ya ‘see-Iter-Perf-1-Erg’
+DPro-Pos,UNRESOLVED,1.0,mörö-dïbo ‘that-after’
+Aux,UNRESOLVED,2.0,ze ‘Fut’  /  ze ‘Fut’
+Pr,UNRESOLVED,1.0,tok ‘3Pl’
+Vi-Asp-?-?,UNRESOLVED,1.0,yebï-gabï-ng-ng ‘come-Cmpltv-Style-Style’
+Vt-?-TAM,UNRESOLVED,1.0,e'kuibö-nnö-zak ‘cook-Style-Perf’
+Vi-Prs-Vinfl,UNRESOLVED,1.0,eji-nnö-do'pe ‘be-1+2S-Fut’
+Prs-V-Asp-TAM-?,UNRESOLVED,1.0,y-eji-bödï-'pï-ng ‘3-be-Hab-Past-Style’
+Prs-Vi-Asp-TAM-?,UNRESOLVED,1.0,y-e'-koda'ma-bödï-'pï-ng ‘3-Detr-punish-Hab-Past-Style’
+???,UNRESOLVED,1.0,mo'ma ‘???’
+Prtcl-Prs,UNRESOLVED,1.0,dö-nnö ‘Emph-1+2S’
+V-Asp,UNRESOLVED,1.0,eji-bödï ‘be-Hab’
+Vi-VDer-TAM,UNRESOLVED,1.0,pinimï-ba-bök ‘walk-Caus-Prog’
+Vt-Asp-TAM-Agr,UNRESOLVED,1.0,egama-bödï-'pï-ya ‘tell-Iter-Past-Erg’
+Prs-V-?,UNRESOLVED,1.0,y-eji-ng ‘3-be-Style’
+DPro-?-?,UNRESOLVED,2.0,mörö-ng-ng ‘that-Style-Style’  /  mörö-ng-ng ‘that-Style-Style’
+Hes,Prtcl,,
+WH,Pro,,
+P,P,,
+Prtcl,Prtcl,,
+N,N,,
+?-Vt-Nzr,N,,
+Vi.Imp,Vi,,
+Prs-Vi-TAM,Vi,,
+DPro,DPro,,
+Prs-Vi,Vi,,
+V,Vi,,
+Prs-N,N,,
+Vt-Prs-Agr,Vt,,
+Vi-TAM,Vi,,
+Pro,Pro,,
+Adv?,Pro,,
+V-TAM,Vi,,
+?-Vi-Nzr,N,,
+Adv,Adv,,
+Neg,Adv,,
+Vt,Vt,,
+Prs-P,P,,
+?-V-Nzr,N,,
+Num,Prtcl,,
+Adv-Nzr-Nsfx,N,,
+Vi,Vi,,
+P-Prtcl,P,,
+Vt-TAM,Vt,,
+Cop,Vi,,
+Prs-V,Vi,,
+Pro-Azr,A,,
+Prs-Vt,Vt,,
+N-Nsfx,N,,
+Prs-N-Nsfx,N,,
+Vi-Nzr,N,,
+N?,N,,
+P-Num-Nzr,N,,
+Vt-Asp-TAM,Vt,,
+Prs-Vt-TAM,Vt,,
+N-Ninfl,N,,
+N-Ninfl-Nsfx,N,,
+Prs-N-Ninfl-Nsfx,N,,
+Vt-Nzr,N,,
+N-Azr,A,,
+Prs-Nzr-Vt-TAM,N,,
+Vt-Prs-Agr-Prtcl,Vt,,
+Vt-Nzr-Prs-Agr,N,,
+Pos-Ninfl,Adv,,
+Prs-Vi-Asp-Nzr,N,,
+P-Num,P,,
+Prs-N-Azr,A,,
+Adv-N-Ninfl-Azr,A,,
+Rel,Prtcl,,
+N-Azr-Num,A,,
+Vi-Asp-TAM,Vi,,
+Vt-Asp-Nzr,N,,
+Pro-Num,Pro,,
+??,Interj,,
+Vt-Prs-Agr-Num,Vt,,
+Prtcl-?,Prtcl,,
+Prs-Vt-TAM-Prtcl,Vt,,
+SW,SW,,
+Vt-TAM-Prs-Agr,Vt,,
+Pro-Prtcl,Pro,,
+Prtcl-Prtcl,Prtcl,,
+Vimp,Vi,,
+N-NDer-Nzr,N,,
+Prs-Vt-Prs-Agr,Vt,,
+Vt-Asp,Vt,,
+N-Prtcl,N,,
+V-TAM-Prs-Agr,Vt,,
+?-Vi-Asp-Nzr,N,,
+Neg-Prtcl,Prtcl,,
+Prs-Vt-Asp-TAM,Vt,,
+Prs-Vt-TAM-Nsfx,Vt,,
+Pro-?,DPro,,
+P-Nzr,N,,
+Vt-TAM-Prs-Agr-Num,Vt,,
+N-?,N,,
+Prs-V-Vdrv,Adv,,
+Prs-N-NInfl,N,,
+Prs-Vt-Dir-Imp,Vt,,
+Prs-Vt-Asp,Vt,,
+Vi-Vinfl,Vi,,
+Nzr-Vt-Nzr,N,,
+Vt-Nzr-Prtcl,N,,
+Vi-Asp,Vi,,
+WH-Num,Pro,,
+Adv-Nzr,N,,
+sfx,Prtcl,,
+Prs-Vi-Asp-TAM,Vi,,
+Vt-Asp-Prs-Agr,Vt,,
+Prs-Vi-Asp,Vi,,
+Prs-Vt-Asp-Prs-Agr,Vt,,
+Vi-Vdrv,Adv,,
+Prs-Vi-TAM-Prtcl,Vi,,
+Adv-Prtcl,Adv,,
+Prs-Vt-Nzr,N,,
+Prs-Vt-TAM-Prs-Agr,Vt,,
+Prs-N-Prtcl,N,,
+Prs-V-Vinfl,Vi,,
+V-?,Vi,,
+Vt-Prtcl,Vt,,
+Prs-Vi-Vinfl,Vi,,
+V-Prs-Agr,Vt,,
+Prs-N-Ninfl,N,,
+Prs-Adv,Adv,,
+Pos,Adv,,
+Vt-Vder,Adv,,
+Vi-Prs,Vi,,
+V-Asp-TAM,Vi,,
+Prs-Vi-Nzr,N,,
+Vt-Asp-TAM-Prs-Agr,Vt,,
+Prs-Vt-Vdrv,Adv,,
+Vi-Prs-Nzr,N,,
+Vi-Imp,Vi,,
+N-NInfl,N,,
+V-Vinfl,Vi,,
+Prs-Vi-Asp-TAM-Prtcl,Vi,,
+Nzr-Vt-TAM,N,,
+Vi-VDer-Nzr,N,,
+Vi-Vder-TAM,Vt,,
+SW-Nsfx,SW,,
+N-TAM,N,,
+Prs-Vi-TAM-NInfl,Vi,,
+Vi-Vinfl-Nzr,N,,
+Prs-Vt-Imp,Vt,,
+Vi-Prs-TAM,Vi,,
+N-Ninfl-Ninfl,N,,
+V-Nzr,N,,
+N-Nzr,N,,
+N-VDer-Nzr,N,,
+Prs-N-Vzr-TAM,V,,
+N-N,N,,
+P-Nzr-Nsfx,N,,
+WH-Azr,A,,
+Interj,Interj,,
+?-N-Azr,A,,
+Vi-Asp-Asp-TAM,Vi,,
+?-N-Ninfl-Azr,A,,
+N-Vzr-TAM,V,,
+N-Num,N,,
+V-VDer,Adv,,
+Prs-Vi-Imp,Vi,,
+Vi-Azr,A,,
+Vi-Vinfl-TAM,Vi,,
+Vt-VDer,Adv,,
+Prs-P-Num,P,,
+Prs-Vt-Nzr-Nsfx,N,,
+?-Vi-Nzr-Nsfx,N,,
+Prs-Vi-Nsfx,Vi,,
+Prs-Vt-Asp-Nzr-Nsfx,N,,
+Prs-Vt-Nsfx-TAM,Vt,,
+Prs-Vt-TAM-Nsfx-Azr,A,,
+Prs-P-Nzr,N,,
+Vi-TAM-Prs-Agr,Vi,,
+Num-Nzr,N,,
+Vt-Vinfl,Adv,,
+Prs-N-?,N,,
+Vt-Nzr-Num,N,,
+Pro-Nzr,N,,
+DPro-Azr,A,,
+N-Ninfl-N,N,,
+Prs-Vi-TAM-Nsfx,Vi,,
+Vi-Prs-Agr,Vi,,
+N-Prs,N,,
+N-Asp-TAM,N,,
+Prs-Vt-Asp-Imp,Vt,,
+Prs-Vi-Num,Vi,,
+N-Nsfx-Azr,A,,
+Nzr-Vt-Nsfx,N,,
+Vt-Prs,Vt,,
+Prs-Vt-Vinfl,Vt,,
+Vt-Vinfl-Nzr,N,,
+?-Intr-DPro.Pro-Nzr,N,,
+N-???,N,,
+Nzr-Vt-Asp-Nzr-Nsfx,N,,
+Vt-Asp-Nzr-Num,N,,
+?-V-Asp-Nzr,N,,
+Vt-Asp-Nzr-NInfl,N,,
+Prs-V-Nzr,N,,
+Prs-Vt-Vinfl-Prs-Agr,Vt,,
+Vt-Nzr-NInfl,N,,
