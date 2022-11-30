@@ -16,12 +16,12 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Akawaio: 1/610 (0.16%) text records with positive tokens:
+Akawaio: 3/674 (0.45%) text records with positive tokens:
 
 |      |     | All |
 |:-----|----:|----:|
-| part |   1 |   1 |
-| All  |   1 |   1 |
+| part |   3 |   3 |
+| All  |   3 |   3 |
 
 ## Hixkaryána
 
@@ -186,6 +186,22 @@ Akawaio: 1/610 (0.16%) text records with positive tokens:
 > 1+3  Erg  Emph  this  Emph  cassava.beer  make  
 > ‘We make this thing called kashiri’</pre>
 
+> (lester-eugene-personal-narrative-016) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai ji tok a nio'pï'tö'pï mörö kïrörö ji guïibïnï be te'tong</i>  
+> möra'tai      ji    tok  ya   i-no'pï-'tö-'pï      mörö   kïrö-rö        ji    u-kïibïnï  pe    t-eji-dong  
+> at.that.time  Emph  3Pl  Erg  3-wife-provide-Past  A.I.?  3Sg.Anim-Emph  Emph  1-father   like  T-be-Subj.Nzr  
+> ‘Then, they give him a wife the one that was to become my father’</pre>
+
+-   \[*kïrörö ji*\] \[*urö kïibïnï ji*\]:
+
+> (lester-eugene-personal-narrative-026) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrörö ji urö gïibïnï ji es'pï mörö kayuni, kayunirïgok nïgabö'tai tok ko</i>  
+> kïrö-rö        ji    urö  kïibïnï  ji    eji-'pï  mörö   kayuni  kayuni-gok    n-ka-bödï-dai    tok  ko  
+> 3Sg.Anim-Emph  Emph  1Sg  father   Emph  be-Past  A.I.?  Kuyuni  Kuyuni-tribe  3S-say-Hab-Past  3Pl  Emph  
+> ‘ He my father was from a tribe from Kayuni, so they always say’</pre>
+
 # Unclear
 
 ## Hixkaryána
@@ -326,6 +342,24 @@ Akawaio: 1/610 (0.16%) text records with positive tokens:
 > serö  yau  a-endu-'pï      waramadang  po  
 > this  Loc  2-be.born-Past  Waramadong  Loc  
 > ‘I was born here in Waramadang’</pre>
+
+-   ‘Daddie your father’?:
+
+> (lester-eugene-personal-narrative-036) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>dadi bogong nö agïibïnïdong rö tombadong be rö</i>  
+> dadi   pök-ng     nö    a-kïibïnï-dong  rö    tomba-dong   pe    rö  
+> Daddy  about-Nzr  Emph  2-father-Pl     Emph  relative-Pl  like  Emph  
+> ‘also the relative of Daddie your father’</pre>
+
+-   is *serö ji* ‘at this time’?:
+
+> (lester-eugene-personal-narrative-100) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö ji munggamök a ji urö nïmbödï'pï ji</i>  
+> serö  ji    munggö    amök  ya   ji    urö  nïmï-bödï-'pï      ji  
+> this  Emph  children  Pl    Erg  Emph  1Sg  leave-Pl.Abs-Past  Emph  
+> ‘Now at this time, my children have now left me’</pre>
 
 # Others
 
@@ -687,6 +721,15 @@ Akawaio: 1/610 (0.16%) text records with positive tokens:
 > 2-talk-Purp      2-ask-1-Erg    S.I.  2-live-Nzr     about  Emph  2-name  about  Emph  all      Emph   all      Emph  
 > ‘I am asking you to talk about how you live, your name and everything’</pre>
 
+-   confused by the addressee involvement here:
+
+> (lester-eugene-personal-narrative-021) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö dïbo urö ji laspang e'tane ji aigobe rï'kwö e'tane urö gïibïnï ji ma'ta'pï mörö</i>  
+> mörö  tïbo   urö  ji    laspang   e'tane  ji    aigo-be     rï'kwö  eji-dane  urö  kïibïnï  ji    ma'ta-'pï  mörö  
+> that  after  1Sg  Emph  last.one  but     Emph  small-Attr  Dim     be-while  1Sg  father   Emph  die-Past   A.I.?  
+> ‘Then after that, I am the last one but while I was still small my father died’</pre>
+
 # NPs
 
 ## Hixkaryána
@@ -898,5 +941,26 @@ Akawaio: 1/610 (0.16%) text records with positive tokens:
 > e'nongga  rï'kwö-rö  mörö  y-eburu-dong  ya   rö    y-ereuda-nïgï  a'tai  e'nongga  ta-wong       ning  
 > leave     Dim-Emph   that  1-boss-Pl     Erg  Emph  1-sit-Caus     when   leave     say-Nzr/Rel?  Emph  
 > ‘She has said I will leave when my bosses stop me’</pre>
+
+> (lester-eugene-personal-narrative-047) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>turonnö mïre bra yesh'pï</i>  
+> turonnö  mïre   bra  y-eji-'pï  
+> another  child  Neg  3-be-Past  
+> ‘there was no other child’</pre>
+
+> (lester-eugene-personal-narrative-096) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>uri'chang amök, ezugeng uri'chang amök seven gaijarö</i>  
+> uri'chang  amök  ezugeng      uri'chang  amök  gaijarö  
+> female     Pl    of.one.kind  female     Pl    in.number  
+> ‘with seven girls, all of the same sex’</pre>
+
+> (lester-eugene-personal-narrative-106) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>uri'chang amök rögeng sa'ne ezugeng warawok amök pra rö</i>  
+> uri'chang  amök  rögeng  sa'ne  ezugeng      warawok  amök  bra  rö  
+> female     Pl    only    Emph   of.one.kind  boy      Pl    Neg  Emph  
+> ‘These are really all girls without any boys’</pre>
 
 # References
