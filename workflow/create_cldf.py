@@ -12,7 +12,7 @@ full = len(sys.argv) > 1
 
 lg_records = {}
 total_ann = {}
-for lg in ["tri", "hix"]:
+for lg in ["tri", "hix", "aka"]:
     records = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
     records["Language_ID"] = lg
     if not full:

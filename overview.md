@@ -274,6 +274,35 @@ Hixkaryána: 2/1000 (0.20%) text records with positive tokens:
 > fish.sp   Hrsy  3Sa-Cop-DPst2  Intens  Rel-Iness-Col  small.thing  Misfrtn  Advers  Hrsy  
 > ‘The "honyetko" was inside them, having become a very small thing.’</pre>
 
+## Akawaio
+
+-   nvp?:
+
+> (ae-personal-narrative-013) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kamoro eshi mörö urö kïibïnï es'pï mörö from veneswela winö ye'sak</i>  
+> kamoro     eji  mörö   urö  kïibïnï  eji-'pï  mörö   winö  yebï-zak  
+> 3.Pl.Anim  be   A.I.?  1Sg  father   be-Past  A.I.?  from  come-Perf  
+> ‘They are the ones, my father is one who is from Venezuela’</pre>
+
+-   a’ai pïze urö sang?:
+
+> (ae-personal-narrative-018) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>i'tuya bogeng bra ji, Akawaio be rï'kwö rö na'kö ji a'ai pïze urö sang nok ne'tai</i>  
+> i'tu-u-ya   bogeng       bra  eji  Akawaio  pe    rï'kwö  rö    na'kö  ji    a'ai    pïze       urö  sang    nok          n-eji-dai  
+> know-1-Erg  like.manner  Neg  be   Akawaio  like  Dim     Emph  maybe  Emph  mother  this.Anim  1Sg  mother  grandmother  3S-be-Past  
+> ‘I do not know, but my mother's grandmother was Akawaio’</pre>
+
+-   turonnö kaza mörö kaza?:
+
+> (cc-praising-rhymes-36) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tigingba'ne tok aburöuya mörö gaza turonnöbe'ne turonnöbe'ne pïze ganang turonnö gaza mörö gaza tok aburöuya mörö</i>  
+> tiginnö-barö-'ne  tok  aburö-u-ya    mörö  kaza  turonnö-be-'ne      turonnö-be-'ne      pïze       kanang  turonnö  kaza  mörö  kaza  tok  aburö-u-ya    mörö  
+> one-Compar-Indiv  3Pl  praise-1-Erg  that  like  another-Attr-Indiv  another-Attr-Indiv  this.Anim  again   another  like  that  like  3Pl  praise-1-Erg  Fut  
+> ‘one by one I praise them like that, everyone differently. This one again will be different like that, I would praise them’</pre>
+
 # Others
 
 ## Tiriyó
@@ -587,6 +616,26 @@ Hixkaryána: 2/1000 (0.20%) text records with positive tokens:
 > bad    3Sa-Cop-Pres:Cty  3Sa-say-DPst2  Hrsy  Mawarye  Dat  Woxka  
 > ‘"She is no good," said Woxka to Mawarye.’</pre>
 
+## Akawaio
+
+-   repetition of verb:
+
+> (ae-personal-narrative-015) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö winnö urö sang ye'pï meriam ye'pï</i>  
+> mörö  winö  urö  sang    yebï-'pï   Mariam  yebï-'pï  
+> that  from  1Sg  mother  come-Past  Mariam  come-Past  
+> ‘This is where my mother Mariam came from’</pre>
+
+-   possr part possm:
+
+> (cc-praising-rhymes-25) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>korwak rï'kwö boganing dauya</i>  
+> korwak      rï'kwö  poga-ning    ta-u-ya  
+> patwa.fish  Dim     shoot-A.Nzr  say-1-Erg  
+> ‘the shhoter of cute little patwa fish, I say’</pre>
+
 # NPs
 
 ## Tiriyó
@@ -651,5 +700,14 @@ Hixkaryána: 2/1000 (0.20%) text records with positive tokens:
 > Woxka  y    mosonï  ha      o-he-txe    0-ke-konï      hatï  
 > Woxka  Voc  3AnPx   Intens  2-wife-Pos  3Sa-say-DPst2  Hrsy  
 > ‘"Woxka, this one (is) your wife," he said.’</pre>
+
+## Akawaio
+
+> (cc-praising-rhymes-32) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>sama'nong dauya ganang mörö uri'chang bök</i>  
+> sama'nong  ta-u-ya    kanang  mörö  uri'chang  pök  
+> pretty     say-1-Erg  again   Fut   female     to  
+> ‘You are pretty, I would say again to the girl’</pre>
 
 # References
