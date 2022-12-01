@@ -68,7 +68,7 @@ for title, dic in {
     for lg, data in dic.items():
         if len(data) == 0:
             continue
-        overview.append(f"## [lg]({lg})")
+        overview.append(f"## [lg]({lg}): {title}")
         overview.extend(data)
 
 builder = GitHub

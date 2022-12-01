@@ -7,25 +7,25 @@ Hixkaryána: 2/1000 (0.20%) text records with positive tokens:
 | part |   1 |    1 |   2 |
 | All  |   1 |    1 |   2 |
 
-Tiriyó: 13/1000 (1.30%) text records with positive tokens:
+Tiriyó: 12/1000 (1.20%) text records with positive tokens:
 
 |               |   ? |   a | obl | obl? |   s | All |
 |:--------------|----:|----:|----:|-----:|----:|----:|
 | more material |   0 |   0 |   1 |    0 |   3 |   4 |
 | part          |   1 |   0 |   0 |    2 |   1 |   4 |
-| posp          |   1 |   1 |   3 |    0 |   0 |   5 |
-| All           |   2 |   1 |   4 |    2 |   4 |  13 |
+| posp          |   0 |   1 |   3 |    0 |   0 |   4 |
+| All           |   1 |   1 |   4 |    2 |   4 |  12 |
 
-Akawaio: 16/806 (1.99%) text records with positive tokens:
+Akawaio: 17/806 (2.11%) text records with positive tokens:
 
 |               |     | All |
 |:--------------|----:|----:|
 | more material |   1 |   1 |
-| part          |  14 |  14 |
+| part          |  15 |  15 |
 | posp          |   1 |   1 |
-| All           |  16 |  16 |
+| All           |  17 |  17 |
 
-## Hixkaryána
+## Hixkaryána: Positives
 
 -   part (\[*nuxe rma*\] \[*mokro*\]):
 
@@ -47,7 +47,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > ah!  creature  Same  fish  Quant  Rel-Cop-Nzr-Simult  Hrsy  
 > ‘Sound expressing, surprise, (at the) creatures, when their being so many fish.’</pre>
 
-## Tiriyó
+## Tiriyó: Positives
 
 -   more material (\[*mëe*\] V \[okomo awekïï=ton\]):
 
@@ -57,15 +57,6 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > mëe    nï-të-0-n        okomo  awekïï  ton  irë     apo  
 > 3AnPx  3Sa-go-Pres-Dbt  wasp   bee.sp  Col  3InAna  like  
 > ‘they went, the bees, like that.’</pre>
-
--   posp (What is up with the order here?):
-
-> (dados-07-frog-story-marciano-p-091-047) Tiriyó (Meira 2022)
-> <pre>
-> <i>Irënpë=pëe wewe tootaken=pëe teepatakae, jeepurutu</i>  
-> irë-npë     pëe   wewe  t-oota-ke-n        pëe   t-V:-e-pataka-e           jeepurutu  
-> 3InAna-Pst  from  tree  T-hole-Having-Ent  from  Pst-Sa-Detr-take.out-Pst  owl.sp  
-> ‘Then from the tree with a whole came, an owl,  ’</pre>
 
 -   more material (\[*mëërë*\] V \[tamutupë\]):
 
@@ -103,8 +94,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > Ape  ?    where  3Sa-Cop  2-companion  Pst-Sa-say-Pst  3AnAna  Idtf  old.man   where  3Sa-Cop  2-companion  
 > ‘(Ape) 'So, where is your companion?' (he) said, he, the old man, 'where is your companion?'’</pre>
 
--   more material (\[*tarïpi*\] *se manan* \[*mëërë*\]; very likely not
-    referring to ‘he’.):
+-   more material (\[*tarïpi*\] *se manan* \[*mëërë*\]):
 
 > (dados-09-kereramake-p-049-392) Tiriyó (Meira 2022)
 > <pre>
@@ -171,9 +161,9 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > Attn  so     1Sa-come-DPst  creek   along  1+3   3-stream-P.pst  ***  wh.In  3InAna  Kuruni  
 > ‘Well, then I came, along the creeks/tribuaries, our old river... what-do-you-call-it, the Kuruni (Coeroeni).  ’</pre>
 
-## Akawaio
+## Akawaio: Positives
 
--   part:
+-   part (*serö ji kashiri*):
 
 > (ae-personal-narrative-064) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -191,7 +181,16 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > 3Sg.Anim-Emph  Emph  1Sg  father   Emph  be-Past  A.I.?  Kuyuni  Kuyuni-tribe  3S-say-Hab-Past  3Pl  Emph  
 > ‘ He my father was from a tribe from Kayuni, so they always say’</pre>
 
--   more material (1) *serö … Gaiana*, 2) *mörö … maing*):
+-   part (*tu’ke rö tok maimu*):
+
+> (pingkas-personal-narrative-064) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tu'ke rö tok maimu eji brazil bo kuru</i>  
+> tu'ke  rö    tok  maimu     eji  brazil  po   kuru  
+> many   Emph  3Pl  language  be   Brazil  Loc  Emph  
+> ‘There have several languages in Brazil in particular’</pre>
+
+-   more material (*mörö … maing* ‘it … the language’):
 
 > (pingkas-personal-narrative-066) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -254,8 +253,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > sudden.absence  3Sg.Anim  Emph  partner  also  that  like  also  Emph  3-after   3-get.lost-Cmpltv-Past  also  Emph  
 > ‘haing!(expression describing sudden absence)then her partner in a similar manner went after her and also got lost’</pre>
 
--   part (*tu’kanggong* is *t-u’ke-ano-kon* and therefore a noun,
-    right?):
+-   part (*tu’kanggong sa’ne mïre ank*):
 
 > (r-personal-narrative-014) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -322,7 +320,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 
 # Unclear
 
-## Hixkaryána
+## Hixkaryána: Unclear
 
 -   ? (not clear what *mokï* is doing):
 
@@ -333,26 +331,6 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > oske  ka-nye  mokï   n-exe-ye       ahakheno  
 > thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
 > ‘My late father was the one, the one who said it thus.’</pre>
-
--   ? (good example of possr ptc possm):
-
-> (derbyshire-1965-p-045-the-origin-of-mawarye-and-woxka-052) Hixkaryána
-> (Derbyshire 1965: 45)
-> <pre>
-> <i>Ïro=yarye toye=ha, kamarayana=komo yosamarï=yarye, sïh sïh sïh sïh sïh.</i>  
-> ïro     y-arye    0-to-ye       ha      kamara-yana    komo  y-osama-rï    y-arye    sïh   sïh   sïh   sïh   sïh  
-> 3InAna  Rel-Perl  3Sa-go-DPst1  Intens  jaguar-people  Col   Rel-path-Pos  Rel-Perl  walk  walk  walk  walk  walk  
-> ‘She went along it, along the trail of the jaguar people, action of walking.’</pre>
-
--   ? (elaboration):
-
-> (derbyshire-1965-p-045-the-origin-of-mawarye-and-woxka-053) Hixkaryána
-> (Derbyshire 1965: 45)
-> <pre>
-> <i>Ïhpo owto=hona, nyamoro=waka=hatï, kamarayana=komo=waka, ïhpo.</i>  
-> ïhpo      owto     hona  nyamoro    waka   hatï  kamara-yana    komo  waka   ïhpo  
-> come.out  village  Dir   3AnAnaCol  Illat  Hrsy  jaguar-people  Col   Illat  come.out  
-> ‘Action of coming out into the open, into the village, to them, to the jaguar people, action of coming out into the open.’</pre>
 
 -   ? (two afterthoughts):
 
@@ -394,7 +372,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > fish.sp   Hrsy  3Sa-Cop-DPst2  Intens  Rel-Iness-Col  small.thing  Misfrtn  Advers  Hrsy  
 > ‘The "honyetko" was inside them, having become a very small thing.’</pre>
 
-## Tiriyó
+## Tiriyó: Unclear
 
 -   ? (pïtai ‘shoe’ twice):
 
@@ -432,7 +410,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > Nasau  1A-trade-I.Pst  3InAna  foreigner   Col  3-meat.food  but      1+2-meat.food  P.col  Desid  only    Frus  1Sa-Cop-I.Pst  3InAna  Desid  1Sa-Cop-I.Pst  
 > ‘(Nasau) I've already sold/given it as meat for the foreigners, but I want (another cow) for our food, that's what I want.’</pre>
 
-## Akawaio
+## Akawaio: Unclear
 
 -   ? (a’ai pïze urö sang?):
 
@@ -581,7 +559,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 
 # Others
 
-## Hixkaryána
+## Hixkaryána: Others
 
 -   n (formulaic):
 
@@ -663,17 +641,27 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > 3InPx  Intens  Gen-give-Imper  Intens  2-brother  Dat  Intens  3Sa-say-DPst2  Hrsy  
 > ‘"Give this to your brother," he said.’</pre>
 
--   n (commas):
+-   n (good example of \[\[N Ptc\] N\]):
 
-> (derbyshire-1965-p-046-the-origin-of-mawarye-and-woxka-057) Hixkaryána
-> (Derbyshire 1965: 46)
+> (derbyshire-1965-p-045-the-origin-of-mawarye-and-woxka-052) Hixkaryána
+> (Derbyshire 1965: 45)
 > <pre>
-> <i>Anhï=haxa moxamo nahtxoko, rohayamo, rohokyamo, kekonï=hatï.</i>  
-> anhï  haxa      moxamo    n-ah-txoko        ro-ha-yamo      ro-hok-yamo  0-ke-konï      hatï  
-> evil  Contrast  3AnPxCol  3Sa-Cop-IPst:Col  1-grandson-Col  1-child-Col  3Sa-say-DPst2  Hrsy  
-> ‘"They are very evil, these people, my grandchildren, my children," she said.’</pre>
+> <i>Ïro=yarye toye=ha, kamarayana=komo yosamarï=yarye, sïh sïh sïh sïh sïh.</i>  
+> ïro     y-arye    0-to-ye       ha      kamara-yana    komo  y-osama-rï    y-arye    sïh   sïh   sïh   sïh   sïh  
+> 3InAna  Rel-Perl  3Sa-go-DPst1  Intens  jaguar-people  Col   Rel-path-Pos  Rel-Perl  walk  walk  walk  walk  walk  
+> ‘She went along it, along the trail of the jaguar people, action of walking.’</pre>
 
--   n (afterthough):
+-   n (elaboration pattern):
+
+> (derbyshire-1965-p-045-the-origin-of-mawarye-and-woxka-053) Hixkaryána
+> (Derbyshire 1965: 45)
+> <pre>
+> <i>Ïhpo owto=hona, nyamoro=waka=hatï, kamarayana=komo=waka, ïhpo.</i>  
+> ïhpo      owto     hona  nyamoro    waka   hatï  kamara-yana    komo  waka   ïhpo  
+> come.out  village  Dir   3AnAnaCol  Illat  Hrsy  jaguar-people  Col   Illat  come.out  
+> ‘Action of coming out into the open, into the village, to them, to the jaguar people, action of coming out into the open.’</pre>
+
+-   n (afterthought):
 
 > (derbyshire-1965-p-048-the-origin-of-mawarye-and-woxka-117) Hixkaryána
 > (Derbyshire 1965: 48)
@@ -683,7 +671,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > where  3InAna  Intens  3-shell-Pst:Pos  3Sa-say-DPst2:Col  Hrsy  
 > ‘"Where (is) it, its shell ?", they said.’</pre>
 
--   n (elaboration):
+-   n (elaboration pattern):
 
 > (derbyshire-1965-p-049-the-origin-of-mawarye-and-woxka-153) Hixkaryána
 > (Derbyshire 1965: 49)
@@ -723,7 +711,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > Mawarye  Voc  3Sa-say-DPst2  Hrsy  3R-sm.sx.sblg  Dat  
 > ‘"Mawarye," he said to his brother.’</pre>
 
--   n (elaboration):
+-   n (elaboration pattern):
 
 > (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-022) Hixkaryána
 > (Derbyshire 1965: 60)
@@ -733,7 +721,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > Gen-see-Go.Imper:2  Woxka  Voc  3Sa-say-DPst2  Hrsy  3R-sm.sx.sblg  Dat  Woxka  Dat  
 > ‘"Go look at it, Woxka," he said to his brother, to Woxka.’</pre>
 
--   n (2 afterthoughts):
+-   n (afterthoughts):
 
 > (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-034) Hixkaryána
 > (Derbyshire 1965: 61)
@@ -783,7 +771,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > 3AO-tire-Tvzr-DPst1:Col  Hrsy  Mawarye  Col   Woxka  Col  
 > ‘Mawarye and Woxka exhausted her.’</pre>
 
--   n (N Dpro ha, N):
+-   n (afterthought with intervening particle):
 
 > (derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071) Hixkaryána
 > (Derbyshire 1965: 62)
@@ -792,16 +780,6 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > moyoro-no            mokyamo   ha      worïskomo  heno   ha      0-ke-konï      hatï  xaryemna  ha  
 > different.place-Nzr  3AnRmCol  Intens  women      Quant  Intens  3Sa-say-DPst2  Hrsy  otter.sp  Intens  
 > ‘"They (are) ones far away, the women," said the otter.’</pre>
-
--   n (Dpro ha, N):
-
-> (derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-074) Hixkaryána
-> (Derbyshire 1965: 62)
-> <pre>
-> <i>Moro=ha, kuthonï=ymo=kwawo, kekonï=hatï.</i>  
-> moro   ha      kuthonï  ymo   kwawo      0-ke-konï      hatï  
-> 3InMd  Intens  lake     Augm  Liq:Iness  3Sa-say-DPst2  Hrsy  
-> ‘"That one there, in the big lake," she said.’</pre>
 
 -   n (interesting position of heno):
 
@@ -813,7 +791,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > woman  Rel-lift-DPst1  say-A   3AnRm  3Sa-Cop-DPst1  Dead  
 > ‘He lifted the women, he, the deceased was the one, the one who said it.’</pre>
 
--   n (elaboration):
+-   n (elaboration pattern):
 
 > (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-196) Hixkaryána
 > (Derbyshire 1965: 67)
@@ -853,7 +831,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > bad    3Sa-Cop-Pres:Cty  3Sa-say-DPst2  Hrsy  Mawarye  Dat  Woxka  
 > ‘"She is no good," said Woxka to Mawarye.’</pre>
 
-## Tiriyó
+## Tiriyó: Others
 
 -   n (Actually two clauses.):
 
@@ -892,9 +870,9 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > …  3InMd  Loc  3-place-Psfx  Dir   Idtf  
 > ‘(Nasau) There, (bring it) to its place (= to the butcher's).’</pre>
 
-## Akawaio
+## Akawaio: Others
 
--   n (repetition of verb):
+-   n (afterthought is a whole clause):
 
 > (ae-personal-narrative-015) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -903,7 +881,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > that  from  1Sg  mother  come-Past  Mariam  come-Past  
 > ‘This is where my mother Mariam came from’</pre>
 
--   n (possr part possm):
+-   n (Good example of \[\[N Ptc\] N\]):
 
 > (cc-praising-rhymes-25) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -912,7 +890,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > patwa.fish  Dim     shoot-A.Nzr  say-1-Erg  
 > ‘the shhoter of cute little patwa fish, I say’</pre>
 
--   n (possessive construction with *rö=ji*):
+-   n (Good example of \[\[N Ptc Ptc\] N\]):
 
 > (claudine-bagot-personal-narrative-021) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -920,24 +898,6 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > mörö  gaza  bek  nai   gaza  önïk  rö-ji      enau  
 > that  like  QP   what  like  who   Emph-Emph  in.hand  
 > ‘Is this how it will be? How, in whose hands?’</pre>
-
--   n (is this nvp?):
-
-> (claudine-bagot-personal-narrative-051) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>magoi rö na'kö kïrö</i>  
-> magoi  rö    na'kö  kïrö  
-> sin    Emph  maybe  3Sg.Anim  
-> ‘Maybe it is the sinful one’</pre>
-
--   n (is *zerö* S.I. or \[\[*zerö ago’mando’*\] *pök*\]?):
-
-> (lester-eugene-personal-narrative-001) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>auzauro'to'pe eegampouya zerö ago'mando' pök rö, eeze' pök rö tamboro za'ne tamboro za'ne</i>  
-> a-saurogï-do'pe  a-egampo-u-ya  serö  a-ko'mamï-dok  pök    rö    a-ezek  pök    rö    tamboro  sa'ne  tamboro  sa'ne  
-> 2-talk-Purp      2-ask-1-Erg    S.I.  2-live-Nzr     about  Emph  2-name  about  Emph  all      Emph   all      Emph  
-> ‘I am asking you to talk about how you live, your name and everything’</pre>
 
 -   n (confused by the addressee involvement here):
 
@@ -947,25 +907,6 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > mörö  tïbo   urö  ji    laspang   e'tane  ji    aigo-be     rï'kwö  eji-dane  urö  kïibïnï  ji    ma'ta-'pï  mörö  
 > that  after  1Sg  Emph  last.one  but     Emph  small-Attr  Dim     be-while  1Sg  father   Emph  die-Past   A.I.?  
 > ‘Then after that, I am the last one but while I was still small my father died’</pre>
-
--   n (*serö* is ‘here’ and not referring to the language, right?):
-
-> (pingkas-personal-narrative-056) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>serö rï'kwö maing nï'kwö eji wagïbe</i>  
-> serö  rï'kwö  maing  rï'kwö  eji  wagï  pe  
-> this  Dim     word   Dim     be   good  like  
-> ‘Here the language is really a bit good’</pre>
-
--   n (*tu’ke* looks like an adverb – are we looking for these as
-    well??):
-
-> (pingkas-personal-narrative-064) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tu'ke rö tok maimu eji brazil bo kuru</i>  
-> tu'ke  rö    tok  maimu     eji  brazil  po   kuru  
-> many   Emph  3Pl  language  be   Brazil  Loc  Emph  
-> ‘There have several languages in Brazil in particular’</pre>
 
 -   n (adverb):
 
@@ -987,7 +928,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 
 # NPs
 
-## Hixkaryána
+## Hixkaryána: NPs
 
 > (derbyshire-1965-p-017-the-origin-of-night-and-darkness-021)
 > Hixkaryána (Derbyshire 1965: 17)
@@ -1037,7 +978,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > Woxka  Voc  3AnPx   Intens  2-wife-Pos  3Sa-say-DPst2  Hrsy  
 > ‘"Woxka, this one (is) your wife," he said.’</pre>
 
-## Tiriyó
+## Tiriyó: NPs
 
 > (dados-07-frog-story-marciano-p-089-037) Tiriyó (Meira 2022)
 > <pre>
@@ -1052,6 +993,13 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > oota  0-ene-0     marë  tï-w-ënaanuu-se   wewe  serë   mono  t-oota-ke      t-0-ee-se  
 > hole  3O-see-Sup  too   Pst-Sa-go.up-Pst  tree  3InPx  big   T-hole-Having  Pst-Sa-Cop-Pst  
 > ‘He climbed up to see the hole, this big tree had a hole.  ’</pre>
+
+> (dados-07-frog-story-marciano-p-091-047) Tiriyó (Meira 2022)
+> <pre>
+> <i>Irënpë=pëe wewe tootaken=pëe teepatakae, jeepurutu</i>  
+> irë-npë     pëe   wewe  t-oota-ke-n        pëe   t-V:-e-pataka-e           jeepurutu  
+> 3InAna-Pst  from  tree  T-hole-Having-Ent  from  Pst-Sa-Detr-take.out-Pst  owl.sp  
+> ‘Then from the tree with a whole came, an owl,  ’</pre>
 
 > (dados-09-kereramake-p-033-075) Tiriyó (Meira 2022)
 > <pre>
@@ -1146,7 +1094,7 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > 3Sa-sleep-Pres-Dbt  Cont  3AnPx-Dim  man-Dim    3AnPx  3AnPx  Idtf  3AnPx  2A-see-Pres-Dbt  
 > ‘This little one is sleeping, this is the little man (= boy), this is him, do you see?  ’</pre>
 
-## Akawaio
+## Akawaio: NPs
 
 > (ae-personal-narrative-031) Akawaio (Caesar-Fox 2003)
 > <pre>
