@@ -1,11 +1,11 @@
 # Overview of results
 
-Hixkaryána: 3/1000 (0.30%) text records with positive tokens:
+Hixkaryána: 2/1000 (0.20%) text records with positive tokens:
 
-|      |     |   a | poss | All |
-|:-----|----:|----:|-----:|----:|
-| part |   1 |   1 |    1 |   3 |
-| All  |   1 |   1 |    1 |   3 |
+|      |   a | poss | All |
+|:-----|----:|-----:|----:|
+| part |   1 |    1 |   2 |
+| All  |   1 |    1 |   2 |
 
 Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 
@@ -16,13 +16,13 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Akawaio: 14/747 (1.87%) text records with positive tokens:
+Akawaio: 12/771 (1.56%) text records with positive tokens:
 
 |      |     | All |
 |:-----|----:|----:|
-| part |  13 |  13 |
+| part |  11 |  11 |
 | y    |   1 |   1 |
-| All  |  14 |  14 |
+| All  |  12 |  12 |
 
 ## Hixkaryána
 
@@ -45,14 +45,6 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > a    onokn     rma   kana  heno   y-eh-0-toko         hatï  
 > ah!  creature  Same  fish  Quant  Rel-Cop-Nzr-Simult  Hrsy  
 > ‘Sound expressing, surprise, (at the) creatures, when their being so many fish.’</pre>
-
-> (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-198) Hixkaryána
-> (Derbyshire 1965: 67)
-> <pre>
-> <i>Mosonï=ha ohetxe, omoro.</i>  
-> mosonï  ha      o-he-txe    omoro  
-> 3AnPx   Intens  2-wife-Pos  2  
-> ‘"This one (is) your wife, yours.’</pre>
 
 ## Tiriyó
 
@@ -187,13 +179,6 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > 1+3  Erg  Emph  this  Emph  cassava.beer  make  
 > ‘We make this thing called kashiri’</pre>
 
-> (lester-eugene-personal-narrative-016) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möra'tai ji tok a nio'pï'tö'pï mörö kïrörö ji guïibïnï be te'tong</i>  
-> möra'tai      ji    tok  ya   i-no'pï-'tö-'pï      mörö   kïrö-rö        ji    u-kïibïnï  pe    t-eji-dong  
-> at.that.time  Emph  3Pl  Erg  3-wife-provide-Past  A.I.?  3Sg.Anim-Emph  Emph  1-father   like  T-be-Subj.Nzr  
-> ‘Then, they give him a wife the one that was to become my father’</pre>
-
 -   \[*kïrörö ji*\] \[*urö kïibïnï ji*\]:
 
 > (lester-eugene-personal-narrative-026) Akawaio (Caesar-Fox 2003)
@@ -202,15 +187,6 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > kïrö-rö        ji    urö  kïibïnï  ji    eji-'pï  mörö   kayuni  kayuni-gok    n-ka-bödï-dai    tok  ko  
 > 3Sg.Anim-Emph  Emph  1Sg  father   Emph  be-Past  A.I.?  Kuyuni  Kuyuni-tribe  3S-say-Hab-Past  3Pl  Emph  
 > ‘ He my father was from a tribe from Kayuni, so they always say’</pre>
-
--   *tu’ke* looks like an adverb:
-
-> (pingkas-personal-narrative-064) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tu'ke rö tok maimu eji brazil bo kuru</i>  
-> tu'ke  rö    tok  maimu     eji  brazil  po   kuru  
-> many   Emph  3Pl  language  be   Brazil  Loc  Emph  
-> ‘There have several languages in Brazil in particular’</pre>
 
 -   1)  *serö … Gaiana*, 2) *mörö … maing*:
 
@@ -249,13 +225,6 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > 3Sg.Anim  Emph  owl       place  keep-A.Nzr      stay.still-Prog  Emph  Adv-be-Abs.Nzr  
 > ‘Then that owl the one who spent his time resting’</pre>
 
-> (ps-duck-story-060) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>ekepe rö a'naik e'kwa ning ti'tuik pra rö</i>  
-> ege-be    rö    a'naik  e'kwa  ning  t-i'tu-ik        bra  rö  
-> big-Attr  Emph  corn    field  Emph  Adv-know-Prtcpl  Neg  Emph  
-> ‘There were a huge amount of fields with corn and many other crops’</pre>
-
 > (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
@@ -270,6 +239,8 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > sudden.absence  3Sg.Anim  Emph  partner  also  that  like  also  Emph  3-after   3-get.lost-Cmpltv-Past  also  Emph  
 > ‘haing!(expression describing sudden absence)then her partner in a similar manner went after her and also got lost’</pre>
 
+-   *tu’kanggong* is *t-u’ke-ano-kon* and therefore a noun, right?:
+
 > (r-personal-narrative-014) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>tu'ke rö za'ne agarangse'na, tu'kanggong sa'ne mïre ank (amök) rö</i>  
@@ -283,6 +254,15 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > wagï  genïk         jo'chi  tau     eji-i'ma  e'nek  yau  rö    t-e'-kïngma-ik        t-go'mamï-zang-gong  genïk     amörö-'nogong  ga-bai     eji-aik  
 > good  specifically  church  within  be-While  sick   in   Emph  Adv-Detr-hurt-Prtcpl  Adv-live-Pl.Nzr-Pl   Mirative  2Sg-Pl         say-Desid  be-Pres  
 > ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
+
+-   *tu’ke rï’kwö rö pandong* and also *wagïdon sa’ne bandomïigong*:
+
+> (ra-eagle-story-001) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïgï ganang pandong bek i'tuning amö ti'tuik pra rö? tu'ke rï'kwö rö, pandong bek i'tuning amö? wagïdong sa'ne bandomïigong te'seng</i>  
+> mïgï  kanang  pandong  bek  i'tu-ning   amö   t-i'tu-ik        bra  rö    tu'ke  rï'kwö  rö    pandong  bek  i'tu-ning   amö   wagï-dong  sa'ne  pandong-i-gong    t-eji-zeng  
+> this  again   story    QP   know-A.Nzr  2SgQ  Adv-know-Prtcpl  Neg  Emph  many   Dim     Emph  story    QP   know-A.Nzr  2SgQ  good-Pl    Emph   story-Psd-Pl.Psr  Adv-be-Abs.Nzr  
+> ‘Do you know all types of stories, do you know many stories. We have wonderful stories’</pre>
 
 # Unclear
 
@@ -911,6 +891,24 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > this  Dim     word   Dim     be   good  like  
 > ‘Here the language is really a bit good’</pre>
 
+-   *tu’ke* looks like an adverb – are we looking for these as well??:
+
+> (pingkas-personal-narrative-064) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tu'ke rö tok maimu eji brazil bo kuru</i>  
+> tu'ke  rö    tok  maimu     eji  brazil  po   kuru  
+> many   Emph  3Pl  language  be   Brazil  Loc  Emph  
+> ‘There have several languages in Brazil in particular’</pre>
+
+-   adverb:
+
+> (ps-duck-story-060) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ekepe rö a'naik e'kwa ning ti'tuik pra rö</i>  
+> ege-be    rö    a'naik  e'kwa  ning  t-i'tu-ik        bra  rö  
+> big-Attr  Emph  corn    field  Emph  Adv-know-Prtcpl  Neg  Emph  
+> ‘There were a huge amount of fields with corn and many other crops’</pre>
+
 -   \[DEM PL N N\] ya?:
 
 > (ps-duck-story-064) Akawaio (Caesar-Fox 2003)
@@ -1272,5 +1270,19 @@ Akawaio: 14/747 (1.87%) text records with positive tokens:
 > möröbang-gong      ji    winö  wagï-rö    maing  eda-ze'na  yebï-zak   t-ka-ik         eji  
 > thereafter-Pl.Abs  Emph  from  good-Emph  word   hear-Purp  come-Perf  Adv-say-Prtcpl  be  
 > ‘So I thought I was coming to hear good words from people like those’</pre>
+
+> (ra-eagle-story-008) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai ji emujimö e'pödï'pï sairö wïk po mörö ömujimö ege, kïrörö</i>  
+> möra'tai      ji    emujimö  eji-bödï-'pï  sairö  wïk       po  mörö  ömujimö  ege  kïrö-rö  
+> at.that.time  Emph  eagle    be-Iter-Past  here   mountain  on  that  eagle    big  3Sg.Anim-Cop?  
+> ‘At that time there was an eagle here on the mountain, a big eagle that one’</pre>
+
+> (ra-eagle-story-018) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>eh, eh! ö'rö be ji ji mö tawong ku es'pï mörö möra'tai</i>  
+> eh   eh   ö'rö  pe    ji    y-eji  mörö  ta-wong       kuru  eji-'pï  mörö   möra'tai  
+> yes  yes  what  like  Emph  3-be   that  say-Nzr/Rel?  Emph  be-Past  A.I.?  at.that.time  
+> ‘There was one who said, what is wrong with him at that time’</pre>
 
 # References
