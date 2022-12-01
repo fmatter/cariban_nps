@@ -173,6 +173,8 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 
 ## Akawaio
 
+-   part:
+
 > (ae-personal-narrative-064) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>nya ya rö se ji kashiri konega</i>  
@@ -198,12 +200,16 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > this  Emph  Emph  Guyana   Loc  Dim     Emph  Emph  Hes   that  go  good  like  Emph  Emph  word   be   that  like  
 > ‘Here in Guyana the language (Akawaio) goes well (meaning spoken well), like that’</pre>
 
+-   part:
+
 > (pingkas-personal-narrative-068-interviewer) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>pandong rö penarokrï'pï?</i>  
 > pandong  rö    penarok-rï'pï  
 > story    Emph  old-Past.Psn  
 > ‘Even one that use to be an old story’</pre>
+
+-   part:
 
 > (ps-duck-story-007) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -212,12 +218,16 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > good-Pl    Emph  sympathy  story  Pl    forget-Caus     3Pl  Erg  like  3.be.Pres  
 > ‘It seems that they will be forgetting good stories’</pre>
 
+-   part:
+
 > (ps-duck-story-032) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>kïrö ning mai'kwak eji mörö ösöbe shiyampiyan be ning shi shenubasak be yeshi</i>  
 > kïrö      ning  mai'kwak  eji  mörö   özö-be        shiyampiyan  pe    ning  y-eji  i-zenuba-zak  pe    y-eji  
 > 3Sg.Anim  Emph  duck      be   A.I.?  serious-Attr  champion     like  Emph  3-be   3-learn-Perf  like  3-be  
 > ‘But the duck is really a very serious one, he is a champion because he is one that is trained’</pre>
+
+-   part:
 
 > (ps-duck-story-047) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -226,12 +236,16 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > 3Sg.Anim  Emph  owl       place  keep-A.Nzr      stay.still-Prog  Emph  Adv-be-Abs.Nzr  
 > ‘Then that owl the one who spent his time resting’</pre>
 
+-   part:
+
 > (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
 > aigo   rï'kwö  wijagong  mïre   rï'kwö  önïk  rönamo  uri'chang  mïre   rï'kwö  rö    namo  
 > small  Dim     other     child  Dim     who   uncrtn  female     child  Dim     Emph  Uncrtnty  
 > ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
+
+-   part:
 
 > (ps-duck-story-084) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -249,6 +263,8 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > tu'ke  rö    sa'ne  a-gwaramï-ze'na  tu'kang-gong  sa'ne  mïre   amök  amök  rö  
 > many   Emph  Emph   A-cry-Purp       several-Pl    Emph   child  Pl    Pl    Emph  
 > ‘"Many of us to cry,even the many children’</pre>
+
+-   part:
 
 > (r-personal-narrative-022) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -277,6 +293,8 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > this  Emph   Emph  3Pl  deplete-Cmpltv  3Sg.Anim  bird    Erg  3Pl  finish  Erg  make.think-Past  
 > ‘The numbers of the people were depleting because the bird was finishing them off, this made him think’</pre>
 
+-   posp:
+
 > (ra-eagle-story-033) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>e'tane sairö ji nong bo se ji mörö</i>  
@@ -284,12 +302,16 @@ Akawaio: 16/806 (1.99%) text records with positive tokens:
 > however  here   Emph  earth  on  this  Emph  that  
 > ‘However, on this earth, this is what..’</pre>
 
+-   part:
+
 > (ra-eagle-story-037) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>möröbang ji wa'ka mïre ji dienau kïrö mïgï köik es'pï mörö, köik shi es'pï</i>  
 > möröbang    ji    wa'ka  mïre   ji    i-enau     kïrö      mïgï  köik     eji-'pï  mörö   köik     ji    eji-'pï  
 > thereafter  Emph  axe    child  Emph  3-in.hand  3Sg.Anim  Hes   old.man  be-Past  A.I.?  old.man  Emph  be-Past  
 > ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
+
+-   part:
 
 > (ra-eagle-story-038) Akawaio (Caesar-Fox 2003)
 > <pre>
