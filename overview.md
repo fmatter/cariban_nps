@@ -16,13 +16,14 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Akawaio: 12/771 (1.56%) text records with positive tokens:
+Akawaio: 16/783 (2.04%) text records with positive tokens:
 
 |      |     | All |
 |:-----|----:|----:|
-| part |  11 |  11 |
+| part |  14 |  14 |
+| posp |   1 |   1 |
 | y    |   1 |   1 |
-| All  |  12 |  12 |
+| All  |  16 |  16 |
 
 ## Hixkaryána
 
@@ -263,6 +264,37 @@ Akawaio: 12/771 (1.56%) text records with positive tokens:
 > mïgï  kanang  pandong  bek  i'tu-ning   amö   t-i'tu-ik        bra  rö    tu'ke  rï'kwö  rö    pandong  bek  i'tu-ning   amö   wagï-dong  sa'ne  pandong-i-gong    t-eji-zeng  
 > this  again   story    QP   know-A.Nzr  2SgQ  Adv-know-Prtcpl  Neg  Emph  many   Dim     Emph  story    QP   know-A.Nzr  2SgQ  good-Pl    Emph   story-Psd-Pl.Psr  Adv-be-Abs.Nzr  
 > ‘Do you know all types of stories, do you know many stories. We have wonderful stories’</pre>
+
+-   *mïgï sa’ne ji tok* looks coreferential. also, *kïrö torong* is a
+    good NP:
+
+> (ra-eagle-story-019) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïgï sa'ne ji tok u'ma'kabï kïrö torong ya tok u'madï ya engmingga'pï</i>  
+> mïgï  sa'ne  ji    tok  u'madï-gabï     kïrö      torong  ya   tok  u'madï  ya   engmingga-'pï  
+> this  Emph   Emph  3Pl  deplete-Cmpltv  3Sg.Anim  bird    Erg  3Pl  finish  Erg  make.think-Past  
+> ‘The numbers of the people were depleting because the bird was finishing them off, this made him think’</pre>
+
+> (ra-eagle-story-033) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'tane sairö ji nong bo se ji mörö</i>  
+> e'tane   sairö  ji    nong   po  se    ji    mörö  
+> however  here   Emph  earth  on  this  Emph  that  
+> ‘However, on this earth, this is what..’</pre>
+
+> (ra-eagle-story-037) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröbang ji wa'ka mïre ji dienau kïrö mïgï köik es'pï mörö, köik shi es'pï</i>  
+> möröbang    ji    wa'ka  mïre   ji    i-enau     kïrö      mïgï  köik     eji-'pï  mörö   köik     ji    eji-'pï  
+> thereafter  Emph  axe    child  Emph  3-in.hand  3Sg.Anim  Hes   old.man  be-Past  A.I.?  old.man  Emph  be-Past  
+> ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
+
+> (ra-eagle-story-038) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai ji kïrö ji piyang abö'ka'sai'ya tabiri aranggasakak</i>  
+> möra'tai      ji    kïrö      ji    piyang  abö'kabï-zak-i-ya  t-abiri     arangga-zak-i-ya-k  
+> at.that.time  Emph  3Sg.Anim  Emph  hawk    tire-Perf-3-Erg    3.Rfl-wing  unfold-Perf-3-Erg-Style  
+> ‘At that time, the tired giant hawk open up his wings’</pre>
 
 # Unclear
 
@@ -512,6 +544,15 @@ Akawaio: 12/771 (1.56%) text records with positive tokens:
 > urö  sa'ji  sang    be    n-gubï-nï  
 > 1Sg  Emph   mother  like  O.Nzr-do-Pres.Nzr  
 > ‘The one that I have made my mother’</pre>
+
+-   what is *möröng*?:
+
+> (ra-kone-o-story-015) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>nai ji da'pï kaiguji ya möröng.... tuna sak enbödïiya</i>  
+> nai    ji    ta-'pï    kaiguji  ya   mörö-ng      tuna   sa'ne  ene-bödï-i-ya  
+> where  Emph  say-Past  jaguar   Erg  A.I.?-Style  water  Emph   see-Hab-3-Erg  
+> ‘Where is it the tiger asked, there.. he said while looking into the water’</pre>
 
 # Others
 
@@ -1284,5 +1325,47 @@ Akawaio: 12/771 (1.56%) text records with positive tokens:
 > eh   eh   ö'rö  pe    ji    y-eji  mörö  ta-wong       kuru  eji-'pï  mörö   möra'tai  
 > yes  yes  what  like  Emph  3-be   that  say-Nzr/Rel?  Emph  be-Past  A.I.?  at.that.time  
 > ‘There was one who said, what is wrong with him at that time’</pre>
+
+> (ra-eagle-story-022) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>diurumï mörö kïrö piyang yebï a'tai kuru, wa'ka durumbödï'pï</i>  
+> i-turumï  mörö   kïrö      piyang  yebï  a'tai  kuru  wa'ka  turumï-bödï-'pï  
+> 3-play    A.I.?  3Sg.Anim  hawk    come  when   Emph  axe    play-Iter-Past  
+> ‘It played especially when the eagle was coming, the axe use to play’</pre>
+
+> (ra-eagle-story-032) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>höp! dioimabödïiya tamboro mörö wïktong amök yarekadaneiya tutötok i'tuiya bra ji mörau ta tok a</i>  
+> höp       i-toima-bödï-i-ya    tamboro  mörö  wïk-dong     amök  yareka-dane-i-ya    t-tö-dok      i'tu-i-ya   bra  ji    mörau  ta   tok  ya  
+> take.off  3-rotate-Iter-3-Erg  all      that  mountain-Pl  Pl    finish-while-3-Erg  3.Rfl-go-Nzr  know-3-Erg  Neg  Emph  there  say  3Pl  Erg  
+> ‘höp! He took him round and round all the mountains, but he did not know where he was going then, they say’</pre>
+
+> (ra-eagle-story-034) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>Eneboro'pï se wïk ezek Eneboro'pï</i>  
+> Eneboro'pï  se    wïk       ezek  Eneboro'pï  
+> Eneboro'pï  this  mountain  name  Eneboro'pï  
+> ‘The name of this mountain was Eneboro'pï’</pre>
+
+> (ra-kone-o-story-007) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'tane, kone'o ezeru ege ne'pö'ang</i>  
+> e'tane   kone'o  ezeru  ege  n-eji-bödï-ang  
+> however  rabbit  ways   big  3S-be-Hab-Pres  
+> ‘However, there are lots of stories about kone'o’</pre>
+
+> (ra-kone-o-story-008) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kone'o a mïgï mörö kabïi u'ma'sak a'tai ja'neng ingbö i'mozak gaza te'seng mö go</i>  
+> kone'o  ya   mïgï  mörö  kabïi  u'madï-zak    a'tai  sa'ne-ng    imbö       i'mo-zak    kaza  t-eji-zeng      mörö  ko  
+> rabbit  Erg  Hes   that  moon   deplete-Perf  when   Emph-Style  soury.nut  split-Perf  like  Adv-be-Abs.Nzr  that  Emph  
+> ‘Kone'o did, do you know how the moon looks at month end, it looks like a a soury nut that is cut in half’</pre>
+
+> (ra-kone-o-story-010) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai ji kaiguze a eboro mörö kone'o ji eboroiya</i>  
+> möra'tai      ji    kaiguji  ya   eboro  mörö  kone'o  ji    eboro-i-ya  
+> at.that.time  Emph  jaguar   Erg  find   that  rabbit  Emph  find-3-Erg  
+> ‘At that time the tiger came along and found him doing this’</pre>
 
 # References
