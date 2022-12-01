@@ -16,13 +16,13 @@ Tiriyó: 13/1000 (1.30%) text records with positive tokens:
 | y    |   0 |   0 |   1 |    0 |   3 |   4 |
 | All  |   2 |   1 |   4 |    2 |   4 |  13 |
 
-Akawaio: 12/715 (1.68%) text records with positive tokens:
+Akawaio: 14/747 (1.87%) text records with positive tokens:
 
 |      |     | All |
 |:-----|----:|----:|
-| part |  11 |  11 |
+| part |  13 |  13 |
 | y    |   1 |   1 |
-| All  |  12 |  12 |
+| All  |  14 |  14 |
 
 ## Hixkaryána
 
@@ -270,6 +270,20 @@ Akawaio: 12/715 (1.68%) text records with positive tokens:
 > sudden.absence  3Sg.Anim  Emph  partner  also  that  like  also  Emph  3-after   3-get.lost-Cmpltv-Past  also  Emph  
 > ‘haing!(expression describing sudden absence)then her partner in a similar manner went after her and also got lost’</pre>
 
+> (r-personal-narrative-014) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tu'ke rö za'ne agarangse'na, tu'kanggong sa'ne mïre ank (amök) rö</i>  
+> tu'ke  rö    sa'ne  a-gwaramï-ze'na  tu'kang-gong  sa'ne  mïre   amök  amök  rö  
+> many   Emph  Emph   A-cry-Purp       several-Pl    Emph   child  Pl    Pl    Emph  
+> ‘"Many of us to cry,even the many children’</pre>
+
+> (r-personal-narrative-022) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>wagï genïk so'chi dau eji'ma, e'nek au rö tïwe'kïngmaik tugo'mangzanggong genïk amörö'nogong kabai e'aik</i>  
+> wagï  genïk         jo'chi  tau     eji-i'ma  e'nek  yau  rö    t-e'-kïngma-ik        t-go'mamï-zang-gong  genïk     amörö-'nogong  ga-bai     eji-aik  
+> good  specifically  church  within  be-While  sick   in   Emph  Adv-Detr-hurt-Prtcpl  Adv-live-Pl.Nzr-Pl   Mirative  2Sg-Pl         say-Desid  be-Pres  
+> ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
+
 # Unclear
 
 ## Hixkaryána
@@ -482,6 +496,42 @@ Akawaio: 12/715 (1.68%) text records with positive tokens:
 > a   weruji  pe    no'sami'chi  tö  mörö   eruwö       kïrö      rï'kwö  n-eji-bödï-aik-nek  pe    ijagong  
 > ah  dove    like  old          go  A.I.?  small.dove  3Sg.Anim  Dim     3S-be-Hab-Pres-Rel  like  partner  
 > ‘The old woman turn into a dove and that is how she kept going and her partner went as an eruwö(smaller species of dove) bird’</pre>
+
+-   what is *wagï rö kenïk a’ai*?:
+
+> (r-personal-narrative-042) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'tane wagï rö kenïk a'ai eji'pï mörau,</i>  
+> e'tane   wagï  rö    kenïk  a'ai    eji-'pï  mörau  
+> however  good  Emph  Purp   mother  be-Past  there  
+> ‘However, there was one mother who was good’</pre>
+
+-   what is *kenïk* doing?:
+
+> (r-personal-narrative-043) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>paba enau kuru genïk eji'nïnggenak rö kenïk a'ai esh'pï mörau</i>  
+> paba    enau     kuru  genïk     eji'nïng-genak    rö    genïk     a'ai    eji-'pï  mörau  
+> father  in.hand  Emph  Mirative  love-one.who.has  Emph  Mirative  mother  be-Past  there  
+> ‘There was a mother who was loving and in the hands of the 'great father’</pre>
+
+-   what POS is *tiginnö*?:
+
+> (r-personal-narrative-061) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>urö ji eji mörö tigingnö röning ja'ji pero be</i>  
+> urö  ji    eji  mörö  tiginnö  nöning  sa'ne-ji   pero  be  
+> 1Sg  Emph  be   that  one      only    Emph-Emph  dog   like  
+> ‘I am the only one who is the dog’</pre>
+
+-   possessive construction with *sa’ji*:
+
+> (r-personal-narrative-064) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>urö sa'ji zang be nïgubïnï</i>  
+> urö  sa'ji  sang    be    n-gubï-nï  
+> 1Sg  Emph   mother  like  O.Nzr-do-Pres.Nzr  
+> ‘The one that I have made my mother’</pre>
 
 # Others
 
@@ -1215,5 +1265,12 @@ Akawaio: 12/715 (1.68%) text records with positive tokens:
 > kïrö      mai'kwak  sagoroba-zak-i-ya      mörö   i-wobiya'ma-zak-i-ya  ning  mörö  
 > 3Sg.Anim  duck      make.angry-Perf-3-Erg  A.I.?  3-curse-Perf-3-Erg    Emph  A.I.?  
 > ‘Now she had made the duck angry, so he had really cursed her with witchcraft’</pre>
+
+> (r-personal-narrative-032) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröbanggong ji winnö wagïrö maing edaze'na yi'sak tugaik eji</i>  
+> möröbang-gong      ji    winö  wagï-rö    maing  eda-ze'na  yebï-zak   t-ka-ik         eji  
+> thereafter-Pl.Abs  Emph  from  good-Emph  word   hear-Purp  come-Perf  Adv-say-Prtcpl  be  
+> ‘So I thought I was coming to hear good words from people like those’</pre>
 
 # References
