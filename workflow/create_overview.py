@@ -22,7 +22,7 @@ for lg, total in stats.items():
     for d in [pos_overview, np_overview, res_overview, q_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
-    positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
+    positives = recs[recs["Discont_NP"].isin(["more material", "part", "posp"])]
     nps = recs[(recs["Discont_NP"] == "np")]
     questions = recs[recs["Discont_NP"] == "?"]
     residue = recs[
@@ -51,7 +51,7 @@ for lg, total in stats.items():
         for rec in o.to_dict("records"):
             comm_str = ""
             if rec["Comment"] != "" and t is not np_overview:
-                comm_str = f"""* {rec["Comment"]}:\n"""
+                comm_str = f"""* {rec["Discont_NP"]} ({rec["Comment"]}):\n"""
             t[lg].append(f"""{comm_str}[ex]({rec["ID"]}?with_primaryText)""")
 
 overview = []

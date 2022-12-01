@@ -23,6 +23,7 @@ for lg in ["tri", "hix", "aka"]:
 
         df = pd.merge(annotations, records, how="left", on="ID").fillna("")
         df["Discont_NP"] = df["Value"]
+        df["Discont_NP"].replace("y", "more material", inplace=True)
         df = df[(df["Discont_NP"] != "n") | (df["Comment"] != "")]
         lg_records[lg] = df
     else:
