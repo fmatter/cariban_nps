@@ -13,7 +13,7 @@ all_recs = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
 
 stats = json.load(open("data/stats.json"))
 
-label_dic = {"part": "N Ptc N", "posp": "N Postp N", "y": "N [V...] N", "?": "unknown", "n": "other"}
+label_dic = {"part": "N Ptc N", "posp": "N Postp N", "y": "N [V...] N", "?": "unknown", "n": "other", "Total": "Total"}
 pos_overview = {}
 np_overview = {}
 res_overview = {}
@@ -63,9 +63,9 @@ for lg, total in stats.items():
 overview = []
 for title, dic in {
     "Apparent discontinuous noun phrases": pos_overview,
-    "Unclear": q_overview,
-    "Others": res_overview,
-    "NPs": np_overview,
+    "Unclear analysis": q_overview,
+    "Varia": res_overview,
+    "Pseudo (?) NPs": np_overview,
 }.items():
     overview.append(f"# {title}")
     for lg, data in dic.items():

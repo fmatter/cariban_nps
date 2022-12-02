@@ -9,18 +9,18 @@
         phrases](#tiriyó-apparent-discontinuous-noun-phrases)
     3.  [Akawaio: Apparent discontinuous noun
         phrases](#akawaio-apparent-discontinuous-noun-phrases)
-3.  [Unclear](#unclear)
-    1.  [Hixkaryána: Unclear](#hixkaryána-unclear)
-    2.  [Tiriyó: Unclear](#tiriyó-unclear)
-    3.  [Akawaio: Unclear](#akawaio-unclear)
-4.  [Others](#others)
-    1.  [Hixkaryána: Others](#hixkaryána-others)
-    2.  [Tiriyó: Others](#tiriyó-others)
-    3.  [Akawaio: Others](#akawaio-others)
-5.  [NPs](#nps)
-    1.  [Hixkaryána: NPs](#hixkaryána-nps)
-    2.  [Tiriyó: NPs](#tiriyó-nps)
-    3.  [Akawaio: NPs](#akawaio-nps)
+3.  [Unclear analysis](#unclear-analysis)
+    1.  [Hixkaryána: Unclear analysis](#hixkaryána-unclear-analysis)
+    2.  [Tiriyó: Unclear analysis](#tiriyó-unclear-analysis)
+    3.  [Akawaio: Unclear analysis](#akawaio-unclear-analysis)
+4.  [Varia](#varia)
+    1.  [Hixkaryána: Varia](#hixkaryána-varia)
+    2.  [Tiriyó: Varia](#tiriyó-varia)
+    3.  [Akawaio: Varia](#akawaio-varia)
+5.  [Pseudo (?) NPs](#pseudo-nps)
+    1.  [Hixkaryána: Pseudo (?) NPs](#hixkaryána-pseudo-nps)
+    2.  [Tiriyó: Pseudo (?) NPs](#tiriyó-pseudo-nps)
+    3.  [Akawaio: Pseudo (?) NPs](#akawaio-pseudo-nps)
 6.  [References](#references)
 
 # Some stats
@@ -31,7 +31,7 @@ phrases:
 | Pattern / Syntactic role |   a | poss | Total |
 |:-------------------------|----:|-----:|------:|
 | N Ptc N                  |   1 |    1 |     2 |
-| nan                      |   1 |    1 |     2 |
+| Total                    |   1 |    1 |     2 |
 
 Tiriyó: 12/1000 (1.20%) text records with apparent discontinuous noun
 phrases:
@@ -41,7 +41,7 @@ phrases:
 | N Ptc N                  |   1 |   0 |   0 |    2 |   1 |     4 |
 | N Postp N                |   0 |   1 |   3 |    0 |   0 |     4 |
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
-| nan                      |   1 |   1 |   4 |    2 |   4 |    12 |
+| Total                    |   1 |   1 |   4 |    2 |   4 |    12 |
 
 Akawaio: 12/806 (1.49%) text records with apparent discontinuous noun
 phrases:
@@ -50,7 +50,7 @@ phrases:
 |:-------------------------|----:|------:|
 | N Ptc N                  |  11 |    11 |
 | N \[V…\] N               |   1 |     1 |
-| nan                      |  12 |    12 |
+| Total                    |  12 |    12 |
 
 # Apparent discontinuous noun phrases
 
@@ -300,9 +300,9 @@ phrases:
 > at.that.time  Emph  3Sg.Anim  Emph  hawk    tire-Perf-3-Erg    3.Rfl-wing  unfold-Perf-3-Erg-Style  
 > ‘At that time, the tired giant hawk open up his wings’</pre>
 
-# Unclear
+# Unclear analysis
 
-## Hixkaryána: Unclear
+## Hixkaryána: Unclear analysis
 
 -   unknown (not clear what *mokï* is doing):
 
@@ -334,7 +334,7 @@ phrases:
 > fish.sp   Hrsy  3Sa-Cop-DPst2  Intens  Rel-Iness-Col  small.thing  Misfrtn  Advers  Hrsy  
 > ‘The "honyetko" was inside them, having become a very small thing.’</pre>
 
-## Tiriyó: Unclear
+## Tiriyó: Unclear analysis
 
 -   unknown (pïtai ‘shoe’ twice):
 
@@ -372,7 +372,7 @@ phrases:
 > Nasau  1A-trade-I.Pst  3InAna  foreigner   Col  3-meat.food  but      1+2-meat.food  P.col  Desid  only    Frus  1Sa-Cop-I.Pst  3InAna  Desid  1Sa-Cop-I.Pst  
 > ‘(Nasau) I've already sold/given it as meat for the foreigners, but I want (another cow) for our food, that's what I want.’</pre>
 
-## Akawaio: Unclear
+## Akawaio: Unclear analysis
 
 -   unknown (a’ai pïze urö sang?):
 
@@ -474,9 +474,9 @@ phrases:
 > thereafter  Emph  axe    child  Emph  3-in.hand  3Sg.Anim  Hes   old.man  be-Past  A.I.?  old.man  Emph  be-Past  
 > ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
 
-# Others
+# Varia
 
-## Hixkaryána: Others
+## Hixkaryána: Varia
 
 -   other (formulaic):
 
@@ -778,7 +778,7 @@ phrases:
 > 3R-sister-Pos  Cont  about  3Sa-Cop-DPst2  
 > ‘He was occupied with his sister.’</pre>
 
-## Tiriyó: Others
+## Tiriyó: Varia
 
 -   other (Actually two clauses.):
 
@@ -808,7 +808,7 @@ phrases:
 > Ape  3AnPx  3-abandon-Imper  2-son-Psfx  2-disturb-A  ?    Pst-Sa-say-Pst  3InMd  3-fruit.food  3-get-Imper  so     Pst-make-Pst  3-Agt  put  
 > ‘(Ape) 'Leave this one here, your son, he would disturb you,' he said, 'get that, his food', then, he put it (down), /toron/.’</pre>
 
-## Akawaio: Others
+## Akawaio: Varia
 
 -   other (afterthought is a whole clause):
 
@@ -910,9 +910,9 @@ phrases:
 > where  Emph  say-Past  jaguar   Erg  A.I.?-Style  water  Emph   see-Hab-3-Erg  
 > ‘Where is it the tiger asked, there.. he said while looking into the water’</pre>
 
-# NPs
+# Pseudo (?) NPs
 
-## Hixkaryána: NPs
+## Hixkaryána: Pseudo (?) NPs
 
 > (derbyshire-1965-p-017-the-origin-of-night-and-darkness-021)
 > Hixkaryána (Derbyshire 1965: 17)
@@ -962,7 +962,7 @@ phrases:
 > Woxka  Voc  3AnPx   Intens  2-wife-Pos  3Sa-say-DPst2  Hrsy  
 > ‘"Woxka, this one (is) your wife," he said.’</pre>
 
-## Tiriyó: NPs
+## Tiriyó: Pseudo (?) NPs
 
 > (dados-07-frog-story-marciano-p-089-037) Tiriyó (Meira 2022)
 > <pre>
@@ -1078,7 +1078,7 @@ phrases:
 > 3Sa-sleep-Pres-Dbt  Cont  3AnPx-Dim  man-Dim    3AnPx  3AnPx  Idtf  3AnPx  2A-see-Pres-Dbt  
 > ‘This little one is sleeping, this is the little man (= boy), this is him, do you see?  ’</pre>
 
-## Akawaio: NPs
+## Akawaio: Pseudo (?) NPs
 
 > (ae-personal-narrative-031) Akawaio (Caesar-Fox 2003)
 > <pre>
