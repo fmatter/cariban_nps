@@ -1,5 +1,6 @@
 # Overview of results
 
+-   [Some stats](#some-stats)
 -   [Apparent discontinuous noun
     phrases](#apparent-discontinuous-noun-phrases)
     -   [Hixkaryána: Apparent discontinuous noun
@@ -20,8 +21,12 @@
     -   [Hixkaryána: NPs](#hixkaryana-nps)
     -   [Tiriyó: NPs](#tiriyo-nps)
     -   [Akawaio: NPs](#akawaio-nps)
--   [References](#references)Hixkaryána: 2/1000 (0.20%) text records
-    with apparent discontinuous noun phrases:
+-   [References](#references)
+
+# Some stats
+
+Hixkaryána: 2/1000 (0.20%) text records with apparent discontinuous noun
+phrases:
 
 |         |   a | poss | Total |
 |:--------|----:|-----:|------:|

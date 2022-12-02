@@ -75,7 +75,7 @@ for title, dic in {
         overview.extend(data)
 
 builder = GitHub
-content = "\n\n".join(stat_overview) + "\n\n" + "\n".join(overview)
+content = "# Some stats\n" + "\n\n".join(stat_overview) + "\n\n" + "\n".join(overview)
 
 preprocessed = preprocess(content)
 preprocessed = builder.preprocess_commands(preprocessed)
