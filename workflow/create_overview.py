@@ -61,6 +61,10 @@ for lg, total in stats.items():
                 if rec["Comment"] != "":
                     comm_str += f""" ({rec["Comment"]})"""
                 comm_str += ":\n"
+            else:
+                if rec["Comment"] != "":
+                    comm_str += f"""{rec["Comment"]}:\n"""
+
             t[lg].append(f"""{comm_str}[ex]({rec["ID"]}?with_primaryText)""")
 
 overview = []

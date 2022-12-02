@@ -13,6 +13,8 @@
     position](#putative-nps-in-argument-position)
     1.  [Hixkaryána: Putative NPs in argument
         position](#hixkaryána-putative-nps-in-argument-position)
+    2.  [Tiriyó: Putative NPs in argument
+        position](#tiriyó-putative-nps-in-argument-position)
 4.  [Unclear analysis](#unclear-analysis)
     1.  [Hixkaryána: Unclear analysis](#hixkaryána-unclear-analysis)
     2.  [Tiriyó: Unclear analysis](#tiriyó-unclear-analysis)
@@ -59,6 +61,8 @@ phrases:
 # Apparent discontinuous noun phrases
 
 ## Hixkaryána: Apparent discontinuous noun phrases
+
+\[*nuxe rma*\] \[*mokro*\]:
 
 > (derbyshire-1965-p-023-the-origin-of-the-moon-024) Hixkaryána
 > (Derbyshire 1965: 23)
@@ -314,9 +318,50 @@ phrases:
 > big.one-Pst  3InRm  Rel-shut.in-DPst2:Col  
 > ‘They sealed off that one, the big one.’</pre>
 
+## Tiriyó: Putative NPs in argument position
+
+Very interesting that *wewe* does not have a postposition.:
+
+> (dados-07-frog-story-marciano-p-091-047) Tiriyó (Meira 2022)
+> <pre>
+> <i>Irënpë=pëe wewe tootaken=pëe teepatakae, jeepurutu</i>  
+> irë-npë     pëe   wewe  t-oota-ke-n        pëe   t-V:-e-pataka-e           jeepurutu  
+> 3InAna-Pst  from  tree  T-hole-Having-Ent  from  Pst-Sa-Detr-take.out-Pst  owl.sp  
+> ‘Then from the tree with a whole came, an owl,  ’</pre>
+
+*tuna mono juuwë*, N N POSTP!:
+
+> (dados-09-kereramake-p-041-270) Tiriyó (Meira 2022)
+> <pre>
+> <i>(Ape) sen=nai... tuna mono juuwë iitën=mahtao, nemanakan tïïkae.</i>  
+> Ape  sen    n-ai     tuna   mono  juuwë  i-V:-të-0-n  mahtao  n-e-manaka-0-n          tï-V:-ka-e  
+> Ape  3InPx  3Sa-Cop  water  big   on     3-Sa-go-G-?  when    3Sa-Detr-roll-Pres-Dbt  Pst-Sa-say-Pst  
+> ‘(Ape) 'This one is... when it's on a big river, it turns,' (she) said.’</pre>
+
+DEM NP *se*!:
+
+> (data-01-yakari-01-p-127-025) Tiriyó (Meira 2022)
+> <pre>
+> <i>ma, mëe wëri=se=wae, wïkane,</i>  
+> ma    mëe    wëri   se     w-a-e        wï-ka-ne  
+> Attn  3AnPx  woman  Desid  1Sa-Cop-Cty  1Sa-say-DPst  
+> ‘'well, I want this woman,' I said,  ’</pre>
+
+DEM NP POSTP!:
+
+> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-020) Tiriyó (Meira
+> 2022)
+> <pre>
+> <i>Ëwë serë akoron=tao, mono=me nëturutan tarëno.</i>  
+> ëwë    serë   0-akoron  tao  mono  me   n-ëturu-ta-n      tarëno  
+> later  3InPx  3-other   Loc  big   Ess  3Sa-talk-Fut-Dbt  Tiriyó  
+> ‘'Later the other one like this (= meeting), the Tiriyó/Indians will talk a lot.'’</pre>
+
 # Unclear analysis
 
 ## Hixkaryána: Unclear analysis
+
+not clear what *mokï* is doing:
 
 > (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
 > (Derbyshire 1965: 13)
@@ -325,6 +370,16 @@ phrases:
 > oske  ka-nye  mokï   n-exe-ye       ahakheno  
 > thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
 > ‘My late father was the one, the one who said it thus.’</pre>
+
+-   unknown (Is this a possessive construction?):
+
+> (derbyshire-1965-p-018-the-origin-of-night-and-darkness-051)
+> Hixkaryána (Derbyshire 1965: 18)
+> <pre>
+> <i>Yuwa=wyarono=hatï, enï nehxakonï.</i>  
+> yuwa   wyaro-no  hatï  0-enï        n-eh-xakonï  
+> flute  like-Nzr  Hrsy  3-container  3Sa-Cop-DPst2  
+> ‘Its container was a thing like a flute.’</pre>
 
 -   unknown (what is happening with mosonï and omoro?):
 
@@ -489,6 +544,8 @@ phrases:
 # Varia
 
 ## Hixkaryána: Varia
+
+formulaic:
 
 > (derbyshire-1965-p-016-the-origin-of-night-and-darkness-002)
 > Hixkaryána (Derbyshire 1965: 16)
@@ -769,6 +826,16 @@ phrases:
 > Top.Chg  Woxka  Voc  3Sa-say-DPst2  Hrsy  3-Dat  Intens  3R-sm.sx.sblg  Dat  
 > ‘Marking change of subject, "Woxka," he said to him, to his brother.’</pre>
 
+-   other (afterthought):
+
+> (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-197) Hixkaryána
+> (Derbyshire 1965: 67)
+> <pre>
+> <i>Woxka=y, mosonï=ha, ohetxe, kekonï=hatï.</i>  
+> Woxka  y    mosonï  ha      o-he-txe    0-ke-konï      hatï  
+> Woxka  Voc  3AnPx   Intens  2-wife-Pos  3Sa-say-DPst2  Hrsy  
+> ‘"Woxka, this one (is) your wife," he said.’</pre>
+
 -   other (good example of \[\[N Ptc\] Pp\]):
 
 > (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-201) Hixkaryána
@@ -838,6 +905,16 @@ phrases:
 > Ape  mëe    0-inë-0          ë-nmuku-0   ë-enuuma-ne  npa  tï-V:-ka-e      mërë   i-nnapï       0-apëh-kë    irëme  tï-rë-e       i-:ja  toron  
 > Ape  3AnPx  3-abandon-Imper  2-son-Psfx  2-disturb-A  ?    Pst-Sa-say-Pst  3InMd  3-fruit.food  3-get-Imper  so     Pst-make-Pst  3-Agt  put  
 > ‘(Ape) 'Leave this one here, your son, he would disturb you,' he said, 'get that, his food', then, he put it (down), /toron/.’</pre>
+
+-   other (good example of possr possm part postp):
+
+> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-039) Tiriyó (Meira
+> 2022)
+> <pre>
+> <i>(Nasau) Mararija epi=ton=pë, tïwërëno=ro kïnëturu, tïpataa=pë,</i>  
+> …  mararija  0-epi       ton  pë     tïwërë-no  ro    kïn-ëturu   tï-pata-V:       pë  
+> …  malaria   3-medicine  Col  about  other-Ent  Idtf  3Dpst-talk  3r-village-Psfx  about  
+> ‘About malaria medicine(s), another (person) talked, about his/her own village,  ’</pre>
 
 ## Akawaio: Varia
 
@@ -945,13 +1022,8 @@ phrases:
 
 ## Hixkaryána: Other putative NPs
 
-> (derbyshire-1965-p-018-the-origin-of-night-and-darkness-051)
-> Hixkaryána (Derbyshire 1965: 18)
-> <pre>
-> <i>Yuwa=wyarono=hatï, enï nehxakonï.</i>  
-> yuwa   wyaro-no  hatï  0-enï        n-eh-xakonï  
-> flute  like-Nzr  Hrsy  3-container  3Sa-Cop-DPst2  
-> ‘Its container was a thing like a flute.’</pre>
+This one is interesting because it is *noro* and not a demonstrative.
+Also, the translation has a comma there.:
 
 > (derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)
 > Hixkaryána (Derbyshire 1965: 19)
@@ -960,14 +1032,6 @@ phrases:
 > amna  n-awanye-ko         ha      mosonï  0-hana-hto-rï        wya  0-ke-txkonï        hatï  0-ke-konï      hatï  noro    horykomo  
 > 1+3   3Sa-get.dark-RPst1  Intens  3AnPx   Rel-ear-Neg.Act-Pos  Agt  3Sa-say-DPst2:Col  Hrsy  3Sa-say-DPst2  Hrsy  3AnAna  chief.man  
 > ‘"We were in darkness, through the foolishness of this one," they said, he, the chief man, said.’</pre>
-
-> (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-197) Hixkaryána
-> (Derbyshire 1965: 67)
-> <pre>
-> <i>Woxka=y, mosonï=ha, ohetxe, kekonï=hatï.</i>  
-> Woxka  y    mosonï  ha      o-he-txe    0-ke-konï      hatï  
-> Woxka  Voc  3AnPx   Intens  2-wife-Pos  3Sa-say-DPst2  Hrsy  
-> ‘"Woxka, this one (is) your wife," he said.’</pre>
 
 ## Tiriyó: Other putative NPs
 
@@ -985,12 +1049,7 @@ phrases:
 > hole  3O-see-Sup  too   Pst-Sa-go.up-Pst  tree  3InPx  big   T-hole-Having  Pst-Sa-Cop-Pst  
 > ‘He climbed up to see the hole, this big tree had a hole.  ’</pre>
 
-> (dados-07-frog-story-marciano-p-091-047) Tiriyó (Meira 2022)
-> <pre>
-> <i>Irënpë=pëe wewe tootaken=pëe teepatakae, jeepurutu</i>  
-> irë-npë     pëe   wewe  t-oota-ke-n        pëe   t-V:-e-pataka-e           jeepurutu  
-> 3InAna-Pst  from  tree  T-hole-Having-Ent  from  Pst-Sa-Detr-take.out-Pst  owl.sp  
-> ‘Then from the tree with a whole came, an owl,  ’</pre>
+Rare “NP” (with personal name):
 
 > (dados-09-kereramake-p-033-075) Tiriyó (Meira 2022)
 > <pre>
@@ -999,6 +1058,8 @@ phrases:
 > Ape  Attn  1+2A-tell-Pres-Col  Përëpërëwa  1+2-grandpa-Psfx  P.col  
 > ‘(Ape) Well, we are telling (the story of) Përëpërëwa our ancestor,  ’</pre>
 
+Rare “NP” (with personal name):
+
 > (dados-09-kereramake-p-033-077) Tiriyó (Meira 2022)
 > <pre>
 > <i>(Ape) iwëtïrïhpë nërë kïtamuu=kon, Përëpërëwa.</i>  
@@ -1006,19 +1067,14 @@ phrases:
 > Ape  3-Sa-Detr-make-G-P.pst  3AnAna  1+2-grandpa-Psfx  P.col  Përëpërëwa  
 > ‘(Ape) he is the one who made himself, our ancestor, Përëpërëwa.  ’</pre>
 
+Is the second clause NVP?:
+
 > (dados-09-kereramake-p-041-269) Tiriyó (Meira 2022)
 > <pre>
 > <i>(Ape) Neejan mono kanawa tïïkae, irë=hkaasan kurano,</i>  
 > Ape  n-ee-ja-n          mono  kanawa  tï-V:-ka-e      irë     hkaasan  kura-no  
 > Ape  3Sa-come-Pres-Dbt  big   canoe   Pst-Sa-say-Pst  3InAna  instead  good-Ent  
 > ‘(Ape) 'A big canoe is coming', (she) said, 'that is good (= i.e. not the one you have),'’</pre>
-
-> (dados-09-kereramake-p-041-270) Tiriyó (Meira 2022)
-> <pre>
-> <i>(Ape) sen=nai... tuna mono juuwë iitën=mahtao, nemanakan tïïkae.</i>  
-> Ape  sen    n-ai     tuna   mono  juuwë  i-V:-të-0-n  mahtao  n-e-manaka-0-n          tï-V:-ka-e  
-> Ape  3InPx  3Sa-Cop  water  big   on     3-Sa-go-G-?  when    3Sa-Detr-roll-Pres-Dbt  Pst-Sa-say-Pst  
-> ‘(Ape) 'This one is... when it's on a big river, it turns,' (she) said.’</pre>
 
 > (dados-09-kereramake-p-045-324) Tiriyó (Meira 2022)
 > <pre>
@@ -1055,29 +1111,6 @@ phrases:
 > Ape  Pst-Sa-Cop-Pst  water  big   Pst-Sa-Cop-Pst  3InAna  at.time  Idtf  fish.sp  3-stream  big   big   water  Pst-Sa-Cop-Pst  say-Circ  Nzr-tell-G   3InPx  
 > ‘(Ape) the river had become big, at that time, Waraku's river was big, the river had risen, this is the telling,’</pre>
 
-> (data-01-yakari-01-p-127-025) Tiriyó (Meira 2022)
-> <pre>
-> <i>ma, mëe wëri=se=wae, wïkane,</i>  
-> ma    mëe    wëri   se     w-a-e        wï-ka-ne  
-> Attn  3AnPx  woman  Desid  1Sa-Cop-Cty  1Sa-say-DPst  
-> ‘'well, I want this woman,' I said,  ’</pre>
-
-> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-020) Tiriyó (Meira
-> 2022)
-> <pre>
-> <i>Ëwë serë akoron=tao, mono=me nëturutan tarëno.</i>  
-> ëwë    serë   0-akoron  tao  mono  me   n-ëturu-ta-n      tarëno  
-> later  3InPx  3-other   Loc  big   Ess  3Sa-talk-Fut-Dbt  Tiriyó  
-> ‘'Later the other one like this (= meeting), the Tiriyó/Indians will talk a lot.'’</pre>
-
-> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-039) Tiriyó (Meira
-> 2022)
-> <pre>
-> <i>(Nasau) Mararija epi=ton=pë, tïwërëno=ro kïnëturu, tïpataa=pë,</i>  
-> …  mararija  0-epi       ton  pë     tïwërë-no  ro    kïn-ëturu   tï-pata-V:       pë  
-> …  malaria   3-medicine  Col  about  other-Ent  Idtf  3Dpst-talk  3r-village-Psfx  about  
-> ‘About malaria medicine(s), another (person) talked, about his/her own village,  ’</pre>
-
 > (dados-07-frog-story-marciano-p-089-007) Tiriyó (Meira 2022)
 > <pre>
 > <i>Nëënïïjan=ken mëepisi, kïrïpisi mëe mëe=rë mëe, menen?</i>  
@@ -1100,6 +1133,8 @@ phrases:
 > mörö  kaza  rï'kwö  warawok  mïre   aburö-u-ya    mörö  
 > that  like  Dim     boy      child  praise-1-Erg  A.I.?  
 > ‘This is how I would praise a boy child when he is small’</pre>
+
+is mörö really a particle expressing future?:
 
 > (cc-praising-rhymes-32) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -1142,6 +1177,8 @@ phrases:
 > turonnö  mïre   bra  y-eji-'pï  
 > another  child  Neg  3-be-Past  
 > ‘there was no other child’</pre>
+
+ADV + N + PL:
 
 > (lester-eugene-personal-narrative-096) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -1276,6 +1313,8 @@ phrases:
 > möröbang-gong      ji    winö  wagï-rö    maing  eda-ze'na  yebï-zak   t-ka-ik         eji  
 > thereafter-Pl.Abs  Emph  from  good-Emph  word   hear-Purp  come-Perf  Adv-say-Prtcpl  be  
 > ‘So I thought I was coming to hear good words from people like those’</pre>
+
+*mörö ömujimö ege*:
 
 > (ra-eagle-story-008) Akawaio (Caesar-Fox 2003)
 > <pre>
