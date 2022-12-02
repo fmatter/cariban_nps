@@ -12,6 +12,7 @@ all_recs = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
 
 stats = json.load(open("data/stats.json"))
 
+label_dic = {"part": "N Ptc N", "posp": "N postp N", "y": "N [V...] N", "?": "unknown", "n": "other"}
 pos_overview = {}
 np_overview = {}
 res_overview = {}
@@ -22,7 +23,7 @@ for lg, total in stats.items():
     for d in [pos_overview, np_overview, res_overview, q_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
-    positives = recs[recs["Discont_NP"].isin(["more material", "part", "posp"])]
+    positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
     nps = recs[(recs["Discont_NP"] == "np")]
     questions = recs[recs["Discont_NP"] == "?"]
     residue = recs[
@@ -37,9 +38,10 @@ for lg, total in stats.items():
         df = pd.crosstab(
             positives["Discont_NP"], positives["Syntactic_Role"], margins=True
         )
+        df.index = df.index.map(label_dic)
         df.index.name = ""
         stat_overview.append(
-            f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with positive tokens:\n\n"
+            f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with apparent discontinuous noun phrases:\n\n"
             + df.to_markdown()
         )
     for o, t in [
@@ -51,7 +53,7 @@ for lg, total in stats.items():
         for rec in o.to_dict("records"):
             comm_str = ""
             if t is not np_overview:
-                comm_str = comm_str = f"""* {rec["Discont_NP"]}"""
+                comm_str = comm_str = f"""* {label_dic[rec["Discont_NP"]]}"""
                 if rec["Comment"] != "":
                     comm_str += f""" ({rec["Comment"]})"""
                 comm_str += ":\n"
@@ -59,7 +61,7 @@ for lg, total in stats.items():
 
 overview = []
 for title, dic in {
-    "Positives": pos_overview,
+    "Apparent discontinuous noun phrases": pos_overview,
     "Unclear": q_overview,
     "Others": res_overview,
     "NPs": np_overview,
