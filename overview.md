@@ -383,15 +383,6 @@ phrases:
 > know-1-Erg  like.manner  Neg  be   Akawaio  like  Dim     Emph  maybe  Emph  mother  this.Anim  1Sg  mother  grandmother  3S-be-Past  
 > ‘I do not know, but my mother's grandmother was Akawaio’</pre>
 
--   unknown (are serö and waramadang coreferential?):
-
-> (ae-personal-narrative-011) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>serö au eendu'pï waramadang bo</i>  
-> serö  yau  a-endu-'pï      waramadang  po  
-> this  Loc  2-be.born-Past  Waramadong  Loc  
-> ‘I was born here in Waramadang’</pre>
-
 -   unknown (‘Daddie your father’?):
 
 > (lester-eugene-personal-narrative-036) Akawaio (Caesar-Fox 2003)
@@ -401,7 +392,7 @@ phrases:
 > Daddy  about-Nzr  Emph  2-father-Pl     Emph  relative-Pl  like  Emph  
 > ‘also the relative of Daddie your father’</pre>
 
--   unknown (is *serö ji* ‘at this time’?):
+-   unknown (is *serö ji* ‘at this time’? I don’t think so.):
 
 > (lester-eugene-personal-narrative-100) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -410,25 +401,8 @@ phrases:
 > this  Emph  children  Pl    Erg  Emph  1Sg  leave-Pl.Abs-Past  Emph  
 > ‘Now at this time, my children have now left me’</pre>
 
--   unknown (what is *zerö pabai*?):
-
-> (pingkas-personal-narrative-001-interviewer) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>ka'pong be aauro'kauya zerö pabai,</i>  
-> ka'pong  pe    a-auro'ka-u-ya  serö  pabai  
-> person   like  2-tell-1-Erg    this  father  
-> ‘I will talk to you in Akawaio father’</pre>
-
--   unknown (what’s that little *mörö* doing there?):
-
-> (pingkas-personal-narrative-047) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mïgï tok kïipïnïdong winnö mörö ji am..</i>  
-> mïgï  tok  kïibïnï-dong  winö  mörö  ji    am  
-> Hes   3Pl  father-Pl     from  that  Emph  um  
-> ‘From their father's side that’</pre>
-
--   unknown (this translation puts *serö* and *maimu* together):
+-   unknown (do *serö* and *maimu* go together, as suggested by the
+    translation?):
 
 > (pingkas-personal-narrative-057) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -436,25 +410,6 @@ phrases:
 > serö  rï'kwö  rö    maing  saurogï-nnö  nai-nek        eji  wagï  pe    rö  
 > this  Dim     Emph  word   talk-1+2S    3.be.Pres-Rel  be   good  like  Emph  
 > ‘This language that we talk here is really good’</pre>
-
--   unknown (is this one NP or two?):
-
-> (ps-duck-story-025) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>kïrö togodogo endai</i>  
-> kïrö      togodogo  endai  
-> 3Sg.Anim  owl       better  
-> ‘Better than the owl’</pre>
-
--   unknown (nice example of possessive construction with intervening
-    particle):
-
-> (ps-duck-story-055) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mai'kwak amök mainarï</i>  
-> mai'kwak  amök  maina-ri  
-> duck      Pl    farm-PS  
-> ‘The farm of the ducks’</pre>
 
 -   unknown (What is going on here?):
 
@@ -465,7 +420,7 @@ phrases:
 > small  Dim     other     child  Dim     who   uncrtn  female     child  Dim     Emph  Uncrtnty  
 > ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
 
--   unknown (is *kirö* coreferential with *ijagong*?):
+-   unknown (is *kirö* coreferential with *wishagong*?):
 
 > (ps-duck-story-087) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -510,15 +465,6 @@ phrases:
 > 1Sg  Emph  be   that  one      only    Emph-Emph  dog   like  
 > ‘I am the only one who is the dog’</pre>
 
--   unknown (possessive construction with *sa’ji*):
-
-> (r-personal-narrative-064) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>urö sa'ji zang be nïgubïnï</i>  
-> urö  sa'ji  sang    be    n-gubï-nï  
-> 1Sg  Emph   mother  like  O.Nzr-do-Pres.Nzr  
-> ‘The one that I have made my mother’</pre>
-
 -   unknown (What is going on here?):
 
 > (ra-eagle-story-037) Akawaio (Caesar-Fox 2003)
@@ -527,15 +473,6 @@ phrases:
 > möröbang    ji    wa'ka  mïre   ji    i-enau     kïrö      mïgï  köik     eji-'pï  mörö   köik     ji    eji-'pï  
 > thereafter  Emph  axe    child  Emph  3-in.hand  3Sg.Anim  Hes   old.man  be-Past  A.I.?  old.man  Emph  be-Past  
 > ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
-
--   unknown (what is *möröng*?):
-
-> (ra-kone-o-story-015) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>nai ji da'pï kaiguji ya möröng.... tuna sak enbödïiya</i>  
-> nai    ji    ta-'pï    kaiguji  ya   mörö-ng      tuna   sa'ne  ene-bödï-i-ya  
-> where  Emph  say-Past  jaguar   Erg  A.I.?-Style  water  Emph   see-Hab-3-Erg  
-> ‘Where is it the tiger asked, there.. he said while looking into the water’</pre>
 
 # Others
 
@@ -909,6 +846,34 @@ phrases:
 > that  after  1Sg  Emph  last.one  but     Emph  small-Attr  Dim     be-while  1Sg  father   Emph  die-Past   A.I.?  
 > ‘Then after that, I am the last one but while I was still small my father died’</pre>
 
+-   other (disfluency):
+
+> (pingkas-personal-narrative-047) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïgï tok kïipïnïdong winnö mörö ji am..</i>  
+> mïgï  tok  kïibïnï-dong  winö  mörö  ji    am  
+> Hes   3Pl  father-Pl     from  that  Emph  um  
+> ‘From their father's side that’</pre>
+
+-   other (potentially a DEM + N NP):
+
+> (ps-duck-story-025) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö togodogo endai</i>  
+> kïrö      togodogo  endai  
+> 3Sg.Anim  owl       better  
+> ‘Better than the owl’</pre>
+
+-   other (nice example of possessive construction with intervening
+    particle):
+
+> (ps-duck-story-055) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mai'kwak amök mainarï</i>  
+> mai'kwak  amök  maina-ri  
+> duck      Pl    farm-PS  
+> ‘The farm of the ducks’</pre>
+
 -   other (adverb):
 
 > (ps-duck-story-060) Akawaio (Caesar-Fox 2003)
@@ -926,6 +891,24 @@ phrases:
 > an-ene-bai          ta-'pï    ji    pïze       tok  ewo'pï         no'sami'chi  ya   mörö  
 > 3O.Desid-see-Desid  say-Past  Emph  this.Anim  3Pl  mother.in.law  old          Erg  A.I.?  
 > ‘I want to see it said the old woman, the mother-in-law’</pre>
+
+-   other (good example of possessive construction with *sa’ji*):
+
+> (r-personal-narrative-064) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>urö sa'ji zang be nïgubïnï</i>  
+> urö  sa'ji  sang    be    n-gubï-nï  
+> 1Sg  Emph   mother  like  O.Nzr-do-Pres.Nzr  
+> ‘The one that I have made my mother’</pre>
+
+-   other (what is *möröng*?):
+
+> (ra-kone-o-story-015) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>nai ji da'pï kaiguji ya möröng.... tuna sak enbödïiya</i>  
+> nai    ji    ta-'pï    kaiguji  ya   mörö-ng      tuna   sa'ne  ene-bödï-i-ya  
+> where  Emph  say-Past  jaguar   Erg  A.I.?-Style  water  Emph   see-Hab-3-Erg  
+> ‘Where is it the tiger asked, there.. he said while looking into the water’</pre>
 
 # NPs
 
