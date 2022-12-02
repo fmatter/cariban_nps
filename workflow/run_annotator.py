@@ -43,7 +43,7 @@ df = pd.read_csv(f"data/{lg}_texts.csv")
 df = df.merge(info, on="ID", how="outer").fillna("")
 df = df.iloc[0:TARGET]
 df["Todo"] = df.apply(lambda x: (x["Pre_Screened"] != "y" and x["Value"] == ""), axis=1)
-eliminated = len(df[df["Pre_Screened"] == "y"])
+eliminated = len(df[(df["Pre_Screened"] == "y") & (df["Value"] == "")])
 annotated = len(df[df["Value"] != ""])
 todo = len(df[df["Todo"]])
 assert eliminated + annotated + todo == TARGET

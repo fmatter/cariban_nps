@@ -16,7 +16,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 154
+[dc:extent](http://purl.org/dc/terms/extent) | 173
 
 
 ### Columns

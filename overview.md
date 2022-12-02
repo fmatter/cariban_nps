@@ -51,14 +51,14 @@ phrases:
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
 | Total                    |   1 |   1 |   4 |    2 |   4 |    12 |
 
-Akawaio: 12/831 (1.44%) text records with apparent discontinuous noun
+Akawaio: 14/838 (1.67%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
 |:-------------------------|----:|------:|
-| N Ptc N                  |  11 |    11 |
+| N Ptc N                  |  13 |    13 |
 | N \[V…\] N               |   1 |     1 |
-| Total                    |  12 |    12 |
+| Total                    |  14 |    14 |
 
 # Apparent discontinuous noun phrases
 
@@ -308,6 +308,24 @@ phrases:
 > at.that.time  Emph  3Sg.Anim  Emph  hawk    tire-Perf-3-Erg    3.Rfl-wing  unfold-Perf-3-Erg-Style  
 > ‘At that time, the tired giant hawk open up his wings’</pre>
 
+-   N Ptc N (*zerö ji tumang*):
+
+> (ra-personal-narrative-097) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>sungwarönggong dö mörö nine, ten ya'tai tok dö wiinai, tumong ya'tai ta mö serö ji tumong a'tai e'nö, june month ya'tai</i>  
+> sungwarö-ng-gong     tö  mörö   a'tai  tok  tö  wïinai          tumong        a'tai  ta   mörö   zerö  ji    tumong        a'tai  eji-nnö  a'tai  
+> far.away-Nzr-Pl.Abs  go  A.I.?  when   3Pl  go  during.the.day  rainy.season  when   say  A.I.?  this  Emph  rainy.season  when   be-1+2S  while  
+> ‘Those akushy ants over there would fly at nine, ten in the day, during the rainy season, we are now in the rainy season, it is June month’</pre>
+
+-   N Ptc N:
+
+> (ra-personal-narrative-136) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai maing kuru wagï bra rö ji damörö mörörö ji tugaik na'kö tok ya auro'kazak nai e'tane</i>  
+> mörö  wenai    maing  kuru  wagï  bra  rö    ji    tamö-rö        mörö-rö    ji    tugaik  na'kö  tok  ya   auro'ka-zak  nai        e'tane  
+> that  because  word   Emph  good  Neg  Emph  Emph  you.know-Emph  that-Emph  Emph  like    maybe  3Pl  Erg  tell-Perf    3.be.Pres  but  
+> ‘This is why there is really no good language, maybe they have also told you so, but’</pre>
+
 # Putative NPs in argument position
 
 ## Hixkaryána: Putative NPs in argument position
@@ -414,6 +432,15 @@ DEM NP POSTP!:
 > möröbang    ji    serö  paga  a'chi-zak-i-ya   eji-'pï  mörö  
 > thereafter  Emph  this  cow   hold-Perf-3-Erg  be-Past  A.I.?Erg  
 > ‘Then he (kone'o) held on to one of the rock cows, he was there’</pre>
+
+*mörö kagorgok amök ya*:
+
+> (ra-personal-narrative-110) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö anö tok a mörö kagorgok amök ya mörö ji waiga amök pe rönamo ji</i>  
+> mörö  anö       tok  ya   mörö  Kako-gok    amök  ya   mörö  ji    wai'ka   amök  be    rönamo  ji  
+> that  eat.meat  3Pl  Erg  that  Kako-tribe  Pl    Erg  that  Emph  Akawaio  Pl    like  uncrtn  Emph  
+> ‘The people from Kako (kagorgoks) eat those and maybe they do this as an Akawaio(wai'ka)’</pre>
 
 # Unclear analysis
 
@@ -607,6 +634,97 @@ not clear what *mokï* is doing:
 > tigingnannö  eji  mörö   monggi  monggi  ji    iwarga  sa'ne  ji    iwarga  eboro-'pï-i-ya   mörö   iwarga  eboro-i  
 > one.item     be   A.I.?  monkey  monkey  Emph  monkey  Emph   Emph  monkey  find-Past-3-Erg  A.I.?  monkey  find-RPst  
 > ‘One of them is the monkey, he found the monkey’</pre>
+
+-   unknown (I am not sure what exactly *u’madï yau* is, but it has
+    *serö kamrang* as its argument):
+
+> (ra-personal-narrative-062) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ya'mu gau urö endu'pï ji mörö, San Rafeal ta na'nek airö kuru se kamrang u'madï yau</i>  
+> y-a'mu    kau       urö  endu-'pï      ji    mörö   ta   nai-nek        airö  kuru  serö  kamrang   u'madï  yau  
+> 3-source  in.water  1Sg  be.born-Past  Emph  A.I.?  say  3.be.Pres-Rel  near  Emph  this  Kamarang  finish  Loc  
+> ‘Within its source I was born in what is known as San Rafeal which is really within the source of the kamarang river’</pre>
+
+-   unknown (what is *serö* doing here?):
+
+> (ra-personal-narrative-068) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö ji serau ji öw maimu nonggazu'ya</i>  
+> serö  ji    serau  ji    öw     maimu     nongga-zak-u-ya  
+> this  Emph  here   Emph  shout  language  leave-Perf-1-Erg  
+> ‘I have left my language here’</pre>
+
+-   unknown (1) another nominalized postposition 2) what does it mean?):
+
+> (ra-personal-narrative-086) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kaiwak mörawong chi'kö aneruba</i>  
+> kaiwak          mörau-ng   ji'kö  aneruba  
+> grasshopper.Sp  there-Nzr  from   grasshopper.Sp  
+> ‘kaiwak and aneruba’</pre>
+
+-   unknown (what is the structure of the second clause?):
+
+> (ra-personal-narrative-091) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kiawök ning tok ezek, mörö ning kaiwak ning idezektong kamoro</i>  
+> kiawök       ning  tok  ezek  mörö  ning  kaiwak          ning  i-ezek-dong  kamoro  
+> akushy.ants  Emph  3Pl  name  that  Emph  grasshopper.Sp  Emph  3-name-Pl    3.Pl.Anim  
+> ‘Those whose name is kiawok(akushy ants), those who are also known as kaiwak’</pre>
+
+-   unknown (this looks like *kamo … waro’ma* to me):
+
+> (ra-personal-narrative-107) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>waro'ma, kamo ji binimï be ji nene'sang waro'ma, mörawong ji'kö wek.. wek... wek.. kek</i>  
+> waro'ma  kamoro     ji    pinimï  pe    y-eji  n-ene-zang        waro'ma  mörau-ng   ji'kö  wek         wek         wek         wek  
+> frog.Sp  3.Pl.Anim  Emph  walk    like  3-be   O.Nzr-see-Pl.Nzr  frog.Sp  there-Nzr  from   Frog.sound  Frog.sound  Frog.sound  Frog.sound  
+> ‘Those waro'ma frogs that I have seen while I was travelling, and those that say wek..wek..wek..kek’</pre>
+
+-   unknown (“korowa’mis is their name them”?):
+
+> (ra-personal-narrative-109) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>korowa'mi amök dieze'tong kamoro, a'tai hee.....</i>  
+> korowa'mi  amök  i-ezek-dong  kamoro     a'tai  hee  
+> frog.Sp    Pl    3-name-Pl    3.Pl.Anim  yes    groan  
+> ‘Those are called kora'mi, yes hee’</pre>
+
+-   unknown (what is going on with names and third person marking?):
+
+> (ra-personal-narrative-114) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kamrang, kamrang taiya sa'ji, se kamrang ezek pe sa'ji se kamrang idezek kamrani ze</i>  
+> kamrang   kamrang   ta   i-ya   sa'ne  ji    serö  kamrang   ezek  be    sa'ne  ji    serö  kamrang   i-ezek  kamrani   serö  
+> Kamarang  Kamarang  say  3-Erg  Emph   Emph  this  Kamarang  name  like  Emph   Emph  this  Kamarang  3-name  Kamarang  this  
+> ‘It is referring to kamarang, it is the name of this kamarang, kamrani river’</pre>
+
+-   unknown (what is *se* doing here?):
+
+> (ra-personal-narrative-117) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kamrang be sa'ji se eji tuna ezek kamrang</i>  
+> kamrang   pe    sa'ne  ji    serö  eji  tuna   ezek  kamrang  
+> Kamarang  like  Emph   Emph  this  be   water  name  Kamarang  
+> ‘This river is called Kamrang’</pre>
+
+-   unknown (no commas here… what are the two *mörö* referring to?):
+
+> (ra-personal-narrative-126) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kuguigok ta dok a anebra tuna ji eji mörö kugui be gwai ja'ne mörö kuguigok ta dok a</i>  
+> ku'kui-gok    ta   tok  ya   anebra   tuna   ji    eji  mörö  ku'kui  pe    u-ka-i      sa'ne  mörö  ku'kui-gok    ta   tok  ya  
+> Ku'kui-tribe  say  3Pl  Erg  because  water  Emph  be   that  Ku'kui  like  1-say-RPst  Emph   that  Ku'kui-tribe  say  3Pl  Erg  
+> ‘They call them tribe from Kukui(kukuigok)because the river is kukui I say’</pre>
+
+-   unknown (does *kamoro* belong to *ta tok ya rö*?):
+
+> (ra-personal-narrative-133) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>yago da tok a rö kamoro maimu Agawaio amök sa'ji maimu</i>  
+> yagoro          ta   tok  ya   rö    kamoro     maimu     Akawaio  amök  sa'ne  ji    maimu  
+> brother.in.law  say  3Pl  Erg  Emph  3.Pl.Anim  language  Akawaio  Pl    Emph   Emph  language  
+> ‘Or they will say 'yago' which is the word Akawaios use’</pre>
 
 # Varia
 
@@ -1094,6 +1212,24 @@ formulaic:
 > what  Loc-Nzr  eat.meat  2-Erg  say-Past-3-Erg  Emph  A.I.?  what  Loc-Nzr  eat.meat  2-Erg  
 > ‘where does the meat you are eating come from, he said’</pre>
 
+-   other (Good example of particles within VP):
+
+> (ra-kone-o-story-054) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>pïuu!.... monggi sa'ji eno'maiya sa'ji</i>  
+> pïuu  monggi  sa'ne  ji    eno'ma-i-ya  sa'ne  ji  
+> fly   monkey  Emph   Emph  throw-3-Erg  Emph   Emph  
+> ‘Pïuu!(SSW,sound made by the monkey travelling through the air) he threw the poor monkey’</pre>
+
+-   other (nice example of afterthought in akawaio):
+
+> (ra-personal-narrative-123) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kuguigok ta dok a mörö bök, tuna bök kuru um.. ïng!</i>  
+> ku'kui-gok    ta   tok  ya   mörö  pök   tuna   pök   kuru  um  ïng  
+> Ku'kui-tribe  say  3Pl  Erg  that  from  water  from  Emph  um  mmm  
+> ‘They say that is kukuigok(tribe from Kukui), because of the river’</pre>
+
 # Other putative NPs
 
 ## Hixkaryána: Other putative NPs
@@ -1454,5 +1590,33 @@ ADV + N + PL:
 > möra'tai      ji    kaiguji  ya   eboro  mörö  kone'o  ji    eboro-i-ya  
 > at.that.time  Emph  jaguar   Erg  find   that  rabbit  Emph  find-3-Erg  
 > ‘At that time the tiger came along and found him doing this’</pre>
+
+> (ra-personal-narrative-061) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai ji serö kamrang</i>  
+> möra'tai      ji    serö  kamrang  
+> at.that.time  Emph  this  Kamarang  
+> ‘Then this kamarang’</pre>
+
+> (ra-personal-narrative-077) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö bada'pï yak elda Kaskarang ye'pï mörö sungwa ji nya e'tane sairö</i>  
+> mörö  pada-'pï    yak   elda   Kaskarang  yebï-'pï   mörö  sungwa    ji    nya  eji-dane  sairö  
+> that  place-Past  into  Elder  Kaskarang  come-Past  that  far.away  Emph  1+3  be-while  here  
+> ‘Then to replace him elder Kaskarang came while we were somewhere around there’</pre>
+
+> (ra-personal-narrative-125) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö wenai ji agawaio ta na'nek ji eji mörö ka'pong be ji tok a eza'sak mörö Akawaio ta dok a, kamranigok ta dok ya ji wijagong be</i>  
+> mörö  wenai    ji    Akawaio  ta   nai-nek        ji    y-eji  mörö  ka'pong  pe    ji    tok  ya   ezagï-zak  mörö   Akawaio  ta   tok  ya   kamrani-gok     ta   tok  ya   ji    wijagong  pe  
+> that  because  Emph  Akawaio  say  3.be.Pres-Rel  Emph  3-be   that  person   like  Emph  3Pl  Erg  name-Perf  A.I.?  Akawaio  say  3Pl  Erg  Kamarang-tribe  say  3Pl  Erg  Emph  other     like  
+> ‘That is why the Akawaios are named in that way in the Amerindian way and they also called them kamranigok as the alternative way to call them’</pre>
+
+> (ra-personal-narrative-137) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö ning wiik e'tane egamauya mörö mörö yago're</i>  
+> mörö  ning  wiik   e'tane   egama-u-ya  mörö   mörö  yago're  
+> that  Emph  while  however  tell-1-Erg  A.I.?  that  brother.in.law  
+> ‘However, while this is so, I am telling you about yago're’</pre>
 
 # References
