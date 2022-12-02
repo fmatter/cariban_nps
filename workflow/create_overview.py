@@ -24,6 +24,7 @@ for lg, total in stats.items():
     for d in [pos_overview, np_overview, res_overview, q_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
+    print(recs)
     positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
     nps = recs[(recs["Discont_NP"] == "np")]
     questions = recs[recs["Discont_NP"] == "?"]

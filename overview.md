@@ -861,6 +861,16 @@ phrases:
 > bad    3Sa-Cop-Pres:Cty  3Sa-say-DPst2  Hrsy  Mawarye  Dat  Woxka  
 > ‘"She is no good," said Woxka to Mawarye.’</pre>
 
+-   other (Example of *rma* within phrase.):
+
+> (derbyshire-1965-p-023-the-origin-of-the-moon-004) Hixkaryána
+> (Derbyshire 1965: 23)
+> <pre>
+> <i>Tïnotxhïrï=rma=hoko nehxakonï.</i>  
+> tï-notxhï-rï   rma   hoko   n-eh-xakonï  
+> 3R-sister-Pos  Cont  about  3Sa-Cop-DPst2  
+> ‘He was occupied with his sister.’</pre>
+
 ## Tiriyó: Others
 
 -   other (Actually two clauses.):
