@@ -15,6 +15,8 @@
         position](#hixkaryána-putative-nps-in-argument-position)
     2.  [Tiriyó: Putative NPs in argument
         position](#tiriyó-putative-nps-in-argument-position)
+    3.  [Akawaio: Putative NPs in argument
+        position](#akawaio-putative-nps-in-argument-position)
 4.  [Unclear analysis](#unclear-analysis)
     1.  [Hixkaryána: Unclear analysis](#hixkaryána-unclear-analysis)
     2.  [Tiriyó: Unclear analysis](#tiriyó-unclear-analysis)
@@ -49,7 +51,7 @@ phrases:
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
 | Total                    |   1 |   1 |   4 |    2 |   4 |    12 |
 
-Akawaio: 12/806 (1.49%) text records with apparent discontinuous noun
+Akawaio: 12/831 (1.44%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
@@ -357,6 +359,62 @@ DEM NP POSTP!:
 > later  3InPx  3-other   Loc  big   Ess  3Sa-talk-Fut-Dbt  Tiriyó  
 > ‘'Later the other one like this (= meeting), the Tiriyó/Indians will talk a lot.'’</pre>
 
+## Akawaio: Putative NPs in argument position
+
+*mörö kaiguji ya*:
+
+> (ra-kone-o-story-022) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möra'tai ji mïgï mörö kaiguji ya ji omba'pï gia'nö be imbö sa'ne ji öp.. öp.. haing... za</i>  
+> möra'tai      ji    mïgï  mörö  kaiguji  ya   ji    omba-'pï    gia'nö  pe    imbö       sa'ne  ji    öp       öp       haing  sa'ne  
+> at.that.time  Emph  Hes   that  jaguar   Erg  Emph  taste-Past  tasty   like  soury.nut  Emph   Emph  surpise  surpise  drama  Emph  
+> ‘Then the tiger tasted the imbö nuts and they were very sweet’</pre>
+
+*kïrö kone’o ya*:
+
+> (ra-kone-o-story-028) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörörö marö i'mobödïiya doh! i'moiya ning, ku i'moiya ning kïrö kone'o ya ganang</i>  
+> mörö-rö    marö  i'mo-bödï-i-ya    doh    i'mo-i-ya    ning  kuru  i'mo-i-ya    ning  kïrö      kone'o  ya   kanang  
+> that-Emph  also  split-Iter-3-Erg  break  split-3-Erg  Emph  Emph  split-3-Erg  Emph  3Sg.Anim  rabbit  Erg  again  
+> ‘He was again cracking/bursting up the same imbö nuts doh!(SSW), this was kone'o again cracking up these nuts’</pre>
+
+*mörö kone’o ya*:
+
+> (ra-kone-o-story-030) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'tane kuru mïgï mörö kone'o a inggu'töbödï ji</i>  
+> e'tane  kuru  mïgï  mörö  kone'o  ya   inggu'tö-bödï  ji  
+> but     Emph  Hes   that  rabbit  Erg  fool-Hab       Emph  
+> ‘But it was during this time that kone'o was making him a fool’</pre>
+
+*mörö diemu wenairö*:
+
+> (ra-kone-o-story-035) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>iwenairö genïk ji mörö diemu wenairö i'mobödïiya mörö doh!... doh! warau.. sebang sa'ne</i>  
+> i-wenai-rö       genïk         ji    mörö  i-emu        wenai-rö       i'mo-bödï-i-ya    mörö   doh    doh    warau  serö-be-ang    sa'ne  
+> 3-close.to-Emph  specifically  Emph  that  3-testicles  close.to-Emph  split-Iter-3-Erg  A.I.?  break  break  open   this-Attr-Nzr  Emph  
+> ‘He was bursting up the nuts very close to his testicles doh! doh! warau! (it opened up) "This is how it is done"’</pre>
+
+*mörö iwarga pök*:
+
+> (ra-kone-o-story-047) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>aanöuya zerö da'pï ji mïgï mörö iwarga bök chi kaiguze a aanöuya zerö</i>  
+> a-anö-u-ya        serö  ta-'pï    ji    mïgï  mörö  iwarga  pök  ji    kaiguji  ya   a-anö-u-ya        serö  
+> 2-eat.meat-1-Erg  S.I.  say-Past  Emph  Hes   that  monkey  to   Emph  jaguar   Erg  2-eat.meat-1-Erg  S.I.  
+> ‘I am going to eat you said the tiger to the monkey, I am going to eat you’</pre>
+
+*se paga*:
+
+> (ra-kone-o-story-069) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröbang ji se paga a'chijai'ya es'pï mörö wa</i>  
+> möröbang    ji    serö  paga  a'chi-zak-i-ya   eji-'pï  mörö  
+> thereafter  Emph  this  cow   hold-Perf-3-Erg  be-Past  A.I.?Erg  
+> ‘Then he (kone'o) held on to one of the rock cows, he was there’</pre>
+
 # Unclear analysis
 
 ## Hixkaryána: Unclear analysis
@@ -540,6 +598,15 @@ not clear what *mokï* is doing:
 > möröbang    ji    wa'ka  mïre   ji    i-enau     kïrö      mïgï  köik     eji-'pï  mörö   köik     ji    eji-'pï  
 > thereafter  Emph  axe    child  Emph  3-in.hand  3Sg.Anim  Hes   old.man  be-Past  A.I.?  old.man  Emph  be-Past  
 > ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
+
+-   unknown (is *mörö* in *mörö iwarga* not ‘DEM’?):
+
+> (ra-kone-o-story-043) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tigingnannö eji mörö monggi, monggi ji, iwarga sa'ne ji, iwarga eboro'pïya mörö iwarga eboroi</i>  
+> tigingnannö  eji  mörö   monggi  monggi  ji    iwarga  sa'ne  ji    iwarga  eboro-'pï-i-ya   mörö   iwarga  eboro-i  
+> one.item     be   A.I.?  monkey  monkey  Emph  monkey  Emph   Emph  monkey  find-Past-3-Erg  A.I.?  monkey  find-RPst  
+> ‘One of them is the monkey, he found the monkey’</pre>
 
 # Varia
 
@@ -1017,6 +1084,15 @@ formulaic:
 > nai    ji    ta-'pï    kaiguji  ya   mörö-ng      tuna   sa'ne  ene-bödï-i-ya  
 > where  Emph  say-Past  jaguar   Erg  A.I.?-Style  water  Emph   see-Hab-3-Erg  
 > ‘Where is it the tiger asked, there.. he said while looking into the water’</pre>
+
+-   other (another nominalized postposition):
+
+> (ra-kone-o-story-071) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>nai awong anauya ta'pïya ji mörö, nai awong anauya</i>  
+> nai   yau-ng   anö       a-ya   ta-'pï-i-ya     ji    mörö   nai   yau-ng   anö       a-ya  
+> what  Loc-Nzr  eat.meat  2-Erg  say-Past-3-Erg  Emph  A.I.?  what  Loc-Nzr  eat.meat  2-Erg  
+> ‘where does the meat you are eating come from, he said’</pre>
 
 # Other putative NPs
 
