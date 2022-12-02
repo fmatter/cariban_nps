@@ -1,32 +1,54 @@
 # Overview of results
 
-Hixkaryána: 2/1000 (0.20%) text records with apparent discontinuous noun
-phrases:
+-   [Apparent discontinuous noun
+    phrases](#apparent-discontinuous-noun-phrases)
+    -   [Hixkaryána: Apparent discontinuous noun
+        phrases](#hixkaryana-apparent-discontinuous-noun-phrases)
+    -   [Tiriyó: Apparent discontinuous noun
+        phrases](#tiriyo-apparent-discontinuous-noun-phrases)
+    -   [Akawaio: Apparent discontinuous noun
+        phrases](#akawaio-apparent-discontinuous-noun-phrases)
+-   [Unclear](#unclear)
+    -   [Hixkaryána: Unclear](#hixkaryana-unclear)
+    -   [Tiriyó: Unclear](#tiriyo-unclear)
+    -   [Akawaio: Unclear](#akawaio-unclear)
+-   [Others](#others)
+    -   [Hixkaryána: Others](#hixkaryana-others)
+    -   [Tiriyó: Others](#tiriyo-others)
+    -   [Akawaio: Others](#akawaio-others)
+-   [NPs](#nps)
+    -   [Hixkaryána: NPs](#hixkaryana-nps)
+    -   [Tiriyó: NPs](#tiriyo-nps)
+    -   [Akawaio: NPs](#akawaio-nps)
+-   [References](#references)Hixkaryána: 2/1000 (0.20%) text records
+    with apparent discontinuous noun phrases:
 
-|         |   a | poss | All |
-|:--------|----:|-----:|----:|
-| N Ptc N |   1 |    1 |   2 |
-| nan     |   1 |    1 |   2 |
+|         |   a | poss | Total |
+|:--------|----:|-----:|------:|
+| N Ptc N |   1 |    1 |     2 |
+| nan     |   1 |    1 |     2 |
 
 Tiriyó: 12/1000 (1.20%) text records with apparent discontinuous noun
 phrases:
 
-|            |   ? |   a | obl | obl? |   s | All |
-|:-----------|----:|----:|----:|-----:|----:|----:|
-| N Ptc N    |   1 |   0 |   0 |    2 |   1 |   4 |
-| N postp N  |   0 |   1 |   3 |    0 |   0 |   4 |
-| N \[V…\] N |   0 |   0 |   1 |    0 |   3 |   4 |
-| nan        |   1 |   1 |   4 |    2 |   4 |  12 |
+|            |   ? |   a | obl | obl? |   s | Total |
+|:-----------|----:|----:|----:|-----:|----:|------:|
+| N Ptc N    |   1 |   0 |   0 |    2 |   1 |     4 |
+| N Postp N  |   0 |   1 |   3 |    0 |   0 |     4 |
+| N \[V…\] N |   0 |   0 |   1 |    0 |   3 |     4 |
+| nan        |   1 |   1 |   4 |    2 |   4 |    12 |
 
 Akawaio: 17/806 (2.11%) text records with apparent discontinuous noun
 phrases:
 
-|            |     | All |
-|:-----------|----:|----:|
-| N Ptc N    |  15 |  15 |
-| N postp N  |   1 |   1 |
-| N \[V…\] N |   1 |   1 |
-| nan        |  17 |  17 |
+|            |     | Total |
+|:-----------|----:|------:|
+| N Ptc N    |  15 |    15 |
+| N Postp N  |   1 |     1 |
+| N \[V…\] N |   1 |     1 |
+| nan        |  17 |    17 |
+
+# Apparent discontinuous noun phrases
 
 ## Hixkaryána: Apparent discontinuous noun phrases
 
@@ -70,7 +92,7 @@ phrases:
 > Ape  run   3AnMd  Pst-Sa-run-Pst  old.man  
 > ‘(Ape) /wëën/... that one ran, the old man (= i.e. Përëpërëwa).  ’</pre>
 
--   N postp N (\[mëërë *ja*\] \[kaike *ja*\]):
+-   N Postp N (\[mëërë *ja*\] \[kaike *ja*\]):
 
 > (dados-09-kereramake-p-045-323) Tiriyó (Meira 2022)
 > <pre>
@@ -124,7 +146,7 @@ phrases:
 > Attn  big   1Sa-Cop-DPst  young.man  finally  
 > ‘Well... I finally grew up, I became a young man.  ’</pre>
 
--   N postp N (\[*jijomii tae*\] … \[*tarëno tae*\]):
+-   N Postp N (\[*jijomii tae*\] … \[*tarëno tae*\]):
 
 > (mini-disc-lsmtam13set0001-marciano-little-introduction-003) Tiriyó
 > (Meira 2022)
@@ -144,7 +166,7 @@ phrases:
 > so     1+3   work   Ess  3Sa-Cop  now       Recp-with  3AnPx  with  Sérgio  with  
 > ‘So we're now working together,’</pre>
 
--   N postp N (\[*serë pë*\] \[*panpira pë*\]):
+-   N Postp N (\[*serë pë*\] \[*panpira pë*\]):
 
 > (mini-disc-lsmtam13set0001-marciano-little-introduction-005) Tiriyó
 > (Meira 2022)
@@ -154,7 +176,7 @@ phrases:
 > 3InPx  about  book     about  1+3   3Sa-Cop  work   Ess  2A-hear-I.Pst  3InAna  like  
 > ‘We're now working about this, about this book/paper (= i.e. we're writing something). Did you hear? That's it.  ’</pre>
 
--   N postp N (\[*ipërih tae*\] \[*anja eekuhpë*\] – interesting
+-   N Postp N (\[*ipërih tae*\] \[*anja eekuhpë*\] – interesting
     postpositional behavior):
 
 > (minidisc-xxx-torohpe-iwehtoponpe-002) Tiriyó (Meira 2022)
@@ -294,7 +316,7 @@ phrases:
 > this  Emph   Emph  3Pl  deplete-Cmpltv  3Sg.Anim  bird    Erg  3Pl  finish  Erg  make.think-Past  
 > ‘The numbers of the people were depleting because the bird was finishing them off, this made him think’</pre>
 
--   N postp N:
+-   N Postp N:
 
 > (ra-eagle-story-033) Akawaio (Caesar-Fox 2003)
 > <pre>

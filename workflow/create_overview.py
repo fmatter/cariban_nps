@@ -6,13 +6,14 @@ from pylingdocs.output import HTML, GitHub
 from pycldf import Dataset
 import json
 
+
 ds = Dataset.from_metadata("data/cldf/metadata.json")
 
 all_recs = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
 
 stats = json.load(open("data/stats.json"))
 
-label_dic = {"part": "N Ptc N", "posp": "N postp N", "y": "N [V...] N", "?": "unknown", "n": "other"}
+label_dic = {"part": "N Ptc N", "posp": "N Postp N", "y": "N [V...] N", "?": "unknown", "n": "other"}
 pos_overview = {}
 np_overview = {}
 res_overview = {}
@@ -36,7 +37,7 @@ for lg, total in stats.items():
     assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
     if len(positives) > 0:
         df = pd.crosstab(
-            positives["Discont_NP"], positives["Syntactic_Role"], margins=True
+            positives["Discont_NP"], positives["Syntactic_Role"], margins=True, margins_name="Total"
         )
         df.index = df.index.map(label_dic)
         df.index.name = ""
@@ -74,7 +75,8 @@ for title, dic in {
         overview.extend(data)
 
 builder = GitHub
-content = "\n\n".join(stat_overview) + "\n".join(overview)
+content = "\n\n".join(stat_overview) + "\n\n" + "\n".join(overview)
+
 preprocessed = preprocess(content)
 preprocessed = builder.preprocess_commands(preprocessed)
 preprocessed += "\n\n" + builder.reference_list()
