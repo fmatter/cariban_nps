@@ -4,22 +4,22 @@
 2.  [Apparent discontinuous noun
     phrases](#apparent-discontinuous-noun-phrases)
     1.  [Hixkaryána: Apparent discontinuous noun
-        phrases](#hixkaryana-apparent-discontinuous-noun-phrases)
+        phrases](#hixkaryána-apparent-discontinuous-noun-phrases)
     2.  [Tiriyó: Apparent discontinuous noun
-        phrases](#tiriyo-apparent-discontinuous-noun-phrases)
+        phrases](#tiriyó-apparent-discontinuous-noun-phrases)
     3.  [Akawaio: Apparent discontinuous noun
         phrases](#akawaio-apparent-discontinuous-noun-phrases)
 3.  [Unclear](#unclear)
-    1.  [Hixkaryána: Unclear](#hixkaryana-unclear)
-    2.  [Tiriyó: Unclear](#tiriyo-unclear)
+    1.  [Hixkaryána: Unclear](#hixkaryána-unclear)
+    2.  [Tiriyó: Unclear](#tiriyó-unclear)
     3.  [Akawaio: Unclear](#akawaio-unclear)
 4.  [Others](#others)
-    1.  [Hixkaryána: Others](#hixkaryana-others)
-    2.  [Tiriyó: Others](#tiriyo-others)
+    1.  [Hixkaryána: Others](#hixkaryána-others)
+    2.  [Tiriyó: Others](#tiriyó-others)
     3.  [Akawaio: Others](#akawaio-others)
 5.  [NPs](#nps)
-    1.  [Hixkaryána: NPs](#hixkaryana-nps)
-    2.  [Tiriyó: NPs](#tiriyo-nps)
+    1.  [Hixkaryána: NPs](#hixkaryána-nps)
+    2.  [Tiriyó: NPs](#tiriyó-nps)
     3.  [Akawaio: NPs](#akawaio-nps)
 6.  [References](#references)
 
