@@ -24,7 +24,6 @@ for lg, total in stats.items():
     for d in [pos_overview, np_overview, res_overview, q_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
-    print(recs)
     positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
     nps = recs[(recs["Discont_NP"] == "np")]
     questions = recs[recs["Discont_NP"] == "?"]
@@ -41,7 +40,7 @@ for lg, total in stats.items():
             positives["Discont_NP"], positives["Syntactic_Role"], margins=True, margins_name="Total"
         )
         df.index = df.index.map(label_dic)
-        df.index.name = ""
+        df.index.name = "Pattern / Syntactic role"
         stat_overview.append(
             f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with apparent discontinuous noun phrases:\n\n"
             + df.to_markdown()

@@ -28,30 +28,30 @@
 Hixkaryána: 2/1000 (0.20%) text records with apparent discontinuous noun
 phrases:
 
-|         |   a | poss | Total |
-|:--------|----:|-----:|------:|
-| N Ptc N |   1 |    1 |     2 |
-| nan     |   1 |    1 |     2 |
+| Pattern / Syntactic role |   a | poss | Total |
+|:-------------------------|----:|-----:|------:|
+| N Ptc N                  |   1 |    1 |     2 |
+| nan                      |   1 |    1 |     2 |
 
 Tiriyó: 12/1000 (1.20%) text records with apparent discontinuous noun
 phrases:
 
-|            |   ? |   a | obl | obl? |   s | Total |
-|:-----------|----:|----:|----:|-----:|----:|------:|
-| N Ptc N    |   1 |   0 |   0 |    2 |   1 |     4 |
-| N Postp N  |   0 |   1 |   3 |    0 |   0 |     4 |
-| N \[V…\] N |   0 |   0 |   1 |    0 |   3 |     4 |
-| nan        |   1 |   1 |   4 |    2 |   4 |    12 |
+| Pattern / Syntactic role |   ? |   a | obl | obl? |   s | Total |
+|:-------------------------|----:|----:|----:|-----:|----:|------:|
+| N Ptc N                  |   1 |   0 |   0 |    2 |   1 |     4 |
+| N Postp N                |   0 |   1 |   3 |    0 |   0 |     4 |
+| N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
+| nan                      |   1 |   1 |   4 |    2 |   4 |    12 |
 
 Akawaio: 17/806 (2.11%) text records with apparent discontinuous noun
 phrases:
 
-|            |     | Total |
-|:-----------|----:|------:|
-| N Ptc N    |  15 |    15 |
-| N Postp N  |   1 |     1 |
-| N \[V…\] N |   1 |     1 |
-| nan        |  17 |    17 |
+| Pattern / Syntactic role |     | Total |
+|:-------------------------|----:|------:|
+| N Ptc N                  |  15 |    15 |
+| N Postp N                |   1 |     1 |
+| N \[V…\] N               |   1 |     1 |
+| nan                      |  17 |    17 |
 
 # Apparent discontinuous noun phrases
 
@@ -361,26 +361,6 @@ phrases:
 > oske  ka-nye  mokï   n-exe-ye       ahakheno  
 > thus  say-A   3AnRm  3Sa-Cop-DPst1  my.deceased.father  
 > ‘My late father was the one, the one who said it thus.’</pre>
-
--   unknown (two afterthoughts):
-
-> (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-008) Hixkaryána
-> (Derbyshire 1965: 60)
-> <pre>
-> <i>Kana yowomtoho onï, kekonï=hatï, Mawarye, towtï=wya=ha.</i>  
-> kana  y-owom-toho     onï    0-ke-konï      hatï  mawarye  t-owtï         wya  ha  
-> fish  Rel-go.in-Circ  3InPx  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat  Intens  
-> ‘This (is) the thing into which go the fish," said Mawarye to his brother.’</pre>
-
--   unknown (/ n):
-
-> (derbyshire-1965-p-064-the-wives-of-mawarye-and-woxka-121) Hixkaryána
-> (Derbyshire 1965: 64)
-> <pre>
-> <i>Mosonï=ha Woxka, khetxe.</i>  
-> mosonï  ha      Woxka  k-he-txe  
-> 3AnPx   Intens  Woxka  1+2-wife-Pos  
-> ‘'These, Woxka, (are) our wives.’</pre>
 
 -   unknown (what is happening with mosonï and omoro?):
 
@@ -741,6 +721,16 @@ phrases:
 > Mawarye  Voc  3Sa-say-DPst2  Hrsy  3R-sm.sx.sblg  Dat  
 > ‘"Mawarye," he said to his brother.’</pre>
 
+-   other (two afterthoughts):
+
+> (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-008) Hixkaryána
+> (Derbyshire 1965: 60)
+> <pre>
+> <i>Kana yowomtoho onï, kekonï=hatï, Mawarye, towtï=wya=ha.</i>  
+> kana  y-owom-toho     onï    0-ke-konï      hatï  mawarye  t-owtï         wya  ha  
+> fish  Rel-go.in-Circ  3InPx  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat  Intens  
+> ‘This (is) the thing into which go the fish," said Mawarye to his brother.’</pre>
+
 -   other (elaboration pattern):
 
 > (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-022) Hixkaryána
@@ -821,6 +811,16 @@ phrases:
 > woman  Rel-lift-DPst1  say-A   3AnRm  3Sa-Cop-DPst1  Dead  
 > ‘He lifted the women, he, the deceased was the one, the one who said it.’</pre>
 
+-   other (afterthought):
+
+> (derbyshire-1965-p-064-the-wives-of-mawarye-and-woxka-121) Hixkaryána
+> (Derbyshire 1965: 64)
+> <pre>
+> <i>Mosonï=ha Woxka, khetxe.</i>  
+> mosonï  ha      Woxka  k-he-txe  
+> 3AnPx   Intens  Woxka  1+2-wife-Pos  
+> ‘'These, Woxka, (are) our wives.’</pre>
+
 -   other (elaboration pattern):
 
 > (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-196) Hixkaryána
@@ -900,15 +900,6 @@ phrases:
 > Ape  mëe    0-inë-0          ë-nmuku-0   ë-enuuma-ne  npa  tï-V:-ka-e      mërë   i-nnapï       0-apëh-kë    irëme  tï-rë-e       i-:ja  toron  
 > Ape  3AnPx  3-abandon-Imper  2-son-Psfx  2-disturb-A  ?    Pst-Sa-say-Pst  3InMd  3-fruit.food  3-get-Imper  so     Pst-make-Pst  3-Agt  put  
 > ‘(Ape) 'Leave this one here, your son, he would disturb you,' he said, 'get that, his food', then, he put it (down), /toron/.’</pre>
-
--   other (*mërë po* ‘here’?):
-
-> (minidisc-xxx-mukusa-nasau-sep-2000-061) Tiriyó (Meira 2022)
-> <pre>
-> <i>(Nasau) Mërë=po ipataa=pona=rë.</i>  
-> …  mërë   po   i-pata-V:     pona  rë  
-> …  3InMd  Loc  3-place-Psfx  Dir   Idtf  
-> ‘(Nasau) There, (bring it) to its place (= to the butcher's).’</pre>
 
 ## Akawaio: Others
 
