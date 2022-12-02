@@ -43,15 +43,14 @@ phrases:
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
 | nan                      |   1 |   1 |   4 |    2 |   4 |    12 |
 
-Akawaio: 17/806 (2.11%) text records with apparent discontinuous noun
+Akawaio: 12/806 (1.49%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
 |:-------------------------|----:|------:|
-| N Ptc N                  |  15 |    15 |
-| N Postp N                |   1 |     1 |
+| N Ptc N                  |  11 |    11 |
 | N \[V…\] N               |   1 |     1 |
-| nan                      |  17 |    17 |
+| nan                      |  12 |    12 |
 
 # Apparent discontinuous noun phrases
 
@@ -238,7 +237,7 @@ phrases:
 > story    Emph  old-Past.Psn  
 > ‘Even one that use to be an old story’</pre>
 
--   N Ptc N:
+-   N Ptc N (\[*wagïdong rö airö*\] \[*stori amök*\]):
 
 > (ps-duck-story-007) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -247,7 +246,7 @@ phrases:
 > good-Pl    Emph  sympathy  story  Pl    forget-Caus     3Pl  Erg  like  3.be.Pres  
 > ‘It seems that they will be forgetting good stories’</pre>
 
--   N Ptc N:
+-   N Ptc N (*kïrö ning mai’kwak*):
 
 > (ps-duck-story-032) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -256,7 +255,7 @@ phrases:
 > 3Sg.Anim  Emph  duck      be   A.I.?  serious-Attr  champion     like  Emph  3-be   3-learn-Perf  like  3-be  
 > ‘But the duck is really a very serious one, he is a champion because he is one that is trained’</pre>
 
--   N Ptc N:
+-   N Ptc N (*kïrö ji togodogo*):
 
 > (ps-duck-story-047) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -265,16 +264,7 @@ phrases:
 > 3Sg.Anim  Emph  owl       place  keep-A.Nzr      stay.still-Prog  Emph  Adv-be-Abs.Nzr  
 > ‘Then that owl the one who spent his time resting’</pre>
 
--   N Ptc N:
-
-> (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
-> aigo   rï'kwö  wijagong  mïre   rï'kwö  önïk  rönamo  uri'chang  mïre   rï'kwö  rö    namo  
-> small  Dim     other     child  Dim     who   uncrtn  female     child  Dim     Emph  Uncrtnty  
-> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
-
--   N Ptc N:
+-   N Ptc N (*kïrö shi wishagong*):
 
 > (ps-duck-story-084) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -292,17 +282,7 @@ phrases:
 > many   Emph  Emph   A-cry-Purp       several-Pl    Emph   child  Pl    Pl    Emph  
 > ‘"Many of us to cry,even the many children’</pre>
 
--   N Ptc N:
-
-> (r-personal-narrative-022) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>wagï genïk so'chi dau eji'ma, e'nek au rö tïwe'kïngmaik tugo'mangzanggong genïk amörö'nogong kabai e'aik</i>  
-> wagï  genïk         jo'chi  tau     eji-i'ma  e'nek  yau  rö    t-e'-kïngma-ik        t-go'mamï-zang-gong  genïk     amörö-'nogong  ga-bai     eji-aik  
-> good  specifically  church  within  be-While  sick   in   Emph  Adv-Detr-hurt-Prtcpl  Adv-live-Pl.Nzr-Pl   Mirative  2Sg-Pl         say-Desid  be-Pres  
-> ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
-
--   N Ptc N (*tu’ke rï’kwö rö pandong* and also *wagïdon sa’ne
-    bandomïigong*):
+-   N Ptc N (*wagïdon sa’ne bandomïigong*):
 
 > (ra-eagle-story-001) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -311,35 +291,7 @@ phrases:
 > this  again   story    QP   know-A.Nzr  2SgQ  Adv-know-Prtcpl  Neg  Emph  many   Dim     Emph  story    QP   know-A.Nzr  2SgQ  good-Pl    Emph   story-Psd-Pl.Psr  Adv-be-Abs.Nzr  
 > ‘Do you know all types of stories, do you know many stories. We have wonderful stories’</pre>
 
--   N Ptc N (*mïgï sa’ne ji tok* looks coreferential. also, *kïrö
-    torong* is a good NP):
-
-> (ra-eagle-story-019) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mïgï sa'ne ji tok u'ma'kabï kïrö torong ya tok u'madï ya engmingga'pï</i>  
-> mïgï  sa'ne  ji    tok  u'madï-gabï     kïrö      torong  ya   tok  u'madï  ya   engmingga-'pï  
-> this  Emph   Emph  3Pl  deplete-Cmpltv  3Sg.Anim  bird    Erg  3Pl  finish  Erg  make.think-Past  
-> ‘The numbers of the people were depleting because the bird was finishing them off, this made him think’</pre>
-
--   N Postp N:
-
-> (ra-eagle-story-033) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>e'tane sairö ji nong bo se ji mörö</i>  
-> e'tane   sairö  ji    nong   po  se    ji    mörö  
-> however  here   Emph  earth  on  this  Emph  that  
-> ‘However, on this earth, this is what..’</pre>
-
--   N Ptc N:
-
-> (ra-eagle-story-037) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möröbang ji wa'ka mïre ji dienau kïrö mïgï köik es'pï mörö, köik shi es'pï</i>  
-> möröbang    ji    wa'ka  mïre   ji    i-enau     kïrö      mïgï  köik     eji-'pï  mörö   köik     ji    eji-'pï  
-> thereafter  Emph  axe    child  Emph  3-in.hand  3Sg.Anim  Hes   old.man  be-Past  A.I.?  old.man  Emph  be-Past  
-> ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
-
--   N Ptc N:
+-   N Ptc N (*kïrö ji piyan*):
 
 > (ra-eagle-story-038) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -431,15 +383,6 @@ phrases:
 > know-1-Erg  like.manner  Neg  be   Akawaio  like  Dim     Emph  maybe  Emph  mother  this.Anim  1Sg  mother  grandmother  3S-be-Past  
 > ‘I do not know, but my mother's grandmother was Akawaio’</pre>
 
--   unknown (turonnö kaza mörö kaza?):
-
-> (cc-praising-rhymes-36) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tigingba'ne tok aburöuya mörö gaza turonnöbe'ne turonnöbe'ne pïze ganang turonnö gaza mörö gaza tok aburöuya mörö</i>  
-> tiginnö-barö-'ne  tok  aburö-u-ya    mörö  kaza  turonnö-be-'ne      turonnö-be-'ne      pïze       kanang  turonnö  kaza  mörö  kaza  tok  aburö-u-ya    mörö  
-> one-Compar-Indiv  3Pl  praise-1-Erg  that  like  another-Attr-Indiv  another-Attr-Indiv  this.Anim  again   another  like  that  like  3Pl  praise-1-Erg  Fut  
-> ‘one by one I praise them like that, everyone differently. This one again will be different like that, I would praise them’</pre>
-
 -   unknown (are serö and waramadang coreferential?):
 
 > (ae-personal-narrative-011) Akawaio (Caesar-Fox 2003)
@@ -513,6 +456,15 @@ phrases:
 > duck      Pl    farm-PS  
 > ‘The farm of the ducks’</pre>
 
+-   unknown (What is going on here?):
+
+> (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
+> aigo   rï'kwö  wijagong  mïre   rï'kwö  önïk  rönamo  uri'chang  mïre   rï'kwö  rö    namo  
+> small  Dim     other     child  Dim     who   uncrtn  female     child  Dim     Emph  Uncrtnty  
+> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
+
 -   unknown (is *kirö* coreferential with *ijagong*?):
 
 > (ps-duck-story-087) Akawaio (Caesar-Fox 2003)
@@ -521,6 +473,15 @@ phrases:
 > a   weruji  pe    no'sami'chi  tö  mörö   eruwö       kïrö      rï'kwö  n-eji-bödï-aik-nek  pe    ijagong  
 > ah  dove    like  old          go  A.I.?  small.dove  3Sg.Anim  Dim     3S-be-Hab-Pres-Rel  like  partner  
 > ‘The old woman turn into a dove and that is how she kept going and her partner went as an eruwö(smaller species of dove) bird’</pre>
+
+-   unknown (what is *kenïk* doing?):
+
+> (r-personal-narrative-022) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>wagï genïk so'chi dau eji'ma, e'nek au rö tïwe'kïngmaik tugo'mangzanggong genïk amörö'nogong kabai e'aik</i>  
+> wagï  genïk         jo'chi  tau     eji-i'ma  e'nek  yau  rö    t-e'-kïngma-ik        t-go'mamï-zang-gong  genïk     amörö-'nogong  ga-bai     eji-aik  
+> good  specifically  church  within  be-While  sick   in   Emph  Adv-Detr-hurt-Prtcpl  Adv-live-Pl.Nzr-Pl   Mirative  2Sg-Pl         say-Desid  be-Pres  
+> ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
 
 -   unknown (what is *wagï rö kenïk a’ai*?):
 
@@ -557,6 +518,15 @@ phrases:
 > urö  sa'ji  sang    be    n-gubï-nï  
 > 1Sg  Emph   mother  like  O.Nzr-do-Pres.Nzr  
 > ‘The one that I have made my mother’</pre>
+
+-   unknown (What is going on here?):
+
+> (ra-eagle-story-037) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröbang ji wa'ka mïre ji dienau kïrö mïgï köik es'pï mörö, köik shi es'pï</i>  
+> möröbang    ji    wa'ka  mïre   ji    i-enau     kïrö      mïgï  köik     eji-'pï  mörö   köik     ji    eji-'pï  
+> thereafter  Emph  axe    child  Emph  3-in.hand  3Sg.Anim  Hes   old.man  be-Past  A.I.?  old.man  Emph  be-Past  
+> ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
 
 -   unknown (what is *möröng*?):
 
@@ -1330,6 +1300,13 @@ phrases:
 > eh   eh   ö'rö  pe    ji    y-eji  mörö  ta-wong       kuru  eji-'pï  mörö   möra'tai  
 > yes  yes  what  like  Emph  3-be   that  say-Nzr/Rel?  Emph  be-Past  A.I.?  at.that.time  
 > ‘There was one who said, what is wrong with him at that time’</pre>
+
+> (ra-eagle-story-019) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïgï sa'ne ji tok u'ma'kabï kïrö torong ya tok u'madï ya engmingga'pï</i>  
+> mïgï  sa'ne  ji    tok  u'madï-gabï     kïrö      torong  ya   tok  u'madï  ya   engmingga-'pï  
+> this  Emph   Emph  3Pl  deplete-Cmpltv  3Sg.Anim  bird    Erg  3Pl  finish  Erg  make.think-Past  
+> ‘The numbers of the people were depleting because the bird was finishing them off, this made him think’</pre>
 
 > (ra-eagle-story-022) Akawaio (Caesar-Fox 2003)
 > <pre>
