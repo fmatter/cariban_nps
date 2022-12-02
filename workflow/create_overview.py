@@ -13,28 +13,30 @@ all_recs = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
 
 stats = json.load(open("data/stats.json"))
 
-label_dic = {"part": "N Ptc N", "posp": "N Postp N", "y": "N [V...] N", "?": "unknown", "n": "other", "Total": "Total"}
+label_dic = {"part": "N Ptc N", "posp": "N Postp N", "y": "N [V...] N", "np_arg": "Pseudo-NP as an argument", "?": "unknown", "n": "other", "Total": "Total"}
 pos_overview = {}
 np_overview = {}
 res_overview = {}
 q_overview = {}
+arg_np_overview = {}
 
 stat_overview = []
 for lg, total in stats.items():
-    for d in [pos_overview, np_overview, res_overview, q_overview]:
+    for d in [pos_overview, np_overview, res_overview, q_overview, arg_np_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
     positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
+    arg_nps = recs[(recs["Discont_NP"] == "np_arg")]
     nps = recs[(recs["Discont_NP"] == "np")]
     questions = recs[recs["Discont_NP"] == "?"]
     residue = recs[
         ~(
             recs["ID"].isin(
-                list(positives["ID"]) + list(nps["ID"]) + list(questions["ID"])
+                list(positives["ID"]) + list(nps["ID"]) + list(questions["ID"]) + list(arg_nps["ID"])
             )
         )
     ]
-    assert len(positives) + len(nps) + len(questions) + len(residue) == len(recs)
+    assert len(positives) + len(nps) + len(questions) + len(residue) + len(arg_nps) == len(recs)
     if len(positives) > 0:
         df = pd.crosstab(
             positives["Discont_NP"], positives["Syntactic_Role"], margins=True, margins_name="Total"
@@ -49,11 +51,12 @@ for lg, total in stats.items():
         (positives, pos_overview),
         (questions, q_overview),
         (residue, res_overview),
+        (arg_nps, arg_np_overview),
         (nps, np_overview),
     ]:
         for rec in o.to_dict("records"):
             comm_str = ""
-            if t is not np_overview:
+            if t not in [np_overview, arg_np_overview]:
                 comm_str = comm_str = f"""* {label_dic[rec["Discont_NP"]]}"""
                 if rec["Comment"] != "":
                     comm_str += f""" ({rec["Comment"]})"""
@@ -63,9 +66,10 @@ for lg, total in stats.items():
 overview = []
 for title, dic in {
     "Apparent discontinuous noun phrases": pos_overview,
+    "Putative NPs in argument position": arg_np_overview,
     "Unclear analysis": q_overview,
     "Varia": res_overview,
-    "Pseudo (?) NPs": np_overview,
+    "Other putative NPs": np_overview,
 }.items():
     overview.append(f"# {title}")
     for lg, data in dic.items():

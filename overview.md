@@ -9,19 +9,23 @@
         phrases](#tiriyó-apparent-discontinuous-noun-phrases)
     3.  [Akawaio: Apparent discontinuous noun
         phrases](#akawaio-apparent-discontinuous-noun-phrases)
-3.  [Unclear analysis](#unclear-analysis)
+3.  [Putative NPs in argument
+    position](#putative-nps-in-argument-position)
+    1.  [Hixkaryána: Putative NPs in argument
+        position](#hixkaryána-putative-nps-in-argument-position)
+4.  [Unclear analysis](#unclear-analysis)
     1.  [Hixkaryána: Unclear analysis](#hixkaryána-unclear-analysis)
     2.  [Tiriyó: Unclear analysis](#tiriyó-unclear-analysis)
     3.  [Akawaio: Unclear analysis](#akawaio-unclear-analysis)
-4.  [Varia](#varia)
+5.  [Varia](#varia)
     1.  [Hixkaryána: Varia](#hixkaryána-varia)
     2.  [Tiriyó: Varia](#tiriyó-varia)
     3.  [Akawaio: Varia](#akawaio-varia)
-5.  [Pseudo (?) NPs](#pseudo-nps)
-    1.  [Hixkaryána: Pseudo (?) NPs](#hixkaryána-pseudo-nps)
-    2.  [Tiriyó: Pseudo (?) NPs](#tiriyó-pseudo-nps)
-    3.  [Akawaio: Pseudo (?) NPs](#akawaio-pseudo-nps)
-6.  [References](#references)
+6.  [Other putative NPs](#other-putative-nps)
+    1.  [Hixkaryána: Other putative NPs](#hixkaryána-other-putative-nps)
+    2.  [Tiriyó: Other putative NPs](#tiriyó-other-putative-nps)
+    3.  [Akawaio: Other putative NPs](#akawaio-other-putative-nps)
+7.  [References](#references)
 
 # Some stats
 
@@ -55,8 +59,6 @@ phrases:
 # Apparent discontinuous noun phrases
 
 ## Hixkaryána: Apparent discontinuous noun phrases
-
--   N Ptc N (\[*nuxe rma*\] \[*mokro*\]):
 
 > (derbyshire-1965-p-023-the-origin-of-the-moon-024) Hixkaryána
 > (Derbyshire 1965: 23)
@@ -300,11 +302,21 @@ phrases:
 > at.that.time  Emph  3Sg.Anim  Emph  hawk    tire-Perf-3-Erg    3.Rfl-wing  unfold-Perf-3-Erg-Style  
 > ‘At that time, the tired giant hawk open up his wings’</pre>
 
+# Putative NPs in argument position
+
+## Hixkaryána: Putative NPs in argument position
+
+> (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-005) Hixkaryána
+> (Derbyshire 1965: 60)
+> <pre>
+> <i>Horyetho monï yahuryatxkonï.</i>  
+> horye-tho    monï   y-ahur-yatxkonï  
+> big.one-Pst  3InRm  Rel-shut.in-DPst2:Col  
+> ‘They sealed off that one, the big one.’</pre>
+
 # Unclear analysis
 
 ## Hixkaryána: Unclear analysis
-
--   unknown (not clear what *mokï* is doing):
 
 > (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
 > (Derbyshire 1965: 13)
@@ -478,8 +490,6 @@ phrases:
 
 ## Hixkaryána: Varia
 
--   other (formulaic):
-
 > (derbyshire-1965-p-016-the-origin-of-night-and-darkness-002)
 > Hixkaryána (Derbyshire 1965: 16)
 > <pre>
@@ -497,6 +507,27 @@ phrases:
 > kamïmï  thatawo  ïto    y-ohï      n-eh-xakonï  
 > sun     upright  there  Rel-chief  3Sa-Cop-DPst2  
 > ‘The sun was standing, the ruler there (i.e. the sun remained high in the sky, as at mid-day).’</pre>
+
+-   other (example of possessive construction + POSTP):
+
+> (derbyshire-1965-p-017-the-origin-of-night-and-darkness-021)
+> Hixkaryána (Derbyshire 1965: 17)
+> <pre>
+> <i>Tomsïrï yonyxe=tï tekonï, anaro yowto=hona.</i>  
+> t-omsï-rï        y-ony-xe     tï    0-te-konï     anaro  y-owto       hona  
+> 3R-daughter-Pos  Rel-see-Sup  Hrsy  3Sa-go-DPst2  other  Rel-village  Dir  
+> ‘He went to the village of another, purposing to see his daughter.’</pre>
+
+-   other (‘is the one occupied with me’ \> nonverbal predication,
+    without any (pseudo-)nps?):
+
+> (derbyshire-1965-p-023-the-origin-of-the-moon-025) Hixkaryána
+> (Derbyshire 1965: 23)
+> <pre>
+> <i>Royananïtho mokro rohoko naye, kekonï=hatï, wosï=ha.</i>  
+> ro-yana-nï-tho      mokro  ro-hoko  n-a-ye         0-ke-konï      hatï  wosï   ha  
+> 1-relative-Pos-Pst  3AnMd  1-about  3Sa-Cop-DPst1  3Sa-say-DPst2  Hrsy  woman  Intens  
+> ‘"My blood relation (within the forbidden degrees) is the one occupied with me," said the woman.’</pre>
 
 -   other (nvp w/o copula):
 
@@ -910,17 +941,9 @@ phrases:
 > where  Emph  say-Past  jaguar   Erg  A.I.?-Style  water  Emph   see-Hab-3-Erg  
 > ‘Where is it the tiger asked, there.. he said while looking into the water’</pre>
 
-# Pseudo (?) NPs
+# Other putative NPs
 
-## Hixkaryána: Pseudo (?) NPs
-
-> (derbyshire-1965-p-017-the-origin-of-night-and-darkness-021)
-> Hixkaryána (Derbyshire 1965: 17)
-> <pre>
-> <i>Tomsïrï yonyxe=tï tekonï, anaro yowto=hona.</i>  
-> t-omsï-rï        y-ony-xe     tï    0-te-konï     anaro  y-owto       hona  
-> 3R-daughter-Pos  Rel-see-Sup  Hrsy  3Sa-go-DPst2  other  Rel-village  Dir  
-> ‘He went to the village of another, purposing to see his daughter.’</pre>
+## Hixkaryána: Other putative NPs
 
 > (derbyshire-1965-p-018-the-origin-of-night-and-darkness-051)
 > Hixkaryána (Derbyshire 1965: 18)
@@ -938,22 +961,6 @@ phrases:
 > 1+3   3Sa-get.dark-RPst1  Intens  3AnPx   Rel-ear-Neg.Act-Pos  Agt  3Sa-say-DPst2:Col  Hrsy  3Sa-say-DPst2  Hrsy  3AnAna  chief.man  
 > ‘"We were in darkness, through the foolishness of this one," they said, he, the chief man, said.’</pre>
 
-> (derbyshire-1965-p-023-the-origin-of-the-moon-025) Hixkaryána
-> (Derbyshire 1965: 23)
-> <pre>
-> <i>Royananïtho mokro rohoko naye, kekonï=hatï, wosï=ha.</i>  
-> ro-yana-nï-tho      mokro  ro-hoko  n-a-ye         0-ke-konï      hatï  wosï   ha  
-> 1-relative-Pos-Pst  3AnMd  1-about  3Sa-Cop-DPst1  3Sa-say-DPst2  Hrsy  woman  Intens  
-> ‘"My blood relation (within the forbidden degrees) is the one occupied with me," said the woman.’</pre>
-
-> (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-005) Hixkaryána
-> (Derbyshire 1965: 60)
-> <pre>
-> <i>Horyetho monï yahuryatxkonï.</i>  
-> horye-tho    monï   y-ahur-yatxkonï  
-> big.one-Pst  3InRm  Rel-shut.in-DPst2:Col  
-> ‘They sealed off that one, the big one.’</pre>
-
 > (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-197) Hixkaryána
 > (Derbyshire 1965: 67)
 > <pre>
@@ -962,7 +969,7 @@ phrases:
 > Woxka  Voc  3AnPx   Intens  2-wife-Pos  3Sa-say-DPst2  Hrsy  
 > ‘"Woxka, this one (is) your wife," he said.’</pre>
 
-## Tiriyó: Pseudo (?) NPs
+## Tiriyó: Other putative NPs
 
 > (dados-07-frog-story-marciano-p-089-037) Tiriyó (Meira 2022)
 > <pre>
@@ -1078,7 +1085,7 @@ phrases:
 > 3Sa-sleep-Pres-Dbt  Cont  3AnPx-Dim  man-Dim    3AnPx  3AnPx  Idtf  3AnPx  2A-see-Pres-Dbt  
 > ‘This little one is sleeping, this is the little man (= boy), this is him, do you see?  ’</pre>
 
-## Akawaio: Pseudo (?) NPs
+## Akawaio: Other putative NPs
 
 > (ae-personal-narrative-031) Akawaio (Caesar-Fox 2003)
 > <pre>
