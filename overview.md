@@ -1,27 +1,27 @@
 # Overview of results
 
--   [Some stats](#some-stats)
--   [Apparent discontinuous noun
+1.  [Some stats](#some-stats)
+2.  [Apparent discontinuous noun
     phrases](#apparent-discontinuous-noun-phrases)
-    -   [Hixkaryána: Apparent discontinuous noun
+    1.  [Hixkaryána: Apparent discontinuous noun
         phrases](#hixkaryana-apparent-discontinuous-noun-phrases)
-    -   [Tiriyó: Apparent discontinuous noun
+    2.  [Tiriyó: Apparent discontinuous noun
         phrases](#tiriyo-apparent-discontinuous-noun-phrases)
-    -   [Akawaio: Apparent discontinuous noun
+    3.  [Akawaio: Apparent discontinuous noun
         phrases](#akawaio-apparent-discontinuous-noun-phrases)
--   [Unclear](#unclear)
-    -   [Hixkaryána: Unclear](#hixkaryana-unclear)
-    -   [Tiriyó: Unclear](#tiriyo-unclear)
-    -   [Akawaio: Unclear](#akawaio-unclear)
--   [Others](#others)
-    -   [Hixkaryána: Others](#hixkaryana-others)
-    -   [Tiriyó: Others](#tiriyo-others)
-    -   [Akawaio: Others](#akawaio-others)
--   [NPs](#nps)
-    -   [Hixkaryána: NPs](#hixkaryana-nps)
-    -   [Tiriyó: NPs](#tiriyo-nps)
-    -   [Akawaio: NPs](#akawaio-nps)
--   [References](#references)
+3.  [Unclear](#unclear)
+    1.  [Hixkaryána: Unclear](#hixkaryana-unclear)
+    2.  [Tiriyó: Unclear](#tiriyo-unclear)
+    3.  [Akawaio: Unclear](#akawaio-unclear)
+4.  [Others](#others)
+    1.  [Hixkaryána: Others](#hixkaryana-others)
+    2.  [Tiriyó: Others](#tiriyo-others)
+    3.  [Akawaio: Others](#akawaio-others)
+5.  [NPs](#nps)
+    1.  [Hixkaryána: NPs](#hixkaryana-nps)
+    2.  [Tiriyó: NPs](#tiriyo-nps)
+    3.  [Akawaio: NPs](#akawaio-nps)
+6.  [References](#references)
 
 # Some stats
 
