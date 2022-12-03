@@ -51,14 +51,14 @@ phrases:
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
 | Total                    |   1 |   1 |   4 |    2 |   4 |    12 |
 
-Akawaio: 14/904 (1.55%) text records with apparent discontinuous noun
+Akawaio: 15/1000 (1.50%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
 |:-------------------------|----:|------:|
 | N Ptc N                  |  13 |    13 |
-| N \[V…\] N               |   1 |     1 |
-| Total                    |  14 |    14 |
+| N \[V…\] N               |   2 |     2 |
+| Total                    |  15 |    15 |
 
 # Apparent discontinuous noun phrases
 
@@ -354,6 +354,17 @@ phrases:
 > Dem  P       N     Prtcl N    Adv Prtcl Prtcl Prtcl         Dem       Prtcl P      Adv   Pro P   Vt          Vi        Prtcl 
 > ‘This is why there is really no good language, maybe they have also told you so, but’</pre>
 
+-   N \[V…\] N (1) *tru gaijarongong es’pi mörö boisamök* with a V in
+    between , 2) *tok a* and then *piyai’ma a*?):
+
+> (ra-piya-ma-story-021) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i> tu gaijaronggong es'pï mörö boisamök azak tok a ji piyai'ma a ji.</i>  
+> … tu    gaijarö-ng-gong  eji-'pï mörö bois amök  arö-zak    tok ya  ji    piyai'ma ya  ji   
+> … two   in.number-Nzr-Pl be-Past that boys Pl    carry-Perf 3Pl Erg Emph  giant    Erg Emph   
+> … Prtcl N                Vi      Dem  N    Prtcl Vt         Pro P   Prtcl N        P   Prtcl
+> ‘There were two boys who the piyai'ma had taken there’</pre>
+
 # Putative NPs in argument position
 
 ## Hixkaryána: Putative NPs in argument position
@@ -481,6 +492,66 @@ DEM NP POSTP!:
 > that eat.meat 3Pl Erg that Kako-tribe Pl    Erg that Emph  Akawaio Pl    like uncrtn Emph   
 > Dem  Vt       Pro P   Dem  N          Prtcl P   Dem  Prtcl N       Prtcl P    Prtcl  Prtcl
 > ‘The people from Kako (kagorgoks) eat those and maybe they do this as an Akawaio(wai'ka)’</pre>
+
+*mörö egi ögu*:
+
+> (ra-personal-narrative-190) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>pagira, pöinggö, urana, aku kamorö a kuru mïgï mörö egi yögu</i>  
+> pagira  pöinggö  urana agu    kamoro-rö      ya  kuru  mïgï  mörö egi     ögu        
+> peccary wild.hog paca  agouti 3.Pl.Anim-Emph Erg Emph  Hes   that cassava eat.cassava  
+> N       N        N     N      Pro            P   Prtcl Prtcl Dem  N       Vt         
+> ‘The wild hog, the rodent urana, the aguti, these are the ones that eat the cassava’</pre>
+
+*kïrörörö urana ya*:
+
+> (ra-personal-narrative-193) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serau ji tok eji mörö, kïrörörö urana a ögu mörö</i>  
+> serau ji    tok eji mörö  kïrö-rö-rö         urana ya  ögu         mörö 
+> here  Emph  3Pl be  A.I.? 3Sg.Anim-Emph-Emph paca  Erg eat.cassava A.I.?  
+> Adv   Prtcl Pro Vi  ?     Pro-Prtcl-Prtcl    N     P   Vt          ?    
+> ‘Here, they have the rodent urana, he eat the cassava’</pre>
+
+*serö pogoi pök*:
+
+> (ra-personal-narrative-225) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai mïgï zerö pogoi bök eji</i>  
+> mörö wenai   mïgï  serö pogoi   pök  eji
+> that because Hes   this sadness from be   
+> Dem  P       Prtcl Pro  N       P    Vi 
+> ‘That is why I am suffering from saddness’</pre>
+
+*tri gaijarö mö*:
+
+> (ra-personal-narrative-246) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>seröbe tri gaijarö mö agï'sau'ya mörö sungwa</i>  
+> serö-be   tri   gaijarö   mö   agïdï-zak-u-ya mörö  sungwa  
+> this-Attr three in.number farm cut-Perf-1-Erg A.I.? far.away  
+> A         Prtcl Adv       N    Vt             ?     Adv     
+> ‘Presently I have cut down three farms over there’</pre>
+
+*kïrö mïre aröuwa*:
+
+> (ra-personal-narrative-251) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kane kïrö mïre aröuwa ba ganang dö ya'körö, janek mïre</i>  
+> kane kïrö     mïre  arö-u-wa    pa         kanang tö y-a'körö janek mïre 
+> no   3Sg.Anim child carry-1-Erg grandchild again  go 1-Assoc  Janet child  
+> ?    Pro      N     Vt          N          Pro    Vi P        N     N    
+> ‘No, I am carrying my child, my grandchild is going with me, Janet's child’</pre>
+
+*tri for gaijarö mïre amök*:
+
+> (ra-piya-ma-story-009) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïre amök mo'kabödï'pï iyaang, tri for gaijarö mïre amök arö iya.</i>  
+> mïre  amök  mo'ka-pödï-'pï      i-ya-ng     tri   for   gaijarö   mïre  amök  arö   i-ya 
+> child Pl    take.away-Iter-Past 3-Erg-Style three four  in.number child Pl    carry 3-Erg  
+> N     Prtcl Vt                  Prs-P-?     Prtcl Prtcl Adv       N     Prtcl Vt    P    
+> ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
 
 # Unclear analysis
 
@@ -795,6 +866,213 @@ not clear what *mokï* is doing:
 > brother.in.law say 3Pl Erg Emph  3.Pl.Anim language Akawaio Pl    Emph  Emph  language  
 > N              Vt  Pro P   Prtcl Pro       N        N       Prtcl Prtcl Prtcl N       
 > ‘Or they will say 'yago' which is the word Akawaios use’</pre>
+
+-   unknown (does *ta* ‘say’ have both *tok ya* and (*mörö*)
+    *turonnögong ya* as its A?):
+
+> (ra-personal-narrative-138) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö yau rö yago're da dok a mörö turonggong ya rö mörau rö yago're ta dok ya rö tudombagong ezagï tok a</i>  
+> mörö yau rö    yago're        ta  tok ya  mörö  turonnö-gong ya  rö    mörau rö    yago're        ta  tok ya  rö    t-tomba-gong          ezagï tok ya 
+> that Loc Emph  brother.in.law say 3Pl Erg Fut   another-Pl   Erg Emph  there Emph  brother.in.law say 3Pl Erg Emph  3.Rfl-relative-Pl.Psr name  3Pl Erg  
+> Dem  P   Prtcl N              Vt  Pro P   Prtcl N            P   Prtcl Adv   Prtcl N              Vt  Pro P   Prtcl N                     Vt    Pro P  
+> ‘Within there some others would say yago're, this is how they would call their relative’</pre>
+
+-   unknown (do any local romance varieties use definite articles with
+    personal names?):
+
+> (ra-personal-narrative-153) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mm... a.. a.. veneswela bo mïgï ji mörö Klef</i>  
+> mm a     a     veneswela po  mïgï  ji    mörö Klef 
+> mm ah    ah    Venezuela Loc Hes   Emph  that Cliff  
+> SW Prtcl Prtcl N         P   Prtcl Prtcl Dem  N    
+> ‘Cliff is in Venezuela’</pre>
+
+-   unknown (I’m having trouble parsing everything after *tugaik*):
+
+> (ra-personal-narrative-157) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>iwangbe tok eji tok enubaning bra tugaik serö yau maing eji mörö maing</i>  
+> iwang-be    tok eji tok enuba-ning  bra tugaik serö yau maing eji mörö maing
+> hunger-Attr 3Pl be  3Pl teach-A.Nzr Neg like   this Loc word  be  that word   
+> A           Pro Vi  Pro N           Adv P      Pro  P   N     Vi  Dem  N    
+> ‘There is word here that they are hungry and there is no one to teach them’</pre>
+
+-   unknown (‘it is one acre small one’?):
+
+> (ra-personal-narrative-166) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serau rï'kwörö nai aigorkwö wan e'ka mang serau kwö aigo</i>  
+> serau rï'kwö-rö  nai       aigo  rï'kwö wan   e'ka  mang      serau rï'kwö aigo 
+> here  Dim-Emph   3.be.Pres small Dim    one   acres 3.be.Pres here  Dim    small  
+> Adv   Adv?-Prtcl Vi        N     Pro    Prtcl N     Vi        Adv   Pro    N    
+> ‘Here , there is only a small one, it is one acre’</pre>
+
+-   unknown (what is going on with all the nouns from *mö* to *awong*?):
+
+> (ra-personal-narrative-188) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'tane mörau rögeng mang mö ga'ta önnö yuk awong maningbaning be</i>  
+> e'tane  mörau rögeng mang      mö   ka'ta önnö     yuk    yau-ng  maningba-ning pe  
+> however there only   3.be.Pres farm edge  far.away forest Loc-Nzr bother-A.Nzr  like  
+> Prtcl   Adv   Prtcl  Vi        N    N     Adv      N      N       N             P   
+> ‘However, there is one thing that will bother a farm in the forest’</pre>
+
+-   unknown (what is the argument of *ögu*?):
+
+> (ra-personal-narrative-191) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>sungwarong bagdam be te'seng ögu dok a mm..</i>  
+> sungwarö-ng  bagdam         pe   t-eji-zeng     ögu         tok ya  mm
+> far.away-Nzr distant.fields like Adv-be-Abs.Nzr eat.cassava 3Pl Erg mm  
+> N            N              P    N              Vt          Pro P   SW
+> ‘They eat those that are planted far away in the backdam’</pre>
+
+-   unknown (how is the numeral related to the farms?):
+
+> (ra-personal-narrative-196) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai aza'rö mïgï te'seng urö imainarï</i>  
+> mörö wenai   aza'rö mïgï  t-eji-zeng     urö i-maina-ri
+> that because two    Hes   Adv-be-Abs.Nzr 1Sg 3-farm-Psd  
+> Dem  P       Prtcl  Prtcl N              Pro N         
+> ‘This is why I always have two farms’</pre>
+
+-   unknown (what is the argument of *pömïuya*?):
+
+> (ra-personal-narrative-200) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serubö rö pömïi rö, pumpkin rubö rö pömïuya</i>  
+> serö rubö rö    pïmïi  rö    rubö rö    pömï-u-ya  
+> this like Emph  pepper Emph  like Emph  plant-1-Erg  
+> Pro  P    Prtcl N      Prtcl P    Prtcl Vt         
+> ‘Because I plant things like pepper and pumpkin’</pre>
+
+-   unknown (is that a four-word NP as the argument of ‘to leave’?):
+
+> (ra-personal-narrative-204) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>pïzamo koroba bong warawok nongga'pïiya temari'ma dïbo rö</i>  
+> pïzamo     koroba po-ng   warawok nongga-'pï-i-ya  t-emari'ma        tïbo  rö   
+> these.Anim Koroba Loc-Nzr boy     leave-Past-3-Erg 3.Rfl-get.married after Emph   
+> Pro        N      N       N       Vt               Vi                Adv   Prtcl
+> ‘She left this man from Koroba after marrying him’</pre>
+
+-   unknown (i’m pretty sure that *enna* is not ‘nose’ here. but it has
+    a pretty good multi word argument):
+
+> (ra-personal-narrative-208) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tri gaijarö imunggö amök ennaga'sak tugaik etauya</i>  
+> tri   gaijarö   mung-gö    amök  enna-gabï-zak    tugaik eda-u-ya  
+> three in.number nest-Imper Pl    nose-Cmpltv-Perf like   hear-1-Erg  
+> Prtcl Adv       N          Prtcl N                P      Vt        
+> ‘I have heard that she has three children’</pre>
+
+-   unknown (example of *serö* meaning ‘now’):
+
+> (ra-personal-narrative-243) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö rögeng jo'chi dak döngbök ejing... tok a'körö geng ji</i>  
+> serö rögeng jo'chi tak  tö-nöbök eji-ng   tok a'körö keng  ji   
+> this only   church into go-Prog  be-Style 3Pl Instr  doubt Emph   
+> Pro  Prtcl  N      P    Vi       Vi       Pro P      Prtcl Prtcl
+> ‘Only now I am going to church with them’</pre>
+
+-   unknown (‘without one place of abode’):
+
+> (ra-personal-narrative-262) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai ko'mamï dauya mö tigingnö biada bra go'mamï</i>  
+> mörö wenai   ko'mamï ta-u-ya   mörö  tiginnö i-pada  bra ko'mamï
+> that because live    say-1-Erg A.I.? one     3-place Neg live     
+> Dem  P       Vi      Vt        ?     Prtcl   N       Adv Vi     
+> ‘That is why I live without one place of abode’</pre>
+
+-   unknown (*mörö ning zemo’ka’pï au* ‘the one I grew up in’ 1) nice
+    long NP 2) what is the argument of ‘know’? ):
+
+> (ra-personal-narrative-280) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>go'mannödok i'tuya bra rö jibök tauya mörö, mörö ning zemo'ka'pï au rögeng i'tuuya</i>  
+> ko'mamï-nö-dok i'tu-u-ya  bra rö    eji-bök ta-u-ya   mörö  mörö ning  semo'ka-'pï  yau rögeng i'tu-u-ya 
+> live-Inf-Nzr   know-1-Erg Neg Emph  be-Prog say-1-Erg A.I.? that Emph  grow.up-Past Loc only   know-1-Erg  
+> N              Vt         Adv Prtcl Vi      Vt        ?     Dem  Prtcl Vi           P   Prtcl  Vt        
+> ‘I do not know the culture, I only know the one I grew up in’</pre>
+
+-   unknown (1) could the first *zerö* be S.I.? 2) *iya piyai’ma a*):
+
+> (ra-piya-ma-story-023) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kayuni gak dö zerö konoik pök ta iya piyai'ma a tïno'pï bök.</i>  
+> kayuni gak      tö zerö konoik   bök ta  i-ya  piyai'ma ya  tï-no'pï  bök
+> Kuyuni into.liq go this fishhook WRT say 3-Erg giant    Erg 3Rfl-wife to   
+> N      P        Vi Pro  N        P   Vt  P     N        P   N         P  
+> ‘I am going to the Kuyuni river to do some fishing' This is what piyai'ma said to his wife’</pre>
+
+-   unknown (is *zerö* coreferential with the preverbal *pöröu*, or is
+    it S.I.?):
+
+> (ra-piya-ma-story-033) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>naigaza kuru? pöröu enno'pödï zerö ta'pï iya ji mörö.</i>  
+> naigaza kuru  pöröu ennogï-bödï zerö ta-'pï   i-ya  ji    mörö 
+> how     Emph  arrow shoot-Iter  this say-Past 3-Erg Emph  A.I.?  
+> Pro     Prtcl N     Vt          Pro  Vt       P     Prtcl ?    
+> ‘"How, really, will we shoot the arrow more than one time?" he said.’</pre>
+
+-   unknown (is *zerö* coreferential with the preverbal *pöröu*, or is
+    it S.I.? ):
+
+> (ra-piya-ma-story-034) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>pöröu enno'pödï zerö, tait! pöröu... sorok! tait... wijagong.</i>  
+> pöröu ennogï-bödï zerö tait pöröu sorok  tait wijagong
+> arrow shoot-Iter  this slap arrow put.in slap other     
+> N     Vt          Pro  SW   N     SW     SW   N       
+> ‘We will shoot the arrow tait! one, then tait!sorok(SSW) the other.’</pre>
+
+-   unknown (what is *tïbïre a’körö ji mörö*?):
+
+> (ra-piya-ma-story-038) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ah. inggebra. inggebra woroik! tïbïre a'körö ji mörö mo'ka'pï kïrörö a mörö</i>  
+> ah     ingge  bra ingge  bra woroik   tï-pïre    a'körö ji    mörö mo'ka-'pï     kïrö-rö       ya  mörö 
+> ah     slowly Neg slowly Neg take.out 3Rfl-arrow Instr  Emph  that take.out-Past 3Sg.Anim-Emph Erg A.I.?  
+> Interj Adv    Adv Adv    Adv SW       N          P      Prtcl Dem  Vt            Pro           P   ?    
+> ‘she took out her arrow woroik!(SSW) and with it the charm’</pre>
+
+-   unknown (*mörö tïbïre a’körö se* – where is the charm, what are the
+    two demonstratives doing?):
+
+> (ra-piya-ma-story-041) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröbang ji mïgï mörö tïbïre a'körö se konegazai'ya es'pï, yöi bök diebu shi, sairong bök diebu shi</i>  
+> möröbang   ji    mïgï  mörö tï-pïre    a'körö se   konega-zak i-ya  eji-'pï yöi   bök i-ebu    ji    sairong     bök i-ebu    ji   
+> thereafter Emph  Hes   that 3Rfl-arrow Instr  this make-Perf  3-Erg be-Past stick on  3-handle Emph  around.here on  3-handle Emph   
+> N          Prtcl Prtcl Dem  N          P      Dem  Vt         P     Vi      N     P   N        Prtcl N           P   N        Prtcl
+> ‘Then she had made the charm that was placed onto a stick with a handle, it attached to the handle’</pre>
+
+-   unknown (unable to analyze):
+
+> (ra-piya-ma-story-051) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ege ji ka'pong amök kenïk kuibabö'tok au öinö es'pï mörö kuzang be, öinö</i>  
+> ege ji    ka'pong amök  kenïk guibö-bödï-dok yau öinö eji-'pï mörö kuzang be   öinö
+> big Emph  person  Pl    Purp  cook-Iter-Nzr  Loc pot  be-Past that long   like pot   
+> N   Prtcl N       Prtcl P?    N              P   N    Vi      Dem  N      P    N   
+> ‘Now there was an elongated pot there for cooking humans’</pre>
+
+-   unknown (goo example of *amök sa’ne ji* within possessive NP):
+
+> (ra-piya-ma-story-055) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>warawïdï'shi amök sa'ji moi a'tazak i'tuiya</i>  
+> warawïdï'shi amök  sa'ne ji    moi        a'ta-zak  i'tu i-ya 
+> boys         Pl    Emph  Emph  pubic.hair grow-Perf know 3-Erg  
+> N            Prtcl Prtcl Prtcl N          Vi        Vt   P    
+> ‘He was predicting that the boys pubic hair had grown’</pre>
 
 # Varia
 
@@ -1351,6 +1629,27 @@ formulaic:
 > N            Vt  Pro P   Dem  P    N     P    Prtcl SW ?  
 > ‘They say that is kukuigok(tribe from Kukui), because of the river’</pre>
 
+-   other (nevermind delete this):
+
+> (ra-personal-narrative-184) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tu'ke zenubazak tuna'pö be yeji mö tuzemï'seng mö tuna wiyebï ya'tai</i>  
+> tu'ke senuba-zak tuna'pö pe   y-eji mö   t-semïgï-zeng        mö   tuna  w-yebï  a'tai
+> many  learn-Perf swampy  like 3-be  farm Adv-submerge-Abs.Nzr farm water Sa-come when   
+> Prtcl Vi         N       P    Vi    N    N                    N    N     Vcl-Vi  Prtcl
+> ‘I have learnt many things, if the farm is near the river, it can flood easily’</pre>
+
+-   other (is *pïze a wöng* a normal way of saying ‘ths one will kill
+    us’?):
+
+> (ra-piya-ma-story-032) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ö'rö, pïze a wöng möröwenai pöröu gonegazak tok a es'pï, tok pïre, pöröu.</i>  
+> ö'rö pïze      ya  wönö mörö wenai   pöröu gonega-zak tok ya  eji-'pï tok pïre  pöröu
+> what this.Anim Erg kill that because arrow make-Perf  3Pl Erg be-Past 3Pl arrow arrow  
+> N    Pro       P   Vt   Dem  P       N     Vt         Pro P   Vi      Pro N     N    
+> ‘"What? this one will kill us!" For this reason, they had made an arrow, their arrow, an arrow.’</pre>
+
 # Other putative NPs
 
 ## Hixkaryána: Other putative NPs
@@ -1791,5 +2090,39 @@ ADV + N + PL:
 > that Emph  while however tell-1-Erg A.I.? that brother.in.law  
 > Dem  Prtcl Pro   Prtcl   Vt         ?     Dem  N             
 > ‘However, while this is so, I am telling you about yago're’</pre>
+
+> (ra-personal-narrative-154) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>i'au biaruji ji mörö Sebel mörau biyau tok dösak egebe</i>  
+> i-'au           i-paruji         ji    mörö Sebel mörau piyau   tok tö-zak  ege-be  
+> 3-in.possession 3-younger.sister Emph  that Cebel there near.to 3Pl go-Perf big-Attr  
+> P               N                Prtcl Dem  N     Adv   P       Pro Vi      A       
+> ‘With him is his sister Cebel, they have gone there in great numbers’</pre>
+
+> (ra-personal-narrative-218) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>udö ze Agast a'tai dö ze dabök kaji be rö gio'mamï Sintia mörau gio'mamï mörö</i>  
+> u-tö serö Agast  a'tai tö serö  ta-bök   kaji pe   rö    i-ko'mamï Sintia  mörau i-ko'mamï mörö 
+> 1-go this August when  go S.I.  say-Prog lie  like Emph  3-live    Cynthia there 3-live    A.I.?  
+> Vi   Pro  N      Prtcl Vi Prtcl Vt       N    P    Prtcl Vi        N       Adv   Vi        ?    
+> ‘She keep saying she will be coming in August and this is a lie. That is Cyntia and that is how she is living’</pre>
+
+*mïgï ya pasta ya*!:
+
+> (ra-personal-narrative-238) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö mïgï biri'ning be ah... mïgï ya pasta ya diegare egama</i>  
+> mörö mïgï  pirigï-ning    pe   ah     mïgï ya  pasta  ya  i-egare  egama
+> that Hes   add.more-A.Nzr like ah     this Erg Pastor Erg 3-sermon tell   
+> Dem  Prtcl N              P    Interj Pro  P   N      P   N        Vt   
+> ‘To add to this (HES) the pastor preached a sermon’</pre>
+
+> (ra-personal-narrative-263) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai mörö ji köik amök go'mangbödï'pï sa'ne ji prarö ji tauya mö se au ji zemo'kazak ke</i>  
+> mörö wenai   mörö ji    köik    amök  ko'mamï-bödï-'pï sa'ne ji    bra-rö   y-eji ta-u-ya   mörö serö yau ji    semo'ka-zak  ke   
+> that because that Emph  old.man Pl    live-Iter-Past   Emph  Emph  Neg-Emph 3-be  say-1-Erg that this Loc Emph  grow.up-Perf Instr  
+> Dem  P       Dem  Prtcl N       Prtcl Vi               Prtcl Prtcl Prtcl    Vi    Vt        Dem  Pro  P   Prtcl Vi           P    
+> ‘That is why I say that the old customs of the old men is non existent, because I grew up here’</pre>
 
 # References
