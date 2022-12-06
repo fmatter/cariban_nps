@@ -13,7 +13,15 @@ all_recs = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
 
 stats = json.load(open("data/stats.json"))
 
-label_dic = {"part": "N Ptc N", "posp": "N Postp N", "y": "N [V...] N", "np_arg": "Pseudo-NP as an argument", "?": "unknown", "n": "other", "Total": "Total"}
+label_dic = {
+    "part": "N Ptc N",
+    "posp": "N Postp N",
+    "y": "N [V...] N",
+    "np_arg": "Pseudo-NP as an argument",
+    "?": "unknown",
+    "n": "other",
+    "Total": "Total",
+}
 pos_overview = {}
 np_overview = {}
 res_overview = {}
@@ -32,14 +40,22 @@ for lg, total in stats.items():
     residue = recs[
         ~(
             recs["ID"].isin(
-                list(positives["ID"]) + list(nps["ID"]) + list(questions["ID"]) + list(arg_nps["ID"])
+                list(positives["ID"])
+                + list(nps["ID"])
+                + list(questions["ID"])
+                + list(arg_nps["ID"])
             )
         )
     ]
-    assert len(positives) + len(nps) + len(questions) + len(residue) + len(arg_nps) == len(recs)
+    assert len(positives) + len(nps) + len(questions) + len(residue) + len(
+        arg_nps
+    ) == len(recs)
     if len(positives) > 0:
         df = pd.crosstab(
-            positives["Discont_NP"], positives["Syntactic_Role"], margins=True, margins_name="Total"
+            positives["Discont_NP"],
+            positives["Syntactic_Role"],
+            margins=True,
+            margins_name="Total",
         )
         df.index = df.index.map(label_dic)
         df.index.name = "Pattern / Syntactic role"

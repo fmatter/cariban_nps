@@ -10,8 +10,10 @@ import pybtex
 meta = Dataset()
 full = len(sys.argv) > 1
 
+lg_list = ["tri", "hix", "aka", "mak"]
+# lg_list = ["mak"]
 lg_records = {}
-for lg in ["tri", "hix", "aka"]:
+for lg in lg_list:
     records = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
     records["Language_ID"] = lg
     if "Comment" in records.columns:

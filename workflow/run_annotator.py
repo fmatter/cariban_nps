@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 import json
 
-lg = "aka"
+lg = "mak"
 TARGET = 1000
 
 
@@ -48,7 +48,8 @@ annotated = len(df[df["Value"] != ""])
 todo = len(df[df["Todo"]])
 assert eliminated + annotated + todo == TARGET
 
-print(
+if annotated+todo > 0:
+    print(
     f"{annotated} records done, {eliminated} pre-eliminated\n{annotated/(annotated+todo):.2%}, {todo} to go!"
 )
 with open("data/stats.json", "r") as f:

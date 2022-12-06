@@ -29,6 +29,7 @@
     1.  [Hixkaryána: Other putative NPs](#hixkaryána-other-putative-nps)
     2.  [Tiriyó: Other putative NPs](#tiriyó-other-putative-nps)
     3.  [Akawaio: Other putative NPs](#akawaio-other-putative-nps)
+    4.  [Ye’kwana: Other putative NPs](#ye-kwana-other-putative-nps)
 7.  [References](#references)
 
 # Some stats
@@ -493,6 +494,17 @@ DEM NP POSTP!:
 > N          Prtcl Pro  N    Vt              Vi      ?       
 > ‘Then he (kone'o) held on to one of the rock cows, he was there’</pre>
 
+*u’madï* is nominalized *u’madï-*∅, the argument of *yau*. *serö*
+modifies either *kamrang* or *u’madï kamrang*.:
+
+> (ra-personal-narrative-062) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ya'mu gau urö endu'pï ji mörö, San Rafeal ta na'nek airö kuru se kamrang u'madï yau</i>  
+> y-a'mu   kau      urö endu-'pï     ji    mörö  ta  nai-nek       airö kuru  serö kamrang  u'madï yau
+> 3-source in.water 1Sg be.born-Past Emph  A.I.? say 3.be.Pres-Rel near Emph  this Kamarang finish Loc  
+> N        P        Pro Vi           Prtcl ?     Vt  Vi-Rel        P    Prtcl Pro  N        Vt     P  
+> ‘Within its source I was born in what is known as San Rafeal which is really within the source of the kamarang river’</pre>
+
 *mörö kagorgok amök ya*:
 
 > (ra-personal-narrative-110) Akawaio (Caesar-Fox 2003)
@@ -796,17 +808,6 @@ not clear what *mokï* is doing:
 > one.item    be  A.I.? monkey monkey Emph  monkey Emph  Emph  monkey find-Past-3-Erg A.I.? monkey find-RPst  
 > N           Vi  ?     N      N      Prtcl N      Prtcl Prtcl N      Vt              ?     N      Vt       
 > ‘One of them is the monkey, he found the monkey’</pre>
-
--   unknown (I am not sure what exactly *u’madï yau* is, but it has
-    *serö kamrang* as its argument):
-
-> (ra-personal-narrative-062) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>ya'mu gau urö endu'pï ji mörö, San Rafeal ta na'nek airö kuru se kamrang u'madï yau</i>  
-> y-a'mu   kau      urö endu-'pï     ji    mörö  ta  nai-nek       airö kuru  serö kamrang  u'madï yau
-> 3-source in.water 1Sg be.born-Past Emph  A.I.? say 3.be.Pres-Rel near Emph  this Kamarang finish Loc  
-> N        P        Pro Vi           Prtcl ?     Vt  Vi-Rel        P    Prtcl Pro  N        Vt     P  
-> ‘Within its source I was born in what is known as San Rafeal which is really within the source of the kamarang river’</pre>
 
 -   unknown (what is *serö* doing here?):
 
@@ -2104,5 +2105,25 @@ ADV + N + PL:
 > that because that Emph  old.man Pl    live-Iter-Past   Emph  Emph  Neg-Emph 3-be  say-1-Erg that this Loc Emph  grow.up-Perf Instr  
 > Dem  P       Dem  Prtcl N       Prtcl Vi               Prtcl Prtcl Prtcl    Vi    Vt        Dem  Pro  P   Prtcl Vi           P    
 > ‘That is why I say that the old customs of the old men is non existent, because I grew up here’</pre>
+
+## Ye’kwana: Other putative NPs
+
+> (convwho-010) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Aakene... tumjune'da awa'deuwüdü e'nei iyö adödawö öuwö.</i>  
+> aakene tumjune'da  a-w-a'deuwü-dü       e'nei      iyö   0-adö-dawö       a-uwö
+> como   fuertemente 2S-INTR-hablar-NZR.1 a_pesar_de DEMin 3O-llevar-CONSEC 2-ERG  
+> interr ad          n                    pp         pro   adv              posp 
+> ‘Este... de la misma manera que tu hablas duro cuando te la llevas (te llevas a alguien a la casa).’</pre>
+
+two pseudo NPs?:
+
+> (convwho-012) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>¡Aaa! möönü judumatommaane kaawede küüdüa yawö ¿möönü toonimmaane yawö?</i>  
+> aaa    möönü  judume-ato-mma-:ne      kaawede k^-üdü-a         yaawö    möönü  tooni-mma-:ne      yaawö   
+> ah     DEM3in negro-NZR.5-EXCL-INTENS cable   1+2/3-poner-NPST entonces DEM3in uno-solamente-INTS entonces  
+> interj pro    ad                      n       v                ptc      pro    num-ptc-ptc        ptc     
+> ‘¡Ah! ¿sólo vamos a poner el cable negro?’</pre>
 
 # References
