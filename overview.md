@@ -9,6 +9,8 @@
         phrases](#tiriyó-apparent-discontinuous-noun-phrases)
     3.  [Akawaio: Apparent discontinuous noun
         phrases](#akawaio-apparent-discontinuous-noun-phrases)
+    4.  [Ye’kwana: Apparent discontinuous noun
+        phrases](#ye-kwana-apparent-discontinuous-noun-phrases)
 3.  [Putative NPs in argument
     position](#putative-nps-in-argument-position)
     1.  [Hixkaryána: Putative NPs in argument
@@ -21,10 +23,12 @@
     1.  [Hixkaryána: Unclear analysis](#hixkaryána-unclear-analysis)
     2.  [Tiriyó: Unclear analysis](#tiriyó-unclear-analysis)
     3.  [Akawaio: Unclear analysis](#akawaio-unclear-analysis)
+    4.  [Ye’kwana: Unclear analysis](#ye-kwana-unclear-analysis)
 5.  [Varia](#varia)
     1.  [Hixkaryána: Varia](#hixkaryána-varia)
     2.  [Tiriyó: Varia](#tiriyó-varia)
     3.  [Akawaio: Varia](#akawaio-varia)
+    4.  [Ye’kwana: Varia](#ye-kwana-varia)
 6.  [Other putative NPs](#other-putative-nps)
     1.  [Hixkaryána: Other putative NPs](#hixkaryána-other-putative-nps)
     2.  [Tiriyó: Other putative NPs](#tiriyó-other-putative-nps)
@@ -60,6 +64,15 @@ phrases:
 | N Ptc N                  |  13 |    13 |
 | N \[V…\] N               |   3 |     3 |
 | Total                    |  16 |    16 |
+
+Ye’kwana: 3/722 (0.42%) text records with apparent discontinuous noun
+phrases:
+
+| Pattern / Syntactic role |     | Total |
+|:-------------------------|----:|------:|
+| N Ptc N                  |   2 |     2 |
+| N \[V…\] N               |   1 |     1 |
+| Total                    |   3 |     3 |
 
 # Apparent discontinuous noun phrases
 
@@ -375,6 +388,38 @@ phrases:
 > … two   in.number-Nzr-Pl be-Past that boys Pl    carry-Perf 3Pl Erg Emph  giant    Erg Emph   
 > … Prtcl N                Vi      Dem  N    Prtcl Vt         Pro P   Prtcl N        P   Prtcl
 > ‘There were two boys who the piyai'ma had taken there’</pre>
+
+## Ye’kwana: Apparent discontinuous noun phrases
+
+-   N Ptc N:
+
+> (convwho-028) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>¿Chööwa'köto ka womjiiyu menejö amödö?</i>  
+> chö-wa'kö-ato ka     womjiiyu m-enejü-i     amödö
+> 3-igual-NZR.5 QP     bombillo 2/3-traer-PRP 2s     
+> n             interr n        v.t.          pro  
+> ‘Did you bring bulbs that fit?’</pre>
+
+-   N Ptc N:
+
+> (convwho-031) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Cuatroje tü womjiiyu nña nenejüdü na'janne ¿yööje'kene?</i>  
+> cuatro=je   tü     womjiiyu nña n-enejü-dü      n-a'ja-aanö-de    yööje-'kene          
+> cuatro=ATRB INTENS bombillo 1+3 SHR-traer-NZR.1 3S-COP-PRI-INTENS así-CONFIRM?           
+> n           ad     ptc      n   pro             n                 pers-v.i.a-TAM-suf.ad
+> ‘We brought four light bulbs, didn't we?’</pre>
+
+-   N \[V…\] N (afterthought-ish, but the number is not repeated):
+
+> (ctoabjpic-008) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>aakömma wanö... kiyede munu kunu'kwai.</i>  
+> aakö-mma wanö  kiyede munu-0           kün-u'ka-i       
+> dos-EXCL abeja yuca   tubérculo-POSS.3 3/3.PAS-sacar-PAS  
+> num-ptc  n     n      n                v.t.             
+> ‘The bee took out two yucca tubers.’</pre>
 
 # Putative NPs in argument position
 
@@ -1025,6 +1070,29 @@ not clear what *mokï* is doing:
 > N   Prtcl N       Prtcl P?    N              P   N    Vi      Dem  N      P    N   
 > ‘Now there was an elongated pot there for cooking humans’</pre>
 
+## Ye’kwana: Unclear analysis
+
+-   unknown (1) elaboration pattern, 2) how are *tüwü* and *ñöödö*
+    related?):
+
+> (ctoabjpic-016) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Tüwü küntömö yaawö ñöödö, akudi küntömö unwa.</i>  
+> tüwü kün-tö(mö)-i  yaawö    ñöödö akudi  kün-tö(mö)-i  unwaa     
+> 3.SG 3S.PAS-ir-PRP entonces DEMan picure 3S.PAS-ir-PRP por_allá.2  
+> pro  v.i.a         ptc      pro   n      v.i.a         deict     
+> ‘She left, that one, the picure went that way.’</pre>
+
+-   unknown (what is *tüwü* doing?):
+
+> (ctoabjpic-025) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Chöötü küna'jaakö tüwü... akudi etü, "Manawa".</i>  
+> chö-ötü-0       kün-a'ja-aakö tüwü akudi  e-ötü-0           Manawa
+> 3-nombre-POSS.3 3.PAS-COP-PDI 3.SG picure REL-nombre-POSS.3 Manawa  
+> n               v.i.a         pro  n      n                 n     
+> ‘The name of the picure was "Manawa".’</pre>
+
 # Varia
 
 ## Hixkaryána: Varia
@@ -1621,6 +1689,48 @@ formulaic:
 > N            Prtcl Prtcl Prtcl N          Vi        Vt   P    
 > ‘He was predicting that the boys pubic hair had grown’</pre>
 
+## Ye’kwana: Varia
+
+-   other (elaboration pattern):
+
+> (convwho-051) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Ekamma'jokö eduwa mö'dö, José eduwa.</i>  
+> 0-ekamma'jo-kö   eduwa mö'dö  José eduwa
+> 3O-preguntar-IMP ahora DEM1an José ahora  
+> v.t.             ad    pro    n    ad   
+> ‘ask Jose now’</pre>
+
+-   other (afterthought):
+
+> (ctoabjpic-003) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Yo'jüdüje küna'jaakö tüwü, akudi...</i>  
+> i-wo'jüdü-0=je       kün-a'ja-aakö  tüwü  akudi 
+> 3-suegra-POSS.3=ATRB 3S.PAS-COP-PDI 3.SG  picure  
+> n                    ad             v.i.a pro   
+> ‘La Picure was like her mother-in-law.’</pre>
+
+-   other (afterthought):
+
+> (ctoabjpic-007) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>inña, a'ye xxx küntömö, küntööjö'aakö tüwü, wanö.</i>  
+> inña  a'ye  xxx kün-ütö(mö)-i kün-ütö(mö)-jötü-aakö tüwü wanö 
+> allá  breve xxx 3S.DIS-ir-PRP 3S.DIS-ir-PLAC-PDI    3.SG abeja  
+> deict ad    xxx v.i.a         pers-v.i.a-TAM-TAM    pro  n    
+> ‘Over there, she the bee went at once.’</pre>
+
+-   other (afterthought):
+
+> (ctoabjpic-032) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Yaawö künö'düi tüwü, akudi.</i>  
+> yaawö    kün-ö'dü-i        tüwü akudi 
+> entonces 3S.PAS-llegar-PRP 3.SG picure  
+> ptc      v.i.a             pro  n     
+> ‘Here came the picure.’</pre>
+
 # Other putative NPs
 
 ## Hixkaryána: Other putative NPs
@@ -2114,7 +2224,7 @@ ADV + N + PL:
 > aakene tumjune'da  a-w-a'deuwü-dü       e'nei      iyö   0-adö-dawö       a-uwö
 > como   fuertemente 2S-INTR-hablar-NZR.1 a_pesar_de DEMin 3O-llevar-CONSEC 2-ERG  
 > interr ad          n                    pp         pro   adv              posp 
-> ‘Este... de la misma manera que tu hablas duro cuando te la llevas (te llevas a alguien a la casa).’</pre>
+> ‘This... in the same way that you talk tough when you take her (take someone home).’</pre>
 
 two pseudo NPs?:
 
@@ -2124,6 +2234,30 @@ two pseudo NPs?:
 > aaa    möönü  judume-ato-mma-:ne      kaawede k^-üdü-a         yaawö    möönü  tooni-mma-:ne      yaawö   
 > ah     DEM3in negro-NZR.5-EXCL-INTENS cable   1+2/3-poner-NPST entonces DEM3in uno-solamente-INTS entonces  
 > interj pro    ad                      n       v                ptc      pro    num-ptc-ptc        ptc     
-> ‘¡Ah! ¿sólo vamos a poner el cable negro?’</pre>
+> ‘Ah, we're just going to put in the black wire?’</pre>
+
+> (convwho-058) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Se'koto'kö cablemmödö a'ke naawü, edö tüdütojo.</i>  
+> se'kö-ato-'kö     cable mödö   a'ke na    ewü edö    t-üdü-tojo    
+> pequeño-NZR.5-DIM cable DEM2in nada 3.COP 1SG DEM1in 3O-hacer-INSTR  
+> ad                n     pro    ad   v.i.a pro pro    n             
+> ‘I'm missing a small cable to do this.’</pre>
+
+> (ctoabjpic-020) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Iyö yumunu'kö ya'me yaawö, künö'düi yaawö inña.</i>  
+> iyö   y-munu-0-'kö           ya'me   yaawö    kün-ö'dü-i         yaawö    inña 
+> DEMin 3-tubérculo-POSS.3-DIM consigo entonces 3S.PAS-ponerse-PRP entonces allá   
+> pro   n                      pp      ptc      v.i.a              ptc      deict
+> ‘With that tubercle, he left her there.’</pre>
+
+> (ctoabjpic-027) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Tüw- tüwü wanö etü küna'jaakö yaawö, Tajööju.</i>  
+> ***-tüwü wanö  e-ötü-0           kün-a'ja-aakö yaawö    Tajööju
+> ***-3.SG abeja REL-nombre-POSS.3 3.PAS-COP-PDI entonces Tajööju  
+> ***-pro  n     n                 v.i.a         ptc      n      
+> ‘The name of the bee was Tajööju.’</pre>
 
 # References
