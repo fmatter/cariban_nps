@@ -19,6 +19,8 @@
         position](#tiriyó-putative-nps-in-argument-position)
     3.  [Akawaio: Putative NPs in argument
         position](#akawaio-putative-nps-in-argument-position)
+    4.  [Ye’kwana: Putative NPs in argument
+        position](#ye-kwana-putative-nps-in-argument-position)
 4.  [Unclear analysis](#unclear-analysis)
     1.  [Hixkaryána: Unclear analysis](#hixkaryána-unclear-analysis)
     2.  [Tiriyó: Unclear analysis](#tiriyó-unclear-analysis)
@@ -56,23 +58,25 @@ phrases:
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
 | Total                    |   1 |   1 |   4 |    2 |   4 |    12 |
 
-Akawaio: 16/1000 (1.60%) text records with apparent discontinuous noun
+Akawaio: 17/1000 (1.70%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
 |:-------------------------|----:|------:|
 | N Ptc N                  |  13 |    13 |
+| N Postp N                |   1 |     1 |
 | N \[V…\] N               |   3 |     3 |
-| Total                    |  16 |    16 |
+| Total                    |  17 |    17 |
 
-Ye’kwana: 3/722 (0.42%) text records with apparent discontinuous noun
+Ye’kwana: 7/755 (0.93%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
 |:-------------------------|----:|------:|
 | N Ptc N                  |   2 |     2 |
-| N \[V…\] N               |   1 |     1 |
-| Total                    |   3 |     3 |
+| N Postp N                |   1 |     1 |
+| N \[V…\] N               |   4 |     4 |
+| Total                    |   7 |     7 |
 
 # Apparent discontinuous noun phrases
 
@@ -368,6 +372,16 @@ phrases:
 > Dem  P       N     Prtcl N    Adv Prtcl Prtcl Prtcl         Dem       Prtcl P      Adv   Pro P   Vt          Vi        Prtcl 
 > ‘This is why there is really no good language, maybe they have also told you so, but’</pre>
 
+-   N Postp N (*serö yau maing* ‘at this word’):
+
+> (ra-personal-narrative-157) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>iwangbe tok eji tok enubaning bra tugaik serö yau maing eji mörö maing</i>  
+> iwang-be    tok eji tok enuba-ning  bra tugaik serö yau maing eji mörö maing
+> hunger-Attr 3Pl be  3Pl teach-A.Nzr Neg like   this Loc word  be  that word   
+> A           Pro Vi  Pro N           Adv P      Pro  P   N     Vi  Dem  N    
+> ‘There is word here that they are hungry and there is no one to teach them’</pre>
+
 -   N \[V…\] N (a four-word NP):
 
 > (ra-personal-narrative-204) Akawaio (Caesar-Fox 2003)
@@ -408,7 +422,7 @@ phrases:
 > <i>Cuatroje tü womjiiyu nña nenejüdü na'janne ¿yööje'kene?</i>  
 > cuatro=je   tü     womjiiyu nña n-enejü-dü      n-a'ja-aanö-de    yööje-'kene          
 > cuatro=ATRB INTENS bombillo 1+3 SHR-traer-NZR.1 3S-COP-PRI-INTENS así-CONFIRM?           
-> n           ad     ptc      n   pro             n                 pers-v.i.a-TAM-suf.ad
+> adv         ad     ptc      n   pro             n                 pers-v.i.a-TAM-suf.ad
 > ‘We brought four light bulbs, didn't we?’</pre>
 
 -   N \[V…\] N (afterthought-ish, but the number is not repeated):
@@ -420,6 +434,46 @@ phrases:
 > dos-EXCL abeja yuca   tubérculo-POSS.3 3/3.PAS-sacar-PAS  
 > num-ptc  n     n      n                v.t.             
 > ‘The bee took out two yucca tubers.’</pre>
+
+-   N \[V…\] N:
+
+> (ctoabjpic-094) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Ee, wodije tüwü küna'jaakö wanö.</i>  
+> ee  wodi=je    tüwü kün-a'ja-aakö wanö 
+> sí  mujer=ATRB 3.SG 3.PAS-COP-PDI abeja  
+> ptc adv        pro  v.i.a         n    
+> ‘Yes, she the bee was a woman’</pre>
+
+-   N \[V…\] N (1) *aneija … yadanawi*, 2) yadanawi … mödö):
+
+> (convchur-009) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>aneija mödöje yadanawi chü'tajötüdü na, yadanawi mödöjemmödö</i>  
+> aneija mödöje yadanawi    i-tü'tajötü-dü      na    yadanawi    mödöje mödö  
+> otro   así    no_indígena INTR.C-pensar-NZR.1 3.COP no_indígena así    DEM2in  
+> n      ad     n           n                   v.i.a n           ad     pro   
+> ‘other Creoles think like this, the Creole is like this’</pre>
+
+-   N Postp N:
+
+> (convchur-020) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Nadua aiño mö'dö yawö, mö'döakkö awa'deene künoojodüicho</i>  
+> Nadua ai-no           mö'dö yaawö    mö'dö akkö awa'de-:ne     kün-oojodü-i=to      
+> Nalúa a_través-NZR.PP DEMan entonces DEMan con  primero-INTENS 3.PAS-encontrarse-PRP  
+> n     pp-suf.pp       pro   ptc      pro   pp   adv            pers-v.i.r-tns       
+> ‘was through Nalua, it is with her that they met first’</pre>
+
+-   N \[V…\] N:
+
+> (convchur-023) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Kuyujaani künekammai tüwü ñöödö Nadua yawö, "kannojoinñe wüdüneewü" ke.</i>  
+> Kuyujaani kün-ekamma-i       tüwü ñöödö Nadua yaawö    kanno-joi-nñe         w-üdü-ne       ewü ke  
+> Kuyujaani 3.PAS-informar-PRP 3.SG DEMan Nalúa entonces DEM1an.PL-a_través-PL INTR-hacer-PDP 1SG QUOT  
+> n         v.t.               pro  pro   n     ptc      pro-pp-suf.ad         v.t.           pro ptc 
+> ‘Nalúa recommended Kuyujani "Through them I did it".’</pre>
 
 # Putative NPs in argument position
 
@@ -640,6 +694,39 @@ is the argument of ‘know’? :
 > child Pl    take.away-Iter-Past 3-Erg-Style three four  in.number child Pl    carry 3-Erg  
 > N     Prtcl Vt                  Prs-P-?     Prtcl Prtcl Adv       N     Prtcl Vt    P    
 > ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
+
+Spike: \[\[*mörö tïbïre*\] *a’körö*\] \[*se konegazai’ya*\] ‘\[with
+\[that arrow\]\] \[she (had) made this\]’:
+
+> (ra-piya-ma-story-041) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröbang ji mïgï mörö tïbïre a'körö se konegazai'ya es'pï, yöi bök diebu shi, sairong bök diebu shi</i>  
+> möröbang   ji    mïgï  mörö tï-pïre    a'körö se   konega-zak i-ya  eji-'pï yöi   bök i-ebu    ji    sairong     bök i-ebu    ji   
+> thereafter Emph  Hes   that 3Rfl-arrow Instr  this make-Perf  3-Erg be-Past stick on  3-handle Emph  around.here on  3-handle Emph   
+> N          Prtcl Prtcl Dem  N          P      Dem  Vt         P     Vi      N     P   N        Prtcl N           P   N        Prtcl
+> ‘Then she had made the charm that was placed onto a stick with a handle, it attached to the handle’</pre>
+
+## Ye’kwana: Putative NPs in argument position
+
+*aakö tünküi*:
+
+> (ctoabjpic-035) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Aakö tünküi künenüntöi iyö.</i>  
+> aakö tünküi  kün-enüntö-i               iyö  
+> dos  sebucán 3/3.PAS-llenar_sebucán-PRP DEMin  
+> num  n       v.t.                       pro  
+> ‘He put it in two sebucanes.’</pre>
+
+*iyö yooküdü*:
+
+> (ctoabjpic-057) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Yawööne iyö yooküdü kuntui yaawö.</i>  
+> yaawö-:ne       iyö   i-wokü-dü       kün-uttu-i      yaawö   
+> entonces-INTENS DEMin 3-bebida-POSS.1 3/3.PAS-dar-PRP entonces  
+> ptc             pro   n               v.t.            ptc     
+> ‘That's when he gave him his drink.’</pre>
 
 # Unclear analysis
 
@@ -957,16 +1044,6 @@ not clear what *mokï* is doing:
 > SW Prtcl Prtcl N         P   Prtcl Prtcl Dem  N    
 > ‘Cliff is in Venezuela’</pre>
 
--   unknown (I’m having trouble parsing everything after *tugaik*):
-
-> (ra-personal-narrative-157) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>iwangbe tok eji tok enubaning bra tugaik serö yau maing eji mörö maing</i>  
-> iwang-be    tok eji tok enuba-ning  bra tugaik serö yau maing eji mörö maing
-> hunger-Attr 3Pl be  3Pl teach-A.Nzr Neg like   this Loc word  be  that word   
-> A           Pro Vi  Pro N           Adv P      Pro  P   N     Vi  Dem  N    
-> ‘There is word here that they are hungry and there is no one to teach them’</pre>
-
 -   unknown (‘it is one acre small one’?):
 
 > (ra-personal-narrative-166) Akawaio (Caesar-Fox 2003)
@@ -977,26 +1054,6 @@ not clear what *mokï* is doing:
 > Adv   Adv?-Prtcl Vi        N     Pro    Prtcl N     Vi        Adv   Pro    N    
 > ‘Here , there is only a small one, it is one acre’</pre>
 
--   unknown (what is going on with all the nouns from *mö* to *awong*?):
-
-> (ra-personal-narrative-188) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>e'tane mörau rögeng mang mö ga'ta önnö yuk awong maningbaning be</i>  
-> e'tane  mörau rögeng mang      mö   ka'ta önnö     yuk    yau-ng  maningba-ning pe  
-> however there only   3.be.Pres farm edge  far.away forest Loc-Nzr bother-A.Nzr  like  
-> Prtcl   Adv   Prtcl  Vi        N    N     Adv      N      N       N             P   
-> ‘However, there is one thing that will bother a farm in the forest’</pre>
-
--   unknown (how is the numeral related to the farms?):
-
-> (ra-personal-narrative-196) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möröwenai aza'rö mïgï te'seng urö imainarï</i>  
-> mörö wenai   aza'rö mïgï  t-eji-zeng     urö i-maina-ri
-> that because two    Hes   Adv-be-Abs.Nzr 1Sg 3-farm-Psd  
-> Dem  P       Prtcl  Prtcl N              Pro N         
-> ‘This is why I always have two farms’</pre>
-
 -   unknown (what is the argument of *pömïuya*?):
 
 > (ra-personal-narrative-200) Akawaio (Caesar-Fox 2003)
@@ -1006,16 +1063,6 @@ not clear what *mokï* is doing:
 > this like Emph  pepper Emph  like Emph  plant-1-Erg  
 > Pro  P    Prtcl N      Prtcl P    Prtcl Vt         
 > ‘Because I plant things like pepper and pumpkin’</pre>
-
--   unknown (1) could the first *zerö* be S.I.? 2) *iya piyai’ma a*):
-
-> (ra-piya-ma-story-023) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>kayuni gak dö zerö konoik pök ta iya piyai'ma a tïno'pï bök.</i>  
-> kayuni gak      tö zerö konoik   bök ta  i-ya  piyai'ma ya  tï-no'pï  bök
-> Kuyuni into.liq go this fishhook WRT say 3-Erg giant    Erg 3Rfl-wife to   
-> N      P        Vi Pro  N        P   Vt  P     N        P   N         P  
-> ‘I am going to the Kuyuni river to do some fishing' This is what piyai'ma said to his wife’</pre>
 
 -   unknown (is *zerö* coreferential with the preverbal *pöröu*, or is
     it S.I.?):
@@ -1029,7 +1076,7 @@ not clear what *mokï* is doing:
 > ‘"How, really, will we shoot the arrow more than one time?" he said.’</pre>
 
 -   unknown (is *zerö* coreferential with the preverbal *pöröu*, or is
-    it S.I.? ):
+    it S.I.?):
 
 > (ra-piya-ma-story-034) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -1038,27 +1085,6 @@ not clear what *mokï* is doing:
 > arrow shoot-Iter  this slap arrow put.in slap other     
 > N     Vt          Pro  SW   N     SW     SW   N       
 > ‘We will shoot the arrow tait! one, then tait!sorok(SSW) the other.’</pre>
-
--   unknown (what is *tïbïre a’körö ji mörö*?):
-
-> (ra-piya-ma-story-038) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>ah. inggebra. inggebra woroik! tïbïre a'körö ji mörö mo'ka'pï kïrörö a mörö</i>  
-> ah     ingge  bra ingge  bra woroik   tï-pïre    a'körö ji    mörö mo'ka-'pï     kïrö-rö       ya  mörö 
-> ah     slowly Neg slowly Neg take.out 3Rfl-arrow Instr  Emph  that take.out-Past 3Sg.Anim-Emph Erg A.I.?  
-> Interj Adv    Adv Adv    Adv SW       N          P      Prtcl Dem  Vt            Pro           P   ?    
-> ‘she took out her arrow woroik!(SSW) and with it the charm’</pre>
-
--   unknown (*mörö tïbïre a’körö se* – where is the charm, what are the
-    two demonstratives doing?):
-
-> (ra-piya-ma-story-041) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möröbang ji mïgï mörö tïbïre a'körö se konegazai'ya es'pï, yöi bök diebu shi, sairong bök diebu shi</i>  
-> möröbang   ji    mïgï  mörö tï-pïre    a'körö se   konega-zak i-ya  eji-'pï yöi   bök i-ebu    ji    sairong     bök i-ebu    ji   
-> thereafter Emph  Hes   that 3Rfl-arrow Instr  this make-Perf  3-Erg be-Past stick on  3-handle Emph  around.here on  3-handle Emph   
-> N          Prtcl Prtcl Dem  N          P      Dem  Vt         P     Vi      N     P   N        Prtcl N           P   N        Prtcl
-> ‘Then she had made the charm that was placed onto a stick with a handle, it attached to the handle’</pre>
 
 -   unknown (don’t know how to analyze this):
 
@@ -1092,6 +1118,57 @@ not clear what *mokï* is doing:
 > 3-nombre-POSS.3 3.PAS-COP-PDI 3.SG picure REL-nombre-POSS.3 Manawa  
 > n               v.i.a         pro  n      n                 n     
 > ‘The name of the picure was "Manawa".’</pre>
+
+-   unknown (is *ñöödö* ‘she’ or does it belong to *tinñouwö*?):
+
+> (ctoabjpic-067) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>yööje künö'düaakö ñöödö tinñouwö yaawö:</i>  
+> yööje kün-ö'dü-aakö   ñöödö t-inño-0             uwö  yaawö   
+> así   3.PAS-decir-PDI DEMan 3.REFL-esposo-POSS.3 DAT  entonces  
+> ad    v.i.a           pro   n                    posp ptc     
+> ‘she said to her husband:’</pre>
+
+-   unknown (does *tüweiye* modify *yanwaa*?):
+
+> (ctoabjpic-092) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Tüweiye yeichaame yanwa, ajo'jonño. Ajo'jo seweiche aneija, yanwa.</i>  
+> tüw-ei-e            i-w-ei-taame           yanwaa ajo'jo-nño  ajo'jo seweiche aneija yanwaa
+> PTCP.INTR-COP-PTCPe 3S-INTR-COP-aunque     hombre grande-AUG? grande rojo     otro   hombre  
+> adv                 pers-pref.v-v.i.a-ptc? n      ad-suf.n    ad     ad       n      n     
+> ‘There is also a large male. Another one is red, male.’</pre>
+
+-   unknown (unclear what *mödö* refers to):
+
+> (convchur-008) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Tüjüdatai ejodütojoje, tüjüdatai ejodütojoje mödö yawö</i>  
+> t-jüdata-i          0-ejodü-tojo=je         t-jüdata-i          0-ejodü-tojo=je         mödö   yaawö   
+> 3.REFL-plata-POSS.2 3O-conseguir-INSTR=ATRB 3.REFL-plata-POSS.2 3O-conseguir-INSTR=ATRB DEM2in entonces  
+> n                   n                       ad                  adv                     n      ad      
+> ‘to get their money, to get their money, to get their money’</pre>
+
+-   unknown (what does *mööyö* refer to?):
+
+> (convchur-011) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>aneija keene aasicha ke chü'tajötüdü na mööyö daane, Nalúa küna'jaakö</i>  
+> aneija keene aasicha ke   i-tü'tajötü-dü  na    mööyö  daane  Nalúa kün-a'ja-aakö
+> otro   CONTR bueno   QUOT 3S-pensar-NZR.1 3.COP DEM2an INCERT Nalúa 3.PAS-COP-PDI  
+> n      ptc   ad      ptc  n               v.i.a pro    ptc    n     v.i.a        
+> ‘Others are good thinkers such as Nalua, for example.’</pre>
+
+-   unknown (I am getting the feeling that *mödö* is doing something
+    other than referring to third persons):
+
+> (convchur-026) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>möönü ye'kwana weichü, "¿össanno ka awe'ajö mödö?" ke</i>  
+> möönü  ye'kwana w-ei-dü        össha-nno   ka     a-w-ejö-ajö       mödö   ke  
+> DEM3in ye'kwana INTR-COP-NZR.1 dónde-desde QP     2-INTR-venir-PTCP DEM2in QUOT  
+> pro    n        adv            interr-pp   interr n                 pro    ptc 
+> ‘that, ye'kwana's life "where did you come from?"’</pre>
 
 # Varia
 
@@ -1658,6 +1735,17 @@ formulaic:
 > N              Vt  Pro P   Prtcl Pro       N        N       Prtcl Prtcl Prtcl N       
 > ‘Or they will say 'yago' which is the word Akawaios use’</pre>
 
+-   other (how is the numeral related to the farms? Spike: ‘Because of
+    that my farms (are) being two.’):
+
+> (ra-personal-narrative-196) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai aza'rö mïgï te'seng urö imainarï</i>  
+> mörö wenai   aza'rö mïgï  t-eji-zeng     urö i-maina-ri
+> that because two    Hes   Adv-be-Abs.Nzr 1Sg 3-farm-Psd  
+> Dem  P       Prtcl  Prtcl N              Pro N         
+> ‘This is why I always have two farms’</pre>
+
 -   other (example of *serö* meaning ‘now’):
 
 > (ra-personal-narrative-243) Akawaio (Caesar-Fox 2003)
@@ -1667,6 +1755,16 @@ formulaic:
 > this only   church into go-Prog  be-Style 3Pl Instr  doubt Emph   
 > Pro  Prtcl  N      P    Vi       Vi       Pro P      Prtcl Prtcl
 > ‘Only now I am going to church with them’</pre>
+
+-   other (afterthought):
+
+> (ra-piya-ma-story-023) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kayuni gak dö zerö konoik pök ta iya piyai'ma a tïno'pï bök.</i>  
+> kayuni gak      tö zerö konoik   bök ta  i-ya  piyai'ma ya  tï-no'pï  bök
+> Kuyuni into.liq go this fishhook WRT say 3-Erg giant    Erg 3Rfl-wife to   
+> N      P        Vi Pro  N        P   Vt  P     N        P   N         P  
+> ‘I am going to the Kuyuni river to do some fishing' This is what piyai'ma said to his wife’</pre>
 
 -   other (is *pïze a wöng* a normal way of saying ‘this one will kill
     us’?):
@@ -1678,6 +1776,16 @@ formulaic:
 > what this.Anim Erg kill that because arrow make-Perf  3Pl Erg be-Past 3Pl arrow arrow  
 > N    Pro       P   Vt   Dem  P       N     Vt         Pro P   Vi      Pro N     N    
 > ‘"What? this one will kill us!" For this reason, they had made an arrow, their arrow, an arrow.’</pre>
+
+-   other (Spike: \[*tïbïre a’körö*\] *ji* \[\[*mörö*\] *mo’ka’pï*\]):
+
+> (ra-piya-ma-story-038) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>ah. inggebra. inggebra woroik! tïbïre a'körö ji mörö mo'ka'pï kïrörö a mörö</i>  
+> ah     ingge  bra ingge  bra woroik   tï-pïre    a'körö ji    mörö mo'ka-'pï     kïrö-rö       ya  mörö 
+> ah     slowly Neg slowly Neg take.out 3Rfl-arrow Instr  Emph  that take.out-Past 3Sg.Anim-Emph Erg A.I.?  
+> Interj Adv    Adv Adv    Adv SW       N          P      Prtcl Dem  Vt            Pro           P   ?    
+> ‘she took out her arrow woroik!(SSW) and with it the charm’</pre>
 
 -   other (good example of *amök sa’ne ji* within possessive NP):
 
@@ -1730,6 +1838,16 @@ formulaic:
 > entonces 3S.PAS-llegar-PRP 3.SG picure  
 > ptc      v.i.a             pro  n     
 > ‘Here came the picure.’</pre>
+
+-   other (elaboration pattern):
+
+> (ctoabjpic-036) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Kusshi künnüi chenña tüwümmaja yaawö. Wanömmaja.</i>  
+> kusshi        kün-üdü-i         de'a tüwü=mmaja   yaawö    wanö=mmaja   
+> bebida_kusshi 3/3.PAS-hacer-PRP REIT 3.SG=también entonces abeja=también  
+> n             v.t.              ptc  pro          ptc      ptc          
+> ‘She had already made the drink (kushi) herself, the bee herself.’</pre>
 
 # Other putative NPs
 
@@ -2259,5 +2377,61 @@ two pseudo NPs?:
 > ***-3.SG abeja REL-nombre-POSS.3 3.PAS-COP-PDI entonces Tajööju  
 > ***-pro  n     n                 v.i.a         ptc      n      
 > ‘The name of the bee was Tajööju.’</pre>
+
+> (ctoabjpic-038) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Iyö... yentatütojo addödömmaja yaawö...</i>  
+> iyö   i-w-entatü'-tojo            addödö=mmaja   yaawö   
+> DEMin 3S-INTR-enjuagar_boca-INSTR aparte=también entonces  
+> pro   n                           ad             ptc     
+> ‘That... mouthwash was on the side...’</pre>
+
+> (ctoabjpic-051) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>"Edö owoküdü wanñö'nöi" ke.</i>  
+> edö    o-wokü-dü       0-wanñö'nö-i ke  
+> DEM1in 2-bebida-POSS.1 1-tía-POSS.2 QUOT  
+> pro    n               n            ptc 
+> ‘"Mother-in-law, have your drink."’</pre>
+
+> (ctoabjpic-055) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>"Edööne iyö owoküdü yaawö eese naadüüne".</i>  
+> edö-:ne       iyö   o-wokü-dü       yaawö    eese    na=dü-:ne       
+> DEM1in-INTENS DEMin 2-bebida-POSS.1 entonces por_acá 3.COP=REL-INTENS  
+> pro           pro   n               ptc      deict   COP=ptc-ptc     
+> ‘"This is your drink, the one on this side."’</pre>
+
+> (ctoabjpic-078) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Mödöje mö'dö wanö küntömö yaawö.</i>  
+> mödöje mö'dö  wanö  kün-tö(mö)-i yaawö   
+> así    DEM1an abeja 3.PAS-ir-PRP entonces  
+> ad     pro    n     v.i.a        ptc     
+> ‘So went the bee.’</pre>
+
+> (ctoabjpic-088) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>¿Wodi mö'dö wanö yaawö?</i>  
+> wodi  mö'dö  wanö  yaawö   
+> mujer DEM1an abeja entonces  
+> n     pro    n     ptc     
+> ‘Is the bee a woman?’</pre>
+
+> (ctoabjpic-089) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Wodi mö'dö wanö.</i>  
+> wodi  mö'dö  wanö 
+> mujer DEM1an abeja  
+> n     pro    n    
+> ‘The bee is a woman.’</pre>
+
+> (ctoabjpic-090) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>¿Yööje yeijökkö kaado iyö yooküdü nai?</i>  
+> yööje i-w-ei      jökkö  kaado iyö   i-wokü-dü       na-i       
+> así   3S-INTR-COP porque rico  DEMin 3-bebida-POSS.1 3.COP-INTER  
+> ad    v.i.a       pp     ad    pro   n               v.i.a      
+> ‘Is that why your drink (honey) is rich?’</pre>
 
 # References

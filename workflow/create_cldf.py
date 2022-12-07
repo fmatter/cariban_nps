@@ -11,10 +11,10 @@ meta = Dataset()
 full = len(sys.argv) > 1
 
 lg_list = ["tri", "hix", "aka", "mak"]
-# lg_list = ["mak"]
+# lg_list = ["tri"]
 lg_records = {}
 for lg in lg_list:
-    records = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
+    records = pd.read_csv(f"data/{lg}_data.csv", keep_default_na=False)
     records["Language_ID"] = lg
     if "Comment" in records.columns:
         records.drop(columns="Comment", inplace=True)
