@@ -58,15 +58,15 @@ phrases:
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
 | Total                    |   1 |   1 |   4 |    2 |   4 |    12 |
 
-Akawaio: 17/1000 (1.70%) text records with apparent discontinuous noun
+Akawaio: 19/1000 (1.90%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
 |:-------------------------|----:|------:|
-| N Ptc N                  |  13 |    13 |
+| N Ptc N                  |  15 |    15 |
 | N Postp N                |   1 |     1 |
 | N \[V…\] N               |   3 |     3 |
-| Total                    |  17 |    17 |
+| Total                    |  19 |    19 |
 
 Ye’kwana: 7/755 (0.93%) text records with apparent discontinuous noun
 phrases:
@@ -262,16 +262,6 @@ phrases:
 > Prtcl Prtcl Pro N        Vi  N      P   Prtcl
 > ‘There have several languages in Brazil in particular’</pre>
 
--   N \[V…\] N (*mörö … maing* ‘it … the language’):
-
-> (pingkas-personal-narrative-066) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>serö ning shi Gaiyana bo rï'kwö ning ji mïgï mörö dö wagïbe kuning maing eji, mörö gaza</i>  
-> serö ning  ji    Gaiyana po  rï'kwö ning  ji    mïgï  mörö tö wagï pe   kuru  ning  maing eji mörö kaza
-> this Emph  Emph  Guyana  Loc Dim    Emph  Emph  Hes   that go good like Emph  Emph  word  be  that like  
-> Pro  Prtcl Prtcl N       P   Pro    Prtcl Prtcl Prtcl Dem  Vi N    P    Prtcl Prtcl N     Vi  Dem  P   
-> ‘Here in Guyana the language (Akawaio) goes well (meaning spoken well), like that’</pre>
-
 -   N Ptc N:
 
 > (pingkas-personal-narrative-068-interviewer) Akawaio (Caesar-Fox 2003)
@@ -332,6 +322,27 @@ phrases:
 > Prtcl Prtcl Prtcl ??-Vi-VDer      N            Prtcl N     Prtcl Prtcl Prtcl
 > ‘"Many of us to cry,even the many children’</pre>
 
+-   N Ptc N:
+
+> (r-personal-narrative-022) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>wagï genïk so'chi dau eji'ma, e'nek au rö tïwe'kïngmaik tugo'mangzanggong genïk amörö'nogong kabai e'aik</i>  
+> wagï genïk        jo'chi tau    eji-i'ma e'nek yau rö    t-e'-kïngma-ik       t-go'mamï-zang-gong genïk    amörö-'nogong ga-bai    eji-aik
+> good specifically church within be-While sick  in  Emph  Adv-Detr-hurt-Prtcpl Adv-live-Pl.Nzr-Pl  Mirative 2Sg-Pl        say-Desid be-Pres  
+> N    Prtcl        N      P      Vi-?     N     P   Prtcl ?-Vi-Vder            N                   Prtcl    Pro           Adv       Vi     
+> ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
+
+-   N Ptc N (*paba enau kuru genïk eji’nïnggenak rö kenïk a’ai* is one
+    large NP):
+
+> (r-personal-narrative-043) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>paba enau kuru genïk eji'nïnggenak rö kenïk a'ai esh'pï mörau</i>  
+> paba   enau    kuru  genïk    eji'nïng-genak   rö    genïk    a'ai   eji-'pï mörau
+> father in.hand Emph  Mirative love-one.who.has Emph  Mirative mother be-Past there  
+> N      P       Prtcl Prtcl    N                Prtcl Prtcl    N      Vi      Adv  
+> ‘There was a mother who was loving and in the hands of the 'great father’</pre>
+
 -   N Ptc N (*wagïdon sa’ne bandomïigong*):
 
 > (ra-eagle-story-001) Akawaio (Caesar-Fox 2003)
@@ -361,6 +372,17 @@ phrases:
 > far.away-Nzr-Pl.Abs go A.I.? when  3Pl go during.the.day rainy.season when  say A.I.? this Emph  rainy.season when  be-1+2S while  
 > N                   Vi ?     Prtcl Pro Vi Pro            N            Prtcl Vt  ?     Pro  Prtcl N            Prtcl Vi      Prtcl
 > ‘Those akushy ants over there would fly at nine, ten in the day, during the rainy season, we are now in the rainy season, it is June month’</pre>
+
+-   N \[V…\] N (*kamo* \[…\] *nene’sang waro’ma* are all coreferential.
+    *nene’sang* has a first person zero):
+
+> (ra-personal-narrative-107) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>waro'ma, kamo ji binimï be ji nene'sang waro'ma, mörawong ji'kö wek.. wek... wek.. kek</i>  
+> waro'ma kamoro    ji    pinimï pe   y-eji n-ene-zang       waro'ma mörau-ng  ji'kö wek        wek        wek        wek       
+> frog.Sp 3.Pl.Anim Emph  walk   like 3-be  O.Nzr-see-Pl.Nzr frog.Sp there-Nzr from  Frog.sound Frog.sound Frog.sound Frog.sound  
+> N       Pro       Prtcl Vi     P    Vi    N                N       N         P     SW         SW         SW         SW        
+> ‘Those waro'ma frogs that I have seen while I was travelling, and those that say wek..wek..wek..kek’</pre>
 
 -   N Ptc N:
 
@@ -533,6 +555,24 @@ DEM NP POSTP!:
 
 ## Akawaio: Putative NPs in argument position
 
+*serö rï’kwö rö maing* is the argument of ‘talk’:
+
+> (pingkas-personal-narrative-057) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö rï'kwö rö maing sauro'nö na'nek eji wagïbe rö</i>  
+> serö rï'kwö rö    maing saurogï-nnö nai-nek       eji wagï pe   rö   
+> this Dim    Emph  word  talk-1+2S   3.be.Pres-Rel be  good like Emph   
+> Pro  Pro    Prtcl N     Vi          Vi-Rel        Vi  N    P    Prtcl
+> ‘This language that we talk here is really good’</pre>
+
+> (r-personal-narrative-022) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>wagï genïk so'chi dau eji'ma, e'nek au rö tïwe'kïngmaik tugo'mangzanggong genïk amörö'nogong kabai e'aik</i>  
+> wagï genïk        jo'chi tau    eji-i'ma e'nek yau rö    t-e'-kïngma-ik       t-go'mamï-zang-gong genïk    amörö-'nogong ga-bai    eji-aik
+> good specifically church within be-While sick  in  Emph  Adv-Detr-hurt-Prtcpl Adv-live-Pl.Nzr-Pl  Mirative 2Sg-Pl        say-Desid be-Pres  
+> N    Prtcl        N      P      Vi-?     N     P   Prtcl ?-Vi-Vder            N                   Prtcl    Pro           Adv       Vi     
+> ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
+
 *mörö kaiguji ya*:
 
 > (ra-kone-o-story-022) Akawaio (Caesar-Fox 2003)
@@ -563,7 +603,7 @@ DEM NP POSTP!:
 > Prtcl  Prtcl Prtcl Dem  N      P   Vt            Prtcl
 > ‘But it was during this time that kone'o was making him a fool’</pre>
 
-*mörö diemu wenairö*:
+*mörö diemu wenairö*.:
 
 > (ra-kone-o-story-035) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -732,18 +772,7 @@ Spike: \[\[*mörö tïbïre*\] *a’körö*\] \[*se konegazai’ya*\] ‘\[with
 
 ## Hixkaryána: Unclear analysis
 
-not clear what *mokï* is doing:
-
-> (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
-> (Derbyshire 1965: 13)
-> <pre>
-> <i>Oske kanye mokï nexeye ahakheno.</i>  
-> oske ka-nye mokï  n-exe-ye      ahakheno          
-> thus say-A  3AnRm 3Sa-Cop-DPst1 my.deceased.father  
-> A    N      DPro  Va            N                 
-> ‘My late father was the one, the one who said it thus.’</pre>
-
--   unknown (Is this a possessive construction?):
+Is this a possessive construction?:
 
 > (derbyshire-1965-p-018-the-origin-of-night-and-darkness-051)
 > Hixkaryána (Derbyshire 1965: 18)
@@ -820,16 +849,6 @@ not clear what *mokï* is doing:
 
 ## Akawaio: Unclear analysis
 
--   unknown (a’ai pïze urö sang?):
-
-> (ae-personal-narrative-018) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>i'tuya bogeng bra ji, Akawaio be rï'kwö rö na'kö ji a'ai pïze urö sang nok ne'tai</i>  
-> i'tu-u-ya  bogeng      bra eji Akawaio pe   rï'kwö rö    na'kö ji    a'ai   pïze      urö sang   nok         n-eji-dai 
-> know-1-Erg like.manner Neg be  Akawaio like Dim    Emph  maybe Emph  mother this.Anim 1Sg mother grandmother 3S-be-Past  
-> Vt         P           Adv Vi  N       P    Pro    Prtcl Adv   Prtcl N      Pro       Pro N      N           Prs-V-TAM 
-> ‘I do not know, but my mother's grandmother was Akawaio’</pre>
-
 -   unknown (‘Daddie your father’?):
 
 > (lester-eugene-personal-narrative-036) Akawaio (Caesar-Fox 2003)
@@ -840,57 +859,6 @@ not clear what *mokï* is doing:
 > N     N         Prtcl N              Prtcl N           P    Prtcl
 > ‘also the relative of Daddie your father’</pre>
 
--   unknown (is *serö ji* ‘at this time’? I don’t think so.):
-
-> (lester-eugene-personal-narrative-100) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>serö ji munggamök a ji urö nïmbödï'pï ji</i>  
-> serö ji    munggö   amök  ya  ji    urö nïmï-bödï-'pï     ji   
-> this Emph  children Pl    Erg Emph  1Sg leave-Pl.Abs-Past Emph   
-> Pro  Prtcl N        Prtcl P   Prtcl Pro Vt                Prtcl
-> ‘Now at this time, my children have now left me’</pre>
-
--   unknown (do *serö* and *maimu* go together, as suggested by the
-    translation?):
-
-> (pingkas-personal-narrative-057) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>serö rï'kwö rö maing sauro'nö na'nek eji wagïbe rö</i>  
-> serö rï'kwö rö    maing saurogï-nnö nai-nek       eji wagï pe   rö   
-> this Dim    Emph  word  talk-1+2S   3.be.Pres-Rel be  good like Emph   
-> Pro  Pro    Prtcl N     Vi          Vi-Rel        Vi  N    P    Prtcl
-> ‘This language that we talk here is really good’</pre>
-
--   unknown (What is going on here?):
-
-> (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
-> aigo  rï'kwö wijagong mïre  rï'kwö önïk rönamo uri'chang mïre  rï'kwö rö    namo    
-> small Dim    other    child Dim    who  uncrtn female    child Dim    Emph  Uncrtnty  
-> N     Pro    N        N     Pro    Pro  Prtcl  N         N     Pro    Prtcl Prtcl   
-> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
-
--   unknown (is *kirö* coreferential with *wishagong*?):
-
-> (ps-duck-story-087) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>a.. weruji be no'sanshi dö mörö, eruwö kïrö rï'kwö ne'pö'ai'nek pe wishagong</i>  
-> a     weruji pe   no'sami'chi tö mörö  eruwö      kïrö     rï'kwö n-eji-bödï-aik-nek pe   ijagong
-> ah    dove   like old         go A.I.? small.dove 3Sg.Anim Dim    3S-be-Hab-Pres-Rel like partner  
-> Prtcl N      P    N           Vi ?     N          Pro      Pro    Prs-Vi-Asp-TAM-Rel P    N      
-> ‘The old woman turn into a dove and that is how she kept going and her partner went as an eruwö(smaller species of dove) bird’</pre>
-
--   unknown (what is *kenïk* doing?):
-
-> (r-personal-narrative-022) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>wagï genïk so'chi dau eji'ma, e'nek au rö tïwe'kïngmaik tugo'mangzanggong genïk amörö'nogong kabai e'aik</i>  
-> wagï genïk        jo'chi tau    eji-i'ma e'nek yau rö    t-e'-kïngma-ik       t-go'mamï-zang-gong genïk    amörö-'nogong ga-bai    eji-aik
-> good specifically church within be-While sick  in  Emph  Adv-Detr-hurt-Prtcpl Adv-live-Pl.Nzr-Pl  Mirative 2Sg-Pl        say-Desid be-Pres  
-> N    Prtcl        N      P      Vi-?     N     P   Prtcl ?-Vi-Vder            N                   Prtcl    Pro           Adv       Vi     
-> ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
-
 -   unknown (what is *wagï rö kenïk a’ai*?):
 
 > (r-personal-narrative-042) Akawaio (Caesar-Fox 2003)
@@ -900,16 +868,6 @@ not clear what *mokï* is doing:
 > however good Emph  Purp  mother be-Past there  
 > Prtcl   N    Prtcl P?    N      Vi      Adv  
 > ‘However, there was one mother who was good’</pre>
-
--   unknown (what is *kenïk* doing?):
-
-> (r-personal-narrative-043) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>paba enau kuru genïk eji'nïnggenak rö kenïk a'ai esh'pï mörau</i>  
-> paba   enau    kuru  genïk    eji'nïng-genak   rö    genïk    a'ai   eji-'pï mörau
-> father in.hand Emph  Mirative love-one.who.has Emph  Mirative mother be-Past there  
-> N      P       Prtcl Prtcl    N                Prtcl Prtcl    N      Vi      Adv  
-> ‘There was a mother who was loving and in the hands of the 'great father’</pre>
 
 -   unknown (what POS is *tiginnö*?):
 
@@ -971,16 +929,6 @@ not clear what *mokï* is doing:
 > N           Prtcl Pro N    Dem  Prtcl N              Prtcl N           Pro      
 > ‘Those whose name is kiawok(akushy ants), those who are also known as kaiwak’</pre>
 
--   unknown (this looks like *kamo … waro’ma* to me):
-
-> (ra-personal-narrative-107) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>waro'ma, kamo ji binimï be ji nene'sang waro'ma, mörawong ji'kö wek.. wek... wek.. kek</i>  
-> waro'ma kamoro    ji    pinimï pe   y-eji n-ene-zang       waro'ma mörau-ng  ji'kö wek        wek        wek        wek       
-> frog.Sp 3.Pl.Anim Emph  walk   like 3-be  O.Nzr-see-Pl.Nzr frog.Sp there-Nzr from  Frog.sound Frog.sound Frog.sound Frog.sound  
-> N       Pro       Prtcl Vi     P    Vi    N                N       N         P     SW         SW         SW         SW        
-> ‘Those waro'ma frogs that I have seen while I was travelling, and those that say wek..wek..wek..kek’</pre>
-
 -   unknown (“korowa’mis is their name them”?):
 
 > (ra-personal-narrative-109) Akawaio (Caesar-Fox 2003)
@@ -1000,16 +948,6 @@ not clear what *mokï* is doing:
 > Kamarang Kamarang say 3-Erg Emph  Emph  this Kamarang name like Emph  Emph  this Kamarang 3-name Kamarang this  
 > N        N        Vt  P     Prtcl Prtcl Pro  N        N    P    Prtcl Prtcl Pro  N        N      N        Pro 
 > ‘It is referring to kamarang, it is the name of this kamarang, kamrani river’</pre>
-
--   unknown (what is *se* doing here?):
-
-> (ra-personal-narrative-117) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>kamrang be sa'ji se eji tuna ezek kamrang</i>  
-> kamrang  pe   sa'ne ji    serö eji tuna  ezek kamrang 
-> Kamarang like Emph  Emph  this be  water name Kamarang  
-> N        P    Prtcl Prtcl Pro  Vi  N     N    N       
-> ‘This river is called Kamrang’</pre>
 
 -   unknown (the second *mörö* may be A.I. or it may go with
     *kuguigok*):
@@ -1043,16 +981,6 @@ not clear what *mokï* is doing:
 > mm ah    ah    Venezuela Loc Hes   Emph  that Cliff  
 > SW Prtcl Prtcl N         P   Prtcl Prtcl Dem  N    
 > ‘Cliff is in Venezuela’</pre>
-
--   unknown (‘it is one acre small one’?):
-
-> (ra-personal-narrative-166) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>serau rï'kwörö nai aigorkwö wan e'ka mang serau kwö aigo</i>  
-> serau rï'kwö-rö  nai       aigo  rï'kwö wan   e'ka  mang      serau rï'kwö aigo 
-> here  Dim-Emph   3.be.Pres small Dim    one   acres 3.be.Pres here  Dim    small  
-> Adv   Adv?-Prtcl Vi        N     Pro    Prtcl N     Vi        Adv   Pro    N    
-> ‘Here , there is only a small one, it is one acre’</pre>
 
 -   unknown (what is the argument of *pömïuya*?):
 
@@ -1174,18 +1102,7 @@ not clear what *mokï* is doing:
 
 ## Hixkaryána: Varia
 
-formulaic:
-
-> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-002)
-> Hixkaryána (Derbyshire 1965: 16)
-> <pre>
-> <i>Oske kanye mokï nexeye ahakheno.</i>  
-> oske ka-nye mokï  n-exe-ye      ahakheno          
-> thus say-A  3AnRm 3Sa-Cop-DPst1 my.deceased.father  
-> A    N      DPro  Va            N                 
-> ‘My late father was the one, the one who told it thus.’</pre>
-
--   other (A + LK-N?):
+A + LK-N?:
 
 > (derbyshire-1965-p-016-the-origin-of-night-and-darkness-006)
 > Hixkaryána (Derbyshire 1965: 16)
@@ -1229,17 +1146,6 @@ formulaic:
 > many        Advers Hrsy arrow  
 > N           Ptc    Ptc  N    
 > ‘The arrows (were) ones that were very many.’</pre>
-
--   other (formulaic):
-
-> (derbyshire-1965-p-025-the-origin-of-the-moon-060) Hixkaryána
-> (Derbyshire 1965: 25)
-> <pre>
-> <i>Oske kanye mokï nexeye ahakheno.</i>  
-> oske ka-nye mokï  n-exe-ye      ahakheno          
-> thus say-A  3AnRm 3Sa-Cop-DPst1 my.deceased.father  
-> A    N      DPro  Va            N                 
-> ‘My late father was the one, the one who said it thus.’</pre>
 
 -   other (nvp w/o copula):
 
@@ -1624,6 +1530,26 @@ formulaic:
 > Dem  Adv   Pro Prtcl N        Prtcl  Prtcl A          Pro    Vi       Pro N       Prtcl Vi        ?    
 > ‘Then after that, I am the last one but while I was still small my father died’</pre>
 
+-   other (*serö ji* ‘now’):
+
+> (lester-eugene-personal-narrative-100) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö ji munggamök a ji urö nïmbödï'pï ji</i>  
+> serö ji    munggö   amök  ya  ji    urö nïmï-bödï-'pï     ji   
+> this Emph  children Pl    Erg Emph  1Sg leave-Pl.Abs-Past Emph   
+> Pro  Prtcl N        Prtcl P   Prtcl Pro Vt                Prtcl
+> ‘Now at this time, my children have now left me’</pre>
+
+-   other (lit. ‘its name is wayara yeng, in the sky’):
+
+> (pingkas-personal-narrative-011) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>wayara yeng diezek ka'tau</i>  
+> wayara eng  i-ezek ka'tau
+> macaw  cave 3-name high    
+> N      N    N      Adv   
+> ‘at a high place named Wayara yeng (Macaw's cave)’</pre>
+
 -   other (disfluency):
 
 > (pingkas-personal-narrative-047) Akawaio (Caesar-Fox 2003)
@@ -1633,6 +1559,17 @@ formulaic:
 > Hes   3Pl father-Pl    from that Emph  um     
 > Prtcl Pro N            P    Dem  Prtcl Prtcl
 > ‘From their father's side that’</pre>
+
+-   other (Probably missing intonational break, *maing eji* is separate
+    from first predicate around *tö*):
+
+> (pingkas-personal-narrative-066) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serö ning shi Gaiyana bo rï'kwö ning ji mïgï mörö dö wagïbe kuning maing eji, mörö gaza</i>  
+> serö ning  ji    Gaiyana po  rï'kwö ning  ji    mïgï  mörö tö wagï pe   kuru  ning  maing eji mörö kaza
+> this Emph  Emph  Guyana  Loc Dim    Emph  Emph  Hes   that go good like Emph  Emph  word  be  that like  
+> Pro  Prtcl Prtcl N       P   Pro    Prtcl Prtcl Prtcl Dem  Vi N    P    Prtcl Prtcl N     Vi  Dem  P   
+> ‘Here in Guyana the language (Akawaio) goes well (meaning spoken well), like that’</pre>
 
 -   other (potentially a DEM + N NP):
 
@@ -1714,6 +1651,17 @@ formulaic:
 > fly  monkey Emph  Emph  throw-3-Erg Emph  Emph   
 > SW   N      Prtcl Prtcl Vt          Prtcl Prtcl
 > ‘Pïuu!(SSW,sound made by the monkey travelling through the air) he threw the poor monkey’</pre>
+
+-   other (Very likely two clauses, though interesting because of the
+    absence of a comma.):
+
+> (ra-personal-narrative-117) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kamrang be sa'ji se eji tuna ezek kamrang</i>  
+> kamrang  pe   sa'ne ji    serö eji tuna  ezek kamrang 
+> Kamarang like Emph  Emph  this be  water name Kamarang  
+> N        P    Prtcl Prtcl Pro  Vi  N     N    N       
+> ‘This river is called Kamrang’</pre>
 
 -   other (nice example of afterthought in akawaio):
 
@@ -1853,6 +1801,28 @@ formulaic:
 
 ## Hixkaryána: Other putative NPs
 
+*oske kanye mokï* ‘the thus-sayer’:
+
+> (derbyshire-1965-p-013-the-origin-of-plants-002) Hixkaryána
+> (Derbyshire 1965: 13)
+> <pre>
+> <i>Oske kanye mokï nexeye ahakheno.</i>  
+> oske ka-nye mokï  n-exe-ye      ahakheno          
+> thus say-A  3AnRm 3Sa-Cop-DPst1 my.deceased.father  
+> A    N      DPro  Va            N                 
+> ‘My late father was the one, the one who said it thus.’</pre>
+
+*oske kanye mokï* ‘the thus-sayer’:
+
+> (derbyshire-1965-p-016-the-origin-of-night-and-darkness-002)
+> Hixkaryána (Derbyshire 1965: 16)
+> <pre>
+> <i>Oske kanye mokï nexeye ahakheno.</i>  
+> oske ka-nye mokï  n-exe-ye      ahakheno          
+> thus say-A  3AnRm 3Sa-Cop-DPst1 my.deceased.father  
+> A    N      DPro  Va            N                 
+> ‘My late father was the one, the one who told it thus.’</pre>
+
 This one is interesting because it is *noro* and not a demonstrative.
 Also, the translation has a comma there.:
 
@@ -1864,6 +1834,17 @@ Also, the translation has a comma there.:
 > 1+3  3Sa-get.dark-RPst1 Intens 3AnPx  Rel-ear-Neg.Act-Pos Agt 3Sa-say-DPst2:Col Hrsy 3Sa-say-DPst2 Hrsy 3AnAna chief.man  
 > Pro  Vo                 Ptc    DPro   N                   Pp  Va                Ptc  Va            Ptc  DPro   N        
 > ‘"We were in darkness, through the foolishness of this one," they said, he, the chief man, said.’</pre>
+
+*oske kanye mokï* ‘the thus-sayer’:
+
+> (derbyshire-1965-p-025-the-origin-of-the-moon-060) Hixkaryána
+> (Derbyshire 1965: 25)
+> <pre>
+> <i>Oske kanye mokï nexeye ahakheno.</i>  
+> oske ka-nye mokï  n-exe-ye      ahakheno          
+> thus say-A  3AnRm 3Sa-Cop-DPst1 my.deceased.father  
+> A    N      DPro  Va            N                 
+> ‘My late father was the one, the one who said it thus.’</pre>
 
 ## Tiriyó: Other putative NPs
 
@@ -1963,6 +1944,16 @@ Is the second clause NVP?:
 
 ## Akawaio: Other putative NPs
 
+*pïze \[urö sang nok\]*:
+
+> (ae-personal-narrative-018) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>i'tuya bogeng bra ji, Akawaio be rï'kwö rö na'kö ji a'ai pïze urö sang nok ne'tai</i>  
+> i'tu-u-ya  bogeng      bra eji Akawaio pe   rï'kwö rö    na'kö ji    a'ai   pïze      urö sang   nok         n-eji-dai 
+> know-1-Erg like.manner Neg be  Akawaio like Dim    Emph  maybe Emph  mother this.Anim 1Sg mother grandmother 3S-be-Past  
+> Vt         P           Adv Vi  N       P    Pro    Prtcl Adv   Prtcl N      Pro       Pro N      N           Prs-V-TAM 
+> ‘I do not know, but my mother's grandmother was Akawaio’</pre>
+
 > (ae-personal-narrative-031) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>mörö kasa tïgo'mangzang nya serö waramadang bo</i>  
@@ -2046,14 +2037,6 @@ ADV + N + PL:
 > female    Pl    only   Emph  of.one.kind boy     Pl    Neg Emph   
 > N         Prtcl Prtcl  Prtcl Adv         N       Prtcl Adv Prtcl
 > ‘These are really all girls without any boys’</pre>
-
-> (pingkas-personal-narrative-011) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>wayara yeng diezek ka'tau</i>  
-> wayara eng  i-ezek ka'tau
-> macaw  cave 3-name high    
-> N      N    N      Adv   
-> ‘at a high place named Wayara yeng (Macaw's cave)’</pre>
 
 > (pingkas-personal-narrative-022) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -2152,6 +2135,16 @@ ADV + N + PL:
 > Prtcl Pro      Prtcl Prtcl Dem  N        Vt                    ?    
 > ‘She had already made the duck angry’</pre>
 
+*uri’shang mïre*:
+
+> (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
+> aigo  rï'kwö wijagong mïre  rï'kwö önïk rönamo uri'chang mïre  rï'kwö rö    namo    
+> small Dim    other    child Dim    who  uncrtn female    child Dim    Emph  Uncrtnty  
+> N     Pro    N        N     Pro    Pro  Prtcl  N         N     Pro    Prtcl Prtcl   
+> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
+
 > (ps-duck-story-078) Akawaio (Caesar-Fox 2003)
 > <pre>
 > <i>möra'tai kïrö no'sanshi döga'pï shi maina ak</i>  
@@ -2175,6 +2168,16 @@ ADV + N + PL:
 > 3Sg.Anim duck     make.angry-Perf-3-Erg A.I.? 3-curse-Perf-3-Erg   Emph  A.I.?  
 > Pro      N        Vt                    ?     Vt                   Prtcl ?    
 > ‘Now she had made the duck angry, so he had really cursed her with witchcraft’</pre>
+
+*eruwö kïrö*:
+
+> (ps-duck-story-087) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>a.. weruji be no'sanshi dö mörö, eruwö kïrö rï'kwö ne'pö'ai'nek pe wishagong</i>  
+> a     weruji pe   no'sami'chi tö mörö  eruwö      kïrö     rï'kwö n-eji-bödï-aik-nek pe   ijagong
+> ah    dove   like old         go A.I.? small.dove 3Sg.Anim Dim    3S-be-Hab-Pres-Rel like partner  
+> Prtcl N      P    N           Vi ?     N          Pro      Pro    Prs-Vi-Asp-TAM-Rel P    N      
+> ‘The old woman turn into a dove and that is how she kept going and her partner went as an eruwö(smaller species of dove) bird’</pre>
 
 > (r-personal-narrative-032) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -2297,6 +2300,16 @@ ADV + N + PL:
 > 3-in.possession 3-younger.sister Emph  that Cebel there near.to 3Pl go-Perf big-Attr  
 > P               N                Prtcl Dem  N     Adv   P       Pro Vi      A       
 > ‘With him is his sister Cebel, they have gone there in great numbers’</pre>
+
+*aigorkwö wan e’ka*:
+
+> (ra-personal-narrative-166) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>serau rï'kwörö nai aigorkwö wan e'ka mang serau kwö aigo</i>  
+> serau rï'kwö-rö  nai       aigo  rï'kwö wan   e'ka  mang      serau rï'kwö aigo 
+> here  Dim-Emph   3.be.Pres small Dim    one   acres 3.be.Pres here  Dim    small  
+> Adv   Adv?-Prtcl Vi        N     Pro    Prtcl N     Vi        Adv   Pro    N    
+> ‘Here , there is only a small one, it is one acre’</pre>
 
 > (ra-personal-narrative-218) Akawaio (Caesar-Fox 2003)
 > <pre>

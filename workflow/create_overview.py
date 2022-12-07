@@ -10,6 +10,9 @@ import json
 ds = Dataset.from_metadata("data/cldf/metadata.json")
 
 all_recs = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
+all_recs["Discont_NP"] = all_recs["Discont_NP"].apply(lambda x: x.split("; "))
+all_recs = all_recs.explode("Discont_NP")
+print(all_recs)
 
 stats = json.load(open("data/stats.json"))
 
