@@ -68,7 +68,7 @@ phrases:
 | N \[V…\] N               |   3 |     3 |
 | Total                    |  20 |    20 |
 
-Ye’kwana: 7/755 (0.93%) text records with apparent discontinuous noun
+Ye’kwana: 7/816 (0.86%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
@@ -445,7 +445,8 @@ phrases:
 > chö-wa'kö-ato ka     womjiiyu m-enejü-i     amödö
 > 3-igual-NZR.5 QP     bombillo 2/3-traer-PRP 2s     
 > n             interr n        v.t.          pro  
-> ‘Did you bring bulbs that fit?’</pre>
+> ‘Did you bring bulbs that fit?
+> ¿ Trajiste bombillos que le sirven?’</pre>
 
 -   N Ptc N:
 
@@ -455,7 +456,8 @@ phrases:
 > cuatro=je   tü     womjiiyu nña n-enejü-dü      n-a'ja-aanö-de    yööje-'kene          
 > cuatro=ATRB INTENS bombillo 1+3 SHR-traer-NZR.1 3S-COP-PRI-INTENS así-CONFIRM?           
 > adv         ad     ptc      n   pro             n                 pers-v.i.a-TAM-suf.ad
-> ‘We brought four light bulbs, didn't we?’</pre>
+> ‘We brought four light bulbs, didn't we?
+> Trajimos cuatro bombillos ¿verdad?’</pre>
 
 -   N \[V…\] N (afterthought-ish, but the number is not repeated):
 
@@ -465,7 +467,8 @@ phrases:
 > aakö-mma wanö  kiyede munu-0           kün-u'ka-i       
 > dos-EXCL abeja yuca   tubérculo-POSS.3 3/3.PAS-sacar-PAS  
 > num-ptc  n     n      n                v.t.             
-> ‘The bee took out two yucca tubers.’</pre>
+> ‘The bee took out two yucca tubers.
+> La abeja sacó dos tuberculos de yuca.’</pre>
 
 -   N \[V…\] N:
 
@@ -475,7 +478,8 @@ phrases:
 > ee  wodi=je    tüwü kün-a'ja-aakö wanö 
 > sí  mujer=ATRB 3.SG 3.PAS-COP-PDI abeja  
 > ptc adv        pro  v.i.a         n    
-> ‘Yes, she the bee was a woman’</pre>
+> ‘Yes, she the bee was a woman
+> Sí, ella la abeja era una mujer’</pre>
 
 -   N \[V…\] N (1) *aneija … yadanawi*, 2) yadanawi … mödö):
 
@@ -485,7 +489,8 @@ phrases:
 > aneija mödöje yadanawi    i-tü'tajötü-dü      na    yadanawi    mödöje mödö  
 > otro   así    no_indígena INTR.C-pensar-NZR.1 3.COP no_indígena así    DEM2in  
 > n      ad     n           n                   v.i.a n           ad     pro   
-> ‘other Creoles think like this, the Creole is like this’</pre>
+> ‘other Creoles think like this, the Creole is like this
+> otros criollos piensan así, el criollo es así’</pre>
 
 -   N Postp N:
 
@@ -495,7 +500,8 @@ phrases:
 > Nadua ai-no           mö'dö yaawö    mö'dö akkö awa'de-:ne     kün-oojodü-i=to      
 > Nalúa a_través-NZR.PP DEMan entonces DEMan con  primero-INTENS 3.PAS-encontrarse-PRP  
 > n     pp-suf.pp       pro   ptc      pro   pp   adv            pers-v.i.r-tns       
-> ‘was through Nalua, it is with her that they met first’</pre>
+> ‘was through Nalua, it is with her that they met first
+> fue a través de Nalúa, es con ella que se encontraron primero’</pre>
 
 -   N \[V…\] N:
 
@@ -505,7 +511,8 @@ phrases:
 > Kuyujaani kün-ekamma-i       tüwü ñöödö Nadua yaawö    kanno-joi-nñe         w-üdü-ne       ewü ke  
 > Kuyujaani 3.PAS-informar-PRP 3.SG DEMan Nalúa entonces DEM1an.PL-a_través-PL INTR-hacer-PDP 1SG QUOT  
 > n         v.t.               pro  pro   n     ptc      pro-pp-suf.ad         v.t.           pro ptc 
-> ‘Nalúa recommended Kuyujani "Through them I did it".’</pre>
+> ‘Nalúa recommended Kuyujani "Through them I did it".
+> Nalúa le recomendó Kuyujani "A través de ellos yo lo hice"’</pre>
 
 # Putative NPs in argument position
 
@@ -766,7 +773,8 @@ Spike: \[\[*mörö tïbïre*\] *a’körö*\] \[*se konegazai’ya*\] ‘\[with
 > aakö tünküi  kün-enüntö-i               iyö  
 > dos  sebucán 3/3.PAS-llenar_sebucán-PRP DEMin  
 > num  n       v.t.                       pro  
-> ‘He put it in two sebucanes.’</pre>
+> ‘He put it in two sebucanes.
+> Lo puso en dos sebucanes.’</pre>
 
 *iyö yooküdü*:
 
@@ -776,7 +784,8 @@ Spike: \[\[*mörö tïbïre*\] *a’körö*\] \[*se konegazai’ya*\] ‘\[with
 > yaawö-:ne       iyö   i-wokü-dü       kün-uttu-i      yaawö   
 > entonces-INTENS DEMin 3-bebida-POSS.1 3/3.PAS-dar-PRP entonces  
 > ptc             pro   n               v.t.            ptc     
-> ‘That's when he gave him his drink.’</pre>
+> ‘That's when he gave him his drink.
+> Ahí sí le dió su bebida.’</pre>
 
 # Unclear analysis
 
@@ -923,7 +932,9 @@ what is happening with mosonï and omoro?:
 ## Ye’kwana: Unclear analysis
 
 -   unknown (1) elaboration pattern, 2) how are *tüwü* and *ñöödö*
-    related?):
+    related? Note that the original transcription says *tüwü küntömö
+    yaawö, ñöödö akudi küntömö unwa*, which clearly does not match the
+    audio!):
 
 > (ctoabjpic-016) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -931,7 +942,8 @@ what is happening with mosonï and omoro?:
 > tüwü kün-tö(mö)-i  yaawö    ñöödö akudi  kün-tö(mö)-i  unwaa     
 > 3.SG 3S.PAS-ir-PRP entonces DEMan picure 3S.PAS-ir-PRP por_allá.2  
 > pro  v.i.a         ptc      pro   n      v.i.a         deict     
-> ‘She left, that one, the picure went that way.’</pre>
+> ‘She left, that one, the picure went that way.
+> Ella se fue, aquella, la picure se fue por allá.’</pre>
 
 -   unknown (*tüwü* looks like a false start):
 
@@ -941,7 +953,8 @@ what is happening with mosonï and omoro?:
 > chö-ötü-0       kün-a'ja-aakö tüwü akudi  e-ötü-0           Manawa
 > 3-nombre-POSS.3 3.PAS-COP-PDI 3.SG picure REL-nombre-POSS.3 Manawa  
 > n               v.i.a         pro  n      n                 n     
-> ‘The name of the picure was "Manawa".’</pre>
+> ‘The name of the picure was "Manawa".
+> El nombre del picure era "Manawa".’</pre>
 
 -   unknown (What is *tüweiye* doing?):
 
@@ -951,7 +964,8 @@ what is happening with mosonï and omoro?:
 > tüw-ei-e            i-w-ei-taame           yanwaa ajo'jo-nño  ajo'jo seweiche aneija yanwaa
 > PTCP.INTR-COP-PTCPe 3S-INTR-COP-aunque     hombre grande-AUG? grande rojo     otro   hombre  
 > adv                 pers-pref.v-v.i.a-ptc? n      ad-suf.n    ad     ad       n      n     
-> ‘There is also a large male. Another one is red, male.’</pre>
+> ‘There is also a large male. Another one is red, male.
+> También hay macho grande. Otro es rojo, macho.’</pre>
 
 -   unknown (unclear what *mödö* refers to):
 
@@ -961,7 +975,8 @@ what is happening with mosonï and omoro?:
 > t-jüdata-i          0-ejodü-tojo=je         t-jüdata-i          0-ejodü-tojo=je         mödö   yaawö   
 > 3.REFL-plata-POSS.2 3O-conseguir-INSTR=ATRB 3.REFL-plata-POSS.2 3O-conseguir-INSTR=ATRB DEM2in entonces  
 > n                   n                       ad                  adv                     n      ad      
-> ‘to get their money, to get their money, to get their money’</pre>
+> ‘to get their money, to get their money, to get their money
+> para conseguirse su plata, para conseguirse su plata’</pre>
 
 -   unknown (what does *mööyö* refer to?):
 
@@ -971,7 +986,96 @@ what is happening with mosonï and omoro?:
 > aneija keene aasicha ke   i-tü'tajötü-dü  na    mööyö  daane  Nalúa kün-a'ja-aakö
 > otro   CONTR bueno   QUOT 3S-pensar-NZR.1 3.COP DEM2an INCERT Nalúa 3.PAS-COP-PDI  
 > n      ptc   ad      ptc  n               v.i.a pro    ptc    n     v.i.a        
-> ‘Others are good thinkers such as Nalua, for example.’</pre>
+> ‘Others are good thinkers such as Nalua, for example.
+> Otros son buenos pensadores como por ejemplo como era Nalúa’</pre>
+
+-   unknown (double mödö?):
+
+> (convchur-028) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>mööyö keene eduwa a'deujokkono dö'ja, ye'kwana a'deddu, mödö wa'dennö mödö</i>  
+> mööyö keene eduwa a'deu   jökkö-no dö'ja ye'kwana a'deu-dü     mödö  w-a'deu-nö            mödö 
+> DEM   CONTR ahora palabra sobre-de turno ye'kwana palabra-POSS DEMin INTR-hablar-INTR      DEMin  
+> pro   ptc   ad    n       posp     ???   n        n            pro   pref.v-v.intr.o-suf.v pro  
+> ‘Now this one is about speech, the Ye'kwana language, our speech.
+> Ahora esta es sobre el habla, la lengua ye'kwana, nuestro hablar’</pre>
+
+-   unknown (double mödö?):
+
+> (convchur-029) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>mödö tü wa'dennö mödööne, ka'de'jö'atodü</i>  
+> mödö   tü     w-a'deuwü-nö     mödö-:ne      k-a'deuwü-jötü-a=to=dü        
+> DEM2in INTENS INTR-hablar-INTR DEM2in-INTENS 1+2S-hablar-ITER-NPST=COLL=REL  
+> pro    ptc    n                pro           pers-v.i.o-TAM-suf.v=ptc=ptc  
+> ‘just about the language, our conversation
+> sólo sobre el idioma, nuestra conversación’</pre>
+
+-   unknown (double DEM?):
+
+> (convchur-032) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>mödö iyö yawö a'deu, mödö mö'dö najenkadenña ö'wasa'kö ka aya'deddukomo nai ke</i>  
+> mödö   iyö   yaawö    a'deu   mödö   mö'dö  n-ajenka-a     de'a    ö'washa'kö ka     a-a'deu-dü=komo     na-i        ke   
+> DEM2in DEMin entonces palabra DEM2in DEM1an 3-revisar-NPST CONFIRM cuantos    QP     2-palabra-POSS.1=PL 3.COP-INTER QUOT   
+> pro    pro   ptc      n       pro    pro    v              ptc     interr     interr n                   ptc         v.i.a
+> ‘those are the words, that's what she's looking for, how many are the words of you.
+> esas son las palabras, eso es lo que está buscando ella, cuantas son las palabras de ustedes’</pre>
+
+-   unknown (what is *mödö* here?):
+
+> (convchur-048) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>mödö tümennö yawö, edö daane kö'sadü küwü ee</i>  
+> mödö   t-mennö-e        yaawö    edö    daane  k-ö'sa-dü      küwü ee  
+> DEM2in ADV-filmar-PTCPe entonces DEM1in INCERT 1+2-hogar-POSS 1+2  sí    
+> pro    adv              ptc      pro    ptc    n              pro  part
+> ‘So, filming, this is our home, yes?
+> así, filmando, esta es nuestra casa, ¿sí?’</pre>
+
+-   unknown (what is *mödö*?):
+
+> (convchur-053) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>mödöjato mödö anedawö tünene'majö'e wiyu jekudei akka ke tüwö'düe möönenedü</i>  
+> mödöje-ato mödö   anedawö tün-ene'ma-jötü-e        wiyu          jekude-i      aka ke   tüw-ö'dü-e            m-öönene=dü  
+> así-NZR.5  DEM2in otro    PTCP.TR-mirar-ITER-PTCPe espíritu_malo espejo-POSS.2 en  QUOT PTCP.INTR-decir-PTCPe 2-COP.HAB=REL  
+> ad         pro    ad      adv                      n             n             pp  ptc  adv                   pers-COP=ptc 
+> ‘As that is sometimes seen in the "wiyu mirror" as you call it.
+> Como eso a veces se ve en el "espejo de wiyu" como lo llamas tú’</pre>
+
+-   unknown (what is *tüwü*?):
+
+> (convchur-056) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>ayenuduke jeene meneadenña yawö, ekammajötüdü yeichaame tüwü</i>  
+> ay-önu-dü-ke       jeene   m-ene-a         de'a    yaawö    0-ekamma-jötü-dü     i-w-ei-taame          tüwü
+> 2-ojo-POSS.1-INSTR INTENS? 2-ver-NPST      también entonces 3O-contar-ITER-NZR.1 3S-INTR-COP-aunque    3.SG  
+> ad                 ptc     pers-v.tr-suf.v ptc     ptc      n                    pers-pref.v-v.i.a-sub pro 
+> ‘you see with your own eyes, but the narration is the same.
+> ves con tus propios ojos, pero es igual la narración’</pre>
+
+-   unknown (what is *möönü* referring to?):
+
+> (convchur-061) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>aneija möönü siichu ija'kadü, iyö ömjumma'da tüwü, waja tükajüdü</i>  
+> aneija möönü shiichu       i-ja'ka-dü     iyö an-jumma-'da   tüwü waja t-ükajü-dü    
+> otro   DEMin recien.nacido 3O-sacar-NZR.1 DEM NEG-querer-NEG 3.SG wapa 3O-tejer-NZR.1  
+> n      pro   n             n              pro pref.v-v-ptc   pro  n    n             
+> ‘belly button sagging is something else, that's not what she wants, knitting wapa.
+> la caída del ombligo es otra cosa, eso no es lo que quiere ella, tejer wapa’</pre>
+
+-   unknown (*ñöödö* combining with a name?):
+
+> (convchur-072) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>mmm, mödöjemmaja ñöödö Adamu na denña, wekammaadü</i>  
+> mmm    mödöje=mmaja ñöödö Adamu na    de'a    w-ekamma-a=dü      
+> mmm    así=también  DEMan Ramón 3.COP también 1SG-contar-NPST=REL  
+> interj ad           ptc   pro   n     v.i.a   ptc                
+> ‘Yes, that's how Ramón is (thinking the same thing), I say.
+> Sí, así mismo está Ramón (pensando lo mismo), digo yo’</pre>
 
 # Varia
 
@@ -1661,7 +1765,8 @@ A + LK-N?:
 > 0-ekamma'jo-kö   eduwa mö'dö  José eduwa
 > 3O-preguntar-IMP ahora DEM1an José ahora  
 > v.t.             ad    pro    n    ad   
-> ‘ask Jose now’</pre>
+> ‘ask Jose now
+> pregúntale a José ahora’</pre>
 
 -   other (afterthought):
 
@@ -1671,7 +1776,8 @@ A + LK-N?:
 > i-wo'jüdü-0=je       kün-a'ja-aakö  tüwü  akudi 
 > 3-suegra-POSS.3=ATRB 3S.PAS-COP-PDI 3.SG  picure  
 > n                    ad             v.i.a pro   
-> ‘La Picure was like her mother-in-law.’</pre>
+> ‘La Picure was like her mother-in-law.
+> La picure era como su suegra.’</pre>
 
 -   other (afterthought):
 
@@ -1681,7 +1787,8 @@ A + LK-N?:
 > inña  a'ye  xxx kün-ütö(mö)-i kün-ütö(mö)-jötü-aakö tüwü wanö 
 > allá  breve xxx 3S.DIS-ir-PRP 3S.DIS-ir-PLAC-PDI    3.SG abeja  
 > deict ad    xxx v.i.a         pers-v.i.a-TAM-TAM    pro  n    
-> ‘Over there, she the bee went at once.’</pre>
+> ‘Over there, she the bee went at once.
+> Por allá, ella la abeja fue enseguida.’</pre>
 
 -   other (afterthought):
 
@@ -1691,7 +1798,8 @@ A + LK-N?:
 > yaawö    kün-ö'dü-i        tüwü akudi 
 > entonces 3S.PAS-llegar-PRP 3.SG picure  
 > ptc      v.i.a             pro  n     
-> ‘Here came the picure.’</pre>
+> ‘Here came the picure.
+> Ahí llegó ella la picure.’</pre>
 
 -   other (elaboration pattern):
 
@@ -1701,7 +1809,8 @@ A + LK-N?:
 > kusshi        kün-üdü-i         de'a tüwü=mmaja   yaawö    wanö=mmaja   
 > bebida_kusshi 3/3.PAS-hacer-PRP REIT 3.SG=también entonces abeja=también  
 > n             v.t.              ptc  pro          ptc      ptc          
-> ‘She had already made the drink (kushi) herself, the bee herself.’</pre>
+> ‘She had already made the drink (kushi) herself, the bee herself.
+> Ya había hecho la bebida (kushi) ella misma, la abeja misma.’</pre>
 
 -   other (*ñöödö* could be ‘she’, or it could belong to *tinñouwö*):
 
@@ -1711,7 +1820,19 @@ A + LK-N?:
 > yööje kün-ö'dü-aakö   ñöödö t-inño-0             uwö  yaawö   
 > así   3.PAS-decir-PDI DEMan 3.REFL-esposo-POSS.3 DAT  entonces  
 > ad    v.i.a           pro   n                    posp ptc     
-> ‘she said to her husband:’</pre>
+> ‘she said to her husband:
+> le dijo así a su esposo:’</pre>
+
+-   other (‘that’s what nadua said’):
+
+> (convchur-027) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>össano ka atamudu küna'jaakö ke, mödö küna'jaakö Nadua, mödö chöötü antropología</i>  
+> össha-no  ka     a-tamu-dü       kün-a'ja-aakö ke   mödö   kün-a'ja-aakö Nadua mödö   chö-ötü-0       antropología
+> dónde-de  QP     2-abuelo-POSS.1 3.PAS-COP-PDI QUOT DEM2in 3.PAS-COP-PDI Nalúa DEM2in 3-nombre-POSS.3 antropología  
+> interr-pp interr n               v.i.a         ptc  pro    v.i.a         n     pro    n               n           
+> ‘Who was your grandfather?" did [said] Nalua, the name of that is anthropology.
+> !"¿Quién era tu abuelo?" hacía [decía] Nalúa, el nombre de eso es antropología’</pre>
 
 # Other putative NPs
 
@@ -2271,7 +2392,8 @@ ADV + N + PL:
 > aakene tumjune'da  a-w-a'deuwü-dü       e'nei      iyö   0-adö-dawö       a-uwö
 > como   fuertemente 2S-INTR-hablar-NZR.1 a_pesar_de DEMin 3O-llevar-CONSEC 2-ERG  
 > interr ad          n                    pp         pro   adv              posp 
-> ‘This... in the same way that you talk tough when you take her (take someone home).’</pre>
+> ‘This... in the same way that you talk tough when you take her (take someone home).
+> Este... de la misma manera que tu hablas duro cuando te la llevas (te llevas a alguien a la casa).’</pre>
 
 *möönü judumatommaane kaawede*:
 
@@ -2281,7 +2403,8 @@ ADV + N + PL:
 > aaa    möönü  judume-ato-mma-:ne      kaawede k^-üdü-a         yaawö    möönü  tooni-mma-:ne      yaawö   
 > ah     DEM3in negro-NZR.5-EXCL-INTENS cable   1+2/3-poner-NPST entonces DEM3in uno-solamente-INTS entonces  
 > interj pro    ad                      n       v                ptc      pro    num-ptc-ptc        ptc     
-> ‘Ah, we're just going to put in the black wire?’</pre>
+> ‘Ah, we're just going to put in the black wire?
+> ¡Ah! ¿sólo vamos a poner el cable negro?’</pre>
 
 > (convwho-058) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2289,7 +2412,8 @@ ADV + N + PL:
 > se'kö-ato-'kö     cable mödö   a'ke na    ewü edö    t-üdü-tojo    
 > pequeño-NZR.5-DIM cable DEM2in nada 3.COP 1SG DEM1in 3O-hacer-INSTR  
 > ad                n     pro    ad   v.i.a pro pro    n             
-> ‘I'm missing a small cable to do this.’</pre>
+> ‘I'm missing a small cable to do this.
+> a mi me falta un cable chiquito, para hacer esto’</pre>
 
 > (ctoabjpic-020) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2297,7 +2421,8 @@ ADV + N + PL:
 > iyö   y-munu-0-'kö           ya'me   yaawö    kün-ö'dü-i         yaawö    inña 
 > DEMin 3-tubérculo-POSS.3-DIM consigo entonces 3S.PAS-ponerse-PRP entonces allá   
 > pro   n                      pp      ptc      v.i.a              ptc      deict
-> ‘With that tubercle, he left her there.’</pre>
+> ‘With that tubercle, he left her there.
+> Con ese tuberculo, la dejó allá.’</pre>
 
 > (ctoabjpic-027) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2305,7 +2430,8 @@ ADV + N + PL:
 > ***-tüwü wanö  e-ötü-0           kün-a'ja-aakö yaawö    Tajööju
 > ***-3.SG abeja REL-nombre-POSS.3 3.PAS-COP-PDI entonces Tajööju  
 > ***-pro  n     n                 v.i.a         ptc      n      
-> ‘The name of the bee was Tajööju.’</pre>
+> ‘The name of the bee was Tajööju.
+> El nombre de la abeja era Tajööju.’</pre>
 
 > (ctoabjpic-038) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2313,7 +2439,8 @@ ADV + N + PL:
 > iyö   i-w-entatü'-tojo            addödö=mmaja   yaawö   
 > DEMin 3S-INTR-enjuagar_boca-INSTR aparte=también entonces  
 > pro   n                           ad             ptc     
-> ‘That... mouthwash was on the side...’</pre>
+> ‘That... mouthwash was on the side...
+> Eso... el enjuague para la boca estaba aparte...’</pre>
 
 > (ctoabjpic-051) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2321,7 +2448,8 @@ ADV + N + PL:
 > edö    o-wokü-dü       0-wanñö'nö-i ke  
 > DEM1in 2-bebida-POSS.1 1-tía-POSS.2 QUOT  
 > pro    n               n            ptc 
-> ‘"Mother-in-law, have your drink."’</pre>
+> ‘"Mother-in-law, have your drink."
+> "Suegra, toma tu bebida".’</pre>
 
 > (ctoabjpic-055) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2329,7 +2457,8 @@ ADV + N + PL:
 > edö-:ne       iyö   o-wokü-dü       yaawö    eese    na=dü-:ne       
 > DEM1in-INTENS DEMin 2-bebida-POSS.1 entonces por_acá 3.COP=REL-INTENS  
 > pro           pro   n               ptc      deict   COP=ptc-ptc     
-> ‘"This is your drink, the one on this side."’</pre>
+> ‘"This is your drink, the one on this side."
+> "Esta si es tu bebida, la que está de este lado."’</pre>
 
 > (ctoabjpic-078) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2337,7 +2466,8 @@ ADV + N + PL:
 > mödöje mö'dö  wanö  kün-tö(mö)-i yaawö   
 > así    DEM1an abeja 3.PAS-ir-PRP entonces  
 > ad     pro    n     v.i.a        ptc     
-> ‘So went the bee.’</pre>
+> ‘So went the bee.
+> Así se fue la abeja.’</pre>
 
 > (ctoabjpic-088) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2345,7 +2475,8 @@ ADV + N + PL:
 > wodi  mö'dö  wanö  yaawö   
 > mujer DEM1an abeja entonces  
 > n     pro    n     ptc     
-> ‘Is the bee a woman?’</pre>
+> ‘Is the bee a woman?
+> ¿La abeja es una mujer?’</pre>
 
 > (ctoabjpic-089) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2353,7 +2484,8 @@ ADV + N + PL:
 > wodi  mö'dö  wanö 
 > mujer DEM1an abeja  
 > n     pro    n    
-> ‘The bee is a woman.’</pre>
+> ‘The bee is a woman.
+> La abeja es una mujer.’</pre>
 
 > (ctoabjpic-090) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -2361,6 +2493,25 @@ ADV + N + PL:
 > yööje i-w-ei      jökkö  kaado iyö   i-wokü-dü       na-i       
 > así   3S-INTR-COP porque rico  DEMin 3-bebida-POSS.1 3.COP-INTER  
 > ad    v.i.a       pp     ad    pro   n               v.i.a      
-> ‘Is that why your drink (honey) is rich?’</pre>
+> ‘Is that why your drink (honey) is rich?
+> ¿Es por eso que su bebida (miel) es rica?’</pre>
+
+> (convchur-043) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>eetö niñön'a'de mödö tütadawaajuijüdü yawö, mödö niñömjö'aadüje mmm, konñadö menejö'akennüje yawö</i>  
+> eetö  n-nömö-a-'de     mödö   t-tadawaaju-i-'jüdü           yaawö    mödö   n-nömö-jötü-a=:düje        mmm    koiñadö m-ene-jötü-akene=:düje yaawö   
+> aquí  3-dejar-NPST-FUT DEM2in 3.REFL-trabajo-POSS.2-PAS.POS entonces DEM2in 3/3-dejar-ITER-NPST=COMPAR mmm    ayer    2-ver-ITER-PDI=COMPAR  entonces  
+> deict v                pro    n                             ptc      pro    pers-v.t-TAM-suf.v=ptc     interj ad      pers-v.t-TAM-TAM=ptc   ptc     
+> ‘here you will leave your work done, as you delivered it, as you checked it yesterday
+> aquí dejará su trabajo hecho, como lo que entregó, como lo revisaron ayer’</pre>
+
+> (convchur-060) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>möönü wotunnö omjumma'da na tüwü yawö</i>  
+> möönü  wötunnö  an-jumma-'da   na    tüwü yaawö   
+> DEM3in historia NEG-querer-NEG 3.COP 3.SG entonces  
+> pro    n        adv            v.i.a pro  ptc     
+> ‘those stories are not wanted
+> aquellos cuentos no los quiere’</pre>
 
 # References
