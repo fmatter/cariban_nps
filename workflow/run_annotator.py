@@ -6,7 +6,7 @@ import json
 
 lg_list = ["hix", "tri", "aka", "mak"]
 TARGET = 1000
-
+LIMIT = 10
 
 def pad_ex(*lines, sep=" "):
     out = {}
@@ -39,7 +39,7 @@ for lg in lg_list:
     
     
     df = pd.read_csv(f"data/{lg}_data.csv")
-    
+
     df = df.merge(info, on="ID", how="outer").fillna("")
     df = df.iloc[0:TARGET]
     df["Todo"] = df.apply(lambda x: (x["Pre_Screened"] != "y" and x["Value"] == ""), axis=1)
@@ -49,7 +49,7 @@ for lg in lg_list:
     eliminated[["ID"]].to_csv(f"data/{lg}_elim.csv", index=False)
     eliminated = len(eliminated)
     assert eliminated + annotated + todo == TARGET
-    
+
     if annotated + todo > 0:
         print(
             f"{annotated} records done, {eliminated} pre-eliminated\n{annotated/(annotated+todo):.2%}, {todo} to go!"
@@ -59,7 +59,8 @@ for lg in lg_list:
         stats[lg] = annotated + eliminated
     with open("data/stats.json", "w") as f:
         json.dump(stats, f)
-    
+
+    answered = 0
     new_info = []
     searching_first_todo = True
     for i, rec in df.iterrows():
@@ -69,8 +70,11 @@ for lg in lg_list:
             searching_first_todo = False
         if searching_first_todo:
             continue
+        if LIMIT and answered == LIMIT:
+            continue
         print_record(rec)
         if rec["Todo"]:
+            answered += 1
             choices = [
                 "No",
                 "Yes!",
