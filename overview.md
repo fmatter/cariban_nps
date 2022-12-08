@@ -58,15 +58,15 @@ phrases:
 | N \[V…\] N               |   0 |   0 |   1 |    0 |   3 |     4 |
 | Total                    |   1 |   1 |   4 |    2 |   4 |    12 |
 
-Akawaio: 19/1000 (1.90%) text records with apparent discontinuous noun
+Akawaio: 20/1000 (2.00%) text records with apparent discontinuous noun
 phrases:
 
 | Pattern / Syntactic role |     | Total |
 |:-------------------------|----:|------:|
-| N Ptc N                  |  15 |    15 |
+| N Ptc N                  |  16 |    16 |
 | N Postp N                |   1 |     1 |
 | N \[V…\] N               |   3 |     3 |
-| Total                    |  19 |    19 |
+| Total                    |  20 |    20 |
 
 Ye’kwana: 7/755 (0.93%) text records with apparent discontinuous noun
 phrases:
@@ -331,6 +331,16 @@ phrases:
 > good specifically church within be-While sick  in  Emph  Adv-Detr-hurt-Prtcpl Adv-live-Pl.Nzr-Pl  Mirative 2Sg-Pl        say-Desid be-Pres  
 > N    Prtcl        N      P      Vi-?     N     P   Prtcl ?-Vi-Vder            N                   Prtcl    Pro           Adv       Vi     
 > ‘Although you are in a good church, all of you seem to live while hurting, I want to say’</pre>
+
+-   N Ptc N:
+
+> (r-personal-narrative-042) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>e'tane wagï rö kenïk a'ai eji'pï mörau,</i>  
+> e'tane  wagï rö    kenïk a'ai   eji-'pï mörau
+> however good Emph  Purp  mother be-Past there  
+> Prtcl   N    Prtcl P?    N      Vi      Adv  
+> ‘However, there was one mother who was good’</pre>
 
 -   N Ptc N (*paba enau kuru genïk eji’nïnggenak rö kenïk a’ai* is one
     large NP):
@@ -772,18 +782,7 @@ Spike: \[\[*mörö tïbïre*\] *a’körö*\] \[*se konegazai’ya*\] ‘\[with
 
 ## Hixkaryána: Unclear analysis
 
-Is this a possessive construction?:
-
-> (derbyshire-1965-p-018-the-origin-of-night-and-darkness-051)
-> Hixkaryána (Derbyshire 1965: 18)
-> <pre>
-> <i>Yuwa=wyarono=hatï, enï nehxakonï.</i>  
-> yuwa  wyaro-no hatï 0-enï       n-eh-xakonï  
-> flute like-Nzr Hrsy 3-container 3Sa-Cop-DPst2  
-> N     N        Ptc  N           Va           
-> ‘Its container was a thing like a flute.’</pre>
-
--   unknown (what is happening with mosonï and omoro?):
+what is happening with mosonï and omoro?:
 
 > (derbyshire-1965-p-064-the-wives-of-mawarye-and-woxka-122) Hixkaryána
 > (Derbyshire 1965: 64)
@@ -793,17 +792,6 @@ Is this a possessive construction?:
 > 3AnPx  Intens 2     2-wife-Pos Intens 3Sa-say-DPst2 Hrsy Mawarye 3R-sm.sx.sblg Dat Intens  
 > DPro   Ptc    Pro   N          Ptc    Va            Ptc  N       N             Pp  Ptc   
 > ‘"This one (is) yours."’</pre>
-
--   unknown (y-awo-nye?):
-
-> (derbyshire-1965-p-066-the-wives-of-mawarye-and-woxka-162) Hixkaryána
-> (Derbyshire 1965: 66)
-> <pre>
-> <i>Honyetko=tï nehxakonï=ha, yawonye, atxkenyhaha=xak=mak=hatï.</i>  
-> honyetko tï   n-eh-xakonï   ha     y-awo-nye     atxkenyhaha xak     mak    hatï
-> fish.sp  Hrsy 3Sa-Cop-DPst2 Intens Rel-Iness-Col small.thing Misfrtn Advers Hrsy  
-> N        Ptc  Va            Ptc    Pp            N           Ptc     Ptc    Ptc 
-> ‘The "honyetko" was inside them, having become a very small thing.’</pre>
 
 ## Tiriyó: Unclear analysis
 
@@ -827,7 +815,8 @@ Is this a possessive construction?:
 > N   A         Ptc Ptc V       N       Intrg V       DPro  N          DPro    V       Pp     Ptc  
 > ‘(Ape) 'they are not like this, my wife, where is she, this one, her son, they aren't like this' ’</pre>
 
--   unknown (Inflected postposition *i-juuwë* and *mërë*?):
+-   unknown (Inflected postposition *i-juuwë* and *mërë*? We don’t know
+    what *mërë* refers to…):
 
 > (dados-09-kereramake-p-053-455) Tiriyó (Meira 2022)
 > <pre>
@@ -836,16 +825,6 @@ Is this a possessive construction?:
 > Ape other-Ent Idtf 3-on    Pst-Sa-Cop-Pst 3InMd go.up  
 > N   N         Ptc  Pp      V              DPro  Ideo 
 > ‘(Ape) Another one was on top of it, /toro/,’</pre>
-
--   unknown (What is the argument structure here?):
-
-> (minidisc-xxx-mukusa-nasau-sep-2000-004) Tiriyó (Meira 2022)
-> <pre>
-> <i>(Nasau) Wepekatï=irë pananakiri=ton otï këpëewa kotï=komo=se=rëkene=re wei... irë=se wei.</i>  
-> Nasau w-epekatï-0    irë    pananakiri ton 0-otï       këpëewa k-otï         komo  se    rëkene re   w-ei-0        irë    se    w-ei-0       
-> Nasau 1A-trade-I.Pst 3InAna foreigner  Col 3-meat.food but     1+2-meat.food P.col Desid only   Frus 1Sa-Cop-I.Pst 3InAna Desid 1Sa-Cop-I.Pst  
-> N     V              Pro    N          Ptc N           Ptc     N             Ptc   Pp    Ptc    Ptc  V             Pro    Pp    V            
-> ‘(Nasau) I've already sold/given it as meat for the foreigners, but I want (another cow) for our food, that's what I want.’</pre>
 
 ## Akawaio: Unclear analysis
 
@@ -859,26 +838,6 @@ Is this a possessive construction?:
 > N     N         Prtcl N              Prtcl N           P    Prtcl
 > ‘also the relative of Daddie your father’</pre>
 
--   unknown (what is *wagï rö kenïk a’ai*?):
-
-> (r-personal-narrative-042) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>e'tane wagï rö kenïk a'ai eji'pï mörau,</i>  
-> e'tane  wagï rö    kenïk a'ai   eji-'pï mörau
-> however good Emph  Purp  mother be-Past there  
-> Prtcl   N    Prtcl P?    N      Vi      Adv  
-> ‘However, there was one mother who was good’</pre>
-
--   unknown (what POS is *tiginnö*?):
-
-> (r-personal-narrative-061) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>urö ji eji mörö tigingnö röning ja'ji pero be</i>  
-> urö ji    eji mörö tiginnö nöning sa'ne-ji  pero be  
-> 1Sg Emph  be  that one     only   Emph-Emph dog  like  
-> Pro Prtcl Vi  Dem  Prtcl   Prtcl  Prtcl     N    P   
-> ‘I am the only one who is the dog’</pre>
-
 -   unknown (What is going on here?):
 
 > (ra-eagle-story-037) Akawaio (Caesar-Fox 2003)
@@ -888,36 +847,6 @@ Is this a possessive construction?:
 > thereafter Emph  axe   child Emph  3-in.hand 3Sg.Anim Hes   old.man be-Past A.I.? old.man Emph  be-Past  
 > N          Prtcl N     N     Prtcl P         Pro      Prtcl N       Vi      ?     N       Prtcl Vi     
 > ‘Then, the old man who was taken away by the eagle was holding on to the axe’</pre>
-
--   unknown (is *mörö* in *mörö iwarga* not ‘DEM’?):
-
-> (ra-kone-o-story-043) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tigingnannö eji mörö monggi, monggi ji, iwarga sa'ne ji, iwarga eboro'pïya mörö iwarga eboroi</i>  
-> tigingnannö eji mörö  monggi monggi ji    iwarga sa'ne ji    iwarga eboro-'pï-i-ya  mörö  iwarga eboro-i  
-> one.item    be  A.I.? monkey monkey Emph  monkey Emph  Emph  monkey find-Past-3-Erg A.I.? monkey find-RPst  
-> N           Vi  ?     N      N      Prtcl N      Prtcl Prtcl N      Vt              ?     N      Vt       
-> ‘One of them is the monkey, he found the monkey’</pre>
-
--   unknown (what is *serö* doing here?):
-
-> (ra-personal-narrative-068) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>serö ji serau ji öw maimu nonggazu'ya</i>  
-> serö ji    serau ji    öw    maimu    nongga-zak-u-ya 
-> this Emph  here  Emph  shout language leave-Perf-1-Erg  
-> Pro  Prtcl Adv   Prtcl SW    N        Vt              
-> ‘I have left my language here’</pre>
-
--   unknown (1) another nominalized postposition 2) what does it mean?):
-
-> (ra-personal-narrative-086) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>kaiwak mörawong chi'kö aneruba</i>  
-> kaiwak         mörau-ng  ji'kö aneruba       
-> grasshopper.Sp there-Nzr from  grasshopper.Sp  
-> N              N         P     N             
-> ‘kaiwak and aneruba’</pre>
 
 -   unknown (what is the structure of the second clause?):
 
@@ -971,17 +900,6 @@ Is this a possessive construction?:
 > Dem  P   Prtcl N              Vt  Pro P   Prtcl N            P   Prtcl Adv   Prtcl N              Vt  Pro P   Prtcl N                     Vt    Pro P  
 > ‘Within there some others would say yago're, this is how they would call their relative’</pre>
 
--   unknown (do any local romance varieties use definite articles with
-    personal names?):
-
-> (ra-personal-narrative-153) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mm... a.. a.. veneswela bo mïgï ji mörö Klef</i>  
-> mm a     a     veneswela po  mïgï  ji    mörö Klef 
-> mm ah    ah    Venezuela Loc Hes   Emph  that Cliff  
-> SW Prtcl Prtcl N         P   Prtcl Prtcl Dem  N    
-> ‘Cliff is in Venezuela’</pre>
-
 -   unknown (what is the argument of *pömïuya*?):
 
 > (ra-personal-narrative-200) Akawaio (Caesar-Fox 2003)
@@ -991,28 +909,6 @@ Is this a possessive construction?:
 > this like Emph  pepper Emph  like Emph  plant-1-Erg  
 > Pro  P    Prtcl N      Prtcl P    Prtcl Vt         
 > ‘Because I plant things like pepper and pumpkin’</pre>
-
--   unknown (is *zerö* coreferential with the preverbal *pöröu*, or is
-    it S.I.?):
-
-> (ra-piya-ma-story-033) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>naigaza kuru? pöröu enno'pödï zerö ta'pï iya ji mörö.</i>  
-> naigaza kuru  pöröu ennogï-bödï zerö ta-'pï   i-ya  ji    mörö 
-> how     Emph  arrow shoot-Iter  this say-Past 3-Erg Emph  A.I.?  
-> Pro     Prtcl N     Vt          Pro  Vt       P     Prtcl ?    
-> ‘"How, really, will we shoot the arrow more than one time?" he said.’</pre>
-
--   unknown (is *zerö* coreferential with the preverbal *pöröu*, or is
-    it S.I.?):
-
-> (ra-piya-ma-story-034) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>pöröu enno'pödï zerö, tait! pöröu... sorok! tait... wijagong.</i>  
-> pöröu ennogï-bödï zerö tait pöröu sorok  tait wijagong
-> arrow shoot-Iter  this slap arrow put.in slap other     
-> N     Vt          Pro  SW   N     SW     SW   N       
-> ‘We will shoot the arrow tait! one, then tait!sorok(SSW) the other.’</pre>
 
 -   unknown (don’t know how to analyze this):
 
@@ -1037,7 +933,7 @@ Is this a possessive construction?:
 > pro  v.i.a         ptc      pro   n      v.i.a         deict     
 > ‘She left, that one, the picure went that way.’</pre>
 
--   unknown (what is *tüwü* doing?):
+-   unknown (*tüwü* looks like a false start):
 
 > (ctoabjpic-025) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -1047,17 +943,7 @@ Is this a possessive construction?:
 > n               v.i.a         pro  n      n                 n     
 > ‘The name of the picure was "Manawa".’</pre>
 
--   unknown (is *ñöödö* ‘she’ or does it belong to *tinñouwö*?):
-
-> (ctoabjpic-067) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>yööje künö'düaakö ñöödö tinñouwö yaawö:</i>  
-> yööje kün-ö'dü-aakö   ñöödö t-inño-0             uwö  yaawö   
-> así   3.PAS-decir-PDI DEMan 3.REFL-esposo-POSS.3 DAT  entonces  
-> ad    v.i.a           pro   n                    posp ptc     
-> ‘she said to her husband:’</pre>
-
--   unknown (does *tüweiye* modify *yanwaa*?):
+-   unknown (What is *tüweiye* doing?):
 
 > (ctoabjpic-092) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -1086,17 +972,6 @@ Is this a possessive construction?:
 > otro   CONTR bueno   QUOT 3S-pensar-NZR.1 3.COP DEM2an INCERT Nalúa 3.PAS-COP-PDI  
 > n      ptc   ad      ptc  n               v.i.a pro    ptc    n     v.i.a        
 > ‘Others are good thinkers such as Nalua, for example.’</pre>
-
--   unknown (I am getting the feeling that *mödö* is doing something
-    other than referring to third persons):
-
-> (convchur-026) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>möönü ye'kwana weichü, "¿össanno ka awe'ajö mödö?" ke</i>  
-> möönü  ye'kwana w-ei-dü        össha-nno   ka     a-w-ejö-ajö       mödö   ke  
-> DEM3in ye'kwana INTR-COP-NZR.1 dónde-desde QP     2-INTR-venir-PTCP DEM2in QUOT  
-> pro    n        adv            interr-pp   interr n                 pro    ptc 
-> ‘that, ye'kwana's life "where did you come from?"’</pre>
 
 # Varia
 
@@ -1378,6 +1253,17 @@ A + LK-N?:
 > DPro   Ptc    N     N           
 > ‘'These, Woxka, (are) our wives.’</pre>
 
+-   other (The *y-* on *y-awo-nye* is unexplained):
+
+> (derbyshire-1965-p-066-the-wives-of-mawarye-and-woxka-162) Hixkaryána
+> (Derbyshire 1965: 66)
+> <pre>
+> <i>Honyetko=tï nehxakonï=ha, yawonye, atxkenyhaha=xak=mak=hatï.</i>  
+> honyetko tï   n-eh-xakonï   ha     y-awo-nye     atxkenyhaha xak     mak    hatï
+> fish.sp  Hrsy 3Sa-Cop-DPst2 Intens Rel-Iness-Col small.thing Misfrtn Advers Hrsy  
+> N        Ptc  Va            Ptc    Pp            N           Ptc     Ptc    Ptc 
+> ‘The "honyetko" was inside them, having become a very small thing.’</pre>
+
 -   other (elaboration pattern):
 
 > (derbyshire-1965-p-067-the-wives-of-mawarye-and-woxka-196) Hixkaryána
@@ -1476,6 +1362,16 @@ A + LK-N?:
 > Ape 3AnPx 3-abandon-Imper 2-son-Psfx 2-disturb-A ?   Pst-Sa-say-Pst 3InMd 3-fruit.food 3-get-Imper so    Pst-make-Pst 3-Agt put    
 > N   DPro  V               N          N           Ptc V              DPro  N            V           Ptc   V            Pp    Ideo 
 > ‘(Ape) 'Leave this one here, your son, he would disturb you,' he said, 'get that, his food', then, he put it (down), /toron/.’</pre>
+
+-   other (What is the argument structure here?):
+
+> (minidisc-xxx-mukusa-nasau-sep-2000-004) Tiriyó (Meira 2022)
+> <pre>
+> <i>(Nasau) Wepekatï=irë pananakiri=ton otï këpëewa kotï=komo=se=rëkene=re wei... irë=se wei.</i>  
+> Nasau w-epekatï-0    irë    pananakiri ton 0-otï       këpëewa k-otï         komo  se    rëkene re   w-ei-0        irë    se    w-ei-0       
+> Nasau 1A-trade-I.Pst 3InAna foreigner  Col 3-meat.food but     1+2-meat.food P.col Desid only   Frus 1Sa-Cop-I.Pst 3InAna Desid 1Sa-Cop-I.Pst  
+> N     V              Pro    N          Ptc N           Ptc     N             Ptc   Pp    Ptc    Ptc  V             Pro    Pp    V            
+> ‘(Nasau) I've already sold/given it as meat for the foreigners, but I want (another cow) for our food, that's what I want.’</pre>
 
 -   other (good example of possr possm part postp):
 
@@ -1652,6 +1548,16 @@ A + LK-N?:
 > SW   N      Prtcl Prtcl Vt          Prtcl Prtcl
 > ‘Pïuu!(SSW,sound made by the monkey travelling through the air) he threw the poor monkey’</pre>
 
+-   other (1) another nominalized postposition 2) what does it mean?):
+
+> (ra-personal-narrative-086) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kaiwak mörawong chi'kö aneruba</i>  
+> kaiwak         mörau-ng  ji'kö aneruba       
+> grasshopper.Sp there-Nzr from  grasshopper.Sp  
+> N              N         P     N             
+> ‘kaiwak and aneruba’</pre>
+
 -   other (Very likely two clauses, though interesting because of the
     absence of a comma.):
 
@@ -1796,6 +1702,16 @@ A + LK-N?:
 > bebida_kusshi 3/3.PAS-hacer-PRP REIT 3.SG=también entonces abeja=también  
 > n             v.t.              ptc  pro          ptc      ptc          
 > ‘She had already made the drink (kushi) herself, the bee herself.’</pre>
+
+-   other (*ñöödö* could be ‘she’, or it could belong to *tinñouwö*):
+
+> (ctoabjpic-067) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>yööje künö'düaakö ñöödö tinñouwö yaawö:</i>  
+> yööje kün-ö'dü-aakö   ñöödö t-inño-0             uwö  yaawö   
+> así   3.PAS-decir-PDI DEMan 3.REFL-esposo-POSS.3 DAT  entonces  
+> ad    v.i.a           pro   n                    posp ptc     
+> ‘she said to her husband:’</pre>
 
 # Other putative NPs
 
@@ -2357,7 +2273,7 @@ ADV + N + PL:
 > interr ad          n                    pp         pro   adv              posp 
 > ‘This... in the same way that you talk tough when you take her (take someone home).’</pre>
 
-two pseudo NPs?:
+*möönü judumatommaane kaawede*:
 
 > (convwho-012) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
