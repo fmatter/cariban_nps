@@ -6,6 +6,7 @@ import json
 import sys
 from pycldf.sources import Source
 import pybtex
+from pathlib import Path
 
 meta = Dataset()
 full = len(sys.argv) > 1
@@ -38,11 +39,18 @@ def collect_refs(s):
     if s != "":
         found_refs.append(s.split("[")[0])
 
+def add_audio(writer, rec):
+    filename = rec["ID"]+".wav"
+    path = Path("data/audio") / filename
+    if path.is_file():
+        writer.objects["MediaTable"].append({"ID": rec["ID"], "Download_URL": f"file:data/audio/{filename}", "Media_Type": "wav"})
+        return rec["ID"]
 
 with CLDFWriter(
     CLDFSpec(dir="data/cldf", module="Generic", metadata_fname="metadata.json")
 ) as writer:
     writer.cldf.add_component("ExampleTable")
+    writer.cldf.add_component("MediaTable")
     writer.cldf.add_columns(
         "ExampleTable",
         {
@@ -59,6 +67,7 @@ with CLDFWriter(
             "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
             "datatype": "string",
         },
+        "Media_ID"
     )
     if not full:
         writer.cldf.add_columns(
@@ -95,6 +104,8 @@ with CLDFWriter(
         )
         df["Source"].map(collect_refs)
         for rec in df.to_dict("records"):
+            if add_audio(writer, rec):
+                rec["Media_ID"] = rec["ID"]
             writer.objects["ExampleTable"].append(rec)
         writer.objects["LanguageTable"].append(meta.get_lg(lg))
 

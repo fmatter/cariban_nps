@@ -33,8 +33,27 @@ Name/Property | Datatype | Description
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 `Part_Of_Speech` | list of `string` (separated by `	`) | Parts of speech, aligned with Analyzed_Word
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | `string` | References [sources.bib::BibTeX-key](./sources.bib)
+`Media_ID` | `string` | 
 `Discont_NP` | `string` | Are there non-adjacent, co-referential noun phrases?
 `Syntactic_Role` | `string` | Syntactic role of the 'NP'
+
+## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
+
+property | value
+ --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 21
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[Media_Type](http://cldf.clld.org/v1.0/terms.rdf#mediaType) | `string` | 
+[Download_URL](http://cldf.clld.org/v1.0/terms.rdf#downloadUrl) | `anyURI` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
