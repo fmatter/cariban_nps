@@ -26,6 +26,9 @@ this is the repo for the NP study. Relevant for you are the following things:
    *  Hixkaryana as modern exemplar
       * Afterthoughts are really common
    *  Some examples from the other 4 languages that are consistent
+      * Different kinds of discontinuity
+         *  Major class words intervening
+         *  Phrasal/scope particles intervening (we don't consider this discontinuous, as not different from possessive construction)
 *  Pattern 1: afterthoughts become less "separated" from clause
    *  Data from Tiriyó showing afterthoughts (apparently w/o pauses)
       * Flag future work: checking sound files from Tiriyó
