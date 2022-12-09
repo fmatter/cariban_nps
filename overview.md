@@ -1030,16 +1030,6 @@ right?:
 > pro  adv                n                posp  pro 
 > ‘mientras ella sí escribe’</pre>
 
--   unknown (second *mödö* and *wayamu wötunnöi* coreferential?):
-
-> (ctotapmor-100) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>Mödö kwa'kö mödöna wayamu wötunnöi yaawö möötö.</i>  
-> mödö   köwa'kö mödö   na    wayamu   wötunnö-i       yaawö    möötö 
-> DEM2in así     DEM2in 3.COP morrocoy historia-POSS.2 entonces allá.1  
-> pro    pp      pro    v.i.a n        n               ptc      deict 
-> ‘Eso es todo el cuento de morrocoy allí.’</pre>
-
 -   unknown (*ñöödö chaamutonkomo* looks like an ‘NP’):
 
 > (ctoyude-010b) Ye’kwana (Cáceres Arandia 2021)
@@ -1049,16 +1039,6 @@ right?:
 > quién DEMan 3-abuelo-POSS.3-PL.ANIM=PL  
 > pro   pro   n                         
 > ‘quien era el abuelo de ellos’</pre>
-
--   unknown (check the audio for the commas around *tüwü*):
-
-> (ctoyude-040) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>küntü'tameküicho yaawö, tüwü, Sichömüna künöönu'kwai yaawö</i>  
-> kün-tü'tammekü-i=to      yaawö    tüwü Sichömüna           kün-öönu'ka-i        yaawö   
-> 3/3.DIS-planear-PRP=COLL entonces 3.SG El_que_tiene_niguas 3S.DIS-sacar_ojo-PRP entonces  
-> v                        ptc      pro  n                   v.i.a                ptc     
-> ‘Planearon algo y Sichomüna se sacó un ojo’</pre>
 
 -   unknown (is *tüwü* ‘él’?):
 
@@ -1090,7 +1070,7 @@ right?:
 > ad    v.i.a            ptc      deict      n         pp     v.i.a         pro  ptc     
 > ‘así dijo y se fue a meter allá en el midichu’</pre>
 
--   unknown (audio for the \[…\]?):
+-   unknown (no comma according to audio):
 
 > (ctoyude-123) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -1120,7 +1100,7 @@ right?:
 > ad     pro-suf.n-ptc   pref-v.i.o-ptc       v.i.a   pro   n                      pro   
 > ‘así es, de esito nada más no me acuerdo, donde se cayeron’</pre>
 
--   unknown (hwat is *tüwü*?):
+-   unknown (what is *tüwü*?):
 
 > (descbuscmat-132) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
@@ -1940,6 +1920,16 @@ A + LK-N?:
 > DEMin 3O-mentir-NZR.1 hacia_3 3S-ir-NZR.1 entonces  
 > pro   n               pp      n           ptc     
 > ‘¡Claro! ya iba a hacerle la trampa.’</pre>
+
+-   other (Interesting interjected *tüwü*):
+
+> (ctoyude-040) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>küntü'tameküicho yaawö, tüwü, Sichömüna künöönu'kwai yaawö</i>  
+> kün-tü'tammekü-i=to      yaawö    tüwü Sichömüna           kün-öönu'ka-i        yaawö   
+> 3/3.DIS-planear-PRP=COLL entonces 3.SG El_que_tiene_niguas 3S.DIS-sacar_ojo-PRP entonces  
+> v                        ptc      pro  n                   v.i.a                ptc     
+> ‘Planearon algo y Sichomüna se sacó un ojo’</pre>
 
 -   other (afterthought – audio?):
 
