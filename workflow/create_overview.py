@@ -21,6 +21,7 @@ label_dic = {
     "posp": "N Postp N",
     "y": "N [V...] N",
     "np_arg": "Pseudo-NP as an argument",
+    "np_dd": "Pseudo-NP with two demonstratives",
     "?": "unknown",
     "n": "other",
     "Total": "Total",
@@ -30,14 +31,16 @@ np_overview = {}
 res_overview = {}
 q_overview = {}
 arg_np_overview = {}
+dd_np_overview = {}
 
 stat_overview = []
 for lg, total in stats.items():
-    for d in [pos_overview, np_overview, res_overview, q_overview, arg_np_overview]:
+    for d in [pos_overview, np_overview, res_overview, q_overview, arg_np_overview, dd_np_overview]:
         d[lg] = []
     recs = all_recs[all_recs["Language_ID"] == lg]
     positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
     arg_nps = recs[(recs["Discont_NP"] == "np_arg")]
+    dd_nps = recs[(recs["Discont_NP"] == "np_dd")]
     nps = recs[(recs["Discont_NP"] == "np")]
     questions = recs[recs["Discont_NP"] == "?"]
     residue = recs[
@@ -47,12 +50,13 @@ for lg, total in stats.items():
                 + list(nps["ID"])
                 + list(questions["ID"])
                 + list(arg_nps["ID"])
+                + list(dd_nps["ID"])
             )
         )
     ]
     assert len(positives) + len(nps) + len(questions) + len(residue) + len(
         arg_nps
-    ) == len(recs)
+    ) + len(dd_nps) == len(recs)
     if len(positives) > 0:
         df = pd.crosstab(
             positives["Discont_NP"],
@@ -71,6 +75,7 @@ for lg, total in stats.items():
         (questions, q_overview),
         (residue, res_overview),
         (arg_nps, arg_np_overview),
+        (dd_nps, dd_np_overview),
         (nps, np_overview),
     ]:
         for rec in o.to_dict("records"):
@@ -90,6 +95,7 @@ overview = []
 for title, dic in {
     "Apparent discontinuous noun phrases": pos_overview,
     "Putative NPs in argument position": arg_np_overview,
+    "Putative NPs with two demonstratives": dd_np_overview,
     "Unclear analysis": q_overview,
     "Varia": res_overview,
     "Other putative NPs": np_overview,

@@ -8,6 +8,7 @@ lg_list = ["hix", "tri", "aka", "mak"]
 TARGET = 1000
 LIMIT = 10
 
+
 def pad_ex(*lines, sep=" "):
     out = {}
     for glossbundle in zip(*lines):
@@ -30,19 +31,21 @@ def print_record(rec):
     surf = re.sub(r"\s+", " ", rec["Primary_Text"])
     print(f"""({rec.name}) {surf}\n{gloss_string}\n‘{rec['Translated_Text']}’\n""")
 
+
 for lg in lg_list:
     ann_path = Path(f"data/{lg}_ann.csv")
     if ann_path.is_file():
         info = pd.read_csv(ann_path)
     else:
         info = pd.DataFrame(columns=["ID", "Value", "Comment", "Syntactic_Role"])
-    
-    
+
     df = pd.read_csv(f"data/{lg}_data.csv")
 
     df = df.merge(info, on="ID", how="outer").fillna("")
     df = df.iloc[0:TARGET]
-    df["Todo"] = df.apply(lambda x: (x["Pre_Screened"] != "y" and x["Value"] == ""), axis=1)
+    df["Todo"] = df.apply(
+        lambda x: (x["Pre_Screened"] != "y" and x["Value"] == ""), axis=1
+    )
     eliminated = df[(df["Pre_Screened"] == "y") & (df["Value"] == "")]
     annotated = len(df[df["Value"] != ""])
     todo = len(df[df["Todo"]])
@@ -84,7 +87,9 @@ for lg in lg_list:
                 "It's complicated",
                 "I want out",
             ]
-            answer = questionary.rawselect("Any discontinuous NP?", choices=choices).ask()
+            answer = questionary.rawselect(
+                "Any discontinuous NP?", choices=choices
+            ).ask()
             if answer == choices[0]:
                 new_info.append({"ID": rec["ID"], "Value": "n"})
             elif answer == choices[1]:
