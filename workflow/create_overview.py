@@ -9,8 +9,7 @@ import json
 
 ds = Dataset.from_metadata("data/cldf/metadata.json")
 
-df = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
-print(df)
+df = pd.read_csv("data/dataset.csv", keep_default_na=False)
 
 stats = json.load(open("data/stats.json"))
 
@@ -26,7 +25,7 @@ interv_dic = {
 
 output = ["# Apparent discontinuous noun phrases"]
 
-lgs = ["hix", "tri", "aka", "mak", "yeb"]
+lgs = ["hix", "tri", "aka", "mak", "yab"]
 for lg in lgs:
     discont = df[(df["Language_ID"] == lg) & (df["Discontinuous"] == "True")]
     if len(discont) == 0:
@@ -38,6 +37,34 @@ for lg in lgs:
         type_df = discont[discont["Intervening"] == k]
         for rec in type_df.to_dict("records"):
             output.append(f"""[ex]({rec["ID"]})""")
+
+
+output.append("# Apparent noun phrases")
+for lg in lgs:
+    cont = df[(df["Language_ID"] == lg) & (df["Discontinuous"] == "False")]
+    if len(cont) == 0:
+        continue
+    output.append(f"## [lg]({lg})")
+    for kind in set(cont["Type"]):
+        output.append(f"### {kind}")
+        for rec in cont.to_dict("records"):
+            if rec["Type"] != kind:
+                continue
+            output.append(f"""[ex]({rec["ID"]})""")
+
+output.append("# Open questions")
+for lg in lgs:
+    cont = df[(df["Language_ID"] == lg) & (df["Value"] == "?")]
+    if len(cont) == 0:
+        continue
+    output.append(f"## [lg]({lg})")
+    for kind in set(cont["Type"]):
+        for rec in cont.to_dict("records"):
+            if rec["Type"] != kind:
+                continue
+            output.append(f"""* {rec["Comment"]}\n[ex]({rec["ID"]}?with_primaryText)""")
+
+
 print(output)
 
 

@@ -16,7 +16,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 304
+[dc:extent](http://purl.org/dc/terms/extent) | 303
 
 
 ### Columns
@@ -49,7 +49,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 54
+[dc:extent](http://purl.org/dc/terms/extent) | 53
 
 
 ### Columns

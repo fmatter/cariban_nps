@@ -21,7 +21,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 304,
+            "dc:extent": 303,
             "tableSchema": {
                 "columns": [
                     {
@@ -184,7 +184,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 54,
+            "dc:extent": 53,
             "tableSchema": {
                 "columns": [
                     {
