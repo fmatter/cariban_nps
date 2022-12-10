@@ -16,7 +16,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 277
+[dc:extent](http://purl.org/dc/terms/extent) | 304
 
 
 ### Columns
@@ -34,15 +34,22 @@ Name/Property | Datatype | Description
 `Part_Of_Speech` | list of `string` (separated by `	`) | Parts of speech, aligned with Analyzed_Word
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | `string` | References [sources.bib::BibTeX-key](./sources.bib)
 `Media_ID` | `string` | 
-`Discont_NP` | `string` | Are there non-adjacent, co-referential noun phrases?
-`Syntactic_Role` | `string` | Syntactic role of the 'NP'
+`Pattern` | `string` | 
+`Discontinuous` | `string` | 
+`Intervening` | `string` | 
+`Animacy` | `string` | 
+`Type` | `string` | 
+`Order` | `string` | 
+`Argument` | `string` | 
+`Role` | `string` | 
+`Genre` | `string` | 
 
 ## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 55
+[dc:extent](http://purl.org/dc/terms/extent) | 54
 
 
 ### Columns
@@ -60,7 +67,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 4
+[dc:extent](http://purl.org/dc/terms/extent) | 5
 
 
 ### Columns

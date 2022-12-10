@@ -9,7 +9,6 @@ ctoabjpic-007,,,wav,file:data/audio/ctoabjpic-007.wav
 ctoabjpic-032,,,wav,file:data/audio/ctoabjpic-032.wav
 ctoabjpic-035,,,wav,file:data/audio/ctoabjpic-035.wav
 ctoabjpic-036,,,wav,file:data/audio/ctoabjpic-036.wav
-ctoabjpic-038,,,wav,file:data/audio/ctoabjpic-038.wav
 ctoabjpic-051,,,wav,file:data/audio/ctoabjpic-051.wav
 ctoabjpic-055,,,wav,file:data/audio/ctoabjpic-055.wav
 ctoabjpic-057,,,wav,file:data/audio/ctoabjpic-057.wav
@@ -30,6 +29,7 @@ ctotapmor-025,,,wav,file:data/audio/ctotapmor-025.wav
 ctotapmor-057,,,wav,file:data/audio/ctotapmor-057.wav
 ctotapmor-062,,,wav,file:data/audio/ctotapmor-062.wav
 ctotapmor-074,,,wav,file:data/audio/ctotapmor-074.wav
+ctotapmor-074-1,,,wav,file:data/audio/ctotapmor-074.wav
 ctoyude-001,,,wav,file:data/audio/ctoyude-001.wav
 ctoyude-010b,,,wav,file:data/audio/ctoyude-010b.wav
 ctoyude-013,,,wav,file:data/audio/ctoyude-013.wav
@@ -49,7 +49,6 @@ ctoyude-112b,,,wav,file:data/audio/ctoyude-112b.wav
 ctoyude-113b,,,wav,file:data/audio/ctoyude-113b.wav
 ctoyude-120,,,wav,file:data/audio/ctoyude-120.wav
 ctoyude-123,,,wav,file:data/audio/ctoyude-123.wav
-ctoyude-129,,,wav,file:data/audio/ctoyude-129.wav
 ctoyude-176,,,wav,file:data/audio/ctoyude-176.wav
 ctoyude-216,,,wav,file:data/audio/ctoyude-216.wav
 ctoyude-217,,,wav,file:data/audio/ctoyude-217.wav

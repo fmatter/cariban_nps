@@ -11,27 +11,27 @@ from pathlib import Path
 meta = Dataset()
 full = len(sys.argv) > 1
 
-lg_list = ["tri", "hix", "aka", "mak"]
-# lg_list = ["tri"]
-lg_records = {}
-for lg in lg_list:
-    records = pd.read_csv(f"data/{lg}_data.csv", keep_default_na=False)
-    records["Language_ID"] = lg
-    if "Comment" in records.columns:
-        records.drop(columns="Comment", inplace=True)
-    if not full:
-        annotations = pd.read_csv(f"data/{lg}_ann.csv", keep_default_na=False)
-        custom_dict = {x: i for i, x in enumerate(list(records["ID"]))}
-        df = annotations.sort_values(by=["ID"], key=lambda x: x.map(custom_dict))
+# lg_list = ["tri", "hix", "aka", "mak"]
+# # lg_list = ["tri"]
+# lg_records = {}
+# for lg in lg_list:
+#     records = pd.read_csv(f"data/{lg}_data.csv", keep_default_na=False)
+#     records["Language_ID"] = lg
+#     if "Comment" in records.columns:
+#         records.drop(columns="Comment", inplace=True)
+#     if not full:
+#         annotations = pd.read_csv(f"data/{lg}_ann.csv", keep_default_na=False)
+#         custom_dict = {x: i for i, x in enumerate(list(records["ID"]))}
+#         df = annotations.sort_values(by=["ID"], key=lambda x: x.map(custom_dict))
 
-        df = pd.merge(annotations, records, how="left", on="ID").fillna("")
-        df["Discont_NP"] = df["Value"]
-        df = df[(df["Discont_NP"] != "n") | (df["Comment"] != "")]
-        lg_records[lg] = df
-    else:
-        lg_records[lg] = records.fillna("")
+#         df = pd.merge(annotations, records, how="left", on="ID").fillna("")
+#         df["Discont_NP"] = df["Value"]
+#         df = df[(df["Discont_NP"] != "n") | (df["Comment"] != "")]
+#         lg_records[lg] = df
+#     else:
+#         lg_records[lg] = records.fillna("")
 
-
+df = pd.read_csv("data/dataset.csv", keep_default_na=False)
 found_refs = []
 
 
@@ -41,7 +41,7 @@ def collect_refs(s):
 
 
 def add_audio(writer, rec):
-    filename = rec["ID"] + ".wav"
+    filename = rec["Example_ID"] + ".wav"
     path = Path("data/audio") / filename
     if path.is_file():
         writer.objects["MediaTable"].append(
@@ -81,40 +81,73 @@ with CLDFWriter(
         writer.cldf.add_columns(
             "ExampleTable",
             {
-                "name": "Discont_NP",
-                "required": True,
-                "dc:description": "Are there non-adjacent, co-referential noun phrases?",
+                "name": "Pattern",
+                "required": False,
                 "datatype": "string",
             },
             {
-                "name": "Syntactic_Role",
+                "name": "Discontinuous",
                 "required": False,
-                "dc:description": "Syntactic role of the 'NP'",
+                "datatype": "string",
+            },
+            {
+                "name": "Intervening",
+                "required": False,
+                "datatype": "string",
+            },
+            {
+                "name": "Animacy",
+                "required": False,
+                "datatype": "string",
+            },
+            {
+                "name": "Type",
+                "required": False,
+                "datatype": "string",
+            },
+            {
+                "name": "Order",
+                "required": False,
+                "datatype": "string",
+            },
+            {
+                "name": "Argument",
+                "required": False,
+                "datatype": "string",
+            },
+            {
+                "name": "Role",
+                "required": False,
+                "datatype": "string",
+            },
+            {
+                "name": "Genre",
+                "required": False,
                 "datatype": "string",
             },
         )
     writer.cldf.add_component("LanguageTable")
-    for lg, df in lg_records.items():
-        for col in [
-            "Analyzed_Word",
-            "Analyzed_Word_Morphemes",
-            "Gloss",
-            "Part_Of_Speech",
-        ]:
-            if col in df.columns:
-                df[col] = df[col].apply(lambda x: x.split("\t"))
-                df[col] = df[col].apply(lambda x: [y if y else "…" for y in x])
-        df["Primary_Text"] = df.apply(
-            lambda x: " ".join(x["Analyzed_Word"]).replace("-", "")
-            if x["Primary_Text"] == ""
-            else x["Primary_Text"],
-            axis=1,
-        )
-        df["Source"].map(collect_refs)
-        for rec in df.to_dict("records"):
-            if add_audio(writer, rec):
-                rec["Media_ID"] = rec["ID"]
-            writer.objects["ExampleTable"].append(rec)
+    for col in [
+        "Analyzed_Word",
+        "Analyzed_Word_Morphemes",
+        "Gloss",
+        "Part_Of_Speech",
+    ]:
+        if col in df.columns:
+            df[col] = df[col].apply(lambda x: x.split("\t"))
+            df[col] = df[col].apply(lambda x: [y if y else "…" for y in x])
+    df["Primary_Text"] = df.apply(
+        lambda x: " ".join(x["Analyzed_Word"]).replace("-", "")
+        if x["Primary_Text"] == ""
+        else x["Primary_Text"],
+        axis=1,
+    )
+    df["Source"].map(collect_refs)
+    for rec in df.to_dict("records"):
+        if add_audio(writer, rec):
+            rec["Media_ID"] = rec["ID"]
+        writer.objects["ExampleTable"].append(rec)
+    for lg in set(df["Language_ID"]):
         writer.objects["LanguageTable"].append(meta.get_lg(lg))
 
     bib = pybtex.database.parse_file("data/car.bib", bib_format="bibtex")

@@ -21,7 +21,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 277,
+            "dc:extent": 304,
             "tableSchema": {
                 "columns": [
                     {
@@ -107,16 +107,49 @@
                         "name": "Media_ID"
                     },
                     {
-                        "dc:description": "Are there non-adjacent, co-referential noun phrases?",
-                        "datatype": "string",
-                        "required": true,
-                        "name": "Discont_NP"
-                    },
-                    {
-                        "dc:description": "Syntactic role of the 'NP'",
                         "datatype": "string",
                         "required": false,
-                        "name": "Syntactic_Role"
+                        "name": "Pattern"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Discontinuous"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Intervening"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Animacy"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Order"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Argument"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Role"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Genre"
                     }
                 ],
                 "foreignKeys": [
@@ -151,7 +184,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 55,
+            "dc:extent": 54,
             "tableSchema": {
                 "columns": [
                     {
@@ -196,7 +229,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 4,
+            "dc:extent": 5,
             "tableSchema": {
                 "columns": [
                     {

@@ -9,115 +9,131 @@ import json
 
 ds = Dataset.from_metadata("data/cldf/metadata.json")
 
-all_recs = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
-all_recs["Discont_NP"] = all_recs["Discont_NP"].apply(lambda x: x.split("; "))
-all_recs = all_recs.explode("Discont_NP")
-print(all_recs)
+df = pd.read_csv("data/cldf/examples.csv", keep_default_na=False)
+print(df)
 
 stats = json.load(open("data/stats.json"))
 
-label_dic = {
-    "part": "N Ptc N",
-    "posp": "N Postp N",
-    "y": "N [V...] N",
-    "np_arg": "Pseudo-NP as an argument",
-    "np_dd": "Pseudo-NP with two demonstratives",
-    "?": "unknown",
-    "n": "other",
-    "Total": "Total",
+interv_dic = {
+    "multiple": "more material",
+    "PART": "Intervening particle",
+    "Vi": "intervening verb",
+    "POSTP": "intervening postposition",
+    "n": "intervening non-referential noun",
+    "adv": "intervening adverb",
+    "ERG": "intervening ergative marker",
 }
-pos_overview = {}
-np_overview = {}
-res_overview = {}
-q_overview = {}
-arg_np_overview = {}
-dd_np_overview = {}
 
-stat_overview = []
-for lg, total in stats.items():
-    for d in [
-        pos_overview,
-        np_overview,
-        res_overview,
-        q_overview,
-        arg_np_overview,
-        dd_np_overview,
-    ]:
-        d[lg] = []
-    recs = all_recs[all_recs["Language_ID"] == lg]
-    positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
-    arg_nps = recs[(recs["Discont_NP"] == "np_arg")]
-    dd_nps = recs[(recs["Discont_NP"] == "np_dd")]
-    nps = recs[(recs["Discont_NP"] == "np")]
-    questions = recs[recs["Discont_NP"] == "?"]
-    residue = recs[
-        ~(
-            recs["ID"].isin(
-                list(positives["ID"])
-                + list(nps["ID"])
-                + list(questions["ID"])
-                + list(arg_nps["ID"])
-                + list(dd_nps["ID"])
-            )
-        )
-    ]
-    assert len(positives) + len(nps) + len(questions) + len(residue) + len(
-        arg_nps
-    ) + len(dd_nps) == len(recs)
-    if len(positives) > 0:
-        df = pd.crosstab(
-            positives["Discont_NP"],
-            positives["Syntactic_Role"],
-            margins=True,
-            margins_name="Total",
-        )
-        df.index = df.index.map(label_dic)
-        df.index.name = "Pattern / Syntactic role"
-        stat_overview.append(
-            f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with apparent discontinuous noun phrases:\n\n"
-            + df.to_markdown()
-        )
-    for o, t in [
-        (positives, pos_overview),
-        (questions, q_overview),
-        (residue, res_overview),
-        (arg_nps, arg_np_overview),
-        (dd_nps, dd_np_overview),
-        (nps, np_overview),
-    ]:
-        for rec in o.to_dict("records"):
-            comm_str = ""
-            if t not in [np_overview, arg_np_overview]:
-                comm_str = comm_str = f"""* {label_dic[rec["Discont_NP"]]}"""
-                if rec["Comment"] != "":
-                    comm_str += f""" ({rec["Comment"]})"""
-                comm_str += ":\n"
-            else:
-                if rec["Comment"] != "":
-                    comm_str += f"""{rec["Comment"]}:\n"""
+output = ["# Apparent discontinuous noun phrases"]
 
-            t[lg].append(f"""{comm_str}[ex]({rec["ID"]}?with_primaryText)""")
-
-overview = []
-for title, dic in {
-    "Apparent discontinuous noun phrases": pos_overview,
-    "Putative NPs in argument position": arg_np_overview,
-    "Putative NPs with two demonstratives": dd_np_overview,
-    "Unclear analysis": q_overview,
-    "Varia": res_overview,
-    "Other putative NPs": np_overview,
-}.items():
-    overview.append(f"# {title}")
-    for lg, data in dic.items():
-        if len(data) == 0:
+lgs = ["hix", "tri", "aka", "mak", "yeb"]
+for lg in lgs:
+    discont = df[(df["Language_ID"] == lg) & (df["Discontinuous"] == "True")]
+    if len(discont) == 0:
+        continue
+    output.append(f"## [lg]({lg})")
+    for k, v in interv_dic.items():
+        if k not in list(discont["Intervening"]):
             continue
-        overview.append(f"## [lg]({lg}): {title}")
-        overview.extend(data)
+        type_df = discont[discont["Intervening"] == k]
+        for rec in type_df.to_dict("records"):
+            output.append(f"""[ex]({rec["ID"]})""")
+print(output)
 
+
+# pos_overview = {}
+# np_overview = {}
+# res_overview = {}
+# q_overview = {}
+# arg_np_overview = {}
+# dd_np_overview = {}
+
+
+# stat_overview = []
+# for lg, total in stats.items():
+#     for d in [
+#         pos_overview,
+#         np_overview,
+#         res_overview,
+#         q_overview,
+#         arg_np_overview,
+#         dd_np_overview,
+#     ]:
+#         d[lg] = []
+#     recs = df[df["Language_ID"] == lg]
+#     positives = recs[recs["Discont_NP"].isin(["y", "part", "posp"])]
+#     arg_nps = recs[(recs["Discont_NP"] == "np_arg")]
+#     dd_nps = recs[(recs["Discont_NP"] == "np_dd")]
+#     nps = recs[(recs["Discont_NP"] == "np")]
+#     questions = recs[recs["Discont_NP"] == "?"]
+#     residue = recs[
+#         ~(
+#             recs["ID"].isin(
+#                 list(positives["ID"])
+#                 + list(nps["ID"])
+#                 + list(questions["ID"])
+#                 + list(arg_nps["ID"])
+#                 + list(dd_nps["ID"])
+#             )
+#         )
+#     ]
+#     assert len(positives) + len(nps) + len(questions) + len(residue) + len(
+#         arg_nps
+#     ) + len(dd_nps) == len(recs)
+#     if len(positives) > 0:
+#         df = pd.crosstab(
+#             positives["Discont_NP"],
+#             positives["Syntactic_Role"],
+#             margins=True,
+#             margins_name="Total",
+#         )
+#         df.index = df.index.map(label_dic)
+#         df.index.name = "Pattern / Syntactic role"
+#         stat_overview.append(
+#             f"[lg]({lg}): {len(positives)}/{total} ({len(positives)/total:.2%}) text records with apparent discontinuous noun phrases:\n\n"
+#             + df.to_markdown()
+#         )
+#     for o, t in [
+#         (positives, pos_overview),
+#         (questions, q_overview),
+#         (residue, res_overview),
+#         (arg_nps, arg_np_overview),
+#         (dd_nps, dd_np_overview),
+#         (nps, np_overview),
+#     ]:
+#         for rec in o.to_dict("records"):
+#             comm_str = ""
+#             if t not in [np_overview, arg_np_overview]:
+#                 comm_str = comm_str = f"""* {label_dic[rec["Discont_NP"]]}"""
+#                 if rec["Comment"] != "":
+#                     comm_str += f""" ({rec["Comment"]})"""
+#                 comm_str += ":\n"
+#             else:
+#                 if rec["Comment"] != "":
+#                     comm_str += f"""{rec["Comment"]}:\n"""
+
+#             t[lg].append(f"""{comm_str}[ex]({rec["ID"]}?with_primaryText)""")
+
+# overview = []
+# for title, dic in {
+#     "Apparent discontinuous noun phrases": pos_overview,
+#     "Putative NPs in argument position": arg_np_overview,
+#     "Putative NPs with two demonstratives": dd_np_overview,
+#     "Unclear analysis": q_overview,
+#     "Varia": res_overview,
+#     "Other putative NPs": np_overview,
+# }.items():
+#     overview.append(f"# {title}")
+#     for lg, data in dic.items():
+#         if len(data) == 0:
+#             continue
+#         overview.append(f"## [lg]({lg}): {title}")
+#         overview.extend(data)
+
+
+# content = "# Some stats\n" + "\n\n".join(stat_overview) + "\n\n" + "\n".join(overview)
 builder = GitHub
-content = "# Some stats\n" + "\n\n".join(stat_overview) + "\n\n" + "\n".join(overview)
-
-preprocessed = preprocess(content)
+preprocessed = preprocess("\n".join(output))
 preprocessed = builder.preprocess_commands(preprocessed)
 preprocessed += "\n\n" + builder.reference_list()
 try:

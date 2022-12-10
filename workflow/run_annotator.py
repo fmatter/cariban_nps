@@ -28,7 +28,7 @@ def print_record(rec):
         rec["Analyzed_Word"].split("\t"),
         rec["Gloss"].split("\t"),
         rec["Part_Of_Speech"].split("\t"),
-        [str(x+1) for x in range(0, len(rec["Analyzed_Word"].split("\t")))]
+        [str(x + 1) for x in range(0, len(rec["Analyzed_Word"].split("\t")))],
     )
     surf = re.sub(r"\s+", " ", rec["Primary_Text"])
     print(f"""({rec.name}) {surf}\n{gloss_string}\n‘{rec['Translated_Text']}’\n""")
@@ -58,7 +58,6 @@ for lg in lg_list:
         df.drop(columns=["Comment"], inplace=True)
     df = df.merge(info, left_on="ID", right_on="Example_ID", how="outer").fillna("")
     df = df.iloc[0:TARGET]
-
 
     df["Todo"] = df.apply(
         lambda x: (x["Pre_Screened"] != "y" and x["Value"] == ""), axis=1
@@ -104,23 +103,36 @@ for lg in lg_list:
                 "It's complicated",
                 "I want out",
             ]
-            answer = questionary.rawselect(
-                "Any pseudo-NP?", choices=choices
-            ).ask()
+            answer = questionary.rawselect("Any pseudo-NP?", choices=choices).ask()
             if answer == choices[0]:
                 new_info.append({"Example_ID": rec["ID"], "Value": "n"})
             elif answer == choices[1]:
                 pattern = questionary.text("Pattern?").ask()
                 positions = questionary.text("Positions?").ask()
                 role = questionary.text("Role?").ask()
-                animacy = questionary.rawselect("Animacy?", choices=["hum", "anim", "inan"]).ask()
-                new_info.append({"Example_ID": rec["ID"], "Value": "y", "Pattern": pattern, "Positions": positions, "Role": role, "Animacy": animacy})
+                animacy = questionary.rawselect(
+                    "Animacy?", choices=["hum", "anim", "inan"]
+                ).ask()
+                new_info.append(
+                    {
+                        "Example_ID": rec["ID"],
+                        "Value": "y",
+                        "Pattern": pattern,
+                        "Positions": positions,
+                        "Role": role,
+                        "Animacy": animacy,
+                    }
+                )
             elif answer == choices[2]:
                 comment = questionary.text("Comment?").ask()
-                new_info.append({"Example_ID": rec["ID"], "Value": "n", "Comment": comment})
+                new_info.append(
+                    {"Example_ID": rec["ID"], "Value": "n", "Comment": comment}
+                )
             elif answer == choices[3]:
                 comment = questionary.text("What's the problem?").ask()
-                new_info.append({"Example_ID": rec["ID"], "Value": "?", "Comment": comment})
+                new_info.append(
+                    {"Example_ID": rec["ID"], "Value": "?", "Comment": comment}
+                )
             elif answer == choices[4]:
                 break
             print(
