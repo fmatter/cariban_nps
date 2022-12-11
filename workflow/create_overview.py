@@ -37,7 +37,7 @@ for lg in lgs:
         type_df = discont[discont["Intervening"] == k]
         output.append(f"### {k}")
         for rec in type_df.to_dict("records"):
-            output.append(f"""[ex]({rec["ID"]})""")
+            output.append(f"""[ex]({rec["ID"]}?with_primaryText)""")
 
 
 output.append("# Apparent noun phrases")
@@ -51,7 +51,7 @@ for lg in lgs:
         for rec in cont.to_dict("records"):
             if rec["Type"] != kind:
                 continue
-            output.append(f"""[ex]({rec["ID"]})""")
+            output.append(f"""[ex]({rec["ID"]}?with_primaryText)""")
 
 output.append("# Open questions")
 for lg in lgs:

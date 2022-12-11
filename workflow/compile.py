@@ -29,7 +29,7 @@ def resolve_pattern(rec):
         or rec["Pattern"].startswith("ADV")
     ):
         raise ValueError(rec)
-    if "POSP" in rec["Pattern"] or "Vt" in rec["Pattern"] or rec["Role"] == "possr":
+    if "POSP" in rec["Pattern"] or "Vt" in rec["Pattern"] or rec["Role"] == "possr" or "ERG" in rec["Pattern"]:
         rec["Argument"] = True
     else:
         rec["Argument"] = False
@@ -110,6 +110,7 @@ for lg in lg_list:
         "Role",
         "Positions",
         "Value",
+        "Particle",
         "Genre",
         "Source",
     ]
@@ -130,7 +131,8 @@ def add_positions(rec):
         rec["Analyzed_Word"] = words
     return rec
 
-
+print(df[(df["Intervening"] == "PART") & (df["Particle"] == "")])
+print(df[(df["Role"] != "p") & (df["Pattern"].str.contains("Vt"))])
 df = df.apply(lambda x: add_positions(x), axis=1)
 # print(df)
 # print(pd.crosstab(df["Type"], [df["Animacy"]]))
