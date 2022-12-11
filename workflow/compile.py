@@ -83,7 +83,6 @@ for lg in lg_list:
     full = ann.merge(
         full, left_on="Example_ID", right_on="ID", suffixes=("", "_corpus")
     )
-    print(full.columns)
     full = full[~((full["Pattern"] == "") & (full["Comment"] == ""))]
     # full = full[~(full["Value"].isin(["n", "?"]))]
 
@@ -115,7 +114,7 @@ for lg in lg_list:
         "Source",
     ]
     full = full[[x for x in target_cols if x in full.columns]]
-    print(full["Genre"].value_counts() / len(full))
+    # print(full["Genre"].value_counts() / len(full))
     dfs.append(full)
 
 df = pd.concat(dfs)
@@ -133,6 +132,6 @@ def add_positions(rec):
 
 
 df = df.apply(lambda x: add_positions(x), axis=1)
-print(df)
-print(pd.crosstab(df["Type"], [df["Animacy"]]))
+# print(df)
+# print(pd.crosstab(df["Type"], [df["Animacy"]]))
 df.to_csv("data/dataset.csv", index=False)

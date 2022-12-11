@@ -65,9 +65,6 @@ for lg in lgs:
             output.append(f"""* {rec["Comment"]}\n[ex]({rec["ID"]}?with_primaryText)""")
 
 
-print(output)
-
-
 # pos_overview = {}
 # np_overview = {}
 # res_overview = {}
