@@ -105,6 +105,51 @@
                     {
                         "datatype": "string",
                         "name": "Media_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Pattern"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Discontinuous"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Intervening"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Animacy"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Order"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Argument"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Role"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Genre"
                     }
                 ],
                 "foreignKeys": [
@@ -139,7 +184,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 135,
+            "dc:extent": 208,
             "tableSchema": {
                 "columns": [
                     {
