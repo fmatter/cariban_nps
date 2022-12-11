@@ -28,20 +28,20 @@
     1.  [Hixkaryána](#hixkaryána)
         1.  [DEM+N](#dem-n)
     2.  [Tiriyó](#tiriyó)
-        1.  [N+N](#n-n)
-        2.  [DEM+N](#dem-n)
+        1.  [DEM+N](#dem-n)
+        2.  [N+N](#n-n)
     3.  [Akawaio](#akawaio)
-        1.  [N+N](#n-n)
-        2.  [DEM+N](#dem-n)
+        1.  [DEM+N](#dem-n)
+        2.  [N+N](#n-n)
     4.  [Ye’kwana](#ye-kwana)
-        1.  [N+N](#n-n)
+        1.  [DEM+N](#dem-n)
         2.  [DEM+DEM](#dem-dem)
         3.  [ADV+N](#adv-n)
-        4.  [DEM+N](#dem-n)
+        4.  [N+N](#n-n)
     5.  [Yawarana](#yawarana)
-        1.  [N+N](#n-n)
+        1.  [DEM+N](#dem-n)
         2.  [ADV+N](#adv-n)
-        3.  [DEM+N](#dem-n)
+        3.  [N+N](#n-n)
 3.  [Open questions](#open-questions)
     1.  [Akawaio](#akawaio)
     2.  [Ye’kwana](#ye-kwana)
@@ -340,14 +340,6 @@
 
 ### multiple
 
-> (desccasagrme-2) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>tajne ya okï kunë ta wachori ya,</i>  
-> *tajne* ya   okï    kunë-Ø    ta     *wacho-ri* ya  
-> 3PL     ERG  yarake cook-IPFV like   wife-POSS  ERG   
-> pro     post sus    vt        interj sus        post
-> ‘‘las mujeres cocinan yarake’’</pre>
-
 > (conv1stenc-33) Yawarana (Cáceres Arandia 2020)
 > <pre>
 > <i>nwarë yapijtom pano wëjkapëjtopojpë takï mërë</i>  
@@ -444,40 +436,6 @@
 
 ## Tiriyó
 
-### N+N
-
-> (dados-07-frog-story-marciano-p-091-047) Tiriyó (Meira 2022)
-> <pre>
-> <i>Irënpë=pëe wewe tootaken=pëe teepatakae, jeepurutu</i>  
-> irë-npë    pëe  *wewe* *t-oota-ke-n*     pëe  t-V:-e-pataka-e          jeepurutu
-> 3InAna-Pst from tree   T-hole-Having-Ent from Pst-Sa-Detr-take.out-Pst owl.sp     
-> Pro        Pp   N      N                 Pp   V                        N        
-> ‘Then from the tree with a whole came, an owl,  ’</pre>
-
-> (dados-09-kereramake-p-033-075) Tiriyó (Meira 2022)
-> <pre>
-> <i>(Ape) Ma, kiiponoojati Përëpërëwa kïtamuu=kon,</i>  
-> Ape ma   kii-ponoo-ja-ti    *Përëpërëwa* *kï-tamu-V:*     kon  
-> Ape Attn 1+2A-tell-Pres-Col Përëpërëwa   1+2-grandpa-Psfx P.col  
-> N   Ptc  V                  N            N                Ptc  
-> ‘(Ape) Well, we are telling (the story of) Përëpërëwa our ancestor,  ’</pre>
-
-> (dados-09-kereramake-p-041-269) Tiriyó (Meira 2022)
-> <pre>
-> <i>(Ape) Neejan mono kanawa tïïkae, irë=hkaasan kurano,</i>  
-> Ape n-ee-ja-n         *mono* *kanawa* tï-V:-ka-e     irë    hkaasan kura-no 
-> Ape 3Sa-come-Pres-Dbt big    canoe    Pst-Sa-say-Pst 3InAna instead good-Ent  
-> N   V                 N      N        V              Pro    Ptc     N       
-> ‘(Ape) 'A big canoe is coming', (she) said, 'that is good (= i.e. not the one you have),'’</pre>
-
-> (dados-09-kereramake-p-041-270) Tiriyó (Meira 2022)
-> <pre>
-> <i>(Ape) sen=nai... tuna mono juuwë iitën=mahtao, nemanakan tïïkae.</i>  
-> Ape sen   n-ai    *tuna* *mono* juuwë i-V:-të-0-n mahtao n-e-manaka-0-n         tï-V:-ka-e    
-> Ape 3InPx 3Sa-Cop water  big    on    3-Sa-go-G-? when   3Sa-Detr-roll-Pres-Dbt Pst-Sa-say-Pst  
-> N   DPro  V       N      N      Pp    N           Ptc    V                      V             
-> ‘(Ape) 'This one is... when it's on a big river, it turns,' (she) said.’</pre>
-
 ### DEM+N
 
 > (dados-07-frog-story-marciano-p-089-037) Tiriyó (Meira 2022)
@@ -545,97 +503,41 @@
 > A     DPro   N          Pp    N    Ptc V                N     
 > ‘'Later the other one like this (= meeting), the Tiriyó/Indians will talk a lot.'’</pre>
 
-## Akawaio
-
 ### N+N
 
-> (cc-praising-rhymes-6) Akawaio (Caesar-Fox 2003)
+> (dados-07-frog-story-marciano-p-091-047) Tiriyó (Meira 2022)
 > <pre>
-> <i>mörö gaza rï'kwö warawok mïre aburöuya mörö</i>  
-> mörö kaza rï'kwö *warawok* *mïre* aburö-u-ya   mörö 
-> that like Dim    boy       child  praise-1-Erg A.I.?  
-> Dem  P    Pro    N         N      Vt           ?    
-> ‘This is how I would praise a boy child when he is small’</pre>
+> <i>Irënpë=pëe wewe tootaken=pëe teepatakae, jeepurutu</i>  
+> irë-npë    pëe  *wewe* *t-oota-ke-n*     pëe  t-V:-e-pataka-e          jeepurutu
+> 3InAna-Pst from tree   T-hole-Having-Ent from Pst-Sa-Detr-take.out-Pst owl.sp     
+> Pro        Pp   N      N                 Pp   V                        N        
+> ‘Then from the tree with a whole came, an owl,  ’</pre>
 
-> (lester-eugene-personal-narrative-047) Akawaio (Caesar-Fox 2003)
+> (dados-09-kereramake-p-033-075) Tiriyó (Meira 2022)
 > <pre>
-> <i>turonnö mïre bra yesh'pï</i>  
-> *turonnö* *mïre* bra y-eji-'pï
-> another   child  Neg 3-be-Past  
-> N         N      Adv Vi       
-> ‘there was no other child’</pre>
+> <i>(Ape) Ma, kiiponoojati Përëpërëwa kïtamuu=kon,</i>  
+> Ape ma   kii-ponoo-ja-ti    *Përëpërëwa* *kï-tamu-V:*     kon  
+> Ape Attn 1+2A-tell-Pres-Col Përëpërëwa   1+2-grandpa-Psfx P.col  
+> N   Ptc  V                  N            N                Ptc  
+> ‘(Ape) Well, we are telling (the story of) Përëpërëwa our ancestor,  ’</pre>
 
-> (ps-duck-story-026) Akawaio (Caesar-Fox 2003)
+> (dados-09-kereramake-p-041-269) Tiriyó (Meira 2022)
 > <pre>
-> <i>togodogo engurumïng... seau, tigingnö yöi ennogöiya</i>  
-> togodogo engurumï-ng serau *tiginnö* *yöi* ennogï-i-ya
-> owl      wait-Style  here  one       tree  send-3-Erg   
-> N        Vi-?        Adv   Prtcl     N     Vt         
-> ‘The owl wold just sit here, then he cut down one tree’</pre>
+> <i>(Ape) Neejan mono kanawa tïïkae, irë=hkaasan kurano,</i>  
+> Ape n-ee-ja-n         *mono* *kanawa* tï-V:-ka-e     irë    hkaasan kura-no 
+> Ape 3Sa-come-Pres-Dbt big    canoe    Pst-Sa-say-Pst 3InAna instead good-Ent  
+> N   V                 N      N        V              Pro    Ptc     N       
+> ‘(Ape) 'A big canoe is coming', (she) said, 'that is good (= i.e. not the one you have),'’</pre>
 
-> (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
+> (dados-09-kereramake-p-041-270) Tiriyó (Meira 2022)
 > <pre>
-> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
-> aigo  rï'kwö wijagong mïre  rï'kwö önïk rönamo *uri'chang* *mïre* rï'kwö rö    namo    
-> small Dim    other    child Dim    who  uncrtn female      child  Dim    Emph  Uncrtnty  
-> N     Pro    N        N     Pro    Pro  Prtcl  N           N      Pro    Prtcl Prtcl   
-> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
+> <i>(Ape) sen=nai... tuna mono juuwë iitën=mahtao, nemanakan tïïkae.</i>  
+> Ape sen   n-ai    *tuna* *mono* juuwë i-V:-të-0-n mahtao n-e-manaka-0-n         tï-V:-ka-e    
+> Ape 3InPx 3Sa-Cop water  big    on    3-Sa-go-G-? when   3Sa-Detr-roll-Pres-Dbt Pst-Sa-say-Pst  
+> N   DPro  V       N      N      Pp    N           Ptc    V                      V             
+> ‘(Ape) 'This one is... when it's on a big river, it turns,' (she) said.’</pre>
 
-> (ps-duck-story-067-1) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
-> aigo  rï'kwö *wijagong* *mïre* rï'kwö önïk rönamo uri'chang mïre  rï'kwö rö    namo    
-> small Dim    other      child  Dim    who  uncrtn female    child Dim    Emph  Uncrtnty  
-> N     Pro    N          N      Pro    Pro  Prtcl  N         N     Pro    Prtcl Prtcl   
-> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
-
-> (r-personal-narrative-032) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möröbanggong ji winnö wagïrö maing edaze'na yi'sak tugaik eji</i>  
-> möröbang-gong     ji    winö *wagï-rö* *maing* eda-ze'na yebï-zak  t-ka-ik        eji
-> thereafter-Pl.Abs Emph  from good-Emph word    hear-Purp come-Perf Adv-say-Prtcpl be   
-> N                 Prtcl P    N         N       Adv       Vi        ?-Vi-Vder      Vi 
-> ‘So I thought I was coming to hear good words from people like those’</pre>
-
-> (ra-personal-narrative-077) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mörö bada'pï yak elda Kaskarang ye'pï mörö sungwa ji nya e'tane sairö</i>  
-> mörö pada-'pï   yak  *elda* *Kaskarang* yebï-'pï  mörö sungwa   ji    nya eji-dane sairö
-> that place-Past into Elder  Kaskarang   come-Past that far.away Emph  1+3 be-while here   
-> Dem  N          P    N      N           Vi        Dem  Adv      Prtcl Pro Vi       Adv  
-> ‘Then to replace him elder Kaskarang came while we were somewhere around there’</pre>
-
-> (ra-personal-narrative-208) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tri gaijarö imunggö amök ennaga'sak tugaik etauya</i>  
-> *tri* *gaijarö* *mung-gö*  amök  enna-gabï-zak    tugaik eda-u-ya  
-> three in.number nest-Imper Pl    nose-Cmpltv-Perf like   hear-1-Erg  
-> Prtcl Adv       N          Prtcl N                P      Vt        
-> ‘I have heard that she has three children’</pre>
-
-> (ra-personal-narrative-246) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>seröbe tri gaijarö mö agï'sau'ya mörö sungwa</i>  
-> serö-be   *tri* *gaijarö* *mö* agïdï-zak-u-ya mörö  sungwa  
-> this-Attr three in.number farm cut-Perf-1-Erg A.I.? far.away  
-> A         Prtcl Adv       N    Vt             ?     Adv     
-> ‘Presently I have cut down three farms over there’</pre>
-
-> (ra-personal-narrative-262) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möröwenai ko'mamï dauya mö tigingnö biada bra go'mamï</i>  
-> mörö wenai   ko'mamï ta-u-ya   mörö  *tiginnö* *i-pada* bra ko'mamï
-> that because live    say-1-Erg A.I.? one       3-place  Neg live     
-> Dem  P       Vi      Vt        ?     Prtcl     N        Adv Vi     
-> ‘That is why I live without one place of abode’</pre>
-
-> (ra-piya-ma-story-009) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mïre amök mo'kabödï'pï iyaang, tri for gaijarö mïre amök arö iya.</i>  
-> mïre  amök  mo'ka-pödï-'pï      i-ya-ng     *tri* *for* *gaijarö* *mïre* amök  arö   i-ya 
-> child Pl    take.away-Iter-Past 3-Erg-Style three four  in.number child  Pl    carry 3-Erg  
-> N     Prtcl Vt                  Prs-P-?     Prtcl Prtcl Adv       N      Prtcl Vt    P    
-> ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
+## Akawaio
 
 ### DEM+N
 
@@ -976,45 +878,97 @@
 > N          Prtcl Prtcl Dem    N          P      Dem  Vt         P     Vi      N     P   N        Prtcl N           P   N        Prtcl
 > ‘Then she had made the charm that was placed onto a stick with a handle, it attached to the handle’</pre>
 
-## Ye’kwana
-
 ### N+N
 
-> (ctoabjpic-035) Ye’kwana (Cáceres Arandia 2021)
+> (cc-praising-rhymes-6) Akawaio (Caesar-Fox 2003)
 > <pre>
-> <i>Aakö tünküi künenüntöi iyö.</i>  
-> *aakö* *tünküi* kün-enüntö-i               iyö  
-> dos    sebucán  3/3.PAS-llenar_sebucán-PRP DEMin  
-> num    n        v.t.                       pro  
-> ‘Lo puso en dos sebucanes.’</pre>
+> <i>mörö gaza rï'kwö warawok mïre aburöuya mörö</i>  
+> mörö kaza rï'kwö *warawok* *mïre* aburö-u-ya   mörö 
+> that like Dim    boy       child  praise-1-Erg A.I.?  
+> Dem  P    Pro    N         N      Vt           ?    
+> ‘This is how I would praise a boy child when he is small’</pre>
 
-> (histana-072) Ye’kwana (Cáceres Arandia 2021)
+> (lester-eugene-personal-narrative-047) Akawaio (Caesar-Fox 2003)
 > <pre>
-> <i>Iyö inñataje kajichaana weijüüdü yawö.</i>  
-> iyö *inñataje* *kajichaana* *w-ei-jüdü*      yawö    
-> DEM bonito     cacique      INTR-COP-PAS.POS entonces  
-> pro n          n            n                conj    
-> ‘Esta es la buena vida del cacique’</pre>
+> <i>turonnö mïre bra yesh'pï</i>  
+> *turonnö* *mïre* bra y-eji-'pï
+> another   child  Neg 3-be-Past  
+> N         N      Adv Vi       
+> ‘there was no other child’</pre>
 
-### DEM+DEM
-
-> (descbuscmat-132) Ye’kwana (Cáceres Arandia 2021)
+> (ps-duck-story-026) Akawaio (Caesar-Fox 2003)
 > <pre>
-> <i>¿Kukuyu nenü'jüdü tüweiye tüwü mödö?</i>  
-> kukuyu n-enü-jüdü        tüw-ei-e            *tüwü* *mödö*
-> cocuyo SHR-tomar-PAS.NZR PTCP.INTR-COP-PTCPe 3.SG   DEM2in  
-> n      nzr-v.t-nzr       adv                 pro    pro   
-> ‘¿Esos también hay chupado por cocuyo?’</pre>
+> <i>togodogo engurumïng... seau, tigingnö yöi ennogöiya</i>  
+> togodogo engurumï-ng serau *tiginnö* *yöi* ennogï-i-ya
+> owl      wait-Style  here  one       tree  send-3-Erg   
+> N        Vi-?        Adv   Prtcl     N     Vt         
+> ‘The owl wold just sit here, then he cut down one tree’</pre>
 
-### ADV+N
-
-> (desctala-018) Ye’kwana (Cáceres Arandia 2021)
+> (ps-duck-story-067) Akawaio (Caesar-Fox 2003)
 > <pre>
-> <i>tamedö sotto wö'düjö'a'jökkönñe,</i>  
-> *tamedö* *sotto* w-ö'dü-jötü-ajö       jökkö-nñe
-> todo     persona INTR-llegar-ITER-PTCP cuando-PL  
-> ad       n       n                     posp     
-> ‘una vez que toda la gente llega’</pre>
+> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
+> aigo  rï'kwö wijagong mïre  rï'kwö önïk rönamo *uri'chang* *mïre* rï'kwö rö    namo    
+> small Dim    other    child Dim    who  uncrtn female      child  Dim    Emph  Uncrtnty  
+> N     Pro    N        N     Pro    Pro  Prtcl  N           N      Pro    Prtcl Prtcl   
+> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
+
+> (ps-duck-story-067-1) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>aikor'kwö wijagong, mïre rï'kwö önïk rönamo uri'shang mïre rï'kwö rö namo</i>  
+> aigo  rï'kwö *wijagong* *mïre* rï'kwö önïk rönamo uri'chang mïre  rï'kwö rö    namo    
+> small Dim    other      child  Dim    who  uncrtn female    child Dim    Emph  Uncrtnty  
+> N     Pro    N          N      Pro    Pro  Prtcl  N         N     Pro    Prtcl Prtcl   
+> ‘The partner who accompanied her was small, maybe she was a small girl’</pre>
+
+> (r-personal-narrative-032) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröbanggong ji winnö wagïrö maing edaze'na yi'sak tugaik eji</i>  
+> möröbang-gong     ji    winö *wagï-rö* *maing* eda-ze'na yebï-zak  t-ka-ik        eji
+> thereafter-Pl.Abs Emph  from good-Emph word    hear-Purp come-Perf Adv-say-Prtcpl be   
+> N                 Prtcl P    N         N       Adv       Vi        ?-Vi-Vder      Vi 
+> ‘So I thought I was coming to hear good words from people like those’</pre>
+
+> (ra-personal-narrative-077) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mörö bada'pï yak elda Kaskarang ye'pï mörö sungwa ji nya e'tane sairö</i>  
+> mörö pada-'pï   yak  *elda* *Kaskarang* yebï-'pï  mörö sungwa   ji    nya eji-dane sairö
+> that place-Past into Elder  Kaskarang   come-Past that far.away Emph  1+3 be-while here   
+> Dem  N          P    N      N           Vi        Dem  Adv      Prtcl Pro Vi       Adv  
+> ‘Then to replace him elder Kaskarang came while we were somewhere around there’</pre>
+
+> (ra-personal-narrative-208) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tri gaijarö imunggö amök ennaga'sak tugaik etauya</i>  
+> *tri* *gaijarö* *mung-gö*  amök  enna-gabï-zak    tugaik eda-u-ya  
+> three in.number nest-Imper Pl    nose-Cmpltv-Perf like   hear-1-Erg  
+> Prtcl Adv       N          Prtcl N                P      Vt        
+> ‘I have heard that she has three children’</pre>
+
+> (ra-personal-narrative-246) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>seröbe tri gaijarö mö agï'sau'ya mörö sungwa</i>  
+> serö-be   *tri* *gaijarö* *mö* agïdï-zak-u-ya mörö  sungwa  
+> this-Attr three in.number farm cut-Perf-1-Erg A.I.? far.away  
+> A         Prtcl Adv       N    Vt             ?     Adv     
+> ‘Presently I have cut down three farms over there’</pre>
+
+> (ra-personal-narrative-262) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai ko'mamï dauya mö tigingnö biada bra go'mamï</i>  
+> mörö wenai   ko'mamï ta-u-ya   mörö  *tiginnö* *i-pada* bra ko'mamï
+> that because live    say-1-Erg A.I.? one       3-place  Neg live     
+> Dem  P       Vi      Vt        ?     Prtcl     N        Adv Vi     
+> ‘That is why I live without one place of abode’</pre>
+
+> (ra-piya-ma-story-009) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïre amök mo'kabödï'pï iyaang, tri for gaijarö mïre amök arö iya.</i>  
+> mïre  amök  mo'ka-pödï-'pï      i-ya-ng     *tri* *for* *gaijarö* *mïre* amök  arö   i-ya 
+> child Pl    take.away-Iter-Past 3-Erg-Style three four  in.number child  Pl    carry 3-Erg  
+> N     Prtcl Vt                  Prs-P-?     Prtcl Prtcl Adv       N      Prtcl Vt    P    
+> ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
+
+## Ye’kwana
 
 ### DEM+N
 
@@ -1330,171 +1284,45 @@
 > pro   n          Pro n                conj    
 > ‘Aquello era bonito nuestra vida’</pre>
 
-## Yawarana
+### DEM+DEM
 
-### N+N
-
-> (histanfo-4) Yawarana (Cáceres Arandia 2020)
+> (descbuscmat-132) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
-> <i>ana këyetase papa kampra ya, ana yoti wejsapë yojtë ta sukase aroma warai, yakuri warai yojtë wejsaj ta</i>  
-> ana këyeta-se       *papa kampra*  ya   ana y-oti         wej-sapë yojtë-Ø   ta     sukase aroma warai yakuri warai yojtë-Ø   wej-saj  ta    
-> 1+3 grow.up-PFV.PST paternal.uncle ERG  1+3 REL-game.food COP-PERF fish-IPFV like   all    paca  like  agouti like  fish-IPFV COP-PERF like    
-> pro vi              sus            post pro sus           vi       vt        interj adv    sus   post  sus    post  vt        vi       interj
-> ‘‘nosotros crecimos, mi tio pescaba toda nuestra comida, lapa, picure’’</pre>
-
-> (histanfo-5) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>papa kampra ya, makampra ya ta wejsaj ta, maijtë kaimotata, mukuton yomiri</i>  
-> *papa kampra*  ya     makampra          ya   ta-Ø     wej-saj  ta     maijtë kaimota-ta   muku-ton yomi-ri       
-> paternal.uncle notERG maternal.aunt:VOC ERG  say-IPFV COP-PERF like   go.IMP hunt-ALL:IMP child-PL be.hungry-IPFV  
-> sus            prt    sus               post vt       vi       interj prt    vi           sus      vi            
-> ‘‘mi tía estaba diciendo para mi tío "vaya a cazar que los niños tienen hambre"’’</pre>
-
-> (histaccigrme-25) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>ijtënojpë yëye kampra yëjnë</i>  
-> ijtë-nojpë *yëye* *kampra-Ø* y-ëjnë   
-> there-ABLA tree   big-POSS   REL-under  
-> adv        sus    sus        post     
-> ‘‘desdé ahí, debajo del palo grande’’</pre>
-
-> (descmensgrme-10) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>ana yawankuiri muku wurijyan senema yawë</i>  
-> ana yawankui-ri *muku* *wurijyan* senema-Ø        yawë
-> 1+3 punish-IPFV child  woman      get.period-IPFV CTMP  
-> pro vt          sus    sus        vdetr           post
-> ‘‘nosotras castigamos a las hijas hembras cuando les viene la regla’’</pre>
-
-> (descmensgrme-33) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>maka mukujpë yaye kajsapë</i>  
-> *maka*  *mukujpë* yaye kaj-sapë     
-> palm.sp small     PERL weave-ABS.NZR  
-> sus     sus       post sus          
-> ‘‘tejido de la concha de un palo de ceiba pequeño’’</pre>
-
-> (descmensgrme-48) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>tawarai ma umukuton yatan senema yawë,</i>  
-> tawarai ma    *u-muku-Ø-ton*       *yatan* senema-Ø        yawë
-> thus.N  RESTR 1SG-daughter-POSS-PL young   get.period-IPFV CTMP  
-> sus     prt   sus                  sus     vdetr           post
-> ‘‘así, cuando nuestras hijas jóvenes les viene la regla, nosotros’’</pre>
-
-> (conv1stenc-7) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>Merisiyo maijtu taji rë warotasentomo wari pëkë, chikiri pëkë, mïjna ijpuruya</i>  
-> *Merisiyo* *maijtu-Ø* taji rë   warota-se-n-tomo              wari     pëkë  chikiri pëkë  mïjna ijpuruya
-> …          chief-POSS ?    EMPH work-PTCP-NZR-PL              plant.sp about rubber  about there upriver   
-> …          sus        prt  prt  vi-v>adv-adv>sus-sus:(Plural) sus      post  sus     post  adv   adv     
-> ‘‘los obreros de Melicio eran los que trabajaban sarrapia y chicle río arriba’’</pre>
-
-> (conv1stenc-35) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>ana pëkë takërë rë onono wurijyan yakarajpë</i>  
-> ana pëkë  t-akërë rë   *onono* *wurijyan* yakara-jpë 
-> 1+3 about 3-COM   EMPH another woman      believe-PST  
-> pro post  post    prt  sus     sus        vt         
-> ‘‘por nosotras, con él, creyó que eramos otra mujer’’</pre>
-
-> (conv1stenc-36) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>makë pano, makë pano onono wurijyamo wara makë pan yakarajpë</i>  
-> makë       pano makë       pano *onono* *wurijyamo* wara makë       pan  yakara-jpë 
-> mother:VOC late mother:VOC late another woman       like mother:VOC late believe-PST  
-> sus        prt  sus        prt  sus     sus         post sus        prt  vt         
-> ‘‘creía que mi mamá era como otra mujer’’</pre>
-
-> (conv1stenc-37) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>aniki pojtëjpë tawarai yapijtomo</i>  
-> aniki  pojtë-jpë *tawarai* *yapijtomo*
-> who    want-PST  thus.N    old          
-> interr vt        sus       sus        
-> ‘‘quién será que iba a querer a alguien así, un viejo’’</pre>
-
-> (conv1stenc-78) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>ij ti ana yapëjpo wejtane, onono wurijyan yakarajpë onono</i>  
-> ij ti   ana yapëj-po-Ø     wej-tane *onono* *wurijyan* yakara-jpë  *onono*
-> …  like 1+3 seize-DES-IPFV COP-CNCS another woman      believe-PST another  
-> …  prt  pro vt             adv      sus     sus        vt          sus    
-> ‘‘aunque nos quería agarrar creyendo que eramos como otras mujeres’’</pre>
-
-> (ctowaru-4) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>wurijyan poye tawara wurijyan yatam poyeno</i>  
-> wurijyan poye  tawara *wurijyan* *yatam* poye-no  
-> woman    about too    woman      young   about-NZR  
-> sus      post  adv    sus        sus     sus      
-> ‘‘por una muchacha’’</pre>
-
-> (ctowaru-58) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>nwarë pïnika entonokontomo warotaniyantomo pïnika</i>  
-> nwarë pïnika *ento-no-kontomo* *warota-ni-yantomo* pïnika
-> thus  PROB   here-NZR-PL       work-A.NZR-PL       PROB    
-> prt   prt    sus               sus                 prt   
-> ‘‘así tal vez, tal vez eran trabajadores de aquí’’</pre>
-
-> (ctowaru-77-1) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>mïntë pïnika yïpï kampra pïnika tëwï yëye tajne yise tawara rë nwarë</i>  
-> mïntë pïnika *yïpï* *kampra* pïnika tëwï yëye tajne yi-se       tawara rë   nwarë
-> there PROB   mount  big      PROB   3SG  tree 3PL   put-PFV.PST thus   EMPH thus   
-> adv   prt    sus    sus      prt    pro  sus  pro   vt          adv    prt  prt  
-> ‘‘allá tal vez, en el cerro grande, ellos pusieron un palo así (como puente para cruzar)’’</pre>
-
-> (ctorosq-6) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>wapure, waputëse, wapuremï mujya wëra mërë ya pïnika</i>  
-> wapure        waputë-se         *wapure-mï*       *mujyanë* wëra mërë ya     pïnika
-> round.bellied get.belly-PFV.PST round.bellied-NZR pregnant  like 2SG  notERG PROB    
-> adv           vi                sus               sus       post pro  prt    prt   
-> ‘‘era barrigona como una embarazada, usted será’’</pre>
-
-> (ctorosq-71) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>karakachi kamprarijne</i>  
-> *karakachi* *kampra-ri-jne*
-> ring.worm   big-POSS-PL      
-> sus         sus            
-> ‘‘las rosquillas grandotas’’</pre>
-
-> (ctorosq-116) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>mëntë takï wasai punemï</i>  
-> mïntë takï  *wasai* *pune-mï*
-> there CNFRM palm.sp meaty-NZR  
-> adv   prt   sus     sus      
-> ‘ahí hay un cucurito que tiene carne (fruta)’</pre>
-
-> (ctorat-38) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>ëjtë kërëjpë yawë nwajtëkonton ti wejsapë waijta</i>  
-> *ëjtë* *kërëjpë* yawë nwajtë-Ø-konton ti   wej-sapë waijta
-> house  old       LOC  dance-IPFV-PL   like COP-PERF mouse   
-> sus    sus       post vi              prt  vi       sus   
-> ‘‘en la casa vieja es que estaba bailando la rata’’</pre>
+> <i>¿Kukuyu nenü'jüdü tüweiye tüwü mödö?</i>  
+> kukuyu n-enü-jüdü        tüw-ei-e            *tüwü* *mödö*
+> cocuyo SHR-tomar-PAS.NZR PTCP.INTR-COP-PTCPe 3.SG   DEM2in  
+> n      nzr-v.t-nzr       adv                 pro    pro   
+> ‘¿Esos también hay chupado por cocuyo?’</pre>
 
 ### ADV+N
 
-> (descmensgrme-4) Yawarana (Cáceres Arandia 2020)
+> (desctala-018) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
-> <i>wïrë takï kërë nwa ma rë wïrë ijpë pïnirë asakë semana</i>  
-> wïrë takï  kërë   nwa  ma    rë   wïrë i-jpë   pïnirë *asakë* *semana*
-> 1SG  CNFRM 3AN:MD thus RESTR EMPH 1SG  put-PST NEG    two     week      
-> pro  prt   pro    prt  prt   prt  pro  vt      prt    adv     sus     
-> ‘‘yo misma, no la dejé así no más, dos semanas’’</pre>
+> <i>tamedö sotto wö'düjö'a'jökkönñe,</i>  
+> *tamedö* *sotto* w-ö'dü-jötü-ajö       jökkö-nñe
+> todo     persona INTR-llegar-ITER-PTCP cuando-PL  
+> ad       n       n                     posp     
+> ‘una vez que toda la gente llega’</pre>
 
-> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
+### N+N
+
+> (ctoabjpic-035) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
-> <i>petomyakërë kanajmunu katupumasapë</i>  
-> *petomyakërë* *kanajmunu* katupuma-sapë
-> three         hill        group-ABS.NZR  
-> adv           sus         sus          
-> ‘‘estaban tres montones grandes amontonados’’</pre>
+> <i>Aakö tünküi künenüntöi iyö.</i>  
+> *aakö* *tünküi* kün-enüntö-i               iyö  
+> dos    sebucán  3/3.PAS-llenar_sebucán-PRP DEMin  
+> num    n        v.t.                       pro  
+> ‘Lo puso en dos sebucanes.’</pre>
+
+> (histana-072) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Iyö inñataje kajichaana weijüüdü yawö.</i>  
+> iyö *inñataje* *kajichaana* *w-ei-jüdü*      yawö    
+> DEM bonito     cacique      INTR-COP-PAS.POS entonces  
+> pro n          n            n                conj    
+> ‘Esta es la buena vida del cacique’</pre>
+
+## Yawarana
 
 ### DEM+N
 
@@ -1841,6 +1669,170 @@
 > 3SG    weeds     into enter-PFV.PST PROB   3SG   
 > pro    sus       post vi            prt    pro 
 > ‘‘tal vez se metió en el monte’’</pre>
+
+### ADV+N
+
+> (descmensgrme-4) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>wïrë takï kërë nwa ma rë wïrë ijpë pïnirë asakë semana</i>  
+> wïrë takï  kërë   nwa  ma    rë   wïrë i-jpë   pïnirë *asakë* *semana*
+> 1SG  CNFRM 3AN:MD thus RESTR EMPH 1SG  put-PST NEG    two     week      
+> pro  prt   pro    prt  prt   prt  pro  vt      prt    adv     sus     
+> ‘‘yo misma, no la dejé así no más, dos semanas’’</pre>
+
+> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>petomyakërë kanajmunu katupumasapë</i>  
+> *petomyakërë* *kanajmunu* katupuma-sapë
+> three         hill        group-ABS.NZR  
+> adv           sus         sus          
+> ‘‘estaban tres montones grandes amontonados’’</pre>
+
+### N+N
+
+> (histanfo-4) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>ana këyetase papa kampra ya, ana yoti wejsapë yojtë ta sukase aroma warai, yakuri warai yojtë wejsaj ta</i>  
+> ana këyeta-se       *papa kampra*  ya   ana y-oti         wej-sapë yojtë-Ø   ta     sukase aroma warai yakuri warai yojtë-Ø   wej-saj  ta    
+> 1+3 grow.up-PFV.PST paternal.uncle ERG  1+3 REL-game.food COP-PERF fish-IPFV like   all    paca  like  agouti like  fish-IPFV COP-PERF like    
+> pro vi              sus            post pro sus           vi       vt        interj adv    sus   post  sus    post  vt        vi       interj
+> ‘‘nosotros crecimos, mi tio pescaba toda nuestra comida, lapa, picure’’</pre>
+
+> (histanfo-5) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>papa kampra ya, makampra ya ta wejsaj ta, maijtë kaimotata, mukuton yomiri</i>  
+> *papa kampra*  ya     makampra          ya   ta-Ø     wej-saj  ta     maijtë kaimota-ta   muku-ton yomi-ri       
+> paternal.uncle notERG maternal.aunt:VOC ERG  say-IPFV COP-PERF like   go.IMP hunt-ALL:IMP child-PL be.hungry-IPFV  
+> sus            prt    sus               post vt       vi       interj prt    vi           sus      vi            
+> ‘‘mi tía estaba diciendo para mi tío "vaya a cazar que los niños tienen hambre"’’</pre>
+
+> (histaccigrme-25) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>ijtënojpë yëye kampra yëjnë</i>  
+> ijtë-nojpë *yëye* *kampra-Ø* y-ëjnë   
+> there-ABLA tree   big-POSS   REL-under  
+> adv        sus    sus        post     
+> ‘‘desdé ahí, debajo del palo grande’’</pre>
+
+> (descmensgrme-10) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>ana yawankuiri muku wurijyan senema yawë</i>  
+> ana yawankui-ri *muku* *wurijyan* senema-Ø        yawë
+> 1+3 punish-IPFV child  woman      get.period-IPFV CTMP  
+> pro vt          sus    sus        vdetr           post
+> ‘‘nosotras castigamos a las hijas hembras cuando les viene la regla’’</pre>
+
+> (descmensgrme-33) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>maka mukujpë yaye kajsapë</i>  
+> *maka*  *mukujpë* yaye kaj-sapë     
+> palm.sp small     PERL weave-ABS.NZR  
+> sus     sus       post sus          
+> ‘‘tejido de la concha de un palo de ceiba pequeño’’</pre>
+
+> (descmensgrme-48) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>tawarai ma umukuton yatan senema yawë,</i>  
+> tawarai ma    *u-muku-Ø-ton*       *yatan* senema-Ø        yawë
+> thus.N  RESTR 1SG-daughter-POSS-PL young   get.period-IPFV CTMP  
+> sus     prt   sus                  sus     vdetr           post
+> ‘‘así, cuando nuestras hijas jóvenes les viene la regla, nosotros’’</pre>
+
+> (conv1stenc-7) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>Merisiyo maijtu taji rë warotasentomo wari pëkë, chikiri pëkë, mïjna ijpuruya</i>  
+> *Merisiyo* *maijtu-Ø* taji rë   warota-se-n-tomo              wari     pëkë  chikiri pëkë  mïjna ijpuruya
+> …          chief-POSS ?    EMPH work-PTCP-NZR-PL              plant.sp about rubber  about there upriver   
+> …          sus        prt  prt  vi-v>adv-adv>sus-sus:(Plural) sus      post  sus     post  adv   adv     
+> ‘‘los obreros de Melicio eran los que trabajaban sarrapia y chicle río arriba’’</pre>
+
+> (conv1stenc-35) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>ana pëkë takërë rë onono wurijyan yakarajpë</i>  
+> ana pëkë  t-akërë rë   *onono* *wurijyan* yakara-jpë 
+> 1+3 about 3-COM   EMPH another woman      believe-PST  
+> pro post  post    prt  sus     sus        vt         
+> ‘‘por nosotras, con él, creyó que eramos otra mujer’’</pre>
+
+> (conv1stenc-36) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>makë pano, makë pano onono wurijyamo wara makë pan yakarajpë</i>  
+> makë       pano makë       pano *onono* *wurijyamo* wara makë       pan  yakara-jpë 
+> mother:VOC late mother:VOC late another woman       like mother:VOC late believe-PST  
+> sus        prt  sus        prt  sus     sus         post sus        prt  vt         
+> ‘‘creía que mi mamá era como otra mujer’’</pre>
+
+> (conv1stenc-37) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>aniki pojtëjpë tawarai yapijtomo</i>  
+> aniki  pojtë-jpë *tawarai* *yapijtomo*
+> who    want-PST  thus.N    old          
+> interr vt        sus       sus        
+> ‘‘quién será que iba a querer a alguien así, un viejo’’</pre>
+
+> (conv1stenc-78) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>ij ti ana yapëjpo wejtane, onono wurijyan yakarajpë onono</i>  
+> ij ti   ana yapëj-po-Ø     wej-tane *onono* *wurijyan* yakara-jpë  *onono*
+> …  like 1+3 seize-DES-IPFV COP-CNCS another woman      believe-PST another  
+> …  prt  pro vt             adv      sus     sus        vt          sus    
+> ‘‘aunque nos quería agarrar creyendo que eramos como otras mujeres’’</pre>
+
+> (ctowaru-4) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>wurijyan poye tawara wurijyan yatam poyeno</i>  
+> wurijyan poye  tawara *wurijyan* *yatam* poye-no  
+> woman    about too    woman      young   about-NZR  
+> sus      post  adv    sus        sus     sus      
+> ‘‘por una muchacha’’</pre>
+
+> (ctowaru-58) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>nwarë pïnika entonokontomo warotaniyantomo pïnika</i>  
+> nwarë pïnika *ento-no-kontomo* *warota-ni-yantomo* pïnika
+> thus  PROB   here-NZR-PL       work-A.NZR-PL       PROB    
+> prt   prt    sus               sus                 prt   
+> ‘‘así tal vez, tal vez eran trabajadores de aquí’’</pre>
+
+> (ctowaru-77-1) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>mïntë pïnika yïpï kampra pïnika tëwï yëye tajne yise tawara rë nwarë</i>  
+> mïntë pïnika *yïpï* *kampra* pïnika tëwï yëye tajne yi-se       tawara rë   nwarë
+> there PROB   mount  big      PROB   3SG  tree 3PL   put-PFV.PST thus   EMPH thus   
+> adv   prt    sus    sus      prt    pro  sus  pro   vt          adv    prt  prt  
+> ‘‘allá tal vez, en el cerro grande, ellos pusieron un palo así (como puente para cruzar)’’</pre>
+
+> (ctorosq-6) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>wapure, waputëse, wapuremï mujya wëra mërë ya pïnika</i>  
+> wapure        waputë-se         *wapure-mï*       *mujyanë* wëra mërë ya     pïnika
+> round.bellied get.belly-PFV.PST round.bellied-NZR pregnant  like 2SG  notERG PROB    
+> adv           vi                sus               sus       post pro  prt    prt   
+> ‘‘era barrigona como una embarazada, usted será’’</pre>
+
+> (ctorosq-71) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>karakachi kamprarijne</i>  
+> *karakachi* *kampra-ri-jne*
+> ring.worm   big-POSS-PL      
+> sus         sus            
+> ‘‘las rosquillas grandotas’’</pre>
+
+> (ctorosq-116) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>mëntë takï wasai punemï</i>  
+> mïntë takï  *wasai* *pune-mï*
+> there CNFRM palm.sp meaty-NZR  
+> adv   prt   sus     sus      
+> ‘ahí hay un cucurito que tiene carne (fruta)’</pre>
+
+> (ctorat-38) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>ëjtë kërëjpë yawë nwajtëkonton ti wejsapë waijta</i>  
+> *ëjtë* *kërëjpë* yawë nwajtë-Ø-konton ti   wej-sapë waijta
+> house  old       LOC  dance-IPFV-PL   like COP-PERF mouse   
+> sus    sus       post vi              prt  vi       sus   
+> ‘‘en la casa vieja es que estaba bailando la rata’’</pre>
 
 # Open questions
 
