@@ -32,7 +32,7 @@ full = len(sys.argv) > 1
 #         lg_records[lg] = records.fillna("")
 
 df = pd.read_csv("data/dataset.csv", keep_default_na=False)
-found_refs = []
+found_refs = ["payne1993nonconfigurationality"]
 
 
 def collect_refs(s):

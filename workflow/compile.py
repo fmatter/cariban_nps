@@ -35,7 +35,7 @@ def resolve_pattern(rec):
         rec["Argument"] = False
     discont_kind = ""
     discont = False
-    elements = ["N", "DEM", "ADV", "NUM"]
+    elements = ["N", "DEM", "ADV", "NUM", "Nmod"]
     for pos in rec["Pattern"].split(" ")[1::]:
         if pos not in elements:
             discont = True
@@ -133,7 +133,11 @@ def add_positions(rec):
 
 print(df[(df["Intervening"] == "PART") & (df["Particle"] == "")])
 print(df[(df["Role"] != "p") & (df["Pattern"].str.contains("Vt"))])
+print(df[(df["Role"] != "obl") & (df["Pattern"].str.contains("POSTP"))])
+temp = df[df["Pattern"] != ""]
+print(temp[(temp["Intervening"] == "") & (temp["Discontinuous"])])
+
 df = df.apply(lambda x: add_positions(x), axis=1)
 # print(df)
-# print(pd.crosstab(df["Type"], [df["Animacy"]]))
+print(pd.crosstab(df["Order"], [df["Language_ID"]]))
 df.to_csv("data/dataset.csv", index=False)
