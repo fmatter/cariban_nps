@@ -35,6 +35,7 @@ for lg in lgs:
         if k not in list(discont["Intervening"]):
             continue
         type_df = discont[discont["Intervening"] == k]
+        output.append(f"### {k}")
         for rec in type_df.to_dict("records"):
             output.append(f"""[ex]({rec["ID"]})""")
 
