@@ -126,7 +126,7 @@ def add_positions(rec):
         positions = [int(x) - 1 for x in rec["Positions"].split(",")]
         words = rec["Analyzed_Word"].split("\t")
         words = "\t".join(
-            ["*" + x + "*" if i in positions else x for i, x in enumerate(words)]
+            ["**" + x + "**" if i in positions else x for i, x in enumerate(words)]
         )
         rec["Analyzed_Word"] = words
     return rec
