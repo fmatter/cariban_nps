@@ -1,6 +1,6 @@
 import pandas as pd
+import yaml
 
-# lg_list = ["aka", "hix", "tri", "mak"]
 lg_list = ["tri", "hix", "aka", "mak", "yab"]
 
 
@@ -53,6 +53,9 @@ def resolve_pattern(rec):
     rec["Discontinuous"] = discont
     return rec
 
+repl_shorthand = {"trans": "Translated_Text", "gloss": "Gloss", "obj": "Analyzed_Word", "surf": "Primary_Text", "pos": "Part_Of_Speech"}
+with open("data/replace.yaml", "r") as f:
+    repl = yaml.load(f, Loader=yaml.SafeLoader)
 
 ex_cnt = {}
 def get_ex_id(rec):
@@ -66,7 +69,12 @@ def get_ex_id(rec):
 dfs = []
 for lg in lg_list:
     print(lg)
-    data = pd.read_csv(f"data/{lg}_data.csv", keep_default_na=False)
+    data = pd.read_csv(f"data/{lg}_data.csv", keep_default_na=False, index_col=0)
+    for ex_id, values in repl.items():
+        if ex_id in data.index:
+            for key, value in values.items():
+                data.at[ex_id, repl_shorthand[key]] = value
+    data.reset_index(inplace=True)
     ann = pd.read_csv(f"data/{lg}_ann.csv", keep_default_na=False)
 
     ann.reset_index(inplace=True)
@@ -151,6 +159,6 @@ if len(dc) > 0:
     print(dc)
 
 df = df.apply(lambda x: add_positions(x), axis=1)
-# print(df)
+
 print(pd.crosstab(df["Order"], [df["Language_ID"]]))
 df.to_csv("data/dataset.csv", index=False)
