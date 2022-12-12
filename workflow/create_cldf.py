@@ -34,6 +34,12 @@ full = len(sys.argv) > 1
 df = pd.read_csv("data/dataset.csv", keep_default_na=False)
 found_refs = ["payne1993nonconfigurationality"]
 
+split_cols = [
+        "Analyzed_Word",
+        "Analyzed_Word_Morphemes",
+        "Gloss",
+        "Part_Of_Speech",
+    ]
 
 def collect_refs(s):
     if s != "":
@@ -53,6 +59,20 @@ def add_audio(writer, rec):
         )
         return rec["ID"]
 
+def add_positions(rec):
+    if rec["Positions"] != "":
+        positions = [int(x) - 1 for x in rec["Positions"].split(",")]
+        rec["Analyzed_Word"] = ["**" + x + "**" if i in positions else x for i, x in enumerate(rec["Analyzed_Word"])]
+    return rec
+
+panare = pd.read_csv("data/panare.csv")
+panare["Language_ID"] = "pan"
+panare["ID"] = panare.apply(lambda x: f"pan-{x.name}", axis=1)
+
+for col in split_cols:
+    if col in panare.columns:
+        panare[col] = panare[col].apply(lambda x: x.split(" "))
+panare = panare.apply(add_positions, axis=1)
 
 with CLDFWriter(
     CLDFSpec(dir="data/cldf", module="Generic", metadata_fname="metadata.json")
@@ -127,12 +147,7 @@ with CLDFWriter(
             },
         )
     writer.cldf.add_component("LanguageTable")
-    for col in [
-        "Analyzed_Word",
-        "Analyzed_Word_Morphemes",
-        "Gloss",
-        "Part_Of_Speech",
-    ]:
+    for col in split_cols:
         if col in df.columns:
             df[col] = df[col].apply(lambda x: x.split("\t"))
             df[col] = df[col].apply(lambda x: [y if y else "…" for y in x])
@@ -147,8 +162,11 @@ with CLDFWriter(
         if add_audio(writer, rec):
             rec["Media_ID"] = rec["ID"]
         writer.objects["ExampleTable"].append(rec)
+    for rec in panare.to_dict("records"):
+        writer.objects["ExampleTable"].append(rec)        
     for lg in set(df["Language_ID"]):
         writer.objects["LanguageTable"].append(meta.get_lg(lg))
+    writer.objects["LanguageTable"].append(meta.get_lg("pan"))
 
     bib = pybtex.database.parse_file("data/car.bib", bib_format="bibtex")
     sources = [
