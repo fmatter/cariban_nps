@@ -31,7 +31,10 @@ full = len(sys.argv) > 1
 #     else:
 #         lg_records[lg] = records.fillna("")
 
-df = pd.read_csv("data/dataset.csv", keep_default_na=False)
+if not full:
+    df = pd.read_csv("data/dataset.csv", keep_default_na=False)
+else:
+    df = pd.read_csv("data/full_data.csv", keep_default_na=False)
 with open("data/sources.txt", "r") as f:
     found_refs = f.read().split("\n")
 
@@ -85,7 +88,8 @@ with CLDFWriter(
     CLDFSpec(dir="data/cldf", module="Generic", metadata_fname="metadata.json")
 ) as writer:
     writer.cldf.add_component("ExampleTable")
-    writer.cldf.add_component("MediaTable")
+    if not full:
+        writer.cldf.add_component("MediaTable")
     writer.cldf.add_columns(
         "ExampleTable",
         {
@@ -166,8 +170,9 @@ with CLDFWriter(
     )
     df["Source"].map(collect_refs)
     for rec in df.to_dict("records"):
-        if add_audio(writer, rec):
-            rec["Media_ID"] = rec["ID"]
+        if not full:
+            if add_audio(writer, rec):
+                rec["Media_ID"] = rec["ID"]
         writer.objects["ExampleTable"].append(rec)
     for rec in panare.to_dict("records"):
         writer.objects["ExampleTable"].append(rec)

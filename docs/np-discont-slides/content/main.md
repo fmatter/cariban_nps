@@ -20,9 +20,13 @@
     * [lg](aka) [psrc](caesarDBakawaio)
     * [lg](yab) [psrc](caceres2020flex)
 [todo](what kind of count do we show here?)
-[table](basic-counts)
+
+[ex](conv1stenc-33)
 
 [todo](Outline of the talk from here)
+
+# Sample
+![Investigated languages](figures/map.svg)
 
 # What is reconstructible?
 *  Reconstructible Prior State: adjoined nouns, afterthought constructions [todo](did you mean "coreferential" here? )
@@ -39,11 +43,14 @@ derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
          *  Major class words intervening
          *  Phrasal/scope particles intervening (we don't consider this discontinuous, as not different from possessive construction)
 
+
 # Pattern 1
 *  Pattern 1: afterthoughts become less "separated" from clause
    *  Data from Tiriyó showing afterthoughts (apparently w/o pauses)
       * Flag future work: checking sound files from Tiriyó
    * This is clearly what has happened in Panare VSO order (cite [src](payne1994ovs) for frequencies, [src](gildea2000vpgenesis) for mechanism)
+
+[table](lg_type)
 
 # Pattern 2
 * Pattern 2: coreferential nouns begin to cohere into something resembling continuous NPs

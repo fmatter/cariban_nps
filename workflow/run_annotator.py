@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 import json
 
-lg_list = ["hix", "tri", "aka", "yab"]
+lg_list = ["hix", "tri", "aka", "yab", "mak"]
 # lg_list = ["yab"]
 TARGET = 1000
 LIMIT = 10

@@ -30,6 +30,7 @@ def resolve_pattern(rec):
         rec["Pattern"].startswith("DEM")
         or rec["Pattern"].startswith("N")
         or rec["Pattern"].startswith("ADV")
+        or rec["Pattern"].startswith("pro N")
     ):
         raise ValueError(rec)
     if (
@@ -61,6 +62,42 @@ def resolve_pattern(rec):
     rec["Discontinuous"] = discont
     return rec
 
+split_cols = ["Analyzed_Word", "Gloss", "Part_Of_Speech"]
+def add_brackets(rec):
+    if rec["Constituents"] != "":
+        starts = {}
+        ends = {}
+        for cons in rec["Constituents"].split(","):
+            label, value = cons.split(":")
+            if "-" in value:
+                start, end = map(int, value.split("-"))
+            else:
+                start = int(value)
+                end = int(value)
+            starts[start] = label
+            ends[end] = label 
+        print(starts, ends)
+        for col in split_cols:
+            new_content = []
+            for i, w in enumerate(rec[col].split("\t")):
+                print("word", i, w)
+                if i+1 in starts:
+                    print("start", i)
+                    if col == "Analyzed_Word":
+                        new_content.append("[")
+                    else:
+                        new_content.append(" ")
+                new_content.append(w)
+                if i+1 in ends:
+                    print("end", i)
+                    if col == "Analyzed_Word":
+                        new_content.append(f"]<sub>{ends[i+1]}</sub>")
+                    else:
+                        new_content.append(" ")
+            rec[col] = "\t".join(new_content)
+            print(rec[col])
+        print(rec)
+    return rec
 
 repl_shorthand = {
     "trans": "Translated_Text",
@@ -86,6 +123,7 @@ def get_ex_id(rec):
 
 count_stats = []
 dfs = []
+full_dfs = []
 for lg in lg_list:
     print(lg)
     data = pd.read_csv(f"data/{lg}_data.csv", keep_default_na=False, index_col=0)
@@ -101,10 +139,11 @@ for lg in lg_list:
     texts = pd.read_csv(f"data/{lg}_texts.csv", keep_default_na=False)
     elim = pd.read_csv(f"data/{lg}_elim.csv", keep_default_na=False)
     full = data[data["ID"].isin(list(ann["Example_ID"]) + list(elim["ID"]))]
+    full["Language_ID"] = lg
+    full_dfs.append(full.copy())
     full = full.merge(
         texts, left_on="Text_ID", right_on="ID", how="left", suffixes=("", "_texts")
     )
-    full["Language_ID"] = lg
     full["Word_Count"] = full["Analyzed_Word"].apply(lambda x: len(x.split("\t")))
 
     ann = ann.apply(lambda x: resolve_pattern(x), axis=1)
@@ -141,6 +180,7 @@ for lg in lg_list:
         "Analyzed_Word_Morphemes",
         "Gloss",
         "Part_Of_Speech",
+        "Constituents",
         "Original_Translated_Text",
         "Translated_Text",
         "Comment",
@@ -161,6 +201,9 @@ for lg in lg_list:
     full = full[[x for x in target_cols if x in full.columns]]
     # print(full["Genre"].value_counts() / len(full))
     dfs.append(full)
+
+full_df = pd.concat(full_dfs)
+full_df.to_csv("data/full_data.csv", index=False)
 
 df = pd.concat(dfs)
 
@@ -206,12 +249,13 @@ count_df = pd.DataFrame.from_dict(count_stats)
 save_table(count_df, "basic-counts")
 
 df = df.apply(lambda x: add_positions(x), axis=1)
+df = df.apply(lambda x: add_brackets(x), axis=1)
 
 df.to_csv("data/dataset.csv", index=False)
 
-for k, type_df in df.groupby("Type"):
-    print(k)
-    print(type_df)
-    print(pd.crosstab(type_df["Order"], [type_df["Language_ID"]]))
+# for k, type_df in df.groupby("Type"):
+#     print(k)
+#     print(type_df)
+#     print(pd.crosstab(type_df["Order"], [type_df["Language_ID"]]))
 
 # print(df[df["Order"] == "N N"])

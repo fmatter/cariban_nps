@@ -39,19 +39,14 @@ Introduction: Panare
     -   Akawaio (Caesar-Fox 2003)
     -   Yawarana (Cáceres Arandia 2020)
 
-+------------+---------+---------+-----------------+--------------+
-| Language   | Words   | Nouns   | Discontinuous   | Pseudo-NPs   |
-+============+=========+=========+=================+==============+
-| Tiriyó     | 6641    | 1807    | 12 (0.66%)      | 24 (1.33%)   |
-+------------+---------+---------+-----------------+--------------+
-| Hixkaryána | 4822    |     725 | 2 (0.28%)       | 4 (0.55%)    |
-+------------+---------+---------+-----------------+--------------+
-| Akawaio    | 7394    | 1347    | 7 (0.52%)       | 60 (4.45%)   |
-+------------+---------+---------+-----------------+--------------+
-| Ye’kwana   | 4304    |     829 | 13 (1.57%)      | 55 (6.63%)   |
-+------------+---------+---------+-----------------+--------------+
-| Yawarana   | 4568    |     823 | 9 (1.09%)       | 66 (8.02%)   |
-+------------+---------+---------+-----------------+--------------+
+(2) Yawarana (conv1stenc-33)
+    nwarë  yapijtom  pano  wëjka-pëj-topo-jpë      takï   mërë
+    thus   old           late  fall-PLAC-CIRC-PST.PSN  CNFRM  3IN:MD
+    ‘así, eso es donde se cayó el finado viejo’
+
+Sample
+
+[Investigated languages]
 
 What is reconstructible?
 
@@ -70,8 +65,8 @@ What is reconstructible?
 
 (b) Hixkaryána
     (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040)
-    0-ahru-0-thuru       y-ahye-konï      xaryemna  ha
-    3-cover-Nzr-Pst:Pos  Rel-shake-DPst2  otter.sp  Intens
+    [  0-ahru-0-thuru       y-ahye-konï      ]VP  [  xaryemna  ]NP  ha
+    3-cover-Nzr-Pst:Pos  Rel-shake-DPst2                     otter.sp                  Intens
     ‘The otter was shaking the stuff covering it.’
 
 (c) Hixkaryána
@@ -97,6 +92,25 @@ Pattern 1
     -   This is clearly what has happened in Panare VSO order (cite
         Payne 1994 for frequencies, Gildea 2000 for mechanism)
 
++-------------+---+-------+---------+-------+------+-------+--------+
+| Language_ID |   | ADV+N | DEM+DEM | DEM+N | N+N  | NUM+N | Nmod+N |
++=============+===+=======+=========+=======+======+=======+========+
+| aka         | 5 |       |         |       |      |       |        |
+|             | 3 |     4 |       0 |    46 |    0 |     3 |      7 |
++-------------+---+-------+---------+-------+------+-------+--------+
+| hix         | 3 |       |         |       |      |       |        |
+|             | 5 |     0 |       0 |     3 |    1 |     0 |      0 |
++-------------+---+-------+---------+-------+------+-------+--------+
+| mak         | 2 |       |         |       |      |       |        |
+|             | 5 |     1 |       2 |    46 |    0 |     3 |      3 |
++-------------+---+-------+---------+-------+------+-------+--------+
+| tri         | 1 |       |         |       |      |       |        |
+|             | 1 |     0 |       0 |    17 |    2 |     0 |      5 |
++-------------+---+-------+---------+-------+------+-------+--------+
+| yab         | 1 |       |         |       |      |       |        |
+|             | 2 |     2 |       0 |    47 |    2 |     0 |     15 |
++-------------+---+-------+---------+-------+------+-------+--------+
+
 Pattern 2
 
 -   Pattern 2: coreferential nouns begin to cohere into something
@@ -105,7 +119,7 @@ Pattern 2
         -   Data from Ye’kwana, Yawarana
         -   May need to order these depending on what we find
 
-(3) Yawarana (ctorat-34)
+(4) Yawarana (ctorat-34)
     ëkëtë  mërë  ëkï
     where  3IN:MD    manioc.beer
     ‘donde está el yaraki?’
