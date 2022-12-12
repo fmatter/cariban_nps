@@ -1,0 +1,153 @@
+Introduction: Panare
+
+-   Payne 1993 discusses discontinuous nominal expressions in Panare:
+
+()
+
+(a) Panare (pan-0)
+    kana  t-ën-yaj           chu  tityasa’
+    fish      1>3-catch-PST.PFV  1SG  one
+    ‘I caught one fish.’
+
+(b) Panare (pan-1)
+    ta’meñe  nu-wï-yaj         ana  arakon
+    many         3>3-kill-PST.PFV  1+3  monkey
+    ‘We killed many monkeys.’
+
+(c) Panare (pan-2)
+    arakon  wï-yaj        ana  muku
+    monkey      kill-PST.PFV  1+3  DIST.ANIM.VIS
+    ‘We killed that monkey.’
+
+(d) Panare (pan-3)
+    wëiki  y-u-chaj         rusiyana  kamonton  uya  onkono
+    deer       LK-give-PST.PFV  L.        3PL       DAT  alive
+    ‘Luciano gave them live deer.’
+
+Introduction: Panare
+
+-   order is flexible (Payne 1993: 128):
+    -   arakon asa’ / asa’ arakon ‘two monkeys’
+    -   arakon ta’meñe / ta’meñe arakon ‘many monkeys’
+    -   sïj perikura ‘this movie’, kamicha sïj ‘this shirt’
+-   Claim: discontinuous NP = coreferential adjoined nouns
+-   Our question: in what sense is this an NP?
+-   we looked at corpora from five Cariban languages, 1000 records each:
+    -   Tiriyó (Meira 2022)
+    -   Hixkaryána (Derbyshire 1965 via Meira 2022)
+    -   Ye’kwana (Cáceres Arandia 2021)
+    -   Akawaio (Caesar-Fox 2003)
+    -   Yawarana (Cáceres Arandia 2020)
+
++------------+---------+---------+-----------------+--------------+
+| Language   | Words   | Nouns   | Discontinuous   | Pseudo-NPs   |
++============+=========+=========+=================+==============+
+| Tiriyó     | 6641    | 1807    | 12 (0.66%)      | 24 (1.33%)   |
++------------+---------+---------+-----------------+--------------+
+| Hixkaryána | 4822    |     725 | 2 (0.28%)       | 4 (0.55%)    |
++------------+---------+---------+-----------------+--------------+
+| Akawaio    | 7394    | 1347    | 7 (0.52%)       | 60 (4.45%)   |
++------------+---------+---------+-----------------+--------------+
+| Ye’kwana   | 4304    |     829 | 13 (1.57%)      | 55 (6.63%)   |
++------------+---------+---------+-----------------+--------------+
+| Yawarana   | 4568    |     823 | 9 (1.09%)       | 66 (8.02%)   |
++------------+---------+---------+-----------------+--------------+
+
+What is reconstructible?
+
+-   Reconstructible Prior State: adjoined nouns, afterthought
+    constructions
+-   very common in Hixkaryána (Derbyshire 1985: 101-104, 129-135)
+
+()
+
+(a) Hixkaryána
+    (derbyshire-1965-p-052-the-origin-of-mawarye-and-woxka-235)
+    etenï  oske  n-ke-no           Woxka  y    0-ke-konï      hatï  mawarye  t-owtï         wya
+    wh.In  thus  3Sa-say-Pres:Dbt  Woxka  Voc  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat
+    ‘“What is (that) saying like that, Woxka,” said Mawarye to his
+    brother.’
+
+(b) Hixkaryána
+    (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040)
+    0-ahru-0-thuru       y-ahye-konï      xaryemna  ha
+    3-cover-Nzr-Pst:Pos  Rel-shake-DPst2  otter.sp  Intens
+    ‘The otter was shaking the stuff covering it.’
+
+(c) Hixkaryána
+    (derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
+    moyoro-no            mokyamo  ha      worïskomo  heno   ha      0-ke-konï      hatï  xaryemna  ha
+    different.place-Nzr  3AnRmCol     Intens  women          Quant  Intens  3Sa-say-DPst2  Hrsy  otter.sp  Intens
+    ‘“They (are) ones far away, the women,” said the otter.’
+
+-   Hixkaryana as modern exemplar
+    -   Afterthoughts are really common
+
+-   -   Different kinds of discontinuity
+        -   Major class words intervening
+        -   Phrasal/scope particles intervening (we don’t consider this
+            discontinuous, as not different from possessive
+            construction)
+
+Pattern 1
+
+-   Pattern 1: afterthoughts become less “separated” from clause
+    -   Data from Tiriyó showing afterthoughts (apparently w/o pauses)
+        -   Flag future work: checking sound files from Tiriyó
+    -   This is clearly what has happened in Panare VSO order (cite
+        Payne 1994 for frequencies, Gildea 2000 for mechanism)
+
+Pattern 2
+
+-   Pattern 2: coreferential nouns begin to cohere into something
+    resembling continuous NPs
+    -   [Dem + N] (also [N + Dem]?)
+        -   Data from Ye’kwana, Yawarana
+        -   May need to order these depending on what we find
+
+(3) Yawarana (ctorat-34)
+    ëkëtë  mërë  ëkï
+    where  3IN:MD    manioc.beer
+    ‘donde está el yaraki?’
+
+-   Adding other elements
+    -   Data from Akawaio
+
+Discussion
+
+-   Discussion (in place of conclusions)
+    -   Clearly there are discontinuities in the texts, and not all are
+        separated by pause/intonation contours
+    -   Not so clear that they instantiate a theoretical notion of “NP”
+    -   Not so clear that even continuous coreferring elements
+        instantiate a theoretical notion of NP
+    -   But one seems to be developing
+        -   [DEM N]
+        -   more elaborated in Akawaio (presumably influenced by
+            English)
+
+References
+
+-    Cáceres Arandia, Natalia. 2020. Yawarana FLEx project with
+    partially parsed and glossed texts and corresponding morpheme
+    lexicon from Natalia Cáceres Arandia’s own fieldwork. (Database in
+    the author’s possession.)
+-    Cáceres Arandia, Natalia. 2021. Ye’kwana toolbox database.
+-    Caesar-Fox, Desrey Clementine. 2003. Akawaio Toolbox Database.
+-    Derbyshire, Desmond C. 1965. Textos Hixkaryâna. (Publicações
+    Avulsas, 3.) MPEG, Publicações Avulsas. Belém: MPEG.
+-    Gildea, Spike. 2000. On the Genesis of the Verb Phrase in Cariban
+    Languages: Diversity through Reanalysis. In Gildea, Spike (ed.),
+    Reconstructing Grammar, 65–106. Amsterdam: John Benjamins.
+-    Derbyshire, Desmond C. 1985. Hixkaryana and Linguistic Typology.
+    Dallas: Summer Institute of Linguistics.
+-    Meira, Sérgio. 2022. Hixkaryána shoebox database.
+-    Meira, Sérgio. 2022. Tiriyó shoebox database.
+-    Payne, Doris L. 1993. Nonconfigurationality and discontinuous
+    expressions in Panare. In Peterson, David A. (ed.), Proceedings of
+    the Nineteenth Annual Meeting of the Berkeley Linguistics Society:
+    Special Session on Syntactic Issues in Native American Languages,
+    121–138. Berkeley: Braun-Brumfield.
+-    Payne, Doris L. 1994. OVSu versus VSuO in Panare (Cariban): Do
+    syntax and discourse match?. Text: Interdisciplinary Journal for the
+    Study of Discourse 14. 581–610.

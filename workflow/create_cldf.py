@@ -32,14 +32,16 @@ full = len(sys.argv) > 1
 #         lg_records[lg] = records.fillna("")
 
 df = pd.read_csv("data/dataset.csv", keep_default_na=False)
-found_refs = ["payne1993nonconfigurationality"]
+with open("data/sources.txt", "r") as f:
+    found_refs = f.read().split("\n")
 
 split_cols = [
-        "Analyzed_Word",
-        "Analyzed_Word_Morphemes",
-        "Gloss",
-        "Part_Of_Speech",
-    ]
+    "Analyzed_Word",
+    "Analyzed_Word_Morphemes",
+    "Gloss",
+    "Part_Of_Speech",
+]
+
 
 def collect_refs(s):
     if s != "":
@@ -59,11 +61,16 @@ def add_audio(writer, rec):
         )
         return rec["ID"]
 
+
 def add_positions(rec):
     if rec["Positions"] != "":
         positions = [int(x) - 1 for x in rec["Positions"].split(",")]
-        rec["Analyzed_Word"] = ["**" + x + "**" if i in positions else x for i, x in enumerate(rec["Analyzed_Word"])]
+        rec["Analyzed_Word"] = [
+            "**" + x + "**" if i in positions else x
+            for i, x in enumerate(rec["Analyzed_Word"])
+        ]
     return rec
+
 
 panare = pd.read_csv("data/panare.csv")
 panare["Language_ID"] = "pan"
@@ -163,7 +170,7 @@ with CLDFWriter(
             rec["Media_ID"] = rec["ID"]
         writer.objects["ExampleTable"].append(rec)
     for rec in panare.to_dict("records"):
-        writer.objects["ExampleTable"].append(rec)        
+        writer.objects["ExampleTable"].append(rec)
     for lg in set(df["Language_ID"]):
         writer.objects["LanguageTable"].append(meta.get_lg(lg))
     writer.objects["LanguageTable"].append(meta.get_lg("pan"))

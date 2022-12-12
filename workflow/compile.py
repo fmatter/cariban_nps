@@ -1,20 +1,21 @@
 import pandas as pd
 import yaml
+from pathlib import Path
 
 lg_list = ["tri", "hix", "aka", "mak", "yab"]
 
 
 def typify(rec):
-    string = rec["Order"]
-    if "DEM" in string and "N" in string:
+    parts = rec["Order"].split(" ")
+    if "DEM" in parts and "N" in parts:
         return "DEM+N"
-    elif string.count("N") > 1:
+    elif "N" in parts and "Nmod" in parts:
         return "N+N"
-    elif "ADV" in string:
+    elif "ADV" in parts:
         return "ADV+N"
-    elif "NUM" in string:
+    elif "NUM" in parts:
         return "NUM+N"
-    elif string == "DEM DEM":
+    elif parts == "DEM DEM":
         return "DEM+DEM"
     else:
         raise ValueError(rec)
@@ -29,7 +30,12 @@ def resolve_pattern(rec):
         or rec["Pattern"].startswith("ADV")
     ):
         raise ValueError(rec)
-    if "POSP" in rec["Pattern"] or "Vt" in rec["Pattern"] or rec["Role"] == "possr" or "ERG" in rec["Pattern"]:
+    if (
+        "POSP" in rec["Pattern"]
+        or "Vt" in rec["Pattern"]
+        or rec["Role"] == "possr"
+        or "ERG" in rec["Pattern"]
+    ):
         rec["Argument"] = True
     else:
         rec["Argument"] = False
@@ -53,11 +59,20 @@ def resolve_pattern(rec):
     rec["Discontinuous"] = discont
     return rec
 
-repl_shorthand = {"trans": "Translated_Text", "gloss": "Gloss", "obj": "Analyzed_Word", "surf": "Primary_Text", "pos": "Part_Of_Speech"}
+
+repl_shorthand = {
+    "trans": "Translated_Text",
+    "gloss": "Gloss",
+    "obj": "Analyzed_Word",
+    "surf": "Primary_Text",
+    "pos": "Part_Of_Speech",
+}
 with open("data/replace.yaml", "r") as f:
     repl = yaml.load(f, Loader=yaml.SafeLoader)
 
 ex_cnt = {}
+
+
 def get_ex_id(rec):
     if rec["Example_ID"] not in ex_cnt:
         ex_cnt[rec["Example_ID"]] = 0
@@ -66,6 +81,8 @@ def get_ex_id(rec):
         ex_cnt[rec["Example_ID"]] += 1
         return rec["Example_ID"] + f"-{ex_cnt[rec['Example_ID']]}"
 
+
+count_stats = []
 dfs = []
 for lg in lg_list:
     print(lg)
@@ -90,13 +107,26 @@ for lg in lg_list:
 
     ann = ann.apply(lambda x: resolve_pattern(x), axis=1)
 
+    noun_count = full["Noun_Count"].sum()
+    word_count = full["Word_Count"].sum()
+
     full = ann.merge(
         full, left_on="Example_ID", right_on="ID", suffixes=("", "_corpus")
     )
     full = full[~((full["Pattern"] == "") & (full["Comment"] == ""))]
 
-    print(len(full[full["Pattern"] != ""]))
-    print(len(full[full["Pattern"] != ""]) / full["Noun_Count"].sum())
+    discont_count = len(full[(full["Pattern"] != "") & (full["Discontinuous"])])
+    pseudo_count = len(full[full["Pattern"] != ""])
+
+    count_stats.append(
+        {
+            "Language": f"[lg]({lg})",
+            "Words": word_count,
+            "Nouns": noun_count,
+            "Discontinuous": f"{discont_count} ({discont_count/noun_count:.2%})",
+            "Pseudo-NPs": f"{pseudo_count} ({pseudo_count/noun_count:.2%})",
+        }
+    )
 
     target_cols = [
         "ID",
@@ -135,6 +165,8 @@ df = pd.concat(dfs)
 fix_cols = ["Analyzed_Word", "Gloss", "Part_Of_Speech"]
 for col in fix_cols:
     df[col] = df[col].replace("\*\*\*", "…", regex=True)
+
+
 def add_positions(rec):
     if rec["Positions"] != "":
         positions = [int(x) - 1 for x in rec["Positions"].split(",")]
@@ -160,7 +192,19 @@ dc = temp[(temp["Intervening"] == "") & (temp["Discontinuous"])]
 if len(dc) > 0:
     print(dc)
 
+
+TABLES = Path("docs/np-discont-slides/tables")
+
+
+def save_table(df, name):
+    df.to_csv(TABLES / f"{name}.csv", index=False)
+
+
+count_df = pd.DataFrame.from_dict(count_stats)
+save_table(count_df, "basic-counts")
+
 df = df.apply(lambda x: add_positions(x), axis=1)
 
-print(pd.crosstab(df["Order"], [df["Language_ID"]]))
 df.to_csv("data/dataset.csv", index=False)
+
+print(pd.crosstab(df["Type"], [df["Language_ID"]]))
