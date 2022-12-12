@@ -132,7 +132,9 @@ for lg in lg_list:
 
 df = pd.concat(dfs)
 
-
+fix_cols = ["Analyzed_Word", "Gloss", "Part_Of_Speech"]
+for col in fix_cols:
+    df[col] = df[col].replace("\*\*\*", "…", regex=True)
 def add_positions(rec):
     if rec["Positions"] != "":
         positions = [int(x) - 1 for x in rec["Positions"].split(",")]

@@ -36,13 +36,13 @@
         2.  [N+N](#n-n)
     4.  [Ye’kwana](#ye-kwana)
         1.  [DEM+N](#dem-n)
-        2.  [N+N](#n-n)
-        3.  [DEM+DEM](#dem-dem)
+        2.  [DEM+DEM](#dem-dem)
+        3.  [N+N](#n-n)
         4.  [ADV+N](#adv-n)
     5.  [Yawarana](#yawarana)
         1.  [DEM+N](#dem-n)
-        2.  [ADV+N](#adv-n)
-        3.  [N+N](#n-n)
+        2.  [N+N](#n-n)
+        3.  [ADV+N](#adv-n)
 3.  [Open questions](#open-questions)
     1.  [Akawaio](#akawaio)
     2.  [Ye’kwana](#ye-kwana)
@@ -97,9 +97,9 @@
 > (minidisc-xxx-torohpe-iwehtoponpe-002) Tiriyó (Meira 2022)
 > <pre>
 > <i>Ma, irëme wëene, ipërih=tae anja eekuhpë, ahn..., atï irë, Kuruni.</i>  
-> ma   irëme w-ëe-ne       **ipërih** tae   **anja** **0-eeku-hpë** *** atï   irë    Kuruni
-> Attn so    1Sa-come-DPst creek      along 1+3      3-stream-P.pst *** wh.In 3InAna Kuruni  
-> Ptc  Ptc   V             N          Pp    Pro      N              …   Intrg Pro    N     
+> ma   irëme w-ëe-ne       **ipërih** tae   **anja** **0-eeku-hpë** … atï   irë    Kuruni
+> Attn so    1Sa-come-DPst creek      along 1+3      3-stream-P.pst … wh.In 3InAna Kuruni  
+> Ptc  Ptc   V             N          Pp    Pro      N              … Intrg Pro    N     
 > ‘Well, then I came, along the creeks/tribuaries, our old river... what-do-you-call-it, the Kuruni (Coeroeni).  ’</pre>
 
 ### PART
@@ -530,7 +530,7 @@
 > irë-npë    pëe  **wewe** **t-oota-ke-n**   pëe  t-V:-e-pataka-e          jeepurutu
 > 3InAna-Pst from tree     T-hole-Having-Ent from Pst-Sa-Detr-take.out-Pst owl.sp     
 > Pro        Pp   N        N                 Pp   V                        N        
-> ‘Then from the tree with a whole came, an owl,  ’</pre>
+> ‘Then from the tree with a hole came an owl.’</pre>
 
 > (dados-09-kereramake-p-033-075) Tiriyó (Meira 2022)
 > <pre>
@@ -1018,9 +1018,9 @@
 > (ctoabjpic-027) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
 > <i>Tüw- tüwü wanö etü küna'jaakö yaawö, Tajööju.</i>  
-> *****-tüwü** **wanö** e-ötü-0           kün-a'ja-aakö yaawö    Tajööju
-> ***-3.SG     abeja    REL-nombre-POSS.3 3.PAS-COP-PDI entonces Tajööju  
-> ***-pro      n        n                 v.i.a         ptc      n      
+> **…-tüwü** **wanö** e-ötü-0           kün-a'ja-aakö yaawö    Tajööju
+> …-3.SG     abeja    REL-nombre-POSS.3 3.PAS-COP-PDI entonces Tajööju  
+> …-pro      n        n                 v.i.a         ptc      n      
 > ‘El nombre de la abeja era Tajööju.’</pre>
 
 > (ctoabjpic-051) Ye’kwana (Cáceres Arandia 2021)
@@ -1303,16 +1303,6 @@
 > pro     n            Pro n                conj    
 > ‘Aquello era bonito nuestra vida’</pre>
 
-### N+N
-
-> (ctoabjpic-035) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>Aakö tünküi künenüntöi iyö.</i>  
-> **aakö** **tünküi** kün-enüntö-i               iyö  
-> dos      sebucán    3/3.PAS-llenar_sebucán-PRP DEMin  
-> num      n          v.t.                       pro  
-> ‘Lo puso en dos sebucanes.’</pre>
-
 ### DEM+DEM
 
 > (descbuscmat-132) Ye’kwana (Cáceres Arandia 2021)
@@ -1322,6 +1312,16 @@
 > cocuyo SHR-tomar-PAS.NZR PTCP.INTR-COP-PTCPe 3.SG     DEM2in    
 > n      nzr-v.t-nzr       adv                 pro      pro     
 > ‘¿Esos también hay chupado por cocuyo?’</pre>
+
+### N+N
+
+> (ctoabjpic-035) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>Aakö tünküi künenüntöi iyö.</i>  
+> **aakö** **tünküi** kün-enüntö-i               iyö  
+> dos      sebucán    3/3.PAS-llenar_sebucán-PRP DEMin  
+> num      n          v.t.                       pro  
+> ‘Lo puso en dos sebucanes.’</pre>
 
 ### ADV+N
 
@@ -1673,24 +1673,6 @@
 > pro      sus         post vi            prt    pro 
 > ‘‘tal vez se metió en el monte’’</pre>
 
-### ADV+N
-
-> (descmensgrme-4) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>wïrë takï kërë nwa ma rë wïrë ijpë pïnirë asakë semana</i>  
-> wïrë takï  kërë   nwa  ma    rë   wïrë i-jpë   pïnirë **asakë** **semana**
-> 1SG  CNFRM 3AN:MD thus RESTR EMPH 1SG  put-PST NEG    two       week        
-> pro  prt   pro    prt  prt   prt  pro  vt      prt    adv       sus       
-> ‘‘yo misma, no la dejé así no más, dos semanas’’</pre>
-
-> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>petomyakërë kanajmunu katupumasapë</i>  
-> **petomyakërë** **kanajmunu** katupuma-sapë
-> three           hill          group-ABS.NZR  
-> adv             sus           sus          
-> ‘‘estaban tres montones grandes amontonados’’</pre>
-
 ### N+N
 
 > (descmensgrme-10) Yawarana (Cáceres Arandia 2020)
@@ -1796,6 +1778,24 @@
 > house    old         LOC  dance-IPFV-PL   like COP-PERF mouse   
 > sus      sus         post vi              prt  vi       sus   
 > ‘‘en la casa vieja es que estaba bailando la rata’’</pre>
+
+### ADV+N
+
+> (descmensgrme-4) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>wïrë takï kërë nwa ma rë wïrë ijpë pïnirë asakë semana</i>  
+> wïrë takï  kërë   nwa  ma    rë   wïrë i-jpë   pïnirë **asakë** **semana**
+> 1SG  CNFRM 3AN:MD thus RESTR EMPH 1SG  put-PST NEG    two       week        
+> pro  prt   pro    prt  prt   prt  pro  vt      prt    adv       sus       
+> ‘‘yo misma, no la dejé así no más, dos semanas’’</pre>
+
+> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>petomyakërë kanajmunu katupumasapë</i>  
+> **petomyakërë** **kanajmunu** katupuma-sapë
+> three           hill          group-ABS.NZR  
+> adv             sus           sus          
+> ‘‘estaban tres montones grandes amontonados’’</pre>
 
 # Open questions
 
