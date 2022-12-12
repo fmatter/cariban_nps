@@ -10,12 +10,14 @@ def typify(rec):
     if "DEM" in parts and "N" in parts:
         return "DEM+N"
     elif "N" in parts and "Nmod" in parts:
-        return "N+N"
+        return "Nmod+N"
     elif "ADV" in parts:
         return "ADV+N"
     elif "NUM" in parts:
         return "NUM+N"
-    elif parts == "DEM DEM":
+    elif parts.count("N") > 1:
+        return "N+N"
+    elif parts == ["DEM", "DEM"]:
         return "DEM+DEM"
     else:
         raise ValueError(rec)
@@ -207,4 +209,9 @@ df = df.apply(lambda x: add_positions(x), axis=1)
 
 df.to_csv("data/dataset.csv", index=False)
 
-print(pd.crosstab(df["Type"], [df["Language_ID"]]))
+for k, type_df in df.groupby("Type"):
+    print(k)
+    print(type_df)
+    print(pd.crosstab(type_df["Order"], [type_df["Language_ID"]]))
+
+# print(df[df["Order"] == "N N"])

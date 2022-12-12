@@ -5,7 +5,7 @@ convwho-014,n,,,,,,
 convwho-020,n,,,,,,
 convwho-022,n,,,,,,
 convwho-025,n,,,,,,
-convwho-028,part,'did you bring *good lightbulbs*?’,N PART N,p,inan,"1,3",ka
+convwho-028,part,'did you bring *good lightbulbs*?’,Nmod PART N,p,inan,"1,3",ka
 convwho-031,part,,NUM PART N,p,inan,"1,3",tü
 convwho-044,n,,,,,,
 convwho-047,n,,,,,,
@@ -69,7 +69,7 @@ convchur-004,n,,,,,,
 convchur-005,n,,,,,,
 convchur-006,n,,,,,,
 convchur-008,y,,N adv DEM,p,inan,"3,5",
-convchur-009,y,"*aneija ... yadanawi*, *mödöje* modifying the thinking",N adv N,s,hum,"1,3",
+convchur-009,y,"*aneija ... yadanawi*, *mödöje* modifying the thinking",Nmod adv N,s,hum,"1,3",
 convchur-010,n,,,,,,
 convchur-011,?,what does *mööyö* refer to? Audio says: missing material,,,,,
 convchur-015,n,,,,,,
