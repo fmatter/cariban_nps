@@ -78,13 +78,17 @@ for lg in lg_list:
         texts, left_on="Text_ID", right_on="ID", how="left", suffixes=("", "_texts")
     )
     full["Language_ID"] = lg
+    full["Word_Count"] = full["Analyzed_Word"].apply(lambda x: len(x.split("\t")))
+
     ann = ann.apply(lambda x: resolve_pattern(x), axis=1)
 
     full = ann.merge(
         full, left_on="Example_ID", right_on="ID", suffixes=("", "_corpus")
     )
     full = full[~((full["Pattern"] == "") & (full["Comment"] == ""))]
-    # full = full[~(full["Value"].isin(["n", "?"]))]
+
+    print(len(full[full["Pattern"] != ""]))
+    print(len(full[full["Pattern"] != ""]) / full["Noun_Count"].sum())
 
     target_cols = [
         "ID",
@@ -131,11 +135,20 @@ def add_positions(rec):
         rec["Analyzed_Word"] = words
     return rec
 
-print(df[(df["Intervening"] == "PART") & (df["Particle"] == "")])
-print(df[(df["Role"] != "p") & (df["Pattern"].str.contains("Vt"))])
-print(df[(df["Role"] != "obl") & (df["Pattern"].str.contains("POSTP"))])
+
+pc = df[(df["Intervening"] == "PART") & (df["Particle"] == "")]
+if len(pc) > 0:
+    print(pc)
+tc = df[(df["Role"] != "p") & (df["Pattern"].str.contains("Vt"))]
+if len(tc) > 0:
+    print(tc)
+oc = df[(df["Role"] != "obl") & (df["Pattern"].str.contains("POSTP"))]
+if len(oc) > 0:
+    print(oc)
 temp = df[df["Pattern"] != ""]
-print(temp[(temp["Intervening"] == "") & (temp["Discontinuous"])])
+dc = temp[(temp["Intervening"] == "") & (temp["Discontinuous"])]
+if len(dc) > 0:
+    print(dc)
 
 df = df.apply(lambda x: add_positions(x), axis=1)
 # print(df)
