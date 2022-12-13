@@ -31,7 +31,7 @@
 * very common in [lg](hix) [psrc](hixkaryanaderby1985[101-104, 129-135])
 
 [ex](derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040,
-derbyshire-1965-p-052-the-origin-of-mawarye-and-woxka-235,
+derbyshire-1965-p-040-the-buzzard-people-and-their-servant-the-sloth-109,
 derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
 
    *  Hixkaryana as modern exemplar
@@ -48,7 +48,7 @@ derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
       * Flag future work: checking sound files from Tiriyó
    * This is clearly what has happened in Panare VSO order (cite [src](payne1994ovs) for frequencies, [src](gildea2000vpgenesis) for mechanism)
 
-[table](lg_type)
+[todo](trio afterthoughts)
 
 # Pattern 2
 * Pattern 2: coreferential nouns begin to cohere into something resembling continuous NPs

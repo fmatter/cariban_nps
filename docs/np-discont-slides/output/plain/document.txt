@@ -67,11 +67,10 @@ What is reconstructible?
 ()
 
 (a) Hixkaryána
-    (derbyshire-1965-p-052-the-origin-of-mawarye-and-woxka-235)
-    etenï  oske  n-ke-no           Woxka  y    0-ke-konï      hatï  mawarye  t-owtï         wya
-    wh.In  thus  3Sa-say-Pres:Dbt  Woxka  Voc  3Sa-say-DPst2  Hrsy  Mawarye  3R-sm.sx.sblg  Dat
-    ‘“What is (that) saying like that, Woxka,” said Mawarye to his
-    brother.’
+    (derbyshire-1965-p-040-the-buzzard-people-and-their-servant-the-sloth-109)
+    onï    ha      t-ïm-ko         ha      oy-eheka   wya  ha      0-ke-konï      hatï
+    3InPx  Intens  Gen-give-Imper  Intens  2-brother  Dat  Intens  3Sa-say-DPst2  Hrsy
+    ‘“Give this to your brother,” he said.’
 
 (b) Hixkaryána
     (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040)
@@ -101,25 +100,6 @@ Pattern 1
         -   Flag future work: checking sound files from Tiriyó
     -   This is clearly what has happened in Panare VSO order (cite
         Payne 1994 for frequencies, Gildea 2000 for mechanism)
-
-+-------------+---+-------+---------+-------+------+-------+--------+
-| Language_ID |   | ADV+N | DEM+DEM | DEM+N | N+N  | NUM+N | Nmod+N |
-+=============+===+=======+=========+=======+======+=======+========+
-| aka         | 5 |       |         |       |      |       |        |
-|             | 3 |     4 |       0 |    46 |    0 |     3 |      7 |
-+-------------+---+-------+---------+-------+------+-------+--------+
-| hix         | 3 |       |         |       |      |       |        |
-|             | 5 |     0 |       0 |     3 |    1 |     0 |      0 |
-+-------------+---+-------+---------+-------+------+-------+--------+
-| mak         | 2 |       |         |       |      |       |        |
-|             | 5 |     1 |       2 |    46 |    0 |     3 |      3 |
-+-------------+---+-------+---------+-------+------+-------+--------+
-| tri         | 1 |       |         |       |      |       |        |
-|             | 1 |     0 |       0 |    17 |    2 |     0 |      5 |
-+-------------+---+-------+---------+-------+------+-------+--------+
-| yab         | 1 |       |         |       |      |       |        |
-|             | 2 |     2 |       0 |    47 |    2 |     0 |     15 |
-+-------------+---+-------+---------+-------+------+-------+--------+
 
 Pattern 2
 

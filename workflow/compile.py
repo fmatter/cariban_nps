@@ -59,7 +59,13 @@ def resolve_pattern(rec):
     if " " in discont_kind:
         discont_kind = "multiple"
     rec["Intervening"] = discont_kind
-    rec["Discontinuous"] = discont
+    if discont:
+        if discont_kind == "PART":
+            rec["Discontinuous"] = "Particle"
+        else:
+            rec["Discontinuous"] = "Yes"
+    else:
+        rec["Discontinuous"] = "No"
     return rec
 
 split_cols = ["Analyzed_Word", "Gloss", "Part_Of_Speech"]
