@@ -26,31 +26,41 @@ Introduction: Panare
 
 Introduction: Panare
 
--   order is flexible (Payne 1993: 128):
+-   flexible order (Payne 1993: 128):
     -   arakon asa’ / asa’ arakon ‘two monkeys’
     -   arakon ta’meñe / ta’meñe arakon ‘many monkeys’
     -   sïj perikura ‘this movie’, kamicha sïj ‘this shirt’
--   Claim: discontinuous NP = coreferential adjoined nouns
--   Our question: in what sense is this an NP?
--   we looked at corpora from five Cariban languages, 1000 records each:
+-   claim: discontinuous NP = coreferential adjoined nouns
+-   our question: in what sense is this an NP?
+-   we looked at corpora from five Cariban languages, each 1000 records:
     -   Tiriyó (Meira 2022)
     -   Hixkaryána (Derbyshire 1965 via Meira 2022)
     -   Ye’kwana (Cáceres Arandia 2021)
     -   Akawaio (Caesar-Fox 2003)
     -   Yawarana (Cáceres Arandia 2020)
+-   first finding: rare
 
-(2) Yawarana (conv1stenc-33)
-    nwarë  yapijtom  pano  wëjka-pëj-topo-jpë      takï   mërë
-    thus   old           late  fall-PLAC-CIRC-PST.PSN  CNFRM  3IN:MD
-    ‘así, eso es donde se cayó el finado viejo’
++------------+---------+---------+-----------------+--------------+
+| Language   | Words   | Nouns   | Discontinuous   | Pseudo-NPs   |
++============+=========+=========+=================+==============+
+| Tiriyó     | 6641    | 1807    | 12 (0.66%)      | 27 (1.49%)   |
++------------+---------+---------+-----------------+--------------+
+| Hixkaryána | 4822    |     725 | 2 (0.28%)       | 4 (0.55%)    |
++------------+---------+---------+-----------------+--------------+
+| Akawaio    | 7394    | 1347    | 12 (0.89%)      | 69 (5.12%)   |
++------------+---------+---------+-----------------+--------------+
+| Ye’kwana   | 4297    |     828 | 13 (1.57%)      | 55 (6.64%)   |
++------------+---------+---------+-----------------+--------------+
+| Yawarana   | 4568    |     823 | 10 (1.22%)      | 73 (8.87%)   |
++------------+---------+---------+-----------------+--------------+
 
-Sample
+Investigated languages
 
-[Investigated languages]
+[Treemap]
 
 What is reconstructible?
 
--   Reconstructible Prior State: adjoined nouns, afterthought
+-   reconstructible prior state: adjoined nouns, afterthought
     constructions
 -   very common in Hixkaryána (Derbyshire 1985: 101-104, 129-135)
 
@@ -65,8 +75,8 @@ What is reconstructible?
 
 (b) Hixkaryána
     (derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040)
-    [  0-ahru-0-thuru       y-ahye-konï      ]VP  [  xaryemna  ]NP  ha
-    3-cover-Nzr-Pst:Pos  Rel-shake-DPst2                     otter.sp                  Intens
+    0-ahru-0-thuru       y-ahye-konï      xaryemna  ha
+    3-cover-Nzr-Pst:Pos  Rel-shake-DPst2  otter.sp  Intens
     ‘The otter was shaking the stuff covering it.’
 
 (c) Hixkaryána
@@ -119,7 +129,7 @@ Pattern 2
         -   Data from Ye’kwana, Yawarana
         -   May need to order these depending on what we find
 
-(4) Yawarana (ctorat-34)
+(3) Yawarana (ctorat-34)
     ëkëtë  mërë  ëkï
     where  3IN:MD    manioc.beer
     ‘donde está el yaraki?’

@@ -65,6 +65,14 @@ for lg in lgs:
                 continue
             output.append(f"""* {rec["Comment"]}\n[ex]({rec["ID"]}?with_primaryText)""")
 
+output.append("# Other")
+for lg in lgs:
+    temp = df[(df["Language_ID"] == lg) & (df["Pattern"] == "") & (df["Comment"] != "")]
+    if len(cont) == 0:
+        continue
+    output.append(f"## [lg]({lg})")
+    for rec in temp.to_dict("records"):
+        output.append(f"""* {rec['Comment']}\n[ex]({rec["ID"]}?with_primaryText)""")
 
 # pos_overview = {}
 # np_overview = {}

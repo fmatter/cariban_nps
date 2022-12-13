@@ -6,30 +6,28 @@
 
 # Introduction: [lg](pan)
 
-* order is flexible [psrc](payne1993nonconfigurationality[128]):
+* flexible order [psrc](payne1993nonconfigurationality[128]):
     * *arakon asa'* / *asa' arakon* 'two monkeys'
     * *arakon ta'meñe* / *ta'meñe arakon* 'many monkeys'
     * *sïj perikura* 'this movie', *kamicha sïj* 'this shirt'
-
-* Claim: discontinuous NP = coreferential adjoined nouns [todo](what?)
-* Our question: in what sense is this an NP? [todo](who said that?)
-* we looked at corpora from five Cariban languages, 1000 records each:
+* claim: discontinuous NP = coreferential adjoined nouns [todo](what?)
+* our question: in what sense is this an NP? [todo](who said that?)
+* we looked at corpora from five Cariban languages, each 1000 records:
     * [lg](tri) [psrc](meiraDBtrio)
     * [lg](hix) ([src](derbyshire1965textos) via [src](meiraDBhixka))
     * [lg](mak) [psrc](caceresDByekwana)
     * [lg](aka) [psrc](caesarDBakawaio)
     * [lg](yab) [psrc](caceres2020flex)
 [todo](what kind of count do we show here?)
-
-[ex](conv1stenc-33)
-
+* first finding: rare
+[table](basic-counts)
 [todo](Outline of the talk from here)
 
-# Sample
-![Investigated languages](figures/map.svg)
+# Investigated languages
+![Treemap](figures/map.svg)
 
 # What is reconstructible?
-*  Reconstructible Prior State: adjoined nouns, afterthought constructions [todo](did you mean "coreferential" here? )
+*  reconstructible prior state: adjoined nouns, afterthought constructions [todo](did you mean "coreferential" here? )
 * very common in [lg](hix) [psrc](hixkaryanaderby1985[101-104, 129-135])
 
 [ex](derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040,
