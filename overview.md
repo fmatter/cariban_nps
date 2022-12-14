@@ -35,19 +35,19 @@
         3.  [Nmod+N](#nmod-n)
     3.  [Akawaio](#akawaio)
         1.  [NUM+N](#num-n)
-        2.  [DEM+N](#dem-n)
-        3.  [ADV+N](#adv-n)
+        2.  [ADV+N](#adv-n)
+        3.  [DEM+N](#dem-n)
         4.  [Nmod+N](#nmod-n)
     4.  [Ye’kwana](#ye-kwana)
         1.  [ADV+N](#adv-n)
-        2.  [N+N](#n-n)
-        3.  [NUM+N](#num-n)
-        4.  [DEM+N](#dem-n)
-        5.  [DEM+DEM](#dem-dem)
+        2.  [DEM+DEM](#dem-dem)
+        3.  [DEM+N](#dem-n)
+        4.  [NUM+N](#num-n)
+        5.  [N+N](#n-n)
     5.  [Yawarana](#yawarana)
         1.  [NUM+N](#num-n)
-        2.  [DEM+N](#dem-n)
-        3.  [ADV+N](#adv-n)
+        2.  [ADV+N](#adv-n)
+        3.  [DEM+N](#dem-n)
         4.  [Nmod+N](#nmod-n)
 3.  [Open questions](#open-questions)
     1.  [Akawaio](#akawaio)
@@ -400,14 +400,6 @@
 > n          ad     n            n                   v.i.a n           ad     pro   
 > ‘otros criollos piensan así, el criollo es así’</pre>
 
-> (convchur-009-1) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>aneija mödöje yadanawi chü'tajötüdü na, yadanawi mödöjemmödö</i>  
-> aneija mödöje yadanawi    i-tü'tajötü-dü      na    **yadanawi** mödöje **mödö**
-> otro   así    no_indígena INTR.C-pensar-NZR.1 3.COP no_indígena  así    DEM2in    
-> n      ad     n           n                   v.i.a n            ad     pro     
-> ‘otros criollos piensan así, el criollo es así’</pre>
-
 ## Yawarana
 
 ### multiple
@@ -689,6 +681,32 @@
 > 3Sg.Anim I.don't.know ten     QP    find-Perf-3-Erg Neg 3.be.Pres  
 > Pro      Prtcl        Prtcl   Prtcl Vt              Adv Vi       
 > ‘Who she? I don't know, maybe she has been there for ten years’</pre>
+
+### ADV+N
+
+> (ra-personal-narrative-208) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tri gaijarö imunggö amök ennaga'sak tugaik etauya</i>  
+> **tri** **gaijarö** **mung-gö** amök  enna-gabï-zak    tugaik eda-u-ya  
+> three   in.number   nest-Imper  Pl    nose-Cmpltv-Perf like   hear-1-Erg  
+> Prtcl   Adv         N           Prtcl N                P      Vt        
+> ‘I have heard that she has three children’</pre>
+
+> (ra-personal-narrative-246) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>seröbe tri gaijarö mö agï'sau'ya mörö sungwa</i>  
+> serö-be   **tri** **gaijarö** **mö** agïdï-zak-u-ya mörö  sungwa  
+> this-Attr three   in.number   farm   cut-Perf-1-Erg A.I.? far.away  
+> A         Prtcl   Adv         N      Vt             ?     Adv     
+> ‘Presently I have cut down three farms over there’</pre>
+
+> (ra-piya-ma-story-009) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïre amök mo'kabödï'pï iyaang, tri for gaijarö mïre amök arö iya.</i>  
+> mïre  amök  mo'ka-pödï-'pï      i-ya-ng     **tri** **for** **gaijarö** **mïre** amök  arö   i-ya 
+> child Pl    take.away-Iter-Past 3-Erg-Style three   four    in.number   child    Pl    carry 3-Erg  
+> N     Prtcl Vt                  Prs-P-?     Prtcl   Prtcl   Adv         N        Prtcl Vt    P    
+> ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
 
 ### DEM+N
 
@@ -1005,32 +1023,6 @@
 > N          Prtcl Prtcl Dem      N           P      Dem  Vt         P     Vi      N     P   N        Prtcl N           P   N        Prtcl
 > ‘Then she had made the charm that was placed onto a stick with a handle, it attached to the handle’</pre>
 
-### ADV+N
-
-> (ra-personal-narrative-208) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tri gaijarö imunggö amök ennaga'sak tugaik etauya</i>  
-> **tri** **gaijarö** **mung-gö** amök  enna-gabï-zak    tugaik eda-u-ya  
-> three   in.number   nest-Imper  Pl    nose-Cmpltv-Perf like   hear-1-Erg  
-> Prtcl   Adv         N           Prtcl N                P      Vt        
-> ‘I have heard that she has three children’</pre>
-
-> (ra-personal-narrative-246) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>seröbe tri gaijarö mö agï'sau'ya mörö sungwa</i>  
-> serö-be   **tri** **gaijarö** **mö** agïdï-zak-u-ya mörö  sungwa  
-> this-Attr three   in.number   farm   cut-Perf-1-Erg A.I.? far.away  
-> A         Prtcl   Adv         N      Vt             ?     Adv     
-> ‘Presently I have cut down three farms over there’</pre>
-
-> (ra-piya-ma-story-009) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mïre amök mo'kabödï'pï iyaang, tri for gaijarö mïre amök arö iya.</i>  
-> mïre  amök  mo'ka-pödï-'pï      i-ya-ng     **tri** **for** **gaijarö** **mïre** amök  arö   i-ya 
-> child Pl    take.away-Iter-Past 3-Erg-Style three   four    in.number   child    Pl    carry 3-Erg  
-> N     Prtcl Vt                  Prs-P-?     Prtcl   Prtcl   Adv         N        Prtcl Vt    P    
-> ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
-
 ### Nmod+N
 
 > (cc-praising-rhymes-6) Akawaio (Caesar-Fox 2003)
@@ -1101,25 +1093,15 @@
 > ad         n         n                     posp     
 > ‘una vez que toda la gente llega’</pre>
 
-### N+N
+### DEM+DEM
 
-> (ctotapmor-016) Ye’kwana (Cáceres Arandia 2021)
+> (descbuscmat-132) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
-> <i>yööje i'saa'se xxx "edö owoküdü susu" tüwö'dü'se küna'jaakö.</i>  
-> yööje 0-i'shaa-'se xxx edö    **o-wokü-dü**   **susu**       t-w-ö'dü-'se          kün-a'ja-aakö 
-> así   3O-pelar-DES xxx DEM1in 2-bebida-POSS.1 seno_con_leche 3.REFL-INTR-decir-DES 3S.PAS-COP-PDI  
-> ad    adv          xxx pro    n               n              adv                   v.i.a         
-> ‘así quiso mostrarle (pelar) xxx, quiso decir "!toma tu teta!".’</pre>
-
-### NUM+N
-
-> (ctoabjpic-035) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>Aakö tünküi künenüntöi iyö.</i>  
-> **aakö** **tünküi** kün-enüntö-i               iyö  
-> dos      sebucán    3/3.PAS-llenar_sebucán-PRP DEMin  
-> num      n          v.t.                       pro  
-> ‘Lo puso en dos sebucanes.’</pre>
+> <i>¿Kukuyu nenü'jüdü tüweiye tüwü mödö?</i>  
+> kukuyu n-enü-jüdü        tüw-ei-e            **tüwü** **mödö**
+> cocuyo SHR-tomar-PAS.NZR PTCP.INTR-COP-PTCPe 3.SG     DEM2in    
+> n      nzr-v.t-nzr       adv                 pro      pro     
+> ‘¿Esos también hay chupado por cocuyo?’</pre>
 
 ### DEM+N
 
@@ -1443,15 +1425,25 @@
 > pro     n            Pro n                conj    
 > ‘Aquello era bonito nuestra vida’</pre>
 
-### DEM+DEM
+### NUM+N
 
-> (descbuscmat-132) Ye’kwana (Cáceres Arandia 2021)
+> (ctoabjpic-035) Ye’kwana (Cáceres Arandia 2021)
 > <pre>
-> <i>¿Kukuyu nenü'jüdü tüweiye tüwü mödö?</i>  
-> kukuyu n-enü-jüdü        tüw-ei-e            **tüwü** **mödö**
-> cocuyo SHR-tomar-PAS.NZR PTCP.INTR-COP-PTCPe 3.SG     DEM2in    
-> n      nzr-v.t-nzr       adv                 pro      pro     
-> ‘¿Esos también hay chupado por cocuyo?’</pre>
+> <i>Aakö tünküi künenüntöi iyö.</i>  
+> **aakö** **tünküi** kün-enüntö-i               iyö  
+> dos      sebucán    3/3.PAS-llenar_sebucán-PRP DEMin  
+> num      n          v.t.                       pro  
+> ‘Lo puso en dos sebucanes.’</pre>
+
+### N+N
+
+> (ctotapmor-016) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>yööje i'saa'se xxx "edö owoküdü susu" tüwö'dü'se küna'jaakö.</i>  
+> yööje 0-i'shaa-'se xxx edö    **o-wokü-dü**   **susu**       t-w-ö'dü-'se          kün-a'ja-aakö 
+> así   3O-pelar-DES xxx DEM1in 2-bebida-POSS.1 seno_con_leche 3.REFL-INTR-decir-DES 3S.PAS-COP-PDI  
+> ad    adv          xxx pro    n               n              adv                   v.i.a         
+> ‘así quiso mostrarle (pelar) xxx, quiso decir "!toma tu teta!".’</pre>
 
 ## Yawarana
 
@@ -1512,6 +1504,16 @@
 > one            man              3-go-PFV.PST like there far    sleep-SUP  
 > adv            sus              vi           prt  adv   adv    vi       
 > ‘un hombre se fué allá, a dormir lejos’</pre>
+
+### ADV+N
+
+> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>petomyakërë kanajmunu katupumasapë</i>  
+> **petomyakërë** **kanajmunu** katupuma-sapë
+> three           hill          group-ABS.NZR  
+> adv             sus           sus          
+> ‘estaban tres montones grandes amontonados’</pre>
 
 ### DEM+N
 
@@ -1866,16 +1868,6 @@
 > 3SG      weeds       into enter-PFV.PST PROB   3SG   
 > pro      sus         post vi            prt    pro 
 > ‘tal vez se metió en el monte’</pre>
-
-### ADV+N
-
-> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>petomyakërë kanajmunu katupumasapë</i>  
-> **petomyakërë** **kanajmunu** katupuma-sapë
-> three           hill          group-ABS.NZR  
-> adv             sus           sus          
-> ‘estaban tres montones grandes amontonados’</pre>
 
 ### Nmod+N
 
