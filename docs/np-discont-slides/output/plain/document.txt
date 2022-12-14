@@ -60,11 +60,11 @@ Our study
 +------------+---------+---------+------------------+------------------+
 | Hixkaryána | 4822    |     725 | 4 (0.55%)        | 4 (0.55%)        |
 +------------+---------+---------+------------------+------------------+
-| Akawaio    | 7394    | 1347    | 70 (5.20%)       | 70 (5.20%)       |
+| Akawaio    | 7394    | 1347    | 67 (4.97%)       | 67 (4.97%)       |
 +------------+---------+---------+------------------+------------------+
-| Ye’kwana   | 4297    |     828 | 57 (6.88%)       | 57 (6.88%)       |
+| Ye’kwana   | 4297    |     828 | 56 (6.76%)       | 56 (6.76%)       |
 +------------+---------+---------+------------------+------------------+
-| Yawarana   | 4568    |     823 | 75 (9.11%)       | 75 (9.11%)       |
+| Yawarana   | 4568    |     823 | 74 (8.99%)       | 74 (8.99%)       |
 +------------+---------+---------+------------------+------------------+
 
 Investigated languages
@@ -171,8 +171,8 @@ Diachrony: prosodically integrated afterthoughts
 
 -   Pattern 1: afterthoughts become less “separated” from clause
     -   Data from Tiriyó showing afterthoughts (apparently w/o pauses)
-    -   This is clearly what has happened in Panare VSO order (cite
-        Payne 1994 for frequencies, Gildea 2000 for mechanism)
+    -   This is clearly what has happened in Panare VSO order
+        -   (cite Payne 1994 for frequencies, Gildea 2000 for mechanism)
 
 (3) Hixkaryána
     (derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)

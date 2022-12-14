@@ -25,24 +25,24 @@
         1.  [DEM+N](#dem-n)
     2.  [Tiriyó](#tiriyó)
         1.  [Nmod+N](#nmod-n)
-        2.  [DEM+N](#dem-n)
-        3.  [NUM+N](#num-n)
+        2.  [NUM+N](#num-n)
+        3.  [DEM+N](#dem-n)
     3.  [Akawaio](#akawaio)
         1.  [Nmod+N](#nmod-n)
-        2.  [DEM+N](#dem-n)
-        3.  [ADV+N](#adv-n)
-        4.  [NUM+N](#num-n)
+        2.  [ADV+N](#adv-n)
+        3.  [NUM+N](#num-n)
+        4.  [DEM+N](#dem-n)
     4.  [Ye’kwana](#ye-kwana)
         1.  [ADV+N](#adv-n)
         2.  [NUM+N](#num-n)
-        3.  [N+N](#n-n)
-        4.  [DEM+N](#dem-n)
-        5.  [DEM+DEM](#dem-dem)
+        3.  [DEM+N](#dem-n)
+        4.  [DEM+DEM](#dem-dem)
+        5.  [N+N](#n-n)
     5.  [Yawarana](#yawarana)
         1.  [Nmod+N](#nmod-n)
-        2.  [DEM+N](#dem-n)
-        3.  [ADV+N](#adv-n)
-        4.  [NUM+N](#num-n)
+        2.  [ADV+N](#adv-n)
+        3.  [NUM+N](#num-n)
+        4.  [DEM+N](#dem-n)
 3.  [Apparent noun phrases but there are phrasal
     particles](#apparent-noun-phrases-but-there-are-phrasal-particles)
     1.  [Hixkaryána](#hixkaryána)
@@ -141,6 +141,14 @@
 ## Akawaio
 
 ### multiple
+
+> (ra-personal-narrative-263) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai mörö ji köik amök go'mangbödï'pï sa'ne ji prarö ji tauya mö se au ji zemo'kazak ke</i>  
+> mörö wenai   **mörö** ji    **köik** amök  ko'mamï-bödï-'pï sa'ne ji    bra-rö   y-eji ta-u-ya   mörö serö yau ji    semo'ka-zak  ke   
+> that because that     Emph  old.man  Pl    live-Iter-Past   Emph  Emph  Neg-Emph 3-be  say-1-Erg that this Loc Emph  grow.up-Perf Instr  
+> Dem  P       Dem      Prtcl N        Prtcl Vi               Prtcl Prtcl Prtcl    Vi    Vt        Dem  Pro  P   Prtcl Vi           P    
+> ‘That is why I say that the old customs of the old men is non existent, because I grew up here’</pre>
 
 > (ra-personal-narrative-206) Akawaio (Caesar-Fox 2003)
 > <pre>
@@ -338,6 +346,33 @@
 > N   DPro  V       N        N        Pp    N           Ptc    V                      V             
 > ‘(Ape) 'This one is... when it's on a big river, it turns,' (she) said.’</pre>
 
+### NUM+N
+
+> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-067) Tiriyó (Meira
+> 2022)
+> <pre>
+> <i>Ein wei=pona=rëken.</i>  
+> **ein** **wei** pona rëken
+> one     day     Dir  only   
+> N       N       Pp   Ptc  
+> ‘For only one day.’</pre>
+
+> (textos-01-asehpe-p-007-040) Tiriyó (Meira 2022)
+> <pre>
+> <i>ein nunnë, toisi=me nunnë iwehtuuwë,</i>  
+> **ein** **nunnë** toisi me  nunnë i-w-eh-tuuwë  
+> one     moon      two   Ess month 3-Sa-Cop-After  
+> N       N         N     Ptc N     A             
+> ‘after one or two months,  ’</pre>
+
+> (textos-01-asehpe-p-007-040-1) Tiriyó (Meira 2022)
+> <pre>
+> <i>ein nunnë, toisi=me nunnë iwehtuuwë,</i>  
+> ein nunnë **toisi** **me** **nunnë** i-w-eh-tuuwë  
+> one moon  two       Ess    month     3-Sa-Cop-After  
+> N   N     N         Ptc    N         A             
+> ‘after one or two months,  ’</pre>
+
 ### DEM+N
 
 > (dados-07-frog-story-marciano-p-089-037) Tiriyó (Meira 2022)
@@ -405,33 +440,6 @@
 > A     DPro     N            Pp      N    Ptc V                N     
 > ‘'Later the other one like this (= meeting), the Tiriyó/Indians will talk a lot.'’</pre>
 
-### NUM+N
-
-> (minidisc-xxx-oiapoque-pona-iitetoponpe-sep-2000-067) Tiriyó (Meira
-> 2022)
-> <pre>
-> <i>Ein wei=pona=rëken.</i>  
-> **ein** **wei** pona rëken
-> one     day     Dir  only   
-> N       N       Pp   Ptc  
-> ‘For only one day.’</pre>
-
-> (textos-01-asehpe-p-007-040) Tiriyó (Meira 2022)
-> <pre>
-> <i>ein nunnë, toisi=me nunnë iwehtuuwë,</i>  
-> **ein** **nunnë** toisi me  nunnë i-w-eh-tuuwë  
-> one     moon      two   Ess month 3-Sa-Cop-After  
-> N       N         N     Ptc N     A             
-> ‘after one or two months,  ’</pre>
-
-> (textos-01-asehpe-p-007-040-1) Tiriyó (Meira 2022)
-> <pre>
-> <i>ein nunnë, toisi=me nunnë iwehtuuwë,</i>  
-> ein nunnë **toisi** **me** **nunnë** i-w-eh-tuuwë  
-> one moon  two       Ess    month     3-Sa-Cop-After  
-> N   N     N         Ptc    N         A             
-> ‘after one or two months,  ’</pre>
-
 ## Akawaio
 
 ### Nmod+N
@@ -491,6 +499,82 @@
 > that place-Past into Elder    Kaskarang     come-Past that far.away Emph  1+3 be-while here   
 > Dem  N          P    N        N             Vi        Dem  Adv      Prtcl Pro Vi       Adv  
 > ‘Then to replace him elder Kaskarang came while we were somewhere around there’</pre>
+
+### ADV+N
+
+> (ra-personal-narrative-208) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tri gaijarö imunggö amök ennaga'sak tugaik etauya</i>  
+> **tri** **gaijarö** **mung-gö** amök  enna-gabï-zak    tugaik eda-u-ya  
+> three   in.number   nest-Imper  Pl    nose-Cmpltv-Perf like   hear-1-Erg  
+> Prtcl   Adv         N           Prtcl N                P      Vt        
+> ‘I have heard that she has three children’</pre>
+
+> (ra-personal-narrative-246) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>seröbe tri gaijarö mö agï'sau'ya mörö sungwa</i>  
+> serö-be   **tri** **gaijarö** **mö** agïdï-zak-u-ya mörö  sungwa  
+> this-Attr three   in.number   farm   cut-Perf-1-Erg A.I.? far.away  
+> A         Prtcl   Adv         N      Vt             ?     Adv     
+> ‘Presently I have cut down three farms over there’</pre>
+
+> (ra-piya-ma-story-009) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>mïre amök mo'kabödï'pï iyaang, tri for gaijarö mïre amök arö iya.</i>  
+> mïre  amök  mo'ka-pödï-'pï      i-ya-ng     **tri** **for** **gaijarö** **mïre** amök  arö   i-ya 
+> child Pl    take.away-Iter-Past 3-Erg-Style three   four    in.number   child    Pl    carry 3-Erg  
+> N     Prtcl Vt                  Prs-P-?     Prtcl   Prtcl   Adv         N        Prtcl Vt    P    
+> ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
+
+### NUM+N
+
+> (ae-personal-narrative-025) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tri years rï'kwö yeshi mörö, urö mïre rï'kwö laspang</i>  
+> **tri** **years** rï'kwö y-eji mörö  urö mïre  rï'kwö aspang  
+> three   years     Dim    3-be  A.I.? 1Sg child Dim    last.one  
+> Prtcl   N         Pro    Vi    ?     Pro N     Pro    N       
+> ‘She is three years old, my last little child’</pre>
+
+> (ps-duck-story-026) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>togodogo engurumïng... seau, tigingnö yöi ennogöiya</i>  
+> togodogo engurumï-ng serau **tiginnö** **yöi** ennogï-i-ya
+> owl      wait-Style  here  one         tree    send-3-Erg   
+> N        Vi-?        Adv   Prtcl       N       Vt         
+> ‘The owl wold just sit here, then he cut down one tree’</pre>
+
+> (ra-personal-narrative-262) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>möröwenai ko'mamï dauya mö tigingnö biada bra go'mamï</i>  
+> mörö wenai   ko'mamï ta-u-ya   mörö  **tiginnö** **i-pada** bra ko'mamï
+> that because live    say-1-Erg A.I.? one         3-place    Neg live     
+> Dem  P       Vi      Vt        ?     Prtcl       N          Adv Vi     
+> ‘That is why I live without one place of abode’</pre>
+
+> (ps-duck-story-029) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tigingnö yöi ennogöiya</i>  
+> **tiginnö** **yöi** ennogï-i-ya
+> one         tree    send-3-Erg   
+> Prtcl       N       Vt         
+> ‘He would cut down one tree’</pre>
+
+> (ra-personal-narrative-257) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>tigingnö miïre esh'pï</i>  
+> **tiginnö** **i-mïre** eji-'pï
+> one         3-child    be-Past  
+> Prtcl       N          Vi     
+> ‘She had only one child’</pre>
+
+> (ra-personal-narrative-222) Akawaio (Caesar-Fox 2003)
+> <pre>
+> <i>kïrö ewai'pa ten year bek ebozaikya bra nai?</i>  
+> kïrö     ewai'pa      **ten** bek   eboro-zak-i-ya  bra nai      
+> 3Sg.Anim I.don't.know ten     QP    find-Perf-3-Erg Neg 3.be.Pres  
+> Pro      Prtcl        Prtcl   Prtcl Vt              Adv Vi       
+> ‘Who she? I don't know, maybe she has been there for ten years’</pre>
 
 ### DEM+N
 
@@ -807,82 +891,6 @@
 > N          Prtcl Prtcl Dem      N           P      Dem  Vt         P     Vi      N     P   N        Prtcl N           P   N        Prtcl
 > ‘Then she had made the charm that was placed onto a stick with a handle, it attached to the handle’</pre>
 
-### ADV+N
-
-> (ra-personal-narrative-208) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tri gaijarö imunggö amök ennaga'sak tugaik etauya</i>  
-> **tri** **gaijarö** **mung-gö** amök  enna-gabï-zak    tugaik eda-u-ya  
-> three   in.number   nest-Imper  Pl    nose-Cmpltv-Perf like   hear-1-Erg  
-> Prtcl   Adv         N           Prtcl N                P      Vt        
-> ‘I have heard that she has three children’</pre>
-
-> (ra-personal-narrative-246) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>seröbe tri gaijarö mö agï'sau'ya mörö sungwa</i>  
-> serö-be   **tri** **gaijarö** **mö** agïdï-zak-u-ya mörö  sungwa  
-> this-Attr three   in.number   farm   cut-Perf-1-Erg A.I.? far.away  
-> A         Prtcl   Adv         N      Vt             ?     Adv     
-> ‘Presently I have cut down three farms over there’</pre>
-
-> (ra-piya-ma-story-009) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>mïre amök mo'kabödï'pï iyaang, tri for gaijarö mïre amök arö iya.</i>  
-> mïre  amök  mo'ka-pödï-'pï      i-ya-ng     **tri** **for** **gaijarö** **mïre** amök  arö   i-ya 
-> child Pl    take.away-Iter-Past 3-Erg-Style three   four    in.number   child    Pl    carry 3-Erg  
-> N     Prtcl Vt                  Prs-P-?     Prtcl   Prtcl   Adv         N        Prtcl Vt    P    
-> ‘He use to take away the children, sometimes three and four in number, he will take them away’</pre>
-
-### NUM+N
-
-> (ae-personal-narrative-025) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tri years rï'kwö yeshi mörö, urö mïre rï'kwö laspang</i>  
-> **tri** **years** rï'kwö y-eji mörö  urö mïre  rï'kwö aspang  
-> three   years     Dim    3-be  A.I.? 1Sg child Dim    last.one  
-> Prtcl   N         Pro    Vi    ?     Pro N     Pro    N       
-> ‘She is three years old, my last little child’</pre>
-
-> (ps-duck-story-026) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>togodogo engurumïng... seau, tigingnö yöi ennogöiya</i>  
-> togodogo engurumï-ng serau **tiginnö** **yöi** ennogï-i-ya
-> owl      wait-Style  here  one         tree    send-3-Erg   
-> N        Vi-?        Adv   Prtcl       N       Vt         
-> ‘The owl wold just sit here, then he cut down one tree’</pre>
-
-> (ra-personal-narrative-262) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möröwenai ko'mamï dauya mö tigingnö biada bra go'mamï</i>  
-> mörö wenai   ko'mamï ta-u-ya   mörö  **tiginnö** **i-pada** bra ko'mamï
-> that because live    say-1-Erg A.I.? one         3-place    Neg live     
-> Dem  P       Vi      Vt        ?     Prtcl       N          Adv Vi     
-> ‘That is why I live without one place of abode’</pre>
-
-> (ps-duck-story-029) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tigingnö yöi ennogöiya</i>  
-> **tiginnö** **yöi** ennogï-i-ya
-> one         tree    send-3-Erg   
-> Prtcl       N       Vt         
-> ‘He would cut down one tree’</pre>
-
-> (ra-personal-narrative-257) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>tigingnö miïre esh'pï</i>  
-> **tiginnö** **i-mïre** eji-'pï
-> one         3-child    be-Past  
-> Prtcl       N          Vi     
-> ‘She had only one child’</pre>
-
-> (ra-personal-narrative-222) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>kïrö ewai'pa ten year bek ebozaikya bra nai?</i>  
-> kïrö     ewai'pa      **ten** bek   eboro-zak-i-ya  bra nai      
-> 3Sg.Anim I.don't.know ten     QP    find-Perf-3-Erg Neg 3.be.Pres  
-> Pro      Prtcl        Prtcl   Prtcl Vt              Adv Vi       
-> ‘Who she? I don't know, maybe she has been there for ten years’</pre>
-
 ## Ye’kwana
 
 ### ADV+N
@@ -904,16 +912,6 @@
 > dos      sebucán    3/3.PAS-llenar_sebucán-PRP DEMin  
 > num      n          v.t.                       pro  
 > ‘Lo puso en dos sebucanes.’</pre>
-
-### N+N
-
-> (ctotapmor-016) Ye’kwana (Cáceres Arandia 2021)
-> <pre>
-> <i>yööje i'saa'se xxx "edö owoküdü susu" tüwö'dü'se küna'jaakö.</i>  
-> yööje 0-i'shaa-'se xxx edö    **o-wokü-dü**   **susu**       t-w-ö'dü-'se          kün-a'ja-aakö 
-> así   3O-pelar-DES xxx DEM1in 2-bebida-POSS.1 seno_con_leche 3.REFL-INTR-decir-DES 3S.PAS-COP-PDI  
-> ad    adv          xxx pro    n               n              adv                   v.i.a         
-> ‘así quiso mostrarle (pelar) xxx, quiso decir "!toma tu teta!".’</pre>
 
 ### DEM+N
 
@@ -1247,6 +1245,16 @@
 > n      nzr-v.t-nzr       adv                 pro      pro     
 > ‘¿Esos también hay chupado por cocuyo?’</pre>
 
+### N+N
+
+> (ctotapmor-016) Ye’kwana (Cáceres Arandia 2021)
+> <pre>
+> <i>yööje i'saa'se xxx "edö owoküdü susu" tüwö'dü'se küna'jaakö.</i>  
+> yööje 0-i'shaa-'se xxx edö    **o-wokü-dü**   **susu**       t-w-ö'dü-'se          kün-a'ja-aakö 
+> así   3O-pelar-DES xxx DEM1in 2-bebida-POSS.1 seno_con_leche 3.REFL-INTR-decir-DES 3S.PAS-COP-PDI  
+> ad    adv          xxx pro    n               n              adv                   v.i.a         
+> ‘así quiso mostrarle (pelar) xxx, quiso decir "!toma tu teta!".’</pre>
+
 ## Yawarana
 
 ### Nmod+N
@@ -1354,6 +1362,74 @@
 > house    old         LOC  dance-IPFV-PL   like COP-PERF mouse   
 > sus      sus         post vi              prt  vi       sus   
 > ‘en la casa vieja es que estaba bailando la rata’</pre>
+
+### ADV+N
+
+> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>petomyakërë kanajmunu katupumasapë</i>  
+> **petomyakërë** **kanajmunu** katupuma-sapë
+> three           hill          group-ABS.NZR  
+> adv             sus           sus          
+> ‘estaban tres montones grandes amontonados’</pre>
+
+### NUM+N
+
+> (descmensgrme-4) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>wïrë takï kërë nwa ma rë wïrë ijpë pïnirë asakë semana</i>  
+> wïrë takï  kërë   nwa  ma    rë   wïrë i-jpë   pïnirë **asakë** **semana**
+> 1SG  CNFRM 3AN:MD thus RESTR EMPH 1SG  put-PST NEG    two       week        
+> pro  prt   pro    prt  prt   prt  pro  vt      prt    adv       sus       
+> ‘yo misma, no la dejé así no más, dos semanas’</pre>
+
+> (histgrme-29) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>asakërërë mëyawajkë, asakë mëyumukunu</i>  
+> asakërërë më-yawaj-kë **asakë** **më-y-umukunu**
+> both      2-grate-IMP two       2-REL-hand        
+> adv       vt          adv       sus             
+> ‘raya con la dos, las dos manos’</pre>
+
+> (histgrme-27) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>mërë yumukunu enijpëtërë</i>  
+> mërë **y-umukunu** **enijpëtërë**
+> 2SG  REL-hand      one             
+> pro  sus           adv           
+> ‘tú con una sola mano’</pre>
+
+> (desccasagrme-58) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>enijpëtë wacho chijpë ka</i>  
+> **enijpëtë** **wacho-Ø** chi-jpë ka     
+> one          wife-POSS   COP-PST notPREG  
+> adv          sus         vi      prt    
+> ‘como no era una sola esposa sino varias’</pre>
+
+> (ctowaru-35) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>enijpëtërë yapijtomo ma tajne ejnë wësarë</i>  
+> **enijpëtërë** **yapijtomo** ma    tajne ejnë wë-sarë 
+> one            old           RESTR 3PL   1+2  kill-INM  
+> adv            sus           prt   pro   pro  vt      
+> ‘un viejo solamente estaba diciendo "ya nos están matando"’</pre>
+
+> (ctowaru-50) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>wurijyamo enijpëtërë ma tawara taji</i>  
+> **wurijyamo** **enijpëtërë** ma    tawara taji
+> woman         one            RESTR too    ?     
+> sus           adv            prt   adv    prt 
+> ‘una mujer solamente también’</pre>
+
+> (ctorat-3) Yawarana (Cáceres Arandia 2020)
+> <pre>
+> <i>enijpëtërë waraijtokomo ijtëse ti mïjna tëijpo wïnïjse</i>  
+> **enijpëtërë** **waraijtokomo** ij-të-se     ti   mïjna tëijpë wïnïj-se 
+> one            man              3-go-PFV.PST like there far    sleep-SUP  
+> adv            sus              vi           prt  adv   adv    vi       
+> ‘un hombre se fué allá, a dormir lejos’</pre>
 
 ### DEM+N
 
@@ -1709,74 +1785,6 @@
 > pro      sus         post vi            prt    pro 
 > ‘tal vez se metió en el monte’</pre>
 
-### ADV+N
-
-> (conv1stenc-132) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>petomyakërë kanajmunu katupumasapë</i>  
-> **petomyakërë** **kanajmunu** katupuma-sapë
-> three           hill          group-ABS.NZR  
-> adv             sus           sus          
-> ‘estaban tres montones grandes amontonados’</pre>
-
-### NUM+N
-
-> (descmensgrme-4) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>wïrë takï kërë nwa ma rë wïrë ijpë pïnirë asakë semana</i>  
-> wïrë takï  kërë   nwa  ma    rë   wïrë i-jpë   pïnirë **asakë** **semana**
-> 1SG  CNFRM 3AN:MD thus RESTR EMPH 1SG  put-PST NEG    two       week        
-> pro  prt   pro    prt  prt   prt  pro  vt      prt    adv       sus       
-> ‘yo misma, no la dejé así no más, dos semanas’</pre>
-
-> (histgrme-29) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>asakërërë mëyawajkë, asakë mëyumukunu</i>  
-> asakërërë më-yawaj-kë **asakë** **më-y-umukunu**
-> both      2-grate-IMP two       2-REL-hand        
-> adv       vt          adv       sus             
-> ‘raya con la dos, las dos manos’</pre>
-
-> (histgrme-27) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>mërë yumukunu enijpëtërë</i>  
-> mërë **y-umukunu** **enijpëtërë**
-> 2SG  REL-hand      one             
-> pro  sus           adv           
-> ‘tú con una sola mano’</pre>
-
-> (desccasagrme-58) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>enijpëtë wacho chijpë ka</i>  
-> **enijpëtë** **wacho-Ø** chi-jpë ka     
-> one          wife-POSS   COP-PST notPREG  
-> adv          sus         vi      prt    
-> ‘como no era una sola esposa sino varias’</pre>
-
-> (ctowaru-35) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>enijpëtërë yapijtomo ma tajne ejnë wësarë</i>  
-> **enijpëtërë** **yapijtomo** ma    tajne ejnë wë-sarë 
-> one            old           RESTR 3PL   1+2  kill-INM  
-> adv            sus           prt   pro   pro  vt      
-> ‘un viejo solamente estaba diciendo "ya nos están matando"’</pre>
-
-> (ctowaru-50) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>wurijyamo enijpëtërë ma tawara taji</i>  
-> **wurijyamo** **enijpëtërë** ma    tawara taji
-> woman         one            RESTR too    ?     
-> sus           adv            prt   adv    prt 
-> ‘una mujer solamente también’</pre>
-
-> (ctorat-3) Yawarana (Cáceres Arandia 2020)
-> <pre>
-> <i>enijpëtërë waraijtokomo ijtëse ti mïjna tëijpo wïnïjse</i>  
-> **enijpëtërë** **waraijtokomo** ij-të-se     ti   mïjna tëijpë wïnïj-se 
-> one            man              3-go-PFV.PST like there far    sleep-SUP  
-> adv            sus              vi           prt  adv   adv    vi       
-> ‘un hombre se fué allá, a dormir lejos’</pre>
-
 # Apparent noun phrases but there are phrasal particles
 
 ## Hixkaryána
@@ -1883,14 +1891,6 @@
 > here  Emph  3Pl be  A.I.? 3Sg.Anim-Emph-Emph paca      Erg eat.cassava A.I.?  
 > Adv   Prtcl Pro Vi  ?     Pro-Prtcl-Prtcl    N         P   Vt          ?    
 > ‘Here, they have the rodent urana, he eat the cassava’</pre>
-
-> (ra-personal-narrative-263) Akawaio (Caesar-Fox 2003)
-> <pre>
-> <i>möröwenai mörö ji köik amök go'mangbödï'pï sa'ne ji prarö ji tauya mö se au ji zemo'kazak ke</i>  
-> mörö wenai   **mörö** ji    **köik** amök  ko'mamï-bödï-'pï sa'ne ji    bra-rö   y-eji ta-u-ya   mörö serö yau ji    semo'ka-zak  ke   
-> that because that     Emph  old.man  Pl    live-Iter-Past   Emph  Emph  Neg-Emph 3-be  say-1-Erg that this Loc Emph  grow.up-Perf Instr  
-> Dem  P       Dem      Prtcl N        Prtcl Vi               Prtcl Prtcl Prtcl    Vi    Vt        Dem  Pro  P   Prtcl Vi           P    
-> ‘That is why I say that the old customs of the old men is non existent, because I grew up here’</pre>
 
 > (lester-eugene-personal-narrative-045) Akawaio (Caesar-Fox 2003)
 > <pre>

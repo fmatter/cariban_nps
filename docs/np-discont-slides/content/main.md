@@ -95,7 +95,8 @@ derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
 # Diachrony: prosodically integrated afterthoughts
 *  Pattern 1: afterthoughts become less "separated" from clause
    *  Data from Tiriyó showing afterthoughts (apparently w/o pauses)
-   * This is clearly what has happened in Panare VSO order (cite [src](payne1994ovs) for frequencies, [src](gildea2000vpgenesis) for mechanism)
+   * This is clearly what has happened in Panare VSO order
+      * (cite [src](payne1994ovs) for frequencies, [src](gildea2000vpgenesis) for mechanism)
 
 [ex](derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)
 
