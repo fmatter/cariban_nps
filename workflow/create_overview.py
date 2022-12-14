@@ -27,7 +27,7 @@ output = ["# Apparent discontinuous noun phrases"]
 
 lgs = ["hix", "tri", "aka", "mak", "yab"]
 for lg in lgs:
-    discont = df[(df["Language_ID"] == lg) & (df["Discontinuous"] == "True")]
+    discont = df[(df["Language_ID"] == lg) & (~(df["Discontinuous"].isin(["No", ""])))]
     if len(discont) == 0:
         continue
     output.append(f"## [lg]({lg})")
@@ -42,7 +42,7 @@ for lg in lgs:
 
 output.append("# Apparent noun phrases")
 for lg in lgs:
-    cont = df[(df["Language_ID"] == lg) & (df["Discontinuous"] == "False")]
+    cont = df[(df["Language_ID"] == lg) & (df["Discontinuous"].isin(["No"]))]
     if len(cont) == 0:
         continue
     output.append(f"## [lg]({lg})")
