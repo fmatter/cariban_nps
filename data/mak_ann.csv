@@ -1,6 +1,6 @@
 Example_ID,Value,Comment,Pattern,Role,Animacy,Positions,Particle,Constituents
 convwho-010,?,,,,,,,
-convwho-012,np,*möönü judumatommaane kaawede* -- not the argument,DEM ADV N,p,inan,"2,3,4",,
+convwho-012,np,*möönü judumatommaane kaawede* -- not the argument,DEM N N,p,inan,"2,3,4",,
 convwho-014,n,,,,,,,
 convwho-020,n,,,,,,,
 convwho-022,n,,,,,,,
