@@ -27,7 +27,7 @@ output = ["# Apparent discontinuous noun phrases"]
 
 lgs = ["hix", "tri", "aka", "mak", "yab"]
 for lg in lgs:
-    discont = df[(df["Language_ID"] == lg) & (~(df["Discontinuous"].isin(["No", ""])))]
+    discont = df[(df["Language_ID"] == lg) & (~(df["Discontinuous"].isin(["No", "", "Particle"])))]
     if len(discont) == 0:
         continue
     output.append(f"## [lg]({lg})")
@@ -52,6 +52,16 @@ for lg in lgs:
             if rec["Type"] != kind:
                 continue
             output.append(f"""[ex]({rec["ID"]}?with_primaryText)""")
+
+output.append("# Apparent noun phrases but there are phrasal particles")
+for lg in lgs:
+    cont = df[(df["Language_ID"] == lg) & (df["Discontinuous"].isin(["Particle"]))]
+    if len(cont) == 0:
+        continue
+    output.append(f"## [lg]({lg})")
+    for rec in cont.to_dict("records"):
+        output.append(f"""[ex]({rec["ID"]}?with_primaryText)""")
+
 
 output.append("# Open questions")
 for lg in lgs:
