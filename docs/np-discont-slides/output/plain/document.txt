@@ -30,29 +30,42 @@ Introduction: Panare
     -   arakon asa’ / asa’ arakon ‘two monkeys’
     -   arakon ta’meñe / ta’meñe arakon ‘many monkeys’
     -   sïj perikura ‘this movie’, kamicha sïj ‘this shirt’
--   claim: discontinuous NP = coreferential adjoined nouns
--   our question: in what sense is this an NP?
+-   our question: in what sense can these be considered constituents?
+-   constituency tests:
+    -   boundary phenomena don’t help
+    -   second position particles: no positive evidence
+    -   internal order / hierarchical structure: flexible
+
+Adnominal modification in the Cariban family
+
+-   parts can occur as standalone nouns, no required dependents
+-   property concepts are nouns
+-   demonstratives can also be NPs
+-   G&M 2009
+
+Our study
+
 -   we looked at corpora from five Cariban languages, each 1000 records:
     -   Tiriyó (Meira 2022)
     -   Hixkaryána (Derbyshire 1965 via Meira 2022)
     -   Ye’kwana (Cáceres Arandia 2021)
     -   Akawaio (Caesar-Fox 2003)
     -   Yawarana (Cáceres Arandia 2020)
--   first finding: rare
+-   first finding: modified nouns in general are rare
 
-+------------+---------+---------+-----------------+--------------+
-| Language   | Words   | Nouns   | Discontinuous   | Pseudo-NPs   |
-+============+=========+=========+=================+==============+
-| Tiriyó     | 6641    | 1807    | 12 (0.66%)      | 27 (1.49%)   |
-+------------+---------+---------+-----------------+--------------+
-| Hixkaryána | 4822    |     725 | 2 (0.28%)       | 4 (0.55%)    |
-+------------+---------+---------+-----------------+--------------+
-| Akawaio    | 7394    | 1347    | 12 (0.89%)      | 69 (5.12%)   |
-+------------+---------+---------+-----------------+--------------+
-| Ye’kwana   | 4297    |     828 | 13 (1.57%)      | 55 (6.64%)   |
-+------------+---------+---------+-----------------+--------------+
-| Yawarana   | 4568    |     823 | 10 (1.22%)      | 73 (8.87%)   |
-+------------+---------+---------+-----------------+--------------+
++------------+---------+---------+------------------+------------------+
+| Language   | Words   | Nouns   | Modified nouns   | Discontinuous    |
++============+=========+=========+==================+==================+
+| Tiriyó     | 6641    | 1807    | 27 (1.49%)       | 27 (1.49%)       |
++------------+---------+---------+------------------+------------------+
+| Hixkaryána | 4822    |     725 | 4 (0.55%)        | 4 (0.55%)        |
++------------+---------+---------+------------------+------------------+
+| Akawaio    | 7394    | 1347    | 70 (5.20%)       | 70 (5.20%)       |
++------------+---------+---------+------------------+------------------+
+| Ye’kwana   | 4297    |     828 | 57 (6.88%)       | 57 (6.88%)       |
++------------+---------+---------+------------------+------------------+
+| Yawarana   | 4568    |     823 | 75 (9.11%)       | 75 (9.11%)       |
++------------+---------+---------+------------------+------------------+
 
 Investigated languages
 
@@ -93,32 +106,98 @@ What is reconstructible?
             discontinuous, as not different from possessive
             construction)
 
-Pattern 1
+Pattern 1: nouns with modifiers
+
++---------+-------+-------+-------+-------+-------+
+| Type    | aka   | hix   | mak   | tri   | yab   |
++=========+=======+=======+=======+=======+=======+
+|         | 70    | 42    | 32    | 21    | 17    |
++---------+-------+-------+-------+-------+-------+
+| ADV+N   |     4 |     0 |     1 |     0 |     1 |
++---------+-------+-------+-------+-------+-------+
+| DEM+DEM |     0 |     0 |     2 |     0 |     0 |
++---------+-------+-------+-------+-------+-------+
+| DEM+N   | 46    |     3 | 47    | 17    | 49    |
++---------+-------+-------+-------+-------+-------+
+| N+N     |     1 |     1 |     1 |     2 |     2 |
++---------+-------+-------+-------+-------+-------+
+| NUM+N   | 11    |     0 |     3 |     3 |     8 |
++---------+-------+-------+-------+-------+-------+
+| Nmod+N  |     8 |     0 |     3 |     5 | 15    |
++---------+-------+-------+-------+-------+-------+
+
+-   RARE
+
+Pattern 2.1: nouns with demonstratives
+
+-   [Dem + N] (also [N + Dem]?)
+
+-   Data from Ye’kwana, Yawarana, Akawaio
+
+-   May need to order these depending on what we find
+
++---------+-------+-------+-------+-------+-------+
+| Order   | aka   | hix   | mak   | tri   | yab   |
++=========+=======+=======+=======+=======+=======+
+| DEM N   | 40    |     1 | 37    |     7 | 35    |
++---------+-------+-------+-------+-------+-------+
+| N DEM   |     2 |     1 |     3 |     1 |     9 |
++---------+-------+-------+-------+-------+-------+
+
+-   constituency tests still negative – counterexamples everywhere
+
+Pattern 2.2: nouns with other modifiers
+
+-   with numerals and with modifying nouns
+-   show examples
+-   show counts & order
+
+Pattern 2.3: modified nouns as arguments
+
+-   pNP POSTP
+    -   N POSTP N POSTP
+    -   N POSTP N
+-   pNP Vt
+    -   N Vt N
+-   possessed nouns and ambiguity
+
+Pattern 3: intervening particles
+
+Pattern 4: other intervening elements
+
+-   eclectic mix
+
+Diachrony: prosodically integrated afterthoughts
 
 -   Pattern 1: afterthoughts become less “separated” from clause
     -   Data from Tiriyó showing afterthoughts (apparently w/o pauses)
-        -   Flag future work: checking sound files from Tiriyó
     -   This is clearly what has happened in Panare VSO order (cite
         Payne 1994 for frequencies, Gildea 2000 for mechanism)
 
-Pattern 2
+(3) Hixkaryána
+    (derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)
+    amna  n-awanye-ko         ha      mosonï  0-hana-hto-rï        wya  0-ke-txkonï        hatï  0-ke-konï      hatï  noro  horykomo
+    1+3   3Sa-get.dark-RPst1  Intens  3AnPx   Rel-ear-Neg.Act-Pos  Agt  3Sa-say-DPst2:Col  Hrsy  3Sa-say-DPst2  Hrsy  3AnAna    chief.man
+    ‘“We were in darkness, through the foolishness of this one,” they
+    said, he, the chief man, said.’
 
--   Pattern 2: coreferential nouns begin to cohere into something
-    resembling continuous NPs
-    -   [Dem + N] (also [N + Dem]?)
-        -   Data from Ye’kwana, Yawarana
-        -   May need to order these depending on what we find
+()
 
-(3) Yawarana (ctorat-34)
-    ëkëtë  mërë  ëkï
-    where  3IN:MD    manioc.beer
-    ‘donde está el yaraki?’
+(a) Tiriyó (mini-disc-lsmtam13set0001-marciano-little-introduction-003)
+    ma    ji-jomi-V:   tae  rë    j-eka-0      tarëno  tae  n-ai     Minausi  irë     apo   m-eta-0
+    Attn  1-language-Psfx  by   Idtf  1-name-Psfx  Tiriyó      by   3Sa-Cop  Minausi  3InAna  like  2A-hear-I.Pst
+    ‘Well, in my own language my name, in (the language of the) Tiriyó,
+    it is, Minausi, like this. OK? (= Did you hear?).’
 
--   Adding other elements
-    -   Data from Akawaio
+(b) Tiriyó (minidisc-xxx-torohpe-iwehtoponpe-002)
+    ma    irëme  w-ëe-ne        ipërih  tae    anja  0-eeku-hpë  …  atï    irë     Kuruni
+    Attn  so     1Sa-come-DPst  creek       along  1+3       3-stream-P.pst  …  wh.In  3InAna  Kuruni
+    ‘Well, then I came, along the creeks/tribuaries, our old river…
+    what-do-you-call-it, the Kuruni (Coeroeni).’
 
 Discussion
 
+-   there is nothing constituent-y here, except maybe DEM N
 -   Discussion (in place of conclusions)
     -   Clearly there are discontinuities in the texts, and not all are
         separated by pause/intonation contours

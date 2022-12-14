@@ -22,6 +22,13 @@ def typify(rec):
     else:
         raise ValueError(rec)
 
+modifiers = ["ADV", "NUM", "Nmod", "DEM"]
+mod_dict = {x: "mod" for x in modifiers}
+mod_dict["N"] = "ref"
+def abstractify(string):
+    if string in ["N N", "DEM DEM"]:
+        return "?"
+    return " ".join([mod_dict[x] for x in string.split(" ")])
 
 def resolve_pattern(rec):
     if rec["Pattern"] == "":
@@ -34,7 +41,7 @@ def resolve_pattern(rec):
     ):
         raise ValueError(rec)
     if (
-        "POSP" in rec["Pattern"]
+        "POSTP" in rec["Pattern"]
         or "Vt" in rec["Pattern"]
         or rec["Role"] == "possr"
         or "ERG" in rec["Pattern"]
@@ -55,9 +62,13 @@ def resolve_pattern(rec):
         else:
             break
     rec["Order"] = " ".join([x for x in rec["Pattern"].split(" ") if x in elements])
+    rec["Abstract_Order"] = abstractify(rec["Order"])
     rec["Type"] = typify(rec)
     if " " in discont_kind:
-        discont_kind = "multiple"
+        if discont_kind == "PART PART":
+            discont_kind = "PART"
+        else:
+            discont_kind = "multiple"
     rec["Intervening"] = discont_kind
     if discont:
         if discont_kind == "PART":
@@ -170,8 +181,8 @@ for lg in lg_list:
             "Language": f"[lg]({lg})",
             "Words": word_count,
             "Nouns": noun_count,
+            "Modified nouns": f"{pseudo_count} ({pseudo_count/noun_count:.2%})",
             "Discontinuous": f"{discont_count} ({discont_count/noun_count:.2%})",
-            "Pseudo-NPs": f"{pseudo_count} ({pseudo_count/noun_count:.2%})",
         }
     )
 
@@ -196,6 +207,7 @@ for lg in lg_list:
         "Animacy",
         "Type",
         "Order",
+        "Abstract_Order",
         "Argument",
         "Role",
         "Positions",
