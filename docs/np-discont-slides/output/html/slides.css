@@ -1,0 +1,83 @@
+:root {
+  --nord0: #2e3440;
+  --nord1: #3b4252;
+  --nord2: #434c5e;
+  --nord3: #4c566a;
+  --nord4: #d8dee9;
+  --nord5: #e5e9f0;
+  --nord6: #eceff4;
+  --nord7: #8fbcbb;
+  --nord8: #88c0d0;
+  --nord9: #81a1c1;
+  --nord10: #5e81ac;
+  --nord11: #bf616a;
+  --nord12: #d08770;
+  --nord13: #ebcb8b;
+  --nord14: #a3be8c;
+  --nord15: #b48ead;
+}
+
+h2 {
+    color: var(--nord3);
+    margin: 0px;
+    font-size: 26pt !important;
+}
+
+.gloss {
+  font-variant: small-caps;
+}
+
+.obj b {
+    color: var(--nord11);;
+}
+
+table {
+border-collapse: collapse;
+/*display: inline;*/
+/*margin:4px;*/
+border-spacing: 0px 0px;
+/*margin: 0 auto;*/
+border: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td, th {
+ border:  none;
+  text-align: left;
+  padding: 0.5rem;
+  line-height: 1;
+}
+
+thead {
+    border-bottom: 1px solid black;
+    border-top: 2px solid black;
+}
+
+tbody {
+    border-bottom: 2px solid black;
+}
+
+ol table {
+  border-collapse: collapse;*/
+  border-spacing: 0px 0px;
+display: inline;
+margin:4px;
+margin: 0 auto;
+}
+
+ol thead {
+    border-bottom: 0px;
+    border-top: 0px;
+}
+
+ol th {
+    font-weight: normal;
+}
+
+ol tbody {
+    border-bottom: 0px;
+}
+
+
+a:link, a:visited, a:hover, a:active { text-decoration: none; color: black;}
