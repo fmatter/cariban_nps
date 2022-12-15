@@ -24,58 +24,264 @@ Introduction: Panare
     deer       LK-give-PST.PFV  L.        3PL       DAT  alive
     ‘Luciano gave them live deer.’
 
-Introduction: Panare
-
--   flexible order (Payne 1993: 128):
-    -   arakon asa’ / asa’ arakon ‘two monkeys’
-    -   arakon ta’meñe / ta’meñe arakon ‘many monkeys’
-    -   sïj perikura ‘this movie’, kamicha sïj ‘this shirt’
--   our question: in what sense can these be considered constituents?
--   constituency tests:
-    -   boundary phenomena don’t help
-    -   second position particles: no positive evidence
-    -   internal order / hierarchical structure: flexible
-
 Adnominal modification in the Cariban family
 
--   parts can occur as standalone nouns, no required dependents
--   property concepts are nouns
--   demonstratives can also be NPs
--   G&M 2009
+-   possible combinations:
+    -   N_(MOD) + N
+    -   ADV + N
+    -   DEM + N
+-   all modifying elements can also occur without a noun
+    -   demonstratives form standalone NPs
+-   property concepts are either expressed by nouns (‘the big one’) or
+    adverbially (Meira and Gildea 2009)
+
+Adnominal modification in Panare
+
+-   combinations attested as discontinuous can occur adjacently, too
+-   our question: in what sense can these be considered constituents?
+    -   flexible order (Payne 1993: 128):
+        -   arakon asa’ / asa’ arakon ‘two monkeys’
+        -   arakon ta’meñe / ta’meñe arakon ‘many monkeys’
+        -   sïj perikura ‘this movie’, kamicha sïj ‘this shirt’
+    -   no salient structure, apart from modifying and referential
+        semantics
+-   contrast with “genitive” NPs:
+    -   fixed possessor-possessum order
+    -   linking prefix on possessum
+    -   complementary distribution of lexical possessor and third person
+        prefix
+    -   prosodic integration
+
+Toman y-árako ‘Tom’s hat’ (Payne 1993: 125) yï-matan ‘his/her shoulder’,
+Toman mátan ‘Tom’s shoulder’ (Payne and Payne 2013: 76)
+
+-   possessive NP (along with PP and transitive VP) reconstructible to
+    Proto-Cariban
 
 Our study
 
--   we looked at corpora from five Cariban languages, each 1000 records:
+-   we searched modified nouns in corpora from five Cariban languages,
+    each 1000 records:
     -   Tiriyó (Meira 2022)
     -   Hixkaryána (Derbyshire 1965 via Meira 2022)
     -   Ye’kwana (Cáceres Arandia 2021)
     -   Akawaio (Caesar-Fox 2003)
     -   Yawarana (Cáceres Arandia 2020)
--   first finding: modified nouns in general are rare
+-   first finding: these are rare in general
 
 +------------+---------+---------+------------------+------------------+
 | Language   | Words   | Nouns   | Modified nouns   | Discontinuous    |
 +============+=========+=========+==================+==================+
-| Tiriyó     | 6641    | 1807    | 27 (1.49%)       | 27 (1.49%)       |
+| Tiriyó     | 6641    | 1807    | 27 (1.49%)       | 8 (0.44%)        |
 +------------+---------+---------+------------------+------------------+
-| Hixkaryána | 4822    |     725 | 4 (0.55%)        | 4 (0.55%)        |
+| Hixkaryána | 4822    |     725 | 4 (0.55%)        | 0 (0.00%)        |
 +------------+---------+---------+------------------+------------------+
-| Akawaio    | 7394    | 1347    | 67 (4.97%)       | 67 (4.97%)       |
+| Akawaio    | 7394    | 1347    | 67 (4.97%)       | 4 (0.30%)        |
 +------------+---------+---------+------------------+------------------+
-| Ye’kwana   | 4297    |     828 | 56 (6.76%)       | 56 (6.76%)       |
+| Ye’kwana   | 4297    |     828 | 56 (6.76%)       | 8 (0.97%)        |
 +------------+---------+---------+------------------+------------------+
-| Yawarana   | 4568    |     823 | 74 (8.99%)       | 74 (8.99%)       |
+| Yawarana   | 4568    |     823 | 74 (8.99%)       | 4 (0.49%)        |
 +------------+---------+---------+------------------+------------------+
 
 Investigated languages
 
-[Treemap]
+[]
 
-What is reconstructible?
+-   convenience sample
+-   5 languages with annotated corpora, first sounding
+-   note: Venezuelan branch is not solidly established
 
--   reconstructible prior state: adjoined nouns, afterthought
-    constructions
--   very common in Hixkaryána (Derbyshire 1985: 101-104, 129-135)
+Nouns with modifiers
+
++-----------+--------+----------+--------+------+--------+---------+
+|           | ADV+N  | DEM+DEM  | DEM+N  | N+N  | NUM+N  | Nmod+N  |
++===========+========+==========+========+======+========+=========+
+| Akawaio   |        |          |        |      |        |         |
+|           |      4 |        0 |     43 |    1 |     11 |       8 |
++-----------+--------+----------+--------+------+--------+---------+
+| H         |        |          |        |      |        |         |
+| ixkaryána |      0 |        0 |      3 |    1 |      0 |       0 |
++-----------+--------+----------+--------+------+--------+---------+
+| Tiriyó    |        |          |        |      |        |         |
+|           |      0 |        0 |     17 |    2 |      3 |       5 |
++-----------+--------+----------+--------+------+--------+---------+
+| Yawarana  |        |          |        |      |        |         |
+|           |      1 |        0 |     48 |    2 |      8 |      15 |
++-----------+--------+----------+--------+------+--------+---------+
+| Ye’kwana  |        |          |        |      |        |         |
+|           |      1 |        2 |     46 |    1 |      3 |       3 |
++-----------+--------+----------+--------+------+--------+---------+
+
+1.  very rare in Hixkaryána
+2.  salient pattern: DEM + N in the three Venezuelan languages
+
+Nouns with modifiers: demonstratives
+
+-   [DEM N], but also [N DEM]
+
++-------+-----------+--------------+----------+------------+------------+
+|       | Akawaio   | Hixkaryána   | Tiriyó   | Yawarana   | Ye’kwana   |
++=======+===========+==============+==========+============+============+
+| DEM N |        37 |            1 |        7 |         35 |         37 |
++-------+-----------+--------------+----------+------------+------------+
+| N DEM |         2 |            1 |        1 |          9 |          3 |
++-------+-----------+--------------+----------+------------+------------+
+
+-   as in Panare, order is not absolute
+-   not in favor of constituency
+
+Nouns with modifiers: nouns with other modifiers
+
+Modifying numerals: [lbl:nummod]
+
++---------+-----------+----------+------------+------------+
+|         | Akawaio   | Tiriyó   | Yawarana   | Ye’kwana   |
++=========+===========+==========+============+============+
+| N NUM   |         1 |        0 |          2 |          0 |
++---------+-----------+----------+------------+------------+
+| N NUM N |         1 |        0 |          0 |          0 |
++---------+-----------+----------+------------+------------+
+| NUM N   |         9 |        3 |          6 |          3 |
++---------+-----------+----------+------------+------------+
+
+Other modifying adverbs: [lbl:advmod]
+
++---------------+-----------+------------+------------+
+|               | Akawaio   | Yawarana   | Ye’kwana   |
++===============+===========+============+============+
+| ADV N         |         0 |          1 |          1 |
++---------------+-----------+------------+------------+
+| N ADV         |         1 |          0 |          0 |
++---------------+-----------+------------+------------+
+| NUM ADV N     |         2 |          0 |          0 |
++---------------+-----------+------------+------------+
+| NUM NUM ADV N |         1 |          0 |          0 |
++---------------+-----------+------------+------------+
+
+Modifying nouns: [lbl:nmod]
+
++-------------+-----------+----------+------------+------------+
+|             | Akawaio   | Tiriyó   | Yawarana   | Ye’kwana   |
++=============+===========+==========+============+============+
+| N Nmod      |         1 |        3 |          8 |          0 |
++-------------+-----------+----------+------------+------------+
+| Nmod N      |         7 |        2 |          6 |          3 |
++-------------+-----------+----------+------------+------------+
+| Nmod N Nmod |         0 |        0 |          1 |          0 |
++-------------+-----------+----------+------------+------------+
+
+Modified nouns as arguments of postpositions
+
+(2) Tiriyó (dados-09-kereramake-p-041-270)
+    Ape  sen    n-ai     tuna  mono  juuwë  i-V:-të-0-n  mahtao  n-e-manaka-0-n          tï-V:-ka-e
+    Ape  3InPx  3Sa-Cop  water     big       on     3-Sa-go-G-?  when    3Sa-Detr-roll-Pres-Dbt  Pst-Sa-say-Pst
+    ‘(Ape) ’This one is… when it’s on a big river, it turns,’ (she)
+    said.’
+
+(3) Tiriyó (mini-disc-lsmtam13set0001-marciano-little-introduction-005)
+    serë  pë     panpira  pë     anja  n-ai     oroko  me   m-eta-0        irë     apo
+    3InPx     about  book         about  1+3   3Sa-Cop  work   Ess  2A-hear-I.Pst  3InAna  like
+    ‘We’re now working about this, about this book/paper (= i.e. we’re
+    writing something). Did you hear? That’s it.’
+
+Modified nouns as arguments of postpositions
+
+Modified nouns as arguments of postpositions: [lbl:postparg]
+
++----------+-----------------------+-----------------------+
+|          | Single postposition   | Two postpositions     |
++==========+=======================+=======================+
+| Akawaio  |                     9 |                   1   |
++----------+-----------------------+-----------------------+
+| Tiriyó   |                     8 |                   3   |
++----------+-----------------------+-----------------------+
+| Yawarana |                    10 |                   0   |
++----------+-----------------------+-----------------------+
+| Ye’kwana |                     3 |                   1   |
++----------+-----------------------+-----------------------+
+
+Modified nouns as arguments of transitive verbs
+
+(4) Hixkaryána
+    (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-005)
+    horye-tho  monï  y-ahur-yatxkonï
+    big.one-Pst    3InRm     Rel-shut.in-DPst2:Col
+    ‘They sealed off that one, the big one.’
+
+(5) Akawaio (pingkas-personal-narrative-005-interviewer)
+    Mörö  abai  ji    a-saurogï-‘pï  tïbo-i     mïgï  pandong  egama-ba          aza’rö-rö
+    that  from  Emph  2-talk-Past    after-Psd  Hes   story        tell-in.order.to  two-Emph
+    ‘Then after you talk, then you can tell a story maybe two’
+
+Modified nouns as arguments of transitive verbs
+
++------------+-----------------------+------------------+
+|            | Interrupted by verb   | Preceding verb   |
++============+=======================+==================+
+| Akawaio    |                     1 |               17 |
++------------+-----------------------+------------------+
+| Hixkaryána |                     0 |                1 |
++------------+-----------------------+------------------+
+| Yawarana   |                     0 |                4 |
++------------+-----------------------+------------------+
+| Ye’kwana   |                     0 |                1 |
++------------+-----------------------+------------------+
+
+Modified nouns as possessors: bracketing paradox
+
+()
+
+(a) Akawaio (ra-eagle-story-034)
+    Eneboro’pï  se  wïk   ezek  Eneboro’pï
+    Eneboro’pï  this    mountain  name      Eneboro’pï
+    ‘The name of this mountain was Eneboro’pï’
+
+(b) Ye’kwana (ctoabjpic-027)
+    …-tüwü  wanö  e-ötü-0        kün-a’ja-aakö  yaawö     Tajööju
+    …-3.SG      abeja     REL-nombre-POSS.3  3.PAS-COP-PDI  entonces  Tajööju
+    ‘El nombre de la abeja era Tajööju.’
+
+(c) Yawarana (ctorosq-66)
+    tëwï  wurijyan  inwa-Ø  y-ëjnë     tapire-mï
+    3SG       woman         glute-POSS  REL-under  red-NZR
+    ‘debajo de las nalgas de la mujer estaba rojo’
+
+Discontinuity: intervening particles
+
+Discontinuity: intervening intransitive verbs
+
+(7) Tiriyó (data-01-yakari-01-p-127-022)
+    ma    mono  w-ei-ne       kïrïmuku  irënehka
+    Attn  big       1Sa-Cop-DPst  young.man     finally
+    ‘Well… I finally grew up, I became a young man.’
+
+(8) Ye’kwana (ctoabjpic-094)
+    ee  wodi=je     tüwü  kün-a’ja-aakö  wanö
+    sí  mujer=ATRB  3.SG      3.PAS-COP-PDI  abeja
+    ‘Sí, ella la abeja era una mujer’
+
+-   only 5 examples
+
+Discontinuity: intervening adverbs
+
+(9) Ye’kwana (convchur-009)
+    aneija  mödöje  yadanawi  i-tü’tajötü-dü       na     yadanawi     mödöje  mödö
+    otro        así     no_indígena   INTR.C-pensar-NZR.1  3.COP  no_indígena  así     DEM2in
+    ‘otros criollos piensan así, el criollo es así’
+
+-   only 2 examples
+
+Discontinuity: A noun
+
+(10) Ye’kwana (ctoabjpic-008)
+     aakö-mma  wanö   kiyede  munu-0        kün-u’ka-i
+     dos-EXCL      abeja  yuca    tubérculo-POSS.3  3/3.PAS-sacar-PAS
+     ‘La abeja sacó dos tuberculos de yuca.’
+
+Diachrony: afterthoughts
+
+-   starting point are afterthought constructions
+-   very common still in Hixkaryána (Derbyshire 1985: 101-104, 129-135)
 
 ()
 
@@ -97,89 +303,42 @@ What is reconstructible?
     different.place-Nzr  3AnRmCol     Intens  women          Quant  Intens  3Sa-say-DPst2  Hrsy  otter.sp  Intens
     ‘“They (are) ones far away, the women,” said the otter.’
 
--   Hixkaryana as modern exemplar
-    -   Afterthoughts are really common
+Diachrony: afterthoughts
 
--   -   Different kinds of discontinuity
-        -   Major class words intervening
-        -   Phrasal/scope particles intervening (we don’t consider this
-            discontinuous, as not different from possessive
-            construction)
+(12) Ye’kwana (ctoabjpic-003)
+     i-wo’jüdü-0=je        kün-a’ja-aakö   tüwü  akudi
+     3-suegra-POSS.3=ATRB  3S.PAS-COP-PDI  3.SG      picure
+     ‘La picure era como su suegra.’
 
-Pattern 1: nouns with modifiers
+(13) Tiriyó (dados-09-kereramake-p-047-374)
+     Ape  irë     mao      t-ënepiita-e      mëërë  ja   t-urë-e          werekeru  ja
+     Ape  3InAna  at.time  Pst-be.bored-Pst  3AnMd      Agt  Pst-talk.to-Pst  parakeet.sp   Agt
+     ‘(Ape) Then he became tired of it, and that one talked to him,
+     werekeru.’
 
-+---------+-------+-------+-------+-------+-------+
-| Type    | aka   | hix   | mak   | tri   | yab   |
-+=========+=======+=======+=======+=======+=======+
-|         | 70    | 42    | 32    | 21    | 17    |
-+---------+-------+-------+-------+-------+-------+
-| ADV+N   |     4 |     0 |     1 |     0 |     1 |
-+---------+-------+-------+-------+-------+-------+
-| DEM+DEM |     0 |     0 |     2 |     0 |     0 |
-+---------+-------+-------+-------+-------+-------+
-| DEM+N   | 46    |     3 | 47    | 17    | 49    |
-+---------+-------+-------+-------+-------+-------+
-| N+N     |     1 |     1 |     1 |     2 |     2 |
-+---------+-------+-------+-------+-------+-------+
-| NUM+N   | 11    |     0 |     3 |     3 |     8 |
-+---------+-------+-------+-------+-------+-------+
-| Nmod+N  |     8 |     0 |     3 |     5 | 15    |
-+---------+-------+-------+-------+-------+-------+
-
--   RARE
-
-Pattern 2.1: nouns with demonstratives
-
--   [Dem + N] (also [N + Dem]?)
-
--   Data from Ye’kwana, Yawarana, Akawaio
-
--   May need to order these depending on what we find
-
-+---------+-------+-------+-------+-------+-------+
-| Order   | aka   | hix   | mak   | tri   | yab   |
-+=========+=======+=======+=======+=======+=======+
-| DEM N   | 40    |     1 | 37    |     7 | 35    |
-+---------+-------+-------+-------+-------+-------+
-| N DEM   |     2 |     1 |     3 |     1 |     9 |
-+---------+-------+-------+-------+-------+-------+
-
--   constituency tests still negative – counterexamples everywhere
-
-Pattern 2.2: nouns with other modifiers
-
--   with numerals and with modifying nouns
--   show examples
--   show counts & order
-
-Pattern 2.3: modified nouns as arguments
-
--   pNP POSTP
-    -   N POSTP N POSTP
-    -   N POSTP N
--   pNP Vt
-    -   N Vt N
--   possessed nouns and ambiguity
-
-Pattern 3: intervening particles
-
-Pattern 4: other intervening elements
-
--   eclectic mix
+(14) Yawarana (ctowaru-19)
+     warë  imu           y-akërë  ma     wej-saj   ti    ta    imu           warë  i-muku-ru  yatanë
+     thus  3:father:POS  REL-COM  RESTR  COP-PERF  like  like  3:father:POS  thus  3-child-POSS   young
+     ‘así con su papá solamente, el papá y el hijo, un muchacho’
 
 Diachrony: prosodically integrated afterthoughts
 
--   Pattern 1: afterthoughts become less “separated” from clause
-    -   Data from Tiriyó showing afterthoughts (apparently w/o pauses)
-    -   This is clearly what has happened in Panare VSO order
-        -   (cite Payne 1994 for frequencies, Gildea 2000 for mechanism)
+-   afterthoughts become less “separated” from clause & prosodically
+    integrated
 
-(3) Hixkaryána
-    (derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)
-    amna  n-awanye-ko         ha      mosonï  0-hana-hto-rï        wya  0-ke-txkonï        hatï  0-ke-konï      hatï  noro  horykomo
-    1+3   3Sa-get.dark-RPst1  Intens  3AnPx   Rel-ear-Neg.Act-Pos  Agt  3Sa-say-DPst2:Col  Hrsy  3Sa-say-DPst2  Hrsy  3AnAna    chief.man
-    ‘“We were in darkness, through the foolishness of this one,” they
-    said, he, the chief man, said.’
+(15) Hixkaryána
+     (derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)
+     amna  n-awanye-ko         ha      mosonï  0-hana-hto-rï        wya  0-ke-txkonï        hatï  0-ke-konï      hatï  noro  horykomo
+     1+3   3Sa-get.dark-RPst1  Intens  3AnPx   Rel-ear-Neg.Act-Pos  Agt  3Sa-say-DPst2:Col  Hrsy  3Sa-say-DPst2  Hrsy  3AnAna    chief.man
+     ‘“We were in darkness, through the foolishness of this one,” they
+     said, he, the chief man, said.’
+
+(16) Yawarana (ctowaru-36)
+     tajne  ma     ana  wë-sarë   ta-Ø      ti    waraijto-Ø  pana  yapijtom  pana
+     3PL    RESTR  1+3  kill-INM  say-IPFV  like  husband-POSS    ADRS  old           ADRS
+     ‘ellos nos están matando, le dijo a su esposo, a su viejo’
+
+Diachrony: prosodically integrated afterthoughts
 
 ()
 
@@ -195,28 +354,49 @@ Diachrony: prosodically integrated afterthoughts
     ‘Well, then I came, along the creeks/tribuaries, our old river…
     what-do-you-call-it, the Kuruni (Coeroeni).’
 
+Diachrony: prosodically integrated afterthoughts
+
+(18) Yawarana (histgrme-134)
+     yaijkota-pïti-Ø  wej-sapë  wïrë  y-ïkïnï  parë  weroro
+     bark-PLAC-IPFV   COP-PERF  1SG   REL-pet      and   dog
+     ‘mis perros también estaban [[[ladrando]]]’
+
+-   clearly what has happened to yield innovative Panare VAP order
+    (Payne 1994: 595, Gildea 2000)
+
+Pattern frequencies in Panare past-perfective clauses: [lbl:panarefreq]
+
+  -------------------------
+  Order       Frequency
+  ----------- -------------
+  p-V (A) P   27 (56.25%)
+
+  p-V         19 (39.58%)
+
+  P V         2 (4.17%)
+  -------------------------
+
 Discussion
 
--   there is nothing constituent-y here, except maybe DEM N
--   Discussion (in place of conclusions)
-    -   Clearly there are discontinuities in the texts, and not all are
-        separated by pause/intonation contours
-    -   Not so clear that they instantiate a theoretical notion of “NP”
-    -   Not so clear that even continuous coreferring elements
-        instantiate a theoretical notion of NP
-    -   But one seems to be developing
-        -   [DEM N]
-        -   more elaborated in Akawaio (presumably influenced by
-            English)
+-   apparent discontinuous noun phrases are not constituents
+    -   they are prosodically integrated afterthoughts
+    -   usually not translated as afterthought (!)
+-   no evidence that even continuous coreferential elements are
+    constituents
+    -   contrast with bona fide possessive NPs
+    -   possible exception: incipient [DEM N] in Akawaio, Ye’kwana,
+        Yawarana
+-   raises questions about discontinuous constituents in general
 
 References
 
+-    Caesar-Fox, Desrey Clementine. 2003. Zauro’nödok Agawayo Yau:
+    Variants of Akawaio spoken at Waramadong. (Doctoral dissertation).
 -    Cáceres Arandia, Natalia. 2020. Yawarana FLEx project with
     partially parsed and glossed texts and corresponding morpheme
     lexicon from Natalia Cáceres Arandia’s own fieldwork. (Database in
     the author’s possession.)
 -    Cáceres Arandia, Natalia. 2021. Ye’kwana toolbox database.
--    Caesar-Fox, Desrey Clementine. 2003. Akawaio Toolbox Database.
 -    Derbyshire, Desmond C. 1965. Textos Hixkaryâna. (Publicações
     Avulsas, 3.) MPEG, Publicações Avulsas. Belém: MPEG.
 -    Gildea, Spike. 2000. On the Genesis of the Verb Phrase in Cariban
@@ -224,8 +404,15 @@ References
     Reconstructing Grammar, 65–106. Amsterdam: John Benjamins.
 -    Derbyshire, Desmond C. 1985. Hixkaryana and Linguistic Typology.
     Dallas: Summer Institute of Linguistics.
+-    Meira, Sérgio and Gildea, Spike. 2009. Property concepts in the
+    Cariban family: adjectives, adverbs, and/or nouns. In Wetzels, W.
+    Leo (ed.), The linguistics of endangered languages, 95–133. Utrecht:
+    LOT.
 -    Meira, Sérgio. 2022. Hixkaryána shoebox database.
 -    Meira, Sérgio. 2022. Tiriyó shoebox database.
+-    Payne, Thomas E. and Payne, Doris L. 2013. A Typological Grammar of
+    Panare: A Cariban Language of Venezuela. (Brill’s Studies in the
+    Indigenous Languages of the Americas.) Leiden: Brill.
 -    Payne, Doris L. 1993. Nonconfigurationality and discontinuous
     expressions in Panare. In Peterson, David A. (ed.), Proceedings of
     the Nineteenth Annual Meeting of the Berkeley Linguistics Society:

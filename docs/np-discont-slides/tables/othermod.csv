@@ -1,0 +1,11 @@
+,Akawaio,Tiriyó,Yawarana,Ye'kwana
+ADV N,0,0,1,1
+N ADV,1,0,0,0
+N NUM,1,0,2,0
+N NUM N,1,0,0,0
+N Nmod,1,3,8,0
+NUM ADV N,2,0,0,0
+NUM N,9,3,6,3
+NUM NUM ADV N,1,0,0,0
+Nmod N,7,2,6,3
+Nmod N Nmod,0,0,1,0

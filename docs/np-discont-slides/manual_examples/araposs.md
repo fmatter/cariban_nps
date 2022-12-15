@@ -1,0 +1,1 @@
+*yï-matan* 'his/her shoulder', *Toman mátan* 'Tom's shoulder' [psrc](panarepayne2013[76])

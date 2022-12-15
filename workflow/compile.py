@@ -173,7 +173,7 @@ for lg in lg_list:
     )
     full = full[~((full["Pattern"] == "") & (full["Comment"] == ""))]
 
-    discont_count = len(full[(full["Pattern"] != "") & (full["Discontinuous"])])
+    discont_count = len(full[(full["Pattern"] != "") & (full["Discontinuous"] == "Yes")])
     pseudo_count = len(full[full["Pattern"] != ""])
 
     count_stats.append(

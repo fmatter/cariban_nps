@@ -4,3 +4,13 @@ example_table:
   preprocess:
 basic-counts:
   header_column: false
+panarefreq:
+  caption: Pattern frequencies in Panare past-perfective clauses
+nummod:
+  caption: Modifying numerals
+advmod:
+  caption: Other modifying adverbs
+nmod:
+  caption: Modifying nouns
+postparg:
+  caption: Modified nouns as arguments of postpositions

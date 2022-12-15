@@ -4,112 +4,150 @@
 [ex](pan-0,pan-1,pan-2,pan-3)
 
 
-# Introduction: [lg](pan)
-
-* flexible order [psrc](payne1993nonconfigurationality[128]):
-    * *arakon asa'* / *asa' arakon* 'two monkeys'
-    * *arakon ta'meñe* / *ta'meñe arakon* 'many monkeys'
-    * *sïj perikura* 'this movie', *kamicha sïj* 'this shirt'
-* our question: in what sense can these be considered constituents?
-* constituency tests:
-    * boundary phenomena don't help
-    * second position particles: no positive evidence [todo](hoff 1995)
-    * internal order / hierarchical structure: flexible
-[todo](examples for bonafide NPs)
-[todo](mention patterns)
-
 # Adnominal modification in the Cariban family
-* parts can occur as standalone nouns, no required dependents
-* property concepts are nouns
-* demonstratives can also be NPs
-* G&M 2009 
+* possible combinations:
+    * N[gl](~mod~) + N
+    * ADV + N
+    * DEM + N
+* all modifying elements can also occur without a noun
+    * demonstratives form standalone NPs
+* property concepts are either expressed by nouns ('the big one') or adverbially [psrc](meira2009property)
+
+[todo](I changed the order of this slide and the next, what do you think?)
+
+# Adnominal modification in [lg](pan)
+* combinations attested as discontinuous can occur adjacently, too
+* our question: in what sense can these be considered constituents? [todo](I really don't know how to talk about phrasal and second-position particles here?)
+    * flexible order [psrc](payne1993nonconfigurationality[128]):
+        * *arakon asa'* / *asa' arakon* 'two monkeys'
+        * *arakon ta'meñe* / *ta'meñe arakon* 'many monkeys'
+        * *sïj perikura* 'this movie', *kamicha sïj* 'this shirt'
+    * no salient structure, apart from modifying and referential semantics
+* contrast with "genitive" NPs:
+    * fixed possessor-possessum order
+    * linking prefix on possessum
+    * complementary distribution of lexical possessor and third person prefix
+    * prosodic integration
+
+[manex](nps)
+
+* possessive NP (along with PP and transitive VP) reconstructible to Proto-Cariban
 
 # Our study
-* we looked at corpora from five Cariban languages, each 1000 records:
+* we searched modified nouns in corpora from five Cariban languages, each 1000 records:
     * [lg](tri) [psrc](meiraDBtrio)
     * [lg](hix) ([src](derbyshire1965textos) via [src](meiraDBhixka))
     * [lg](mak) [psrc](caceresDByekwana)
-    * [lg](aka) [psrc](caesarDBakawaio)
+    * [lg](aka) [psrc](akawaiocaesar2003)
     * [lg](yab) [psrc](caceres2020flex)
-[todo](what kind of count do we show here?)
-* first finding: modified nouns in general are rare
+* first finding: these are rare in general
 [table](basic-counts)
-[todo](Outline of the talk from here)
 
 # Investigated languages
-![Treemap](figures/map.svg)
-[todo](justification of sample)
+![ ](figures/map.svg)
 
-# What is reconstructible?
-*  reconstructible prior state: adjoined nouns, afterthought constructions [todo](did you mean "coreferential" here? )
-* very common in [lg](hix) [psrc](hixkaryanaderby1985[101-104, 129-135])
+* convenience sample
+* 5 languages with annotated corpora, first sounding
+* note: Venezuelan branch is not solidly established
+
+# Nouns with modifiers
+[table](types)
+1. very rare in [lg](hix)
+2. salient pattern: DEM + N in the three Venezuelan languages
+
+# Nouns with modifiers: demonstratives
+* [DEM N], but also [N DEM] [todo](I will insert some examples here for both orders)
+
+[table](n+dem)
+
+* as in [lg](pan), order is not absolute
+* not in favor of constituency
+
+# Nouns with modifiers: nouns with other modifiers
+
+[table](nummod)
+[table](advmod)
+[table](nmod)
+
+[todo](I will insert some examples on a separate slide)
+[todo](what is our take away message here, apart from no fixed order?)
+
+# Modified nouns as arguments of postpositions
+[ex](dados-09-kereramake-p-041-270)
+[ex](mini-disc-lsmtam13set0001-marciano-little-introduction-005)
+
+# Modified nouns as arguments of postpositions
+[table](postparg)
+
+# Modified nouns as arguments of transitive verbs
+[ex](derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-005)
+[ex](pingkas-personal-narrative-005-interviewer)
+[todo](this is the only [N Vt N] example! 1. what is the -ba in Akawaio? 2. I will search the audio for this example...)
+
+# Modified nouns as arguments of transitive verbs
+[table](vtarg)
+
+# Modified nouns as possessors: bracketing paradox
+[ex](ra-eagle-story-034,ctoabjpic-027,ctorosq-66)
+
+# Discontinuity: intervening particles
+[todo](I will show **some** intervening phrasal particles, then show same particles with bonafide NPs)
+
+# Discontinuity: intervening intransitive verbs
+[ex](data-01-yakari-01-p-127-022)
+
+[ex](ctoabjpic-094)
+
+* only 5 examples
+
+# Discontinuity: intervening adverbs
+
+[ex](convchur-009)
+
+* only 2 examples
+
+# Discontinuity: A noun
+
+[ex](ctoabjpic-008)
+
+# Diachrony: afterthoughts
+* starting point are afterthought constructions
+* very common still in [lg](hix) [psrc](hixkaryanaderby1985[101-104, 129-135]) [todo](I will add highlights in the orthographic line on this and the next slides -- so people see the commas)
 
 [ex](derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040,
 derbyshire-1965-p-040-the-buzzard-people-and-their-servant-the-sloth-109,
 derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
 
-   *  Hixkaryana as modern exemplar
-      * Afterthoughts are really common
-   *  [todo]("Some examples from the other 4 languages that are consistent")
-      * Different kinds of discontinuity
-         *  Major class words intervening
-         *  Phrasal/scope particles intervening (we don't consider this discontinuous, as not different from possessive construction)
+# Diachrony: afterthoughts
 
-
-# Pattern 1: nouns with modifiers
-[table](types)
-* RARE
-
-# Pattern 2.1: nouns with demonstratives
-
-* [Dem + N] (also [N + Dem]?)
-[todo](examples for DEM N)
-* Data from Ye'kwana, Yawarana, Akawaio
-* May need to order these depending on what we find
-
-[table](n+dem)
-
-[todo](examples for N DEM)
-
-* constituency tests still negative -- counterexamples everywhere
-
-# Pattern 2.2: nouns with other modifiers
-* with numerals and with modifying nouns
-* show examples
-* show counts & order
-
-# Pattern 2.3: modified nouns as arguments
-* pNP POSTP
-    * N POSTP N POSTP
-    * N POSTP N
-* pNP Vt
-    * N Vt N
-* possessed nouns and ambiguity
-
-# Pattern 3: intervening particles
-[todo](show intervening particles, then show same particles with bonafide NPs)
-
-# Pattern 4: other intervening elements
-* eclectic mix
+[ex](ctoabjpic-003)
+[ex](dados-09-kereramake-p-047-374)
+[ex](ctowaru-19)
 
 # Diachrony: prosodically integrated afterthoughts
-*  Pattern 1: afterthoughts become less "separated" from clause
-   *  Data from Tiriyó showing afterthoughts (apparently w/o pauses)
-   * This is clearly what has happened in Panare VSO order
-      * (cite [src](payne1994ovs) for frequencies, [src](gildea2000vpgenesis) for mechanism)
-
+* **afterthoughts become less "separated" from clause & prosodically integrated**
 [ex](derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)
 
+[ex](ctowaru-36)
+
+# Diachrony: prosodically integrated afterthoughts
 [ex](mini-disc-lsmtam13set0001-marciano-little-introduction-003,
 minidisc-xxx-torohpe-iwehtoponpe-002)
 
 
+# Diachrony: prosodically integrated afterthoughts
+
+[ex](histgrme-134)
+
+* clearly what has happened to yield innovative Panare VAP order [psrc](payne1994ovs[595],gildea2000vpgenesis)
+
+[table](panarefreq)
+
 # Discussion
-* there is nothing constituent-y here, except maybe DEM N
-* Discussion (in place of conclusions)
-   * Clearly there are discontinuities in the texts, and not all are separated by pause/intonation contours
-   * Not so clear that they instantiate a theoretical notion of "NP"
-   * Not so clear that even continuous coreferring elements instantiate a theoretical notion of NP
-   * But one seems to be developing
-      * [DEM N]
-      * more elaborated in Akawaio (presumably influenced by English)
+* apparent discontinuous noun phrases are not constituents
+    * they are prosodically integrated afterthoughts
+    * usually not translated as afterthought (!)
+* no evidence that even continuous coreferential elements are constituents
+    * contrast with bona fide possessive NPs
+    * possible exception: incipient [DEM N] in [lg](aka), [lg](mak), [lg](yab)
+* raises questions about discontinuous constituents in general
