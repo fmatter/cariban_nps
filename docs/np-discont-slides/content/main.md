@@ -17,7 +17,7 @@
 
 # Adnominal modification in [lg](pan)
 * combinations attested as discontinuous can occur adjacently, too
-* our question: in what sense can these be considered constituents? [todo](I really don't know how to talk about phrasal and second-position particles here?)
+* our question: in what sense can these be considered constituents? [todo](I really dont know how to talk about phrasal and second-position particles here?)
     * flexible order [psrc](payne1993nonconfigurationality[128]):
         * *arakon asa'* / *asa' arakon* 'two monkeys'
         * *arakon ta'meñe* / *ta'meñe arakon* 'many monkeys'
@@ -81,10 +81,8 @@
 
 # Modified nouns as arguments of transitive verbs
 [ex](derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-005)
-[ex](pingkas-personal-narrative-005-interviewer)
-[todo](this is the only [N Vt N] example! 1. what is the -ba in Akawaio? 2. I will search the audio for this example...)
+[ex](conv1stenc-78)
 
-# Modified nouns as arguments of transitive verbs
 [table](vtarg)
 
 # Modified nouns as possessors: bracketing paradox
@@ -147,7 +145,8 @@ minidisc-xxx-torohpe-iwehtoponpe-002)
 * apparent discontinuous noun phrases are not constituents
     * they are prosodically integrated afterthoughts
     * usually not translated as afterthought (!)
-* no evidence that even continuous coreferential elements are constituents
+* no strong evidence that even continuous coreferential elements are constituents
+    * arguments of postpositions?
     * contrast with bona fide possessive NPs
     * possible exception: incipient [DEM N] in [lg](aka), [lg](mak), [lg](yab)
 * raises questions about discontinuous constituents in general

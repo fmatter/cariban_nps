@@ -76,7 +76,7 @@ Our study
 +------------+---------+---------+------------------+------------------+
 | Hixkaryána | 4822    |     725 | 4 (0.55%)        | 0 (0.00%)        |
 +------------+---------+---------+------------------+------------------+
-| Akawaio    | 7394    | 1347    | 67 (4.97%)       | 4 (0.30%)        |
+| Akawaio    | 7394    | 1347    | 66 (4.90%)       | 3 (0.22%)        |
 +------------+---------+---------+------------------+------------------+
 | Ye’kwana   | 4297    |     828 | 56 (6.76%)       | 8 (0.97%)        |
 +------------+---------+---------+------------------+------------------+
@@ -208,24 +208,20 @@ Modified nouns as arguments of transitive verbs
     big.one-Pst    3InRm     Rel-shut.in-DPst2:Col
     ‘They sealed off that one, the big one.’
 
-(5) Akawaio (pingkas-personal-narrative-005-interviewer)
-    Mörö  abai  ji    a-saurogï-‘pï  tïbo-i     mïgï  pandong  egama-ba          aza’rö-rö
-    that  from  Emph  2-talk-Past    after-Psd  Hes   story        tell-in.order.to  two-Emph
-    ‘Then after you talk, then you can tell a story maybe two’
+(5) Yawarana (conv1stenc-78)
+    ij  ti    ana  yapëj-po-Ø      wej-tane  onono  wurijyan  yakara-jpë   onono
+    …   like  1+3  seize-DES-IPFV  COP-CNCS  another    woman         believe-PST  another
+    ‘aunque nos quería agarrar creyendo que eramos como otras mujeres’
 
-Modified nouns as arguments of transitive verbs
+  ------------ ----
+  Akawaio      17
 
-+------------+-----------------------+------------------+
-|            | Interrupted by verb   | Preceding verb   |
-+============+=======================+==================+
-| Akawaio    |                     1 |               17 |
-+------------+-----------------------+------------------+
-| Hixkaryána |                     0 |                1 |
-+------------+-----------------------+------------------+
-| Yawarana   |                     0 |                4 |
-+------------+-----------------------+------------------+
-| Ye’kwana   |                     0 |                1 |
-+------------+-----------------------+------------------+
+  Hixkaryána   1
+
+  Yawarana     4
+
+  Ye’kwana     1
+  ------------ ----
 
 Modified nouns as possessors: bracketing paradox
 
@@ -381,8 +377,9 @@ Discussion
 -   apparent discontinuous noun phrases are not constituents
     -   they are prosodically integrated afterthoughts
     -   usually not translated as afterthought (!)
--   no evidence that even continuous coreferential elements are
+-   no strong evidence that even continuous coreferential elements are
     constituents
+    -   arguments of postpositions?
     -   contrast with bona fide possessive NPs
     -   possible exception: incipient [DEM N] in Akawaio, Ye’kwana,
         Yawarana
