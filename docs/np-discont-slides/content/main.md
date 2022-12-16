@@ -54,7 +54,17 @@
 2. salient pattern: DEM + N in the three Venezuelan languages
 
 # Nouns with modifiers: demonstratives
-* [DEM N], but also [N DEM] [todo](I will insert some examples here for both orders)
+* [DEM N], but also [N DEM]
+
+[ex](ps-duck-story-021,ps-duck-story-087)
+
+# Nouns with modifiers: demonstratives
+[ex](ctoabjpic-088,ctoyude-176)
+
+# Nouns with modifiers: demonstratives
+[ex](ctowaru-53,ctorosq-73)
+
+# Nouns with modifiers: demonstratives
 * fairly large proportion of total tokens:
 
 [table](n+dem)
@@ -109,7 +119,7 @@
 
 # Diachrony: afterthoughts
 * starting point are afterthought constructions
-* very common still in [lg](hix) [psrc](hixkaryanaderby1985[101-104, 129-135]) [todo](I will add highlights in the orthographic line on this and the next slides -- so people see the commas)
+* very common still in [lg](hix) [psrc](hixkaryanaderby1985[101-104, 129-135])
 
 [ex](derbyshire-1965-p-061-the-wives-of-mawarye-and-woxka-040,
 derbyshire-1965-p-040-the-buzzard-people-and-their-servant-the-sloth-109,
