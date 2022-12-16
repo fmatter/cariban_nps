@@ -78,9 +78,6 @@
 [table](advmod)
 [table](nmod)
 
-[todo](I will insert some examples on a separate slide)
-
-
 # Modified nouns as arguments of postpositions
 [ex](dados-09-kereramake-p-041-270)
 [ex](mini-disc-lsmtam13set0001-marciano-little-introduction-005)
@@ -96,9 +93,6 @@
 
 # Modified nouns as possessors: bracketing paradox
 [ex](ra-eagle-story-034,ctoabjpic-027,ctorosq-66)
-
-# Discontinuity: intervening particles
-[todo](I will show **some** intervening phrasal particles, then show same particles with bonafide NPs)
 
 # Discontinuity: intervening intransitive verbs
 [ex](data-01-yakari-01-p-127-022)
