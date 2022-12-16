@@ -59,6 +59,11 @@ def resolve_pattern(rec):
                 discont_kind = pos
             else:
                 discont_kind += " " + pos
+        else:
+            break
+    if rec["Pattern"] == "Nmod N Vt Nmod":
+        discont_kind = "Vt"
+        discont = True
     rec["Order"] = " ".join([x for x in rec["Pattern"].split(" ") if x in elements])
     rec["Abstract_Order"] = abstractify(rec["Order"])
     rec["Type"] = typify(rec)
@@ -68,9 +73,6 @@ def resolve_pattern(rec):
         else:
             discont_kind = "multiple"
     rec["Intervening"] = discont_kind
-    if rec["ID"] == "conv1stenc-78":
-        print(rec["Pattern"])
-        print("'ello GUV")
     if discont:
         if discont_kind == "PART":
             rec["Discontinuous"] = "Particle"
