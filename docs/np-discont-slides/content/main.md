@@ -37,9 +37,9 @@
 * we searched modified nouns in corpora from five Cariban languages, each 1000 records:
     * [lg](tri) [psrc](meiraDBtrio)
     * [lg](hix) ([src](derbyshire1965textos) via [src](meiraDBhixka))
-    * [lg](mak) [psrc](caceresDByekwana)
+    * [lg](mak) [psrc](caceresDByekwana,caceres2014elar)
     * [lg](aka) [psrc](akawaiocaesar2003)
-    * [lg](yab) [psrc](caceres2020flex)
+    * [lg](yab) [psrc](caceres2020flex,caceres2022yawarana)
 * first finding: these are rare in general
 [table](basic-counts)
 
@@ -57,6 +57,7 @@
 
 # Nouns with modifiers: demonstratives
 * [DEM N], but also [N DEM] [todo](I will insert some examples here for both orders)
+* fairly large proportion of total tokens:
 
 [table](n+dem)
 
@@ -132,12 +133,10 @@ derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
 [ex](mini-disc-lsmtam13set0001-marciano-little-introduction-003,
 minidisc-xxx-torohpe-iwehtoponpe-002)
 
-
 # Diachrony: prosodically integrated afterthoughts
-
 [ex](histgrme-134)
 
-* clearly what has happened to yield innovative Panare VAP order [psrc](payne1994ovs[595],gildea2000vpgenesis)
+* yielded innovative Panare VAP order [psrc](payne1994ovs[595],gildea2000vpgenesis)
 
 [table](panarefreq)
 
