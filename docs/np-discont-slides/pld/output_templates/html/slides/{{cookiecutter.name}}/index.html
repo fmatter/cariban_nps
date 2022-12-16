@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{cookiecutter.project_title}}</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="examples.css">
+    <link rel="stylesheet" href="slides.css">
+    {{ cookiecutter.glossing_abbrevs }}
+  </head>
+  <body>
+
+
+    <textarea id="source">
+
+class: center, middle
+
+## {{ cookiecutter.project_title }}
+
+Florian Matter, Spike Gildea
+
+ALT 2022, The University of Texas at Austin
+
+
+---
+
+{{ cookiecutter.content }}
+
+
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+        var slideshow = remark.create({ ratio: "16:9" });
+    </script>
+
+        <script src="examples.js"></script> 
+    <script src="glossing.js"></script> 
+    <script src="crossref.js"></script>
+    <script>
+number_examples()
+</script>
+
+<!-- <script type="text/javascript" src="https://livejs.com/live.js"></script> -->
+
+
+  </body>
+</html>
+

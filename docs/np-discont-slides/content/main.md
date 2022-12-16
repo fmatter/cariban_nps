@@ -13,11 +13,9 @@
     * demonstratives form standalone NPs
 * property concepts are either expressed by nouns ('the big one') or adverbially [psrc](meira2009property)
 
-[todo](I changed the order of this slide and the next, what do you think?)
-
 # Adnominal modification in [lg](pan)
 * combinations attested as discontinuous can occur adjacently, too
-* our question: in what sense can these be considered constituents? [todo](I really dont know how to talk about phrasal and second-position particles here?)
+* our question: in what sense can these be considered constituents?
     * flexible order [psrc](payne1993nonconfigurationality[128]):
         * *arakon asa'* / *asa' arakon* 'two monkeys'
         * *arakon ta'meñe* / *ta'meñe arakon* 'many monkeys'
@@ -71,7 +69,7 @@
 [table](nmod)
 
 [todo](I will insert some examples on a separate slide)
-[todo](what is our take away message here, apart from no fixed order?)
+
 
 # Modified nouns as arguments of postpositions
 [ex](dados-09-kereramake-p-041-270)
