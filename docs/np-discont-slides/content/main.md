@@ -45,7 +45,7 @@
 ![ ](figures/map.svg)
 
 * convenience sample
-* 5 languages with annotated corpora, first sounding
+* 5 languages with annotated corpora, exploratory study
 * note: Venezuelan branch is not solidly established
 
 # Nouns with modifiers
@@ -147,7 +147,6 @@ minidisc-xxx-torohpe-iwehtoponpe-002)
     * they are prosodically integrated afterthoughts
     * usually not translated as afterthought (!)
 * no strong evidence that even continuous coreferential elements are constituents
-    * arguments of postpositions?
     * contrast with bona fide possessive NPs
     * possible exception: incipient [DEM N] in [lg](aka), [lg](mak), [lg](yab)
-* raises questions about discontinuous constituents in general
+* raises questions about the origins and nature of discontinuous constituents in general

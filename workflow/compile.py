@@ -150,6 +150,8 @@ for lg in lg_list:
     for ex_id, values in repl.items():
         if ex_id in data.index:
             for key, value in values.items():
+                if key in ["obj", "gloss", "pos"]:
+                    value = value.replace(" ", "\t")
                 data.at[ex_id, repl_shorthand[key]] = value
     data.reset_index(inplace=True)
     ann = pd.read_csv(f"data/{lg}_ann.csv", keep_default_na=False)

@@ -64,9 +64,9 @@ Our study
     each 1000 records:
     -   Tiriyó (Meira 2022)
     -   Hixkaryána (Derbyshire 1965 via Meira 2022)
-    -   Ye’kwana (Cáceres Arandia 2020, Cáceres 2014)
+    -   Ye’kwana (Cáceres Arandia 2020, Cáceres Arandia 2014)
     -   Akawaio (Caesar-Fox 2003)
-    -   Yawarana (Cáceres Arandia 2022, Cáceres 2022)
+    -   Yawarana (Cáceres Arandia 2022, Cáceres Arandia 2022)
 -   first finding: these are rare in general
 
 +------------+---------+---------+------------------+------------------+
@@ -88,29 +88,32 @@ Investigated languages
 []
 
 -   convenience sample
--   5 languages with annotated corpora, first sounding
+-   5 languages with annotated corpora, exploratory study
 -   note: Venezuelan branch is not solidly established
 
 Nouns with modifiers
 
-+-----------+--------+----------+--------+------+--------+---------+
-|           | ADV+N  | DEM+DEM  | DEM+N  | N+N  | NUM+N  | Nmod+N  |
-+===========+========+==========+========+======+========+=========+
-| Akawaio   |        |          |        |      |        |         |
-|           |      4 |        0 |     43 |    1 |     10 |       8 |
-+-----------+--------+----------+--------+------+--------+---------+
-| H         |        |          |        |      |        |         |
-| ixkaryána |      0 |        0 |      3 |    1 |      0 |       0 |
-+-----------+--------+----------+--------+------+--------+---------+
-| Tiriyó    |        |          |        |      |        |         |
-|           |      0 |        0 |     17 |    2 |      3 |       5 |
-+-----------+--------+----------+--------+------+--------+---------+
-| Yawarana  |        |          |        |      |        |         |
-|           |      1 |        0 |     48 |    2 |      8 |      15 |
-+-----------+--------+----------+--------+------+--------+---------+
-| Ye’kwana  |        |          |        |      |        |         |
-|           |      1 |        2 |     46 |    1 |      3 |       3 |
-+-----------+--------+----------+--------+------+--------+---------+
++----------+-------+---------+-------+-----+-------+--------+--------+
+|          | ADV+N | DEM+DEM | DEM+N | N+N | NUM+N | Nmod+N | Total  |
++==========+=======+=========+=======+=====+=======+========+========+
+| Akawaio  |       |         |       |     |       |        |        |
+|          |     4 |       0 |    43 |   1 |    10 |      8 |     66 |
++----------+-------+---------+-------+-----+-------+--------+--------+
+| Hi       |       |         |       |     |       |        |        |
+| xkaryána |     0 |       0 |     3 |   1 |     0 |      0 |      4 |
++----------+-------+---------+-------+-----+-------+--------+--------+
+| Tiriyó   |       |         |       |     |       |        |        |
+|          |     0 |       0 |    17 |   2 |     3 |      5 |     27 |
++----------+-------+---------+-------+-----+-------+--------+--------+
+| Yawarana |       |         |       |     |       |        |        |
+|          |     1 |       0 |    48 |   2 |     8 |     15 |     74 |
++----------+-------+---------+-------+-----+-------+--------+--------+
+| Ye’kwana |       |         |       |     |       |        |        |
+|          |     1 |       2 |    46 |   1 |     3 |      3 |     56 |
++----------+-------+---------+-------+-----+-------+--------+--------+
+| Total    |       |         |       |     |       |        |        |
+|          |     6 |       2 |   157 |   7 |    24 |     31 |    227 |
++----------+-------+---------+-------+-----+-------+--------+--------+
 
 1.  very rare in Hixkaryána
 2.  salient pattern: DEM + N in the three Venezuelan languages
@@ -122,12 +125,12 @@ Nouns with modifiers: demonstratives
 ()
 
 (a) Akawaio (ps-duck-story-021)
-    kïrö      togodogo  ya   ji    t-maina-ri     agïdï
-    3Sg.Anim  owl       Erg  Emph  3.Rfl-farm-PS  d
+    kïrö  togodogo  ya   ji    t-maina-ri     agïdï
+    3Sg.Anim  owl           Erg  Emph  3.Rfl-farm-PS  d
     ‘The owl cut his farm’
 
 (b) Akawaio (ps-duck-story-087)
-    a   weruji  pe    no’sami’chi  tö  mörö   eruwö       kïrö      rï’kwö  n-eji-bödï-aik-nek  pe    ijagong
+    a   weruji  pe    no’sami’chi  tö  mörö   eruwö   kïrö  rï’kwö  n-eji-bödï-aik-nek  pe    ijagong
     ah  dove    like  old          go  A.I.?  small.dove  3Sg.Anim  Dim     3S-be-Hab-Pres-Rel  like  partner
     ‘The old woman turn into a dove and that is how she kept going and
     her partner went as an eruwö(smaller species of dove) bird’
@@ -137,13 +140,13 @@ Nouns with modifiers: demonstratives
 ()
 
 (a) Ye’kwana (ctoabjpic-088)
-    wodi   mö’dö   wanö   yaawö
-    mujer  DEM1an  abeja  entonces
+    wodi   mö’dö  wanö  yaawö
+    mujer  DEM1an     abeja     entonces
     ‘¿La abeja es una mujer?’
 
 (b) Ye’kwana (ctoyude-176)
-    möönü   i-kasakidi-yü=komo-jüdü              i’moi=komo  möönü   kasamje-ato
-    DEM3in  3-picante_líquido-POSS.1=PL-PAS.POS  huevo=PL    DEM3in  amargo-NZR.5
+    möönü   i-kasakidi-yü=komo-jüdü              i’moi=komo  möönü  kasamje-ato
+    DEM3in  3-picante_líquido-POSS.1=PL-PAS.POS  huevo=PL        DEM3in     amargo-NZR.5
     ‘aquello, su residuo amargo, sus huevos, aquellos que son amargos’
 
 Nouns with modifiers: demonstratives
@@ -151,13 +154,13 @@ Nouns with modifiers: demonstratives
 ()
 
 (a) Yawarana (ctowaru-53)
-    warë  mërë    kanawa  yaka  wëjka-se
-    thus  3IN:MD  canoe   into  fall-PFV.PST
+    warë  mërë  kanawa  yaka  wëjka-se
+    thus  3IN:MD    canoe       into  fall-PFV.PST
     ‘así se cayó adentro de la canoa’
 
 (b) Yawarana (ctorosq-73)
     tapire-mï-jne  tëwï
-    red-NZR-PL     3SG
+    red-NZR-PL         3SG
     ‘las rojas’
 
 Nouns with modifiers: demonstratives
@@ -218,14 +221,14 @@ Modifying nouns: [lbl:nmod]
 Modified nouns as arguments of postpositions
 
 (5) Tiriyó (dados-09-kereramake-p-041-270)
-    Ape  sen    n-ai     tuna   mono  juuwë  i-V:-të-0-n  mahtao  n-e-manaka-0-n          tï-V:-ka-e
-    Ape  3InPx  3Sa-Cop  water  big   on     3-Sa-go-G-?  when    3Sa-Detr-roll-Pres-Dbt  Pst-Sa-say-Pst
+    Ape  sen    n-ai     tuna  mono  juuwë  i-V:-të-0-n  mahtao  n-e-manaka-0-n          tï-V:-ka-e
+    Ape  3InPx  3Sa-Cop  water     big       on     3-Sa-go-G-?  when    3Sa-Detr-roll-Pres-Dbt  Pst-Sa-say-Pst
     ‘(Ape) ’This one is… when it’s on a big river, it turns,’ (she)
     said.’
 
 (6) Tiriyó (mini-disc-lsmtam13set0001-marciano-little-introduction-005)
-    serë   pë     panpira  pë     anja  n-ai     oroko  me   m-eta-0        irë     apo
-    3InPx  about  book     about  1+3   3Sa-Cop  work   Ess  2A-hear-I.Pst  3InAna  like
+    serë  pë     panpira  pë     anja  n-ai     oroko  me   m-eta-0        irë     apo
+    3InPx     about  book         about  1+3   3Sa-Cop  work   Ess  2A-hear-I.Pst  3InAna  like
     ‘We’re now working about this, about this book/paper (= i.e. we’re
     writing something). Did you hear? That’s it.’
 
@@ -249,13 +252,13 @@ Modified nouns as arguments of transitive verbs
 
 (7) Hixkaryána
     (derbyshire-1965-p-060-the-wives-of-mawarye-and-woxka-005)
-    horye-tho    monï   y-ahur-yatxkonï
-    big.one-Pst  3InRm  Rel-shut.in-DPst2:Col
+    horye-tho  monï  y-ahur-yatxkonï
+    big.one-Pst    3InRm     Rel-shut.in-DPst2:Col
     ‘They sealed off that one, the big one.’
 
 (8) Yawarana (conv1stenc-78)
-    ij  ti    ana  yapëj-po-Ø      wej-tane  onono    wurijyan  yakara-jpë   onono
-    …   like  1+3  seize-DES-IPFV  COP-CNCS  another  woman     believe-PST  another
+    ij  ti    ana  yapëj-po-Ø      wej-tane  onono  wurijyan  yakara-jpë   onono
+    …   like  1+3  seize-DES-IPFV  COP-CNCS  another    woman         believe-PST  another
     ‘aunque nos quería agarrar creyendo que eramos como otras mujeres’
 
 +------------+-----------------------+------------------+
@@ -275,30 +278,30 @@ Modified nouns as possessors: bracketing paradox
 ()
 
 (a) Akawaio (ra-eagle-story-034)
-    Eneboro’pï  se    wïk       ezek  Eneboro’pï
-    Eneboro’pï  this  mountain  name  Eneboro’pï
+    Eneboro’pï  se  wïk   ezek  Eneboro’pï
+    Eneboro’pï  this    mountain  name      Eneboro’pï
     ‘The name of this mountain was Eneboro’pï’
 
 (b) Ye’kwana (ctoabjpic-027)
-    -tüwü  wanö   e-ötü-0            kün-a’ja-aakö  yaawö     Tajööju
-    -3.SG  abeja  REL-nombre-POSS.3  3.PAS-COP-PDI  entonces  Tajööju
+    …-tüwü  wanö  e-ötü-0        kün-a’ja-aakö  yaawö     Tajööju
+    …-3.SG      abeja     REL-nombre-POSS.3  3.PAS-COP-PDI  entonces  Tajööju
     ‘El nombre de la abeja era Tajööju.’
 
 (c) Yawarana (ctorosq-66)
-    tëwï  wurijyan  inwa-Ø      y-ëjnë     tapire-mï
-    3SG   woman     glute-POSS  REL-under  red-NZR
+    tëwï  wurijyan  inwa-Ø  y-ëjnë     tapire-mï
+    3SG       woman         glute-POSS  REL-under  red-NZR
     ‘debajo de las nalgas de la mujer estaba rojo’
 
 Discontinuity: intervening intransitive verbs
 
 (10) Tiriyó (data-01-yakari-01-p-127-022)
-     ma    mono  w-ei-ne       kïrïmuku   irënehka
-     Attn  big   1Sa-Cop-DPst  young.man  finally
+     ma    mono  w-ei-ne       kïrïmuku  irënehka
+     Attn  big       1Sa-Cop-DPst  young.man     finally
      ‘Well… I finally grew up, I became a young man.’
 
 (11) Ye’kwana (ctoabjpic-094)
      ee  wodi=je     tüwü  kün-a’ja-aakö  wanö
-     sí  mujer=ATRB  3.SG  3.PAS-COP-PDI  abeja
+     sí  mujer=ATRB  3.SG      3.PAS-COP-PDI  abeja
      ‘Sí, ella la abeja era una mujer’
 
 -   only 5 examples
@@ -306,8 +309,8 @@ Discontinuity: intervening intransitive verbs
 Discontinuity: intervening adverbs
 
 (12) Ye’kwana (convchur-009)
-     aneija  mödöje  yadanawi     i-tü’tajötü-dü       na     yadanawi     mödöje  mödö
-     otro    así     no_indígena  INTR.C-pensar-NZR.1  3.COP  no_indígena  así     DEM2in
+     aneija  mödöje  yadanawi  i-tü’tajötü-dü       na     yadanawi     mödöje  mödö
+     otro        así     no_indígena   INTR.C-pensar-NZR.1  3.COP  no_indígena  así     DEM2in
      ‘otros criollos piensan así, el criollo es así’
 
 -   only 2 examples
@@ -315,8 +318,8 @@ Discontinuity: intervening adverbs
 Discontinuity: A noun
 
 (13) Ye’kwana (ctoabjpic-008)
-     aakö-mma  wanö   kiyede  munu-0            kün-u’ka-i
-     dos-EXCL  abeja  yuca    tubérculo-POSS.3  3/3.PAS-sacar-PAS
+     aakö-mma  wanö   kiyede  munu-0        kün-u’ka-i
+     dos-EXCL      abeja  yuca    tubérculo-POSS.3  3/3.PAS-sacar-PAS
      ‘La abeja sacó dos tuberculos de yuca.’
 
 Diachrony: afterthoughts
@@ -340,26 +343,26 @@ Diachrony: afterthoughts
 
 (c) Hixkaryána
     (derbyshire-1965-p-062-the-wives-of-mawarye-and-woxka-071)
-    moyoro-no            mokyamo   ha      worïskomo  heno   ha      0-ke-konï      hatï  xaryemna  ha
-    different.place-Nzr  3AnRmCol  Intens  women      Quant  Intens  3Sa-say-DPst2  Hrsy  otter.sp  Intens
+    moyoro-no            mokyamo  ha      worïskomo  heno   ha      0-ke-konï      hatï  xaryemna  ha
+    different.place-Nzr  3AnRmCol     Intens  women          Quant  Intens  3Sa-say-DPst2  Hrsy  otter.sp  Intens
     ‘“They (are) ones far away, the women,” said the otter.’
 
 Diachrony: afterthoughts
 
 (15) Ye’kwana (ctoabjpic-003)
      i-wo’jüdü-0=je        kün-a’ja-aakö   tüwü  akudi
-     3-suegra-POSS.3=ATRB  3S.PAS-COP-PDI  3.SG  picure
+     3-suegra-POSS.3=ATRB  3S.PAS-COP-PDI  3.SG      picure
      ‘La picure era como su suegra.’
 
 (16) Tiriyó (dados-09-kereramake-p-047-374)
-     Ape  irë     mao      t-ënepiita-e      mëërë  ja   t-urë-e          werekeru     ja
-     Ape  3InAna  at.time  Pst-be.bored-Pst  3AnMd  Agt  Pst-talk.to-Pst  parakeet.sp  Agt
+     Ape  irë     mao      t-ënepiita-e      mëërë  ja   t-urë-e          werekeru  ja
+     Ape  3InAna  at.time  Pst-be.bored-Pst  3AnMd      Agt  Pst-talk.to-Pst  parakeet.sp   Agt
      ‘(Ape) Then he became tired of it, and that one talked to him,
      werekeru.’
 
 (17) Yawarana (ctowaru-19)
-     warë  imu           y-akërë  ma     wej-saj   ti    ta    imu           warë  i-muku-ru     yatanë
-     thus  3:father:POS  REL-COM  RESTR  COP-PERF  like  like  3:father:POS  thus  3-child-POSS  young
+     warë  imu           y-akërë  ma     wej-saj   ti    ta    imu           warë  i-muku-ru  yatanë
+     thus  3:father:POS  REL-COM  RESTR  COP-PERF  like  like  3:father:POS  thus  3-child-POSS   young
      ‘así con su papá solamente, el papá y el hijo, un muchacho’
 
 Diachrony: prosodically integrated afterthoughts
@@ -369,14 +372,14 @@ Diachrony: prosodically integrated afterthoughts
 
 (18) Hixkaryána
      (derbyshire-1965-p-019-the-origin-of-night-and-darkness-081)
-     amna  n-awanye-ko         ha      mosonï  0-hana-hto-rï        wya  0-ke-txkonï        hatï  0-ke-konï      hatï  noro    horykomo
-     1+3   3Sa-get.dark-RPst1  Intens  3AnPx   Rel-ear-Neg.Act-Pos  Agt  3Sa-say-DPst2:Col  Hrsy  3Sa-say-DPst2  Hrsy  3AnAna  chief.man
+     amna  n-awanye-ko         ha      mosonï  0-hana-hto-rï        wya  0-ke-txkonï        hatï  0-ke-konï      hatï  noro  horykomo
+     1+3   3Sa-get.dark-RPst1  Intens  3AnPx   Rel-ear-Neg.Act-Pos  Agt  3Sa-say-DPst2:Col  Hrsy  3Sa-say-DPst2  Hrsy  3AnAna    chief.man
      ‘“We were in darkness, through the foolishness of this one,” they
      said, he, the chief man, said.’
 
 (19) Yawarana (ctowaru-36)
-     tajne  ma     ana  wë-sarë   ta-Ø      ti    waraijto-Ø    pana  yapijtom  pana
-     3PL    RESTR  1+3  kill-INM  say-IPFV  like  husband-POSS  ADRS  old       ADRS
+     tajne  ma     ana  wë-sarë   ta-Ø      ti    waraijto-Ø  pana  yapijtom  pana
+     3PL    RESTR  1+3  kill-INM  say-IPFV  like  husband-POSS    ADRS  old           ADRS
      ‘ellos nos están matando, le dijo a su esposo, a su viejo’
 
 Diachrony: prosodically integrated afterthoughts
@@ -384,14 +387,14 @@ Diachrony: prosodically integrated afterthoughts
 ()
 
 (a) Tiriyó (mini-disc-lsmtam13set0001-marciano-little-introduction-003)
-    ma    ji-jomi-V:       tae  rë    j-eka-0      tarëno  tae  n-ai     Minausi  irë     apo   m-eta-0
-    Attn  1-language-Psfx  by   Idtf  1-name-Psfx  Tiriyó  by   3Sa-Cop  Minausi  3InAna  like  2A-hear-I.Pst
+    ma    ji-jomi-V:   tae  rë    j-eka-0      tarëno  tae  n-ai     Minausi  irë     apo   m-eta-0
+    Attn  1-language-Psfx  by   Idtf  1-name-Psfx  Tiriyó      by   3Sa-Cop  Minausi  3InAna  like  2A-hear-I.Pst
     ‘Well, in my own language my name, in (the language of the) Tiriyó,
     it is, Minausi, like this. OK? (= Did you hear?).’
 
 (b) Tiriyó (minidisc-xxx-torohpe-iwehtoponpe-002)
-    ma    irëme  w-ëe-ne        ipërih  tae    anja  0-eeku-hpë        atï    irë     Kuruni
-    Attn  so     1Sa-come-DPst  creek   along  1+3   3-stream-P.pst    wh.In  3InAna  Kuruni
+    ma    irëme  w-ëe-ne        ipërih  tae    anja  0-eeku-hpë  …  atï    irë     Kuruni
+    Attn  so     1Sa-come-DPst  creek       along  1+3       3-stream-P.pst  …  wh.In  3InAna  Kuruni
     ‘Well, then I came, along the creeks/tribuaries, our old river…
     what-do-you-call-it, the Kuruni (Coeroeni).’
 
@@ -399,8 +402,8 @@ Diachrony: prosodically integrated afterthoughts
 
 (21) Yawarana (histgrme-134)
      yaijkota-pïti-Ø  wej-sapë  wïrë  y-ïkïnï  parë  weroro
-     bark-PLAC-IPFV   COP-PERF  1SG   REL-pet  and   dog
-     ‘mis perros también estaban [[[ladrando]]]’
+     bark-PLAC-IPFV   COP-PERF  1SG   REL-pet      too   dog
+     ‘mis perros también estaban ladrando’
 
 -   yielded innovative Panare VAP order (Payne 1994: 595, Gildea 2000)
 
@@ -423,24 +426,24 @@ Discussion
     -   usually not translated as afterthought (!)
 -   no strong evidence that even continuous coreferential elements are
     constituents
-    -   arguments of postpositions?
     -   contrast with bona fide possessive NPs
     -   possible exception: incipient [DEM N] in Akawaio, Ye’kwana,
         Yawarana
--   raises questions about discontinuous constituents in general
+-   raises questions about the origins and nature of discontinuous
+    constituents in general
 
 References
 
 -    Caesar-Fox, Desrey Clementine. 2003. Zauro’nödok Agawayo Yau:
     Variants of Akawaio spoken at Waramadong. (Doctoral dissertation).
--    Cáceres, Natalia. 2014. Documentation of Ye’kwana in the Erebato
-    river in Venezuela.
+-    Cáceres Arandia, Natalia. 2014. Documentation of Ye’kwana in the
+    Erebato river in Venezuela.
 -    Cáceres Arandia, Natalia. 2022. Yawarana FLEx project with
     partially parsed and glossed texts and corresponding morpheme
     lexicon from Natalia Cáceres Arandia’s own fieldwork. (Database in
     the author’s possession.)
--    Cáceres, Natalia. 2022. Yawarana: documentation project collection.
-    (Under curation).
+-    Cáceres Arandia, Natalia. 2022. Yawarana: documentation project
+    collection. (Under curation).
 -    Cáceres Arandia, Natalia. 2020. Ye’kwana Toolbox project with
     parsed and glossed texts and corresponding morpheme lexicon from
     Natalia Cáceres Arandia’s own fieldwork. (Database in the author’s
