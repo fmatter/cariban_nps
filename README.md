@@ -2,6 +2,22 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+## ALT 2022 talk
+
+* [slides](https://github.com/fmatter/cariban_nps/releases/download/alt-22/slides.zip)
+* citation:
+
+```biblatex
+@unpublished{
+    Matter_Apparent_Discontinuous_NPs_2022,
+    author = {Matter, Florian and Gildea, Spike},
+    note = {Talk presented at the 14th conference of the association for linguistic typology. University of Texas at Austin},
+    title = {Apparent Discontinuous NPs in the {Cariban} family from the perspective of diachronic typology},
+    url = {https://github.com/fmatter/cariban_nps},
+    year = {2022}
+}
+```
+
 ## Used corpora:
 * <a id="source-akawaiocaesar2003"> </a>Caesar-Fox, Desrey Clementine. 2003. Zauro’nödok Agawayo Yau: Variants of Akawaio spoken at Waramadong. (Doctoral dissertation).
 * <a id="source-caceres2014elar"> </a>Cáceres, Natalia. 2014. Documentation of Ye’kwana in the Erebato river in Venezuela.
